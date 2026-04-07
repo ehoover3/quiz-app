@@ -1,0 +1,1015 @@
+[
+  {
+    "id": 1,
+    "questionText": "When conducting an initial interview with a patient, how does the nurse organize the data collection?",
+    "questionImage": null,
+    "options": [
+      "Describe the purpose of the interview, summarize data with the patient, and allow patient to clarify data.",
+      "Greet the patient, maintain patient-centered discussion, and use various techniques to collect data.",
+      "Collect objective and subjective data, ask patient to clarify data collected, and plan for next steps.",
+      "Establish the interview’s purpose, collect patient data, and summarize data obtained."
+    ],
+    "correctAnswer": "Establish the interview’s purpose, collect patient data, and summarize data obtained.",
+    "explanationText": "The interview consists of three phases: introduction, discussion, and summary. To begin the introduction phase, nurses introduce themselves and inform patients about their role in the patients’ care. Assessment includes gathering subjective and objective data. The summary reviews data collected and identifies patient problems. Options B, C, and D only describe two of the three phases of an interview.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 2,
+    "questionText": "The nurse is assessing a patient’s health promotion practices related to activity. Which question best facilitates discussion about the patient’s exercise practices?",
+    "questionImage": null,
+    "options": [
+      "What do you do to get exercise?",
+      "Do you exercise during the week?",
+      "Tell me what form of exercise you do on a daily basis?",
+      "Do you keep in shape?"
+    ],
+    "correctAnswer": "What do you do to get exercise?",
+    "explanationText": "Question D allows for discussion of the patient’s activity level. Option A is a closed-ended question; it may not facilitate further discussion. Option B is a closed-ended question; it may not facilitate further discussion. Option C may be limiting based on interest in “daily exercise.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 3,
+    "questionText": "What type of data do nurses collect when interviewing patients for health histories?",
+    "questionImage": null,
+    "options": [
+      "Recent data",
+      "Secondary data",
+      "Objective data",
+      "Subjective data"
+    ],
+    "correctAnswer": "Subjective data",
+    "explanationText": "Subjective data is what the patient tells the nurse during an interview. Most objective data are collected during the physical examination Secondary data refer to information collected from a source other than the patient. The health history includes recent and past data about the patient and family.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 4,
+    "questionText": "The nurse is conducting an interview with a patient who has a cognitive impairment. The nurse knows that ____________ assessment is the preferred method for this interview.",
+    "questionImage": null,
+    "options": [
+      "comprehensive",
+      "family",
+      "health risk",
+      "focused"
+    ],
+    "correctAnswer": "focused",
+    "explanationText": "Conducting an interview with a patient who is mentally or physically challenged can be difficult. In such case, use a focused assessment to limit the number and nature of questions to those absolutely necessary for the given situation, and save additional questions for a later time. A comprehensive assessment most likely would be too detailed for a patient with mental challenges. A family assessment is important for acute or chronic health issues, not for the interview stage. A health risk assessment is important for prevention or progression of disease.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 5,
+    "questionText": "The nurse needs to assess a patient’s risk for sexually transmitted diseases. What technique shows the most sensitivity?",
+    "questionImage": null,
+    "options": [
+      "“Statistics show an increase in sexually transmitted diseases. Would you more like information?”",
+      "“How would you rate your risk of sexually transmitted disease?”",
+      "“Has anyone talked to you recently about your risk for a sexually transmitted disease?”",
+      "“Many people have questions regarding sexually transmitted diseases. What questions do you have?”"
+    ],
+    "correctAnswer": "“Many people have questions regarding sexually transmitted diseases. What questions do you have?”",
+    "explanationText": "When asking questions about sensitive issues, the nurse explains that there are personal or sensitive questions to ask. Another technique is referred to as permission giving. For example, the nurse might say, “Many people have experimented with drugs; have you ever used street drugs?” or “Many people have questions about sex. What questions or concerns do you have?” With the permission-giving technique, the nurse communicates to the patient that discussing such topics is safe. Stating the facts as in Option A will likely inform but scare the patient. Option B is confrontational and a closed-ended question. Option C asks for only a “yes” or “no” answer.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 6,
+    "questionText": "In the introduction phase of the interview, the nurse asks why the patient came into the clinic. This phase is known as the __________________________.",
+    "questionImage": null,
+    "options": [
+      "history of present illness",
+      "review of systems",
+      "biographic data",
+      "present health status"
+    ],
+    "correctAnswer": "history of present illness",
+    "explanationText": "History of present illness may be a problem or a routine health care issue that prompted the patient to come to the clinic. Examples of biographic data include age, sex, marital status, and employment. Present health status includes the patient’s perception of his or her level of health. Review of systems is a method of collecting data by body system.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 7,
+    "questionText": "As a patient is describing his current symptoms, the nurse uses a symptom analysis to collect additional data. What is the best description of symptom analysis?",
+    "questionImage": null,
+    "options": [
+      "A way to document a comprehensive interview",
+      "A method of collecting data about a patient’s past medical history",
+      "Interview data collected through the use of an interpreter",
+      "Specific data collected related to the patient’s chief complaint"
+    ],
+    "correctAnswer": "Specific data collected related to the patient’s chief complaint",
+    "explanationText": "This process in option C can be used to identify specifics about the symptom such as onset, location, duration, related symptoms, treatments used, and severity. Symptom analysis may or may not be part of a comprehensive interview. Symptom analysis is used most often to document a current illness or injury. Symptom analysis can take place with or without the use of an interpreter.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 8,
+    "questionText": "A patient is very talkative and shares much information that is not relevant to his history or the reason for his admission. Which action by the nurse improves data collection in this situation?",
+    "questionImage": null,
+    "options": [
+      "Use close-ended questions",
+      "Ask another nurse to complete the interview",
+      "Terminate the interview",
+      "Ask the patient to stay on the subject"
+    ],
+    "correctAnswer": "Use close-ended questions",
+    "explanationText": "Using close-ended questions is useful to obtain specific data when open-ended questions are not obtaining the needed data. Option A, “Terminating the interview”, would not be beneficial to the patient and would not allow data collection. Option C, “Asking the patient to stay on the subject”, would not be therapeutic and may result in less data collection. Option D, “Asking another nurse to complete the interview”, may not be practical and would interrupt the nurse-patient relationship that has been established.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 9,
+    "questionText": "Which factors will most likely affect a positive interview process and therapeutic communication? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "Obtaining answer to questions in advance",
+      "Conducting a fast, efficient interview",
+      "Asking open-ended questions, Asking how the patient is feeling today, Maintaining privacy",
+      "Obtaining the patient’s history"
+    ],
+    "correctAnswer": "Asking open-ended questions, Asking how the patient is feeling today, Maintaining privacy",
+    "explanationText": "Numerous factors affect the interview and the communication process, including the physical setting, nurse’s behaviors, the type of questions asked and how they are asked. In addition, the personality and behavior of patients, how they are feeling at the time of the interview, and the nature of information being discussed or problem being confronted may affect the data revealed. All other factors in options A, D, and E, do not facilitate communication. The nurse should try to obtain as much information as possible from the patient to increase interaction time with patient.",
+    "explanationImage": null,
+    "notes": "Chapter 2"
+  },
+  {
+    "id": 10,
+    "questionText": "What is the first step for the nurse preparing to assess a patient in a hospital setting?",
+    "questionImage": null,
+    "options": [
+      "Wear a mask",
+      "Wash hands",
+      "Don goggles",
+      "Don gloves"
+    ],
+    "correctAnswer": "Wash hands",
+    "explanationText": "Hand hygiene is considered to be the single most important action to reduce transmission of infection and is considered an essential element of standard precautions. Gloves would be necessary after washing hands if the nurse is at risk for blood and bodily fluid exposure. A mask would be necessary for droplet precautions. Goggles would be necessary if procedure(s) involved risk of splashing fluids into eyes.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 11,
+    "questionText": "Which part of the hand does a nurse use to palpate a patient’s superficial mass in the skin?",
+    "questionImage": null,
+    "options": [
+      "The fingertips",
+      "The ulnar surface of the hand",
+      "The heel of the hand",
+      "The dorsal surface of the hand"
+    ],
+    "correctAnswer":    "The fingertips",
+    "explanationText": "The fingertips are the most sensitive part of the hand and are used for superficial palpation. The heel of the hand is not generally used for palpation. The dorsal aspect of the hand is sensitive to temperature. The ulnar aspect of the hand may be used to detect vibration.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 12,
+    "questionText": "The nurse should use a(n) _________to auscultate the chest and abdomen.",
+    "questionImage": null,
+    "options": [
+      "stethoscope",
+      "audiometer",
+      "Doppler",
+      "transilluminator"
+    ],
+    "correctAnswer": "stethoscope",
+    "explanationText": "A stethoscope assists in the identification of internal sounds. A Doppler may help to detect pulses, but it is not used for auscultation. An audiometer is used to evaluate hearing. A transilluminator is used to detect fluid within a body cavity.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 13,
+    "questionText": "The nurse is percussing the liver of an obese patient. Which percussion finding would be expected?",
+    "questionImage": null,
+    "options": [
+      "A higher pitch tone than in patients of a normal weight",
+      "An enhanced tone quality",
+      "A reduced intensity of tone",
+      "Tones with a booming quality"
+    ],
+    "correctAnswer":       "A reduced intensity of tone",
+    "explanationText": "The thickness of tissue can impair vibrations, causing quieter percussion tones. A booming quality is associated with a hyper resonant tone. Thick tissue will decrease the tone quality. A high pitch may be associated with tympany or flat tones.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 14,
+    "questionText": "The nurse is palpating the abdomen of a patient. How deep should the hands press while performing deep palpation?",
+    "questionImage": null,
+    "options": [
+      "8 cm",
+      "2 cm",
+      "4 cm",
+      "1 cm"
+    ],
+    "correctAnswer": "4 cm",
+    "explanationText": "Deep palpation is done with one or two hands to a depth of 1.6 inches or 4 cm. 1 cm is appropriate for superficial or light palpation. 2 cm is not deep enough. 8 cm is too deep.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 15,
+    "questionText": "The nurse is assessing a patient who does not speak English. Which chart does the nurse use to check this patient’s visual acuity?",
+    "questionImage": null,
+    "options": [
+      "Tumbling E chart",
+      "Rosenbaum pocket screener",
+      "Pupil gauge chart",
+      "Snellen chart"
+    ],
+    "correctAnswer":      "Tumbling E chart",
+    "explanationText": "For non-English speaking patients, the nurse should use the Tumbling E chart. The Snellen chart requires knowledge of the English language. The Rosenbaum pocket screener requires knowledge of the English language. Pupil size is not related to visual acuity.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 16,
+    "questionText": "The nurse suspects that a patient has a fungal infection of the skin. Which instrument helps confirm this suspicion?",
+    "questionImage": null,
+    "options": [
+      "Slit lamp",
+      "Transilluminator",
+      "Wood lamp",
+      "Monofilament"
+    ],
+    "correctAnswer":       "Wood lamp",
+    "explanationText": "A Wood lamp is used to detect fungal infections of the skin. Lesions of the skin appear as a fluorescent yellow-green or blue-green color. A transilluminator is used to differentiate tissue, fluid, and air within a body cavity. A monofilament tests sensation in the lower extremities. A slit lamp might be used to detect a foreign body embedded in the eye.",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 17,
+    "questionText": "The nurse is percussing a patient’s abdomen. What sound will the nurse most likely percuss?",
+    "questionImage": null,
+    "options": [
+      "Tympany",
+      "Dullness",
+      "Flatness",
+      "Resonance"
+    ],
+    "correctAnswer": "Tympany",
+    "explanationText": "Tympany is normally heard over the abdomen. Resonance is heard over healthy lung tissue, whereas hyperresonance is heard in overinflated lungs (as in emphysema). Dullness is heard over the liver. Flatness is heard over bones and muscle. Detecting sound changes is easier when moving from resonance to dullness (e.g., from the lung to the liver).",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 18,
+    "questionText": "Pulse oximetry is used to (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "determine hemoglobin percentages of the blood.",
+      "estimate the saturation of oxygen in the alveoli.",
+      "detect pulsation in the veins.",
+"estimate the pulse rate. estimate the oxygen saturation of arterial blood.",
+    ],
+    "correctAnswer": "estimate the pulse rate. estimate the oxygen saturation of arterial blood.",
+    "explanationText": "",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 19,
+    "questionText": "Which are considered basic techniques for physical assessment? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "Medication reconciliation",
+      "History of present illness",
+"Inspection, Auscultation, Palpation, Percussion"
+    ],
+    "correctAnswer":       "Inspection, Auscultation, Palpation, Percussion",
+    "explanationText": "",
+    "explanationImage": null,
+    "notes": "Chapter 3"
+  },
+  {
+    "id": 20,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 21,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 22,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 23,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 24,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 25,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 26,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 27,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 30,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 31,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 34,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 35,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 36,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 37,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 38,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 39,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 40,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 41,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 42,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 43,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 44,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 45,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 46,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 47,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 48,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 49,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 50,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 51,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 52,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 53,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 54,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 55,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 56,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 57,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 58,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 59,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 60,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 61,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 62,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 63,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 64,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 65,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 66,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 67,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 68,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 69,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 70,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 71,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 72,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 73,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 74,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 75,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 76,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 77,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 78,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 79,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 80,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 81,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 82,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 83,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 84,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 85,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 86,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 87,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 88,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 89,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 90,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 91,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 92,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 93,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 94,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 95,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 96,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 97,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 98,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 99,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 100,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  }
+]

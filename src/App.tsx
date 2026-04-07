@@ -1,38 +1,40 @@
 import { useState } from "react";
-import Landing from "./components/Landing";
 import Quiz from "./components/Quiz";
 import Result from "./components/Result";
 import type { ResultItem } from "./types";
 
-type View = "landing" | "quiz" | "result";
+export default function App() {
+  const [quizFile, setQuizFile] = useState<string | null>(null);
+  const [results, setResults] = useState<ResultItem[] | null>(null);
 
-function App() {
-  const [view, setView] = useState<View>("landing");
-  const [results, setResults] = useState<ResultItem[]>([]);
-
-  const startQuiz = () => {
-    setResults([]);
-    setView("quiz");
+  const handleSelectQuiz = (file: string) => {
+    setQuizFile(file);
+    setResults(null); // reset previous results
   };
 
-  const finishQuiz = (data: ResultItem[]) => {
-    setResults(data);
-    setView("result");
+  const handleFinish = (res: ResultItem[]) => {
+    setResults(res);
   };
 
-  const goHome = () => {
-    setView("landing");
+  const handleRestart = () => {
+    setQuizFile(null);
+    setResults(null);
   };
 
-  return (
-    <div className="app">
-      {view === "landing" && <Landing onStart={startQuiz} />}
-      {view === "quiz" && <Quiz onFinish={finishQuiz} />}
-      {view === "result" && (
-        <Result results={results} onRestart={goHome} />
-      )}
-    </div>
-  );
+  if (!quizFile) {
+    return (
+      <div className="card">
+        <h1 className="title">Choose a Quiz</h1>
+        <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>Pharmacology</button>
+        <button className="button" onClick={() => handleSelectQuiz("healthAssessment")}>Health Assessment</button>
+        <button className="button" onClick={() => handleSelectQuiz("fundamentals")}>Fundamentals</button>
+      </div>
+    );
+  }
+
+  if (results) {
+    return <Result results={results} onRestart={handleRestart} />;
+  }
+
+  return <Quiz quizFile={quizFile} onFinish={handleFinish} />;
 }
-
-export default App;
