@@ -1,64 +1,55 @@
 [
   {
     "id": 1,
-    "questionText": "When working with an older patient who has been admitted for a possible GI bleed, the nurse identifies which drug as having the potential to cause confusion and disorientation?",
-    "questionImage": null,
+    "questionText": "Which drug can cause confusion in older adults?",
     "options": [
-      "An antacid",
-      "A PPI",
-      "An H2 antagonist",
-      "A mucosal protectant"
+      "Antacid",
+      "PPI",
+      "H2 antagonist",
+      "Mucosal protectant"
     ],
-    "correctAnswer": "An H2 antagonist",
-    "explanationText": "H2 antagonists can cross the blood-brain barrier and may cause central nervous system effects such as confusion and disorientation, especially in older adults. This risk is increased due to age-related changes in drug metabolism and excretion, leading to higher sensitivity and possible drug accumulation.",
-    "explanationImage": null
+    "correctAnswer": "H2 antagonist",
+    "explanationText": "H2 antagonists are used to reduce gastric acid in conditions like GERD and GI bleeds. They can cross the blood-brain barrier and cause confusion, especially in older adults. Nurses should monitor mental status closely. This is why H2 antagonists are correct."
   },
   {
     "id": 2,
-    "questionText": "When providing education regarding the use of PPIs, which statement will the nurse include?",
-    "questionImage": null,
+    "questionText": "How should PPIs be taken?",
     "options": [
-      "Take the medication along with the first meal of the day.",
-      "Take the medication on an empty stomach, 30 to 60 minutes before eating.",
-      "Take the medication when you have symptoms of heartburn.",
-      "Take the medication at bedtime with a snack."
+      "With meals",
+      "30–60 minutes before meals",
+      "Only when symptomatic",
+      "At bedtime"
     ],
-    "correctAnswer": "Take the medication on an empty stomach, 30 to 60 minutes before eating.",
-    "explanationText": "Proton pump inhibitors work by blocking acid production in the stomach, specifically targeting active proton pumps. These pumps are most active before meals, so taking the medication 30 to 60 minutes before eating maximizes its effectiveness. Taking it with food or after symptoms begin reduces its ability to prevent acid secretion.",
-    "explanationImage": null
+    "correctAnswer": "30–60 minutes before meals",
+    "explanationText": "PPIs are used to treat GERD and ulcers by blocking acid secretion. They work best when taken before meals when proton pumps are active. Nurses should teach patients to take them on an empty stomach. This makes this answer correct."
   },
   {
     "id": 3,
-    "questionText": "A patient is in an outpatient cancer center for their first round of chemotherapy. Which schedule does the nurse consider most appropriate in terms of timing for intravenous antiemetic drug?",
-    "questionImage": null,
+    "questionText": "When should antiemetics be given for chemotherapy?",
     "options": [
-      "Four hours before the chemotherapy begins",
-      "Thirty to sixty minutes before chemotherapy begins",
-      "At the same time as chemotherapy drugs are given",
-      "At the first sign of nausea"
+      "4 hours before",
+      "30–60 minutes before",
+      "At same time",
+      "After nausea starts"
     ],
-    "correctAnswer": "Thirty to sixty minutes before chemotherapy begins",
-    "explanationText": "Antiemetics are most effective when given before nausea begins. Administering them 30 to 60 minutes prior to chemotherapy allows the medication to reach therapeutic levels and block the vomiting center and chemoreceptor trigger zone, preventing chemotherapy-induced nausea and vomiting rather than trying to treat it after it starts.",
-    "explanationImage": null
+    "correctAnswer": "30–60 minutes before",
+    "explanationText": "Antiemetics are used to prevent nausea by blocking receptors in the CTZ. Giving them before chemotherapy prevents symptoms. Nurses should administer 30–60 minutes prior. This is why this is correct."
   },
   {
     "id": 4,
-    "questionText": "The antidiarrheal drug Lomotil contains both diphenoxylate, a synthetic opiate agonist, and atropine, an anticholinergic. What is the purpose of the additive, atropine?",
-    "questionImage": null,
+    "questionText": "Why is atropine added to diphenoxylate?",
     "options": [
-      "Enhance the effects of the diphenoxylate.",
-      "Discourage recreational use of the opiate diphenoxylate.",
-      "Counteract the adverse effects of the diphenoxylate.",
-      "Act as an adsorbent for bacteria in the bowel"
+      "Enhance effect",
+      "Discourage abuse",
+      "Reduce side effects",
+      "Absorb toxins"
     ],
-    "correctAnswer": "Discourage recreational use of the opiate diphenoxylate.",
-    "explanationText": "Atropine is added in small amounts to discourage misuse and abuse of diphenoxylate, an opioid. If taken in large doses, atropine produces unpleasant anticholinergic side effects such as tachycardia, dry mouth, and blurred vision, making recreational overuse undesirable.",
-    "explanationImage": null
+    "correctAnswer": "Discourage abuse",
+    "explanationText": "Diphenoxylate is used for diarrhea. Atropine is added to discourage abuse by causing unpleasant effects at high doses. Nurses should monitor for anticholinergic effects. This makes this answer correct."
   },
   {
     "id": 5,
-    "questionText": "Which antidiarrheal does the nurse associate with the development of adverse effects of urinary retention, headache, confusion, dry skin, rash, and blurred vision?",
-    "questionImage": null,
+    "questionText": "Which drugs cause dry skin and urinary retention?",
     "options": [
       "Anticholinergics",
       "Adsorbents",
@@ -66,13 +57,11 @@
       "Opiates"
     ],
     "correctAnswer": "Anticholinergics",
-    "explanationText": "Anticholinergic drugs block acetylcholine, leading to decreased secretions and smooth muscle activity. This results in classic side effects such as urinary retention, dry skin, blurred vision, confusion, and headache. These effects are especially pronounced in older adults and are commonly remembered by the phrase 'can't see, can't pee, can't spit, can't poop.'",
-    "explanationImage": null
+    "explanationText": "Anticholinergics are used to reduce GI motility. They block acetylcholine, causing dry skin, urinary retention, and confusion. Nurses should use caution in older adults. This explains the answer."
   },
   {
     "id": 6,
-    "questionText": "Which adverse effect should the nurse monitor for in a patient taking captopril?",
-    "questionImage": null,
+    "questionText": "Common side effect of captopril?",
     "options": [
       "Dry cough",
       "Constipation",
@@ -80,12 +69,11 @@
       "Hypercalcemia"
     ],
     "correctAnswer": "Dry cough",
-    "explanationText": "ACE inhibitors like captopril increase bradykinin levels, which can lead to a persistent dry cough. This is a common reason for discontinuation."
+    "explanationText": "Captopril is used to treat hypertension and heart failure. It increases bradykinin, leading to a dry cough. Nurses should monitor for cough and angioedema. This makes dry cough correct."
   },
   {
     "id": 7,
-    "questionText": "Which electrolyte imbalance is associated with captopril use?",
-    "questionImage": null,
+    "questionText": "Captopril can cause which electrolyte imbalance?",
     "options": [
       "Hypokalemia",
       "Hyperkalemia",
@@ -93,25 +81,23 @@
       "Hypercalcemia"
     ],
     "correctAnswer": "Hyperkalemia",
-    "explanationText": "ACE inhibitors decrease aldosterone secretion, leading to potassium retention and increased risk of hyperkalemia."
+    "explanationText": "Captopril is used to lower BP by reducing aldosterone. This causes potassium retention. Nurses must monitor potassium levels. This explains why hyperkalemia is correct."
   },
   {
     "id": 8,
-    "questionText": "What is the primary action of furosemide?",
-    "questionImage": null,
+    "questionText": "Action of furosemide?",
     "options": [
-      "Increase sodium reabsorption",
-      "Block sodium and chloride reabsorption in the loop of Henle",
-      "Increase potassium retention",
-      "Reduce calcium excretion"
+      "Increase Na reabsorption",
+      "Block Na/Cl in loop",
+      "Retain potassium",
+      "Reduce calcium loss"
     ],
-    "correctAnswer": "Block sodium and chloride reabsorption in the loop of Henle",
-    "explanationText": "Furosemide is a loop diuretic that inhibits sodium and chloride reabsorption in the loop of Henle, leading to significant diuresis."
+    "correctAnswer": "Block Na/Cl in loop",
+    "explanationText": "Furosemide is used for edema and hypertension. It blocks sodium and chloride reabsorption in the loop of Henle. Nurses monitor potassium and fluid status. This makes the answer correct."
   },
   {
     "id": 9,
-    "questionText": "Which adverse effect is most concerning with furosemide?",
-    "questionImage": null,
+    "questionText": "Serious adverse effect of furosemide?",
     "options": [
       "Hyperkalemia",
       "Ototoxicity",
@@ -119,12 +105,11 @@
       "Hypertension"
     ],
     "correctAnswer": "Ototoxicity",
-    "explanationText": "High doses or rapid IV administration of furosemide can cause ototoxicity, leading to hearing loss."
+    "explanationText": "Furosemide is used for fluid overload. Rapid IV use can cause ototoxicity. Nurses should administer slowly and monitor hearing. This explains the correct answer."
   },
   {
     "id": 10,
-    "questionText": "Which electrolyte imbalance is common with hydrochlorothiazide?",
-    "questionImage": null,
+    "questionText": "HCTZ commonly causes:",
     "options": [
       "Hyperkalemia",
       "Hypokalemia",
@@ -132,38 +117,35 @@
       "Hypermagnesemia"
     ],
     "correctAnswer": "Hypokalemia",
-    "explanationText": "Thiazide diuretics increase potassium excretion, leading to hypokalemia."
+    "explanationText": "Hydrochlorothiazide is used for hypertension. It increases potassium excretion, causing hypokalemia. Nurses should monitor electrolytes. This makes the answer correct."
   },
   {
     "id": 11,
-    "questionText": "Hydrochlorothiazide is most commonly used to treat which condition?",
-    "questionImage": null,
+    "questionText": "HCTZ is used to treat:",
     "options": [
       "Heart block",
       "Hypertension",
-      "Peptic ulcer disease",
+      "Ulcers",
       "Asthma"
     ],
     "correctAnswer": "Hypertension",
-    "explanationText": "Thiazide diuretics are first-line medications for hypertension due to their ability to reduce blood volume and vascular resistance."
+    "explanationText": "Hydrochlorothiazide is used to treat hypertension by reducing blood volume. Nurses monitor BP and electrolytes. This explains the answer."
   },
   {
     "id": 12,
-    "questionText": "What is the primary action of losartan?",
-    "questionImage": null,
+    "questionText": "Losartan works by:",
     "options": [
-      "Blocks beta receptors",
-      "Inhibits ACE enzyme",
-      "Blocks angiotensin II receptors",
-      "Increases aldosterone"
+      "Blocking beta receptors",
+      "Inhibiting ACE",
+      "Blocking angiotensin II",
+      "Increasing aldosterone"
     ],
-    "correctAnswer": "Blocks angiotensin II receptors",
-    "explanationText": "Losartan is an ARB that blocks angiotensin II receptors, preventing vasoconstriction and lowering blood pressure."
+    "correctAnswer": "Blocking angiotensin II",
+    "explanationText": "Losartan is used to treat hypertension. It blocks angiotensin II receptors, preventing vasoconstriction. Nurses monitor BP and potassium. This makes the answer correct."
   },
   {
     "id": 13,
-    "questionText": "Which side effect is less common with losartan compared to ACE inhibitors?",
-    "questionImage": null,
+    "questionText": "Less common with losartan?",
     "options": [
       "Hyperkalemia",
       "Dry cough",
@@ -171,25 +153,23 @@
       "Dizziness"
     ],
     "correctAnswer": "Dry cough",
-    "explanationText": "ARBs do not increase bradykinin levels, so they are less likely to cause a dry cough compared to ACE inhibitors."
+    "explanationText": "Losartan is used for hypertension and does not increase bradykinin. Therefore, dry cough is less common than with ACE inhibitors. This explains the answer."
   },
   {
     "id": 14,
-    "questionText": "Spironolactone is classified as which type of diuretic?",
-    "questionImage": null,
+    "questionText": "Spironolactone is:",
     "options": [
       "Loop diuretic",
-      "Thiazide diuretic",
-      "Potassium-sparing diuretic",
-      "Osmotic diuretic"
+      "Thiazide",
+      "Potassium-sparing",
+      "Osmotic"
     ],
-    "correctAnswer": "Potassium-sparing diuretic",
-    "explanationText": "Spironolactone blocks aldosterone, leading to sodium excretion and potassium retention."
+    "correctAnswer": "Potassium-sparing",
+    "explanationText": "Spironolactone is used for hypertension and heart failure. It blocks aldosterone and spares potassium. Nurses monitor potassium levels. This makes the answer correct."
   },
   {
     "id": 15,
-    "questionText": "Which adverse effect is associated with spironolactone?",
-    "questionImage": null,
+    "questionText": "Spironolactone can cause:",
     "options": [
       "Hypokalemia",
       "Hyperkalemia",
@@ -197,25 +177,23 @@
       "Dry cough"
     ],
     "correctAnswer": "Hyperkalemia",
-    "explanationText": "Spironolactone causes potassium retention, increasing the risk of hyperkalemia."
+    "explanationText": "Spironolactone is used to retain potassium while removing sodium. This increases risk of hyperkalemia. Nurses monitor potassium closely. This explains the answer."
   },
   {
     "id": 16,
-    "questionText": "What is the primary effect of verapamil?",
-    "questionImage": null,
+    "questionText": "Effect of verapamil?",
     "options": [
-      "Increase heart rate",
-      "Decrease heart rate and contractility",
-      "Increase blood volume",
+      "Increase HR",
+      "Decrease HR and contractility",
+      "Increase volume",
       "Stimulate beta receptors"
     ],
-    "correctAnswer": "Decrease heart rate and contractility",
-    "explanationText": "Verapamil is a calcium channel blocker that slows conduction through the AV node and decreases myocardial contractility."
+    "correctAnswer": "Decrease HR and contractility",
+    "explanationText": "Verapamil is used for hypertension and arrhythmias. It blocks calcium channels, slowing heart rate and decreasing contractility. Nurses monitor HR and BP. This makes the answer correct."
   },
   {
     "id": 17,
-    "questionText": "Which adverse effect is common with verapamil?",
-    "questionImage": null,
+    "questionText": "Common side effect of verapamil?",
     "options": [
       "Diarrhea",
       "Constipation",
@@ -223,51 +201,47 @@
       "Tachycardia"
     ],
     "correctAnswer": "Constipation",
-    "explanationText": "Constipation is a common side effect of verapamil due to its effects on smooth muscle."
+    "explanationText": "Verapamil is used for cardiac conditions. It slows smooth muscle activity, causing constipation. Nurses should monitor bowel patterns. This explains the answer."
   },
   {
     "id": 18,
-    "questionText": "Carvedilol blocks which receptors?",
-    "questionImage": null,
+    "questionText": "Carvedilol blocks:",
     "options": [
-      "Alpha only",
-      "Beta only",
+      "Alpha",
+      "Beta",
       "Alpha and beta",
-      "Calcium channels"
+      "Calcium"
     ],
     "correctAnswer": "Alpha and beta",
-    "explanationText": "Carvedilol blocks both alpha and beta receptors, leading to vasodilation and decreased heart rate."
+    "explanationText": "Carvedilol is used for hypertension and heart failure. It blocks both alpha and beta receptors, causing vasodilation and decreased HR. Nurses monitor BP and HR. This makes the answer correct."
   },
   {
     "id": 19,
-    "questionText": "Which condition requires caution when taking carvedilol?",
-    "questionImage": null,
+    "questionText": "Avoid carvedilol in:",
     "options": [
       "Asthma",
       "Diarrhea",
-      "Hyperthyroidism",
+      "Hyperthyroid",
       "Anemia"
     ],
     "correctAnswer": "Asthma",
-    "explanationText": "Beta blockers can cause bronchoconstriction, making them risky for patients with asthma."
+    "explanationText": "Carvedilol is used for heart conditions. Beta blockade can cause bronchoconstriction. Nurses should use caution in asthma. This explains the answer."
   },
   {
     "id": 20,
-    "questionText": "Clonidine works by which mechanism?",
-    "questionImage": null,
+    "questionText": "Clonidine mechanism?",
     "options": [
-      "Stimulating alpha-2 receptors",
-      "Blocking beta receptors",
-      "Inhibiting calcium channels",
-      "Increasing aldosterone"
+      "Stimulates alpha-2",
+      "Blocks beta",
+      "Blocks calcium",
+      "Increases aldosterone"
     ],
-    "correctAnswer": "Stimulating alpha-2 receptors",
-    "explanationText": "Clonidine stimulates central alpha-2 receptors, reducing sympathetic outflow and lowering blood pressure."
+    "correctAnswer": "Stimulates alpha-2",
+    "explanationText": "Clonidine is used for hypertension. It stimulates alpha-2 receptors, reducing sympathetic outflow. Nurses monitor BP and sedation. This makes the answer correct."
   },
   {
     "id": 21,
-    "questionText": "Which adverse effect is common with clonidine?",
-    "questionImage": null,
+    "questionText": "Common side effect of clonidine?",
     "options": [
       "Dry mouth",
       "Diarrhea",
@@ -275,12 +249,11 @@
       "Weight loss"
     ],
     "correctAnswer": "Dry mouth",
-    "explanationText": "Clonidine commonly causes dry mouth and sedation due to decreased sympathetic activity."
+    "explanationText": "Clonidine is used to treat hypertension by stimulating alpha-2 receptors and reducing sympathetic outflow. This leads to side effects like dry mouth and sedation. Nurses should monitor for hypotension and CNS depression. This makes dry mouth the correct answer."
   },
   {
     "id": 22,
-    "questionText": "Atorvastatin works by inhibiting which enzyme?",
-    "questionImage": null,
+    "questionText": "Atorvastatin inhibits which enzyme?",
     "options": [
       "ACE",
       "HMG-CoA reductase",
@@ -288,12 +261,11 @@
       "Amylase"
     ],
     "correctAnswer": "HMG-CoA reductase",
-    "explanationText": "Atorvastatin lowers cholesterol by inhibiting HMG-CoA reductase, reducing cholesterol synthesis in the liver."
+    "explanationText": "Atorvastatin is used to lower cholesterol by inhibiting HMG-CoA reductase in the liver. This reduces cholesterol production. Nurses should monitor liver enzymes and lipid levels. This explains why this is correct."
   },
   {
     "id": 23,
-    "questionText": "Which serious adverse effect is associated with atorvastatin?",
-    "questionImage": null,
+    "questionText": "Serious side effect of atorvastatin?",
     "options": [
       "Rhabdomyolysis",
       "Hypertension",
@@ -301,12 +273,11 @@
       "Dry cough"
     ],
     "correctAnswer": "Rhabdomyolysis",
-    "explanationText": "Statins can cause muscle breakdown (rhabdomyolysis), leading to muscle pain and possible kidney damage."
+    "explanationText": "Atorvastatin is used to reduce cholesterol and cardiovascular risk. A serious adverse effect is rhabdomyolysis, which causes muscle breakdown and can lead to kidney damage. Nurses should monitor for muscle pain and dark urine. This makes rhabdomyolysis correct."
   },
   {
     "id": 24,
-    "questionText": "What is the primary effect of nitrates?",
-    "questionImage": null,
+    "questionText": "Primary effect of nitrates?",
     "options": [
       "Vasoconstriction",
       "Vasodilation",
@@ -314,25 +285,23 @@
       "Increase blood volume"
     ],
     "correctAnswer": "Vasodilation",
-    "explanationText": "Nitrates dilate blood vessels, reducing preload and improving blood flow to the heart."
+    "explanationText": "Nitrates are used to treat angina by causing vasodilation, which reduces preload and improves blood flow to the heart. Nurses should monitor for hypotension and headaches. This explains why vasodilation is correct."
   },
   {
     "id": 25,
-    "questionText": "Which instruction is important for patients taking nitroglycerin?",
-    "questionImage": null,
+    "questionText": "Key teaching for nitroglycerin?",
     "options": [
       "Take with food",
-      "Sit down before taking",
-      "Take only at night",
-      "Avoid water"
+      "Sit before taking",
+      "Take at night",
+      "Avoid fluids"
     ],
-    "correctAnswer": "Sit down before taking",
-    "explanationText": "Nitroglycerin can cause hypotension and dizziness, so patients should sit down to prevent falls."
+    "correctAnswer": "Sit before taking",
+    "explanationText": "Nitroglycerin is used for angina relief by causing vasodilation. It can cause sudden hypotension and dizziness. Nurses should teach patients to sit before taking to prevent falls. This makes this answer correct."
   },
   {
     "id": 26,
-    "questionText": "What is a common side effect of antacids containing aluminum hydroxide?",
-    "questionImage": null,
+    "questionText": "Aluminum antacids cause:",
     "options": [
       "Diarrhea",
       "Constipation",
@@ -340,12 +309,11 @@
       "Dry cough"
     ],
     "correctAnswer": "Constipation",
-    "explanationText": "Aluminum-containing antacids commonly cause constipation."
+    "explanationText": "Aluminum-based antacids are used to neutralize stomach acid. A common side effect is constipation. Nurses should monitor bowel patterns and may recommend stool softeners if needed. This explains the answer."
   },
   {
     "id": 27,
-    "questionText": "What is the purpose of atropine in diphenoxylate-atropine?",
-    "questionImage": null,
+    "questionText": "Purpose of atropine in Lomotil?",
     "options": [
       "Enhance diarrhea",
       "Discourage abuse",
@@ -353,25 +321,23 @@
       "Reduce nausea"
     ],
     "correctAnswer": "Discourage abuse",
-    "explanationText": "Atropine causes unpleasant effects at high doses, discouraging misuse of diphenoxylate."
+    "explanationText": "Diphenoxylate-atropine is used to treat diarrhea. Atropine is added to discourage abuse by causing unpleasant side effects at high doses. Nurses should monitor for anticholinergic effects. This makes the answer correct."
   },
   {
     "id": 28,
-    "questionText": "How does docusate sodium work?",
-    "questionImage": null,
+    "questionText": "Docusate works by:",
     "options": [
-      "Stimulates bowel",
-      "Softens stool",
-      "Blocks absorption",
-      "Increases acid"
+      "Stimulating bowel",
+      "Softening stool",
+      "Blocking absorption",
+      "Increasing acid"
     ],
-    "correctAnswer": "Softens stool",
-    "explanationText": "Docusate is a stool softener that allows water and fats to penetrate stool, making it easier to pass."
+    "correctAnswer": "Softening stool",
+    "explanationText": "Docusate is used to treat constipation by softening stool. It allows water and fat to penetrate stool, making it easier to pass. Nurses should encourage fluid intake. This explains the answer."
   },
   {
     "id": 29,
-    "questionText": "Famotidine belongs to which drug class?",
-    "questionImage": null,
+    "questionText": "Famotidine class?",
     "options": [
       "PPI",
       "H2 antagonist",
@@ -379,38 +345,35 @@
       "Prokinetic"
     ],
     "correctAnswer": "H2 antagonist",
-    "explanationText": "Famotidine blocks H2 receptors, reducing gastric acid secretion."
+    "explanationText": "Famotidine is used to reduce stomach acid in GERD and ulcers. It works as an H2 receptor antagonist. Nurses should monitor for confusion in older adults. This makes the answer correct."
   },
   {
     "id": 30,
-    "questionText": "What is the action of metoclopramide?",
-    "questionImage": null,
+    "questionText": "Metoclopramide action?",
     "options": [
       "Decrease motility",
-      "Increase gastric motility",
-      "Reduce acid only",
+      "Increase motility",
+      "Reduce acid",
       "Block histamine"
     ],
-    "correctAnswer": "Increase gastric motility",
-    "explanationText": "Metoclopramide enhances GI motility and speeds gastric emptying."
+    "correctAnswer": "Increase motility",
+    "explanationText": "Metoclopramide is used to treat gastroparesis and nausea. It increases gastric motility and speeds emptying. Nurses should monitor for extrapyramidal side effects. This explains the answer."
   },
   {
     "id": 31,
-    "questionText": "What is a key teaching point for omeprazole?",
-    "questionImage": null,
+    "questionText": "Omeprazole teaching?",
     "options": [
       "Take with food",
       "Take before meals",
-      "Take at night only",
+      "Take at night",
       "Take with antacids"
     ],
     "correctAnswer": "Take before meals",
-    "explanationText": "PPIs should be taken before meals to maximize effectiveness."
+    "explanationText": "Omeprazole is used to treat GERD and ulcers by reducing acid production. It should be taken before meals for best effect. Nurses should monitor for long-term risks like osteoporosis. This makes the answer correct."
   },
   {
     "id": 32,
-    "questionText": "Ondansetron works by blocking which receptor?",
-    "questionImage": null,
+    "questionText": "Ondansetron blocks:",
     "options": [
       "Dopamine",
       "Serotonin",
@@ -418,19 +381,18 @@
       "Acetylcholine"
     ],
     "correctAnswer": "Serotonin",
-    "explanationText": "Ondansetron blocks serotonin receptors in the CTZ to prevent nausea and vomiting."
+    "explanationText": "Ondansetron is used to prevent nausea and vomiting, especially with chemotherapy. It blocks serotonin receptors in the CTZ. Nurses should monitor for QT prolongation. This explains the correct answer."
   },
   {
     "id": 33,
-    "questionText": "How should sucralfate be taken?",
-    "questionImage": null,
+    "questionText": "How is sucralfate taken?",
     "options": [
       "With meals",
-      "On an empty stomach",
-      "At bedtime only",
+      "Empty stomach",
+      "At bedtime",
       "With antacids"
     ],
-    "correctAnswer": "On an empty stomach",
-    "explanationText": "Sucralfate forms a protective barrier over ulcers and works best on an empty stomach."
+    "correctAnswer": "Empty stomach",
+    "explanationText": "Sucralfate is used to treat ulcers by forming a protective barrier over the stomach lining. It must be taken on an empty stomach to work effectively. Nurses should avoid giving it with other medications. This makes the answer correct."
   }
 ]

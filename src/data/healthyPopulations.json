@@ -433,8 +433,8 @@
     "correctAnswer": "May 8, 2022",
     "explanationText": "Subtract 3 months from August, add 7 days: May 8",
     "explanationImage": null
-
-},  {
+  },
+  {
     "id": 41,
     "questionText": "Which drug can cause confusion and disorientation in older adults admitted for a possible GI bleed?",
     "questionImage": null,
