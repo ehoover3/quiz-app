@@ -394,5 +394,221 @@
     ],
     "correctAnswer": "Empty stomach",
     "explanationText": "Sucralfate is used to treat ulcers by forming a protective barrier over the stomach lining. It must be taken on an empty stomach to work effectively. Nurses should avoid giving it with other medications. This makes the answer correct."
+  },
+  {
+    "id": 34,
+    "questionText": "*What should a patient do if chest pain continues after taking nitroglycerin?",
+    "options": [
+      "Take another dose and wait",
+      "Call an ambulance",
+      "Go to sleep",
+      "Drink water"
+    ],
+    "correctAnswer": "Call an ambulance",
+    "explanationText": "Nitroglycerin is used to treat angina by causing vasodilation. If chest pain is not relieved after taking it, this may indicate a myocardial infarction. Nurses must teach patients to call emergency services immediately."
+  },
+  {
+    "id": 35,
+    "questionText": "*Chronic stable angina is relieved by:",
+    "options": [
+      "Exercise",
+      "Rest",
+      "Eating",
+      "Stress"
+    ],
+    "correctAnswer": "Rest",
+    "explanationText": "Stable angina is predictable and occurs with exertion. It is relieved by rest or nitroglycerin. Nurses should educate patients on recognizing patterns."
+  },
+  {
+    "id": 36,
+    "questionText": "*Which foods should patients with GERD avoid?",
+    "options": [
+      "Chocolate, citrus, caffeine",
+      "Rice and bread",
+      "Lean meats",
+      "Vegetables"
+    ],
+    "correctAnswer": "Chocolate, citrus, caffeine",
+    "explanationText": "GERD is caused by acid reflux into the esophagus. Foods like chocolate, citrus, and caffeine increase acid production or relax the LES. Nurses should teach avoidance of triggers."
+  },
+  {
+    "id": 37,
+    "questionText": "*Metoclopramide works by:",
+    "options": [
+      "Blocking dopamine and increasing motility",
+      "Blocking histamine",
+      "Reducing acid only",
+      "Increasing serotonin"
+    ],
+    "correctAnswer": "Blocking dopamine and increasing motility",
+    "explanationText": "Metoclopramide is used for nausea and gastroparesis. It blocks dopamine receptors in the CTZ and increases gastric motility. Nurses should monitor for extrapyramidal symptoms."
+  },
+  {
+    "id": 38,
+    "questionText": "*Key adverse effect of ondansetron (Zofran)?",
+    "options": [
+      "QT prolongation",
+      "Hypertension",
+      "Constipation",
+      "Bradycardia"
+    ],
+    "correctAnswer": "QT prolongation",
+    "explanationText": "Ondansetron is used to prevent nausea and vomiting. It blocks serotonin receptors but can prolong the QT interval. Nurses should monitor ECG in high-risk patients."
+  },
+  {
+    "id": 39,
+    "questionText": "*How long does docusate take to work?",
+    "options": [
+      "Immediately",
+      "24 hours",
+      "2–3 days",
+      "1 week"
+    ],
+    "correctAnswer": "2–3 days",
+    "explanationText": "Docusate is used as a stool softener. It works slowly by allowing water into stool, typically taking 2–3 days. Nurses should educate patients not to expect immediate relief."
+  },
+  {
+    "id": 40,
+    "questionText": "*Why should GERD patients report diarrhea?",
+    "options": [
+      "Risk of dehydration",
+      "Risk of C. diff infection",
+      "Normal side effect",
+      "Indicates healing"
+    ],
+    "correctAnswer": "Risk of C. diff infection",
+    "explanationText": "GERD medications like PPIs reduce stomach acid, increasing infection risk. Persistent diarrhea may indicate C. difficile infection. Nurses should instruct patients to report this immediately."
+  },
+  {
+    "id": 41,
+    "questionText": "*Antacids are best used for:",
+    "options": [
+      "Long-term therapy",
+      "Short-term relief",
+      "Infections",
+      "Hypertension"
+    ],
+    "correctAnswer": "Short-term relief",
+    "explanationText": "Antacids are used to neutralize stomach acid quickly. They provide short-term symptom relief. Nurses should not rely on them for chronic management."
+  },
+  {
+    "id": 42,
+    "questionText": "*When should antacids be avoided?",
+    "options": [
+      "Kidney disease",
+      "Hypertension",
+      "Diabetes",
+      "Asthma"
+    ],
+    "correctAnswer": "Kidney disease",
+    "explanationText": "Antacids are used for acid relief but contain electrolytes like magnesium or aluminum. These can accumulate in kidney disease. Nurses should avoid use in these patients."
+  },
+  {
+    "id": 43,
+    "questionText": "*Diphenoxylate-atropine is classified as:",
+    "options": [
+      "Opioid antidiarrheal",
+      "Antacid",
+      "Antiemetic",
+      "Laxative"
+    ],
+    "correctAnswer": "Opioid antidiarrheal",
+    "explanationText": "Diphenoxylate is used to treat diarrhea by slowing GI motility. It is an opioid. Atropine is added to prevent abuse. Nurses should monitor bowel function."
+  },
+  {
+    "id": 44,
+    "questionText": "*Anticholinergics commonly cause:",
+    "options": [
+      "Dry mouth and urinary retention",
+      "Hypertension",
+      "Bradycardia",
+      "Sweating"
+    ],
+    "correctAnswer": "Dry mouth and urinary retention",
+    "explanationText": "Anticholinergics are used to decrease GI motility. They block acetylcholine, causing dry mouth, blurred vision, constipation, and urinary retention. Nurses should provide safety education."
+  },
+  {
+    "id": 45,
+    "questionText": "*When should ondansetron be given for chemotherapy?",
+    "options": [
+      "After nausea starts",
+      "30 minutes before chemo",
+      "At bedtime",
+      "4 hours after"
+    ],
+    "correctAnswer": "30 minutes before chemo",
+    "explanationText": "Ondansetron is used to prevent chemotherapy-induced nausea. It should be given before treatment to block serotonin receptors. Nurses should administer 30 minutes prior."
+  },
+  {
+    "id": 46,
+    "questionText": "*Omeprazole long-term risk includes:",
+    "options": [
+      "Osteoporosis",
+      "Hypertension",
+      "Hypoglycemia",
+      "Bradycardia"
+    ],
+    "correctAnswer": "Osteoporosis",
+    "explanationText": "Omeprazole is used for GERD and ulcers. Long-term use decreases calcium absorption, increasing fracture risk. Nurses may recommend calcium and vitamin D supplementation."
+  },
+  {
+    "id": 47,
+    "questionText": "*Sucralfate should be taken:",
+    "options": [
+      "With meals",
+      "On empty stomach before meals",
+      "At bedtime only",
+      "With antacids"
+    ],
+    "correctAnswer": "On empty stomach before meals",
+    "explanationText": "Sucralfate is used to treat ulcers by coating the stomach lining. It must be taken on an empty stomach before meals. Nurses should avoid giving it with other medications."
+  },
+  {
+    "id": 48,
+    "questionText": "*Smoking affects gastric acid by:",
+    "options": [
+      "Decreasing production",
+      "Increasing production",
+      "Neutralizing acid",
+      "Blocking acid"
+    ],
+    "correctAnswer": "Increasing production",
+    "explanationText": "Smoking increases gastric acid production and worsens GERD and ulcers. Nurses should encourage smoking cessation."
+  },
+  {
+    "id": 49,
+    "questionText": "*When are laxatives contraindicated?",
+    "options": [
+      "Nausea, vomiting, or obstruction",
+      "Hypertension",
+      "Headache",
+      "Fever"
+    ],
+    "correctAnswer": "Nausea, vomiting, or obstruction",
+    "explanationText": "Laxatives are used to relieve constipation. They are contraindicated in bowel obstruction, nausea, or vomiting due to risk of perforation. Nurses must assess before use."
+  },
+  {
+    "id": 50,
+    "questionText": "*Spironolactone works by:",
+    "options": [
+      "Blocking aldosterone",
+      "Blocking sodium",
+      "Increasing potassium loss",
+      "Increasing calcium"
+    ],
+    "correctAnswer": "Blocking aldosterone",
+    "explanationText": "Spironolactone is used for hypertension and heart failure. It blocks aldosterone, causing sodium loss and potassium retention. Nurses monitor for hyperkalemia."
+  },
+  {
+    "id": 51,
+    "questionText": "*Captopril benefit for diabetic patients?",
+    "options": [
+      "Improves vision",
+      "Renal protection",
+      "Increases insulin",
+      "Reduces glucose"
+    ],
+    "correctAnswer": "Renal protection",
+    "explanationText": "Captopril is used for hypertension and protects kidney function in diabetic patients. It reduces intraglomerular pressure. Nurses monitor kidney function and potassium levels."
   }
 ]

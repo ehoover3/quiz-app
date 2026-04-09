@@ -308,7 +308,7 @@
       "Watch the abdomen for movement.",
       "Watch the chest rise and fall."
     ],
-    "correctAnswer":  "Use a stethoscope to listen to the breath sounds.",
+    "correctAnswer": "Use a stethoscope to listen to the breath sounds.",
     "explanationText": "The nurse would assess an adult by watching the chest rise and fall. In Option A, the nurse would assess an infant by watching the abdomen for movement because the infant’s respirations are normally more diaphragmatic than thoracic. Option C would be useful for assessing tactile fremitus. On an infant, the heart, bowel, and lung sounds make it difficult to assess respiration with a stethoscope.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -323,7 +323,7 @@
       "The nurse will hear the diffusion of air and carbon dioxide.",
       "The nurse will hear gurgling noises."
     ],
-    "correctAnswer":    "The nurse will hear the air move in and out of the lungs.",
+    "correctAnswer": "The nurse will hear the air move in and out of the lungs.",
     "explanationText": "If the stethoscope is placed over the lung fields, the nurse should hear air moving in and out of the lungs. Diffusion and carbon dioxide are measured through laboratory studies. The stethoscope should be moved; lub/dub is the sound of the patient’s heart. The stethoscope should be moved; gurgling noises are most likely bowel sounds.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -338,7 +338,7 @@
       "Carotid artery",
       "Humeral artery"
     ],
-    "correctAnswer":  "Brachial artery",
+    "correctAnswer": "Brachial artery",
     "explanationText": "The brachial artery is found near the antecubital space. The humeral artery is not accessible to be blood pressure cuff. The carotid artery is in the neck. The radial artery is located in the wrist and is not routinely used for blood pressure assessment.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -353,7 +353,7 @@
       "Count the patient’s apical rate for one full minute.",
       "Count the brachial rate for 30 seconds and multiply by 2"
     ],
-    "correctAnswer":      "Count the patient’s apical rate for one full minute.",
+    "correctAnswer": "Count the patient’s apical rate for one full minute.",
     "explanationText": "When the pulse is irregular, count the apical rate for one full minute to get a more accurate pulse rate. Option A: an irregular pulse rate is not a normal finding. Option B: a pulse oximeter is used to determine oxygen saturation, not pulse rate. Option D: counting the brachial rate again will result in the same findings as originally obtained.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -368,7 +368,7 @@
       "100.8 oF",
       "99.8 oF"
     ],
-    "correctAnswer":       "100.8 oF",
+    "correctAnswer": "100.8 oF",
     "explanationText": "100.8 oF. Normal temperature readings from the axilla are about one degree below the normal oral temperature. Options A, B and D are incorrect because normal temperature readings from the axilla are about one degree below the normal oral temperature.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -383,7 +383,7 @@
       "A change in body weight can be indicative of health problems.",
       "Fat deposits in specific locations can be identified."
     ],
-    "correctAnswer":  "A change in body weight can be indicative of health problems.",
+    "correctAnswer": "A change in body weight can be indicative of health problems.",
     "explanationText": "This is especially true with a sudden, excessive weight gain or loss. Body fat can be estimated but not measured with body weight. Measurement of body weight does not identify specific body fat deposits. The amount or degree of exercise is not determined by body weight alone.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -398,7 +398,7 @@
       "Using a cuff that is too small",
       "Positioning patient’s arm below the level of the heart"
     ],
-    "correctAnswer":       "Using a cuff that is too small",
+    "correctAnswer": "Using a cuff that is too small",
     "explanationText": "A cuff that is too small can result in a false-high reading. Having the nurse’s eyes looking down at the meniscus can result in a false-low reading. Deflating the cuff too rapidly can result in a false-low reading. Positioning the patient’s arm below the level of the heart can result in a false-low reading.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -413,7 +413,7 @@
       "Use the pulse oximeter to obtain heart rate.",
       "Palpate the carotid artery for 1 full minute."
     ],
-    "correctAnswer":    "Palpate the radial artery for 15 seconds and multiply by 4 to obtain heart rate.",
+    "correctAnswer": "Palpate the radial artery for 15 seconds and multiply by 4 to obtain heart rate.",
     "explanationText": "For adults, the radial artery is used generally for heart rate. The pulse oximeter does give a heart rate reading; however, this may not reveal the quality of the pulse or irregularities in the heart rhythm. The automatic blood pressure cuff does give a heart rate; however, this may not reveal the quality of the pulse or irregularities in the heart rhythm. The carotid artery generally is used when cardiopulmonary necessitation is warranted.",
     "explanationImage": null,
     "notes": "Chapter 4"
@@ -425,9 +425,8 @@
     "options": [
       "Pain, Gender, Race, What the person ate",
       "Mobility"
-
     ],
-    "correctAnswer":       "Pain, Gender, Race, What the person ate",
+    "correctAnswer": "Pain, Gender, Race, What the person ate",
     "explanationText": "Option A: What a person eats: Ingesting caffeine before measurement may increase blood pressure. Option B: Smoking a cigarette within 30 minutes before measurement can increase blood pressure Option D: Race: The incidence of hypertension is twice as high in African-Americans as in whites. Option E: Gender: After puberty, females usually have a lower blood pressure than males; however, after menopause, women’s blood pressure may be higher than men’s. Option F: Weight: Obese patients tend to have higher blood pressures than nonobese patients. Option G: Pain: Experiencing acute pain can increase blood pressure. Option C: mobility does not have an effect on blood pressure.",
     "explanationImage": null,
     "notes": "Chapter 4"
