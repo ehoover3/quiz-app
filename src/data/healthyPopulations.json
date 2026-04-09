@@ -1,164 +1,183 @@
 [
   {
     "id": 1,
-    "questionText": "When working with an older patient who has been admitted for a possible GI bleed, the nurse identifies which drug as having the potential to cause confusion and disorientation?",
+    "questionText": "Gravida",
     "questionImage": null,
     "options": [
-      "An antacid",
-      "A PPI",
-      "An H2 antagonist",
-      "A mucosal protectant"
+      "A woman who is pregnant",
+      "A woman who has never been pregnant",
+      "A woman who has had two or more pregnancies",
+      "A woman who delivered at term"
     ],
-    "correctAnswer": "An H2 antagonist",
-    "explanationText": "H2 antagonists may cause confusion and disorientation in older adults.",
+    "correctAnswer": "A woman who is pregnant",
+    "explanationText": "Gravida refers to any woman who is currently pregnant, regardless of previous pregnancies.",
     "explanationImage": null
   },
   {
     "id": 2,
-    "questionText": "When providing education regarding the use of PPIs, which statement will the nurse include?",
+    "questionText": "Nulligravida",
     "questionImage": null,
     "options": [
-      "Take the medication along with the first meal of the day.",
-      "Take the medication on an empty stomach, 30 to 60 minutes before eating.",
-      "Take the medication when you have symptoms of heartburn.",
-      "Take the medication at bedtime with a snack."
+      "A woman who has never been pregnant",
+      "A woman who is pregnant for the first time",
+      "A woman with multiple pregnancies",
+      "A woman who delivered preterm"
     ],
-    "correctAnswer": "Take the medication on an empty stomach, 30 to 60 minutes before eating.",
-    "explanationText": "",
+    "correctAnswer": "A woman who has never been pregnant",
+    "explanationText": "Nulligravida is used for a woman who has never been pregnant.",
     "explanationImage": null
   },
   {
     "id": 3,
-    "questionText": "A patient is in an outpatient cancer center for their first round of chemotherapy. Which schedule does the nurse consider most appropriate in terms of timing for intravenous antiemetic drug?",
+    "questionText": "Multigravida",
     "questionImage": null,
     "options": [
-
-"Four hours before the chemotherapy begins",
-"Thirty to sixty minutes before chemotherapy begins",
-"At the same time as chemotherapy drugs are given",
-"At the first sign of nausea"
-
+      "A woman who has had two or more pregnancies",
+      "A woman who is pregnant for the first time",
+      "A woman who has never been pregnant",
+      "A woman who delivered preterm"
     ],
-    "correctAnswer": "Thirty to sixty minutes before chemotherapy begins",
-    "explanationText": "",
+    "correctAnswer": "A woman who has had two or more pregnancies",
+    "explanationText": "Multigravida describes a woman who has been pregnant two or more times.",
     "explanationImage": null
   },
   {
     "id": 4,
-    "questionText": "The antidiarrheal drug Lomotil contains both diphenoxylate, a synthetic opiate agonist, and atropine, an anticholinergic. What is the purpose of the additive, atropine?",
+    "questionText": "Term pregnancy",
     "questionImage": null,
     "options": [
-
-"Enhance the effects of the diphenoxylate.",
-"Discourage recreational use of the opiate diphenoxylate.",
-"Counteract the adverse effects of the diphenoxylate.",
-"Act as an adsorbent for bacteria in the bowel"
-
-
+      "Pregnancy from 37 weeks to 42 weeks",
+      "Pregnancy less than 37 weeks",
+      "Pregnancy beyond 42 weeks",
+      "Any pregnancy regardless of gestation"
     ],
-    "correctAnswer": "Discourage recreational use of the opiate diphenoxylate.",
-    "explanationText": "",
+    "correctAnswer": "Pregnancy from 37 weeks to 42 weeks",
+    "explanationText": "A term pregnancy is one that reaches at least 37 weeks but is less than 42 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 5,
-    "questionText": "Which antidiarrheal does the nurse associate with the development of adverse effects of urinary retention, headache, confusion, dry skin, rash, and blurred vision?",
+    "questionText": "Post term",
     "questionImage": null,
     "options": [
-"Anticholinergics",
-"Adsorbents",
-"Probiotics",
-"Opiates"
-
+      "A pregnancy that goes beyond 42 weeks",
+      "A pregnancy that ends before 37 weeks",
+      "Pregnancy between 37 and 42 weeks",
+      "Any pregnancy with complications"
     ],
-    "correctAnswer": "Anticholinergics",
-    "explanationText": "",
+    "correctAnswer": "A pregnancy that goes beyond 42 weeks",
+    "explanationText": "Post-term refers to a pregnancy that continues past 42 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 6,
-    "questionText": "",
+    "questionText": "Preterm",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Pregnancy that is at least 20 weeks to 37 weeks",
+      "Pregnancy from 37 to 42 weeks",
+      "Pregnancy beyond 42 weeks",
+      "Any miscarriage before 20 weeks"
+    ],
+    "correctAnswer": "Pregnancy that is at least 20 weeks to 37 weeks",
+    "explanationText": "Preterm pregnancies are those delivered between 20 and 37 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 7,
-    "questionText": "",
+    "questionText": "Viability",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Capacity to live outside uterus around 22-25 weeks",
+      "Pregnancy beyond 42 weeks",
+      "Pregnancy between 37 and 42 weeks",
+      "A woman who has had two or more pregnancies"
+    ],
+    "correctAnswer": "Capacity to live outside uterus around 22-25 weeks",
+    "explanationText": "Viability is the stage at which the fetus can survive outside the uterus, typically around 22-25 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 8,
-    "questionText": "",
+    "questionText": "Susie is coming into your clinic today. She is currently pregnant for the 4th time. As you obtain her health history, she tells you that she delivered 2 of her children right on her EDD, and 1 child was delivered at 35 weeks gestation. She has 3 children and is here for prenatal care. What is her GTPAL?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "G=4, T=2, P=1, A=0, L=3",
+      "G=4, T=3, P=0, A=1, L=2",
+      "G=3, T=2, P=1, A=0, L=3",
+      "G=4, T=1, P=2, A=0, L=3"
+    ],
+    "correctAnswer": "G=4, T=2, P=1, A=0, L=3",
+    "explanationText": "GTPAL: Gravida=4 pregnancies, Term=2 (full-term), Preterm=1, Abortions=0, Living=3.",
     "explanationImage": null
   },
   {
     "id": 9,
-    "questionText": "",
+    "questionText": "Deb came into the ER complaining of RLQ pain (right lower quadrant pain). She is 6 weeks late for her period and was on a birth control pill, but forgot to take it for a week while she was out of town last month. You do a UPT (urine pregnancy test) and find that it is positive. She is worried because she has had 2 previous miscarriages and delivered her first baby at 24 weeks. What is her GTPAL?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "G=4, T=0, P=1, A=2, L=1",
+      "G=3, T=0, P=1, A=2, L=1",
+      "G=4, T=1, P=0, A=3, L=1",
+      "G=4, T=0, P=2, A=1, L=1"
+    ],
+    "correctAnswer": "G=4, T=0, P=1, A=2, L=1",
+    "explanationText": "Gravida=4 pregnancies (current + 3 prior), Term=0 (none delivered ≥37 weeks), Preterm=1 (24-week delivery), Abortions=2 (2 miscarriages), Living=1.",
     "explanationImage": null
   },
   {
     "id": 10,
-    "questionText": "",
+    "questionText": "Allison is getting ready to have surgery and you are admitting her into the surgery holding area. She is not pregnant now. As you obtain her history, she tells you she has had 3 full term births, 1 elective abortion, 1 miscarriage, and delivered another baby 2 months early. What is her GTPAL?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "G=6, T=3, P=1, A=2, L=4",
+      "G=5, T=3, P=1, A=1, L=4",
+      "G=6, T=4, P=0, A=2, L=4",
+      "G=6, T=3, P=1, A=3, L=4"
+    ],
+    "correctAnswer": "G=6, T=3, P=1, A=2, L=4",
+    "explanationText": "Gravida=6 total pregnancies, Term=3, Preterm=1 (2 months early), Abortions=2 (1 elective, 1 miscarriage), Living children=4.",
     "explanationImage": null
   },
   {
     "id": 11,
-    "questionText": "",
+    "questionText": "Race",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "a social construct associated with power",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 12,
-    "questionText": "",
+    "questionText": "Ethnicity",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "a collective identity, a sense of uniqueness within the larger society, and a distinction from nonmembers. Focuses on differences in meanings, values, and ways of living.",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 13,
-    "questionText": "",
+    "questionText": "Minority Group",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Consists of people who are living within a society in which they are disadvantaged in relation to power, control of their own lives and wealth",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 14,
-    "questionText": "",
+    "questionText": "Spirituality",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "An individual's sense of peace, purpose, and connection to others as well as the person’s belief about the meaning of life",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 15,
-    "questionText": "",
+    "questionText": "FICA Tool",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -170,157 +189,162 @@
     "questionText": "",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "correctAnswer": "Faith or Beliefs, Importance & Influence, Community, Address",
+    "explanationText": "Faith or Beliefs: What are your spiritual beliefs? Do you consider yourself spiritual? Importance & Influence: Is faith/spirituality important to you? Community: Are you connect with a faith center? Is there a person/group that supports or assists you? Address: What can I do for you? What can we do to support your spiritual beliefs/practices?",
     "explanationImage": null
   },
   {
     "id": 17,
-    "questionText": "",
+    "questionText": "Five leading cause of infant death",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Preterm birth and low birth weight, Injuries, Sudden infant death syndrome, Maternal pregnancy complications",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 18,
-    "questionText": "",
+    "questionText": "First pregancy term",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "1 to 13 weeks",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 19,
-    "questionText": "",
+    "questionText": "Second pregnancy term",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "14 to 26 weeks",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 20,
-    "questionText": "",
+    "questionText": "Third pregnancy term",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "27 to 40 weeks",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 21,
-    "questionText": "",
+    "questionText": "GTPAL",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "correctAnswer": "Gravida. Term. Preterm. Abortions/Miscarriages. Living children",
+    "explanationText": "Gravida: woman who is pregnant/number of pregnancies including this one. Term: 37-42 weeks. Preterm: 20-37 weeks. Abortions/Miscarriages: elective vs. spontaneous. Living children: currently",
     "explanationImage": null
   },
   {
     "id": 22,
-    "questionText": "",
+    "questionText": "Congenital Defect",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Abnormality during development",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 23,
-    "questionText": "",
+    "questionText": "Genetic Defect",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Abnormality during conception",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 24,
-    "questionText": "",
+    "questionText": "EDD",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Estimated Date of Delivery",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 25,
-    "questionText": "",
+    "questionText": "EDC",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Estimated Date of Confinement",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 26,
-    "questionText": "",
+    "questionText": "LMP",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "First day of last menstrual period",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 27,
-    "questionText": "",
+    "questionText": "Calculate due date LMP: 8-1-21",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "correctAnswer": "5-8-22",
+    "explanationText": "Subtract 3 months to May, add 7 days to May 8",
     "explanationImage": null
   },
   {
     "id": 28,
-    "questionText": "",
+    "questionText": "What are presumptive signs (subjective) of pregnancy?",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 29,
-    "questionText": "",
+    "questionText": "What are probable signs (objective) of pregnancy?",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 30,
-    "questionText": "",
+    "questionText": "What are positive signs of pregnancy? (actual verification)",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 31,
-    "questionText": "",
+    "questionText": "What is a torch screening?",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 32,
-    "questionText": "",
+    "questionText": "The Embryotic period lasts for how many days/weeks?",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "15 days to 8 weeks",
+      "15 days to 9 weeks",
+      "Conception to 9 weeks",
+      "5 days to 8 weeks"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 33,
-    "questionText": "",
+    "questionText": "A woman presents to the ED stating that she has been pregnant 4 times and has had one miscarriage. Her first child was born at 37 weeks, second child born at 41 weeks, and third child born at 42 weeks. All of her children are living. A urine pregnancy test indicates that she is pregnant. What is her GTPAL??",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -329,64 +353,86 @@
   },
   {
     "id": 34,
-    "questionText": "",
+    "questionText": "A client presents to the clinic for her initial prenatal visit. The client states that her last menstrual cycle started on January 27th and is unsure when it ended. The nurse calculates her EDD as:",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "November 2nd",
+      "November 3rd",
+      "November 4th",
+      "November 5th"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 35,
-    "questionText": "",
+    "questionText": "Braxton Hicks",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "intermittent, painless contractions that do not cause cervical dilatation",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 36,
-    "questionText": "",
+    "questionText": "Colostrum",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "a thick, yellowish “premilk” fluid that can be present by 14 weeks",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 37,
-    "questionText": "",
+    "questionText": "What is PICA?",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
+    "correctAnswer": "Non-nutritive cravings",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 38,
-    "questionText": "",
+    "questionText": "A client who is 7 weeks of gestation is experiencing nausea and vomiting in the morning. Which of the following information should the nurse include in the teaching?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Eat crackers of plain toast before getting out of bed.",
+      "Awaken during the night to eat a snack",
+      "Skip breakfast and each lunch after nausea has subsided.",
+      "Eat a large evening meal."
+    ],
+    "correctAnswer": "Eat crackers of plain toast before getting out of bed.",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 39,
-    "questionText": "",
+    "questionText": "A nurse is teaching a client who is at 23 weeks of gestation about immunizations. Which of the following statements should the nurse include in the teaching?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "You should not receive the rubella vaccine while breastfeeding.",
+      "You should receive a varicella vaccine before you deliver.",
+      "You can receive an influenza vaccination during pregnancy.",
+      "You cannot receive the Tdap vaccine until after you deliver."
+    ],
+    "correctAnswer": "You can receive an influenza vaccination during pregnancy.",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 40,
-    "questionText": "",
+    "questionText": "A nurse is preparing to measure the fundal height of a client who is at 22 weeks of gestation. At which location should the nurse expect to palpate the fundus?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+
+"5 cm above the umbilicus",
+"Slightly above the umbilicus",
+"Slightly below the umbilicus",
+"5 cm below the umbilicus"
+
+    ],
+    "correctAnswer": "Slightly above the umbilicus",
     "explanationText": "",
     "explanationImage": null
   },

@@ -159,7 +159,7 @@
       "The heel of the hand",
       "The dorsal surface of the hand"
     ],
-    "correctAnswer":    "The fingertips",
+    "correctAnswer": "The fingertips",
     "explanationText": "The fingertips are the most sensitive part of the hand and are used for superficial palpation. The heel of the hand is not generally used for palpation. The dorsal aspect of the hand is sensitive to temperature. The ulnar aspect of the hand may be used to detect vibration.",
     "explanationImage": null,
     "notes": "Chapter 3"
@@ -189,7 +189,7 @@
       "A reduced intensity of tone",
       "Tones with a booming quality"
     ],
-    "correctAnswer":       "A reduced intensity of tone",
+    "correctAnswer": "A reduced intensity of tone",
     "explanationText": "The thickness of tissue can impair vibrations, causing quieter percussion tones. A booming quality is associated with a hyper resonant tone. Thick tissue will decrease the tone quality. A high pitch may be associated with tympany or flat tones.",
     "explanationImage": null,
     "notes": "Chapter 3"
@@ -219,7 +219,7 @@
       "Pupil gauge chart",
       "Snellen chart"
     ],
-    "correctAnswer":      "Tumbling E chart",
+    "correctAnswer": "Tumbling E chart",
     "explanationText": "For non-English speaking patients, the nurse should use the Tumbling E chart. The Snellen chart requires knowledge of the English language. The Rosenbaum pocket screener requires knowledge of the English language. Pupil size is not related to visual acuity.",
     "explanationImage": null,
     "notes": "Chapter 3"
@@ -234,7 +234,7 @@
       "Wood lamp",
       "Monofilament"
     ],
-    "correctAnswer":       "Wood lamp",
+    "correctAnswer": "Wood lamp",
     "explanationText": "A Wood lamp is used to detect fungal infections of the skin. Lesions of the skin appear as a fluorescent yellow-green or blue-green color. A transilluminator is used to differentiate tissue, fluid, and air within a body cavity. A monofilament tests sensation in the lower extremities. A slit lamp might be used to detect a foreign body embedded in the eye.",
     "explanationImage": null,
     "notes": "Chapter 3"
@@ -262,7 +262,7 @@
       "determine hemoglobin percentages of the blood.",
       "estimate the saturation of oxygen in the alveoli.",
       "detect pulsation in the veins.",
-"estimate the pulse rate. estimate the oxygen saturation of arterial blood.",
+      "estimate the pulse rate. estimate the oxygen saturation of arterial blood."
     ],
     "correctAnswer": "estimate the pulse rate. estimate the oxygen saturation of arterial blood.",
     "explanationText": "",
@@ -276,103 +276,168 @@
     "options": [
       "Medication reconciliation",
       "History of present illness",
-"Inspection, Auscultation, Palpation, Percussion"
+      "Inspection, Auscultation, Palpation, Percussion"
     ],
-    "correctAnswer":       "Inspection, Auscultation, Palpation, Percussion",
+    "correctAnswer": "Inspection, Auscultation, Palpation, Percussion",
     "explanationText": "",
     "explanationImage": null,
     "notes": "Chapter 3"
   },
   {
     "id": 20,
-    "questionText": "",
+    "questionText": "Where does the nurse place the oral thermometer in a patient’s mouth?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Between the tongue and the hard palate.",
+      "Under the tongue next to the frenulum of the lower lip.",
+      "Along the outer aspect of the lower molars and against the cheek.",
+      "Under the tongue in the posterior sublingual pocket."
+    ],
+    "correctAnswer": "Under the tongue in the posterior sublingual pocket.",
+    "explanationText": "Placing the thermometer under the tongue in the posterior sublingual pocket provides the most accurate temperature. The thermometer should be placed farther into the mouth than inside the lower lip. Option C describes a position on top of the tongue and against the roof of the mouth. The thermometer should be placed under the tongue, not against the cheek.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 21,
-    "questionText": "",
+    "questionText": "The nurse is counting an infant’s respirations. Which technique is correct?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Use a stethoscope to listen to the breath sounds.",
+      "Place a hand across the patient’s chest.",
+      "Watch the abdomen for movement.",
+      "Watch the chest rise and fall."
+    ],
+    "correctAnswer":  "Use a stethoscope to listen to the breath sounds.",
+    "explanationText": "The nurse would assess an adult by watching the chest rise and fall. In Option A, the nurse would assess an infant by watching the abdomen for movement because the infant’s respirations are normally more diaphragmatic than thoracic. Option C would be useful for assessing tactile fremitus. On an infant, the heart, bowel, and lung sounds make it difficult to assess respiration with a stethoscope.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 22,
-    "questionText": "",
+    "questionText": "The nurse is auscultating the lungs for breath sounds. What sounds indicate the expected breath sounds?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "The nurse will hear a lub/dub sound.",
+      "The nurse will hear the air move in and out of the lungs.",
+      "The nurse will hear the diffusion of air and carbon dioxide.",
+      "The nurse will hear gurgling noises."
+    ],
+    "correctAnswer":    "The nurse will hear the air move in and out of the lungs.",
+    "explanationText": "If the stethoscope is placed over the lung fields, the nurse should hear air moving in and out of the lungs. Diffusion and carbon dioxide are measured through laboratory studies. The stethoscope should be moved; lub/dub is the sound of the patient’s heart. The stethoscope should be moved; gurgling noises are most likely bowel sounds.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 23,
-    "questionText": "",
+    "questionText": "Which artery is used to assess an adult’s blood pressure?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Radial artery",
+      "Brachial artery",
+      "Carotid artery",
+      "Humeral artery"
+    ],
+    "correctAnswer":  "Brachial artery",
+    "explanationText": "The brachial artery is found near the antecubital space. The humeral artery is not accessible to be blood pressure cuff. The carotid artery is in the neck. The radial artery is located in the wrist and is not routinely used for blood pressure assessment.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 24,
-    "questionText": "",
+    "questionText": "The nurse suspects an irregular rhythm of a patient’s radial pulse. What is the most appropriate action for the nurse to take to assess the pulse rate?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Use a pulse oximeter to determine the pulse rate.",
+      "Document this rhythm as normal for this patient",
+      "Count the patient’s apical rate for one full minute.",
+      "Count the brachial rate for 30 seconds and multiply by 2"
+    ],
+    "correctAnswer":      "Count the patient’s apical rate for one full minute.",
+    "explanationText": "When the pulse is irregular, count the apical rate for one full minute to get a more accurate pulse rate. Option A: an irregular pulse rate is not a normal finding. Option B: a pulse oximeter is used to determine oxygen saturation, not pulse rate. Option D: counting the brachial rate again will result in the same findings as originally obtained.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 25,
-    "questionText": "",
+    "questionText": "A temperature of 99.8oF taken in the axilla is equivalent to which temperature value taken orally?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "98.8 oF",
+      "97.8 oF",
+      "100.8 oF",
+      "99.8 oF"
+    ],
+    "correctAnswer":       "100.8 oF",
+    "explanationText": "100.8 oF. Normal temperature readings from the axilla are about one degree below the normal oral temperature. Options A, B and D are incorrect because normal temperature readings from the axilla are about one degree below the normal oral temperature.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 26,
-    "questionText": "",
+    "questionText": "Why is the weight of an adult patient measured routinely during a physical assessment?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Weight identifies patients who exercise and those who do not exercise.",
+      "Measurement allows assessment of body fat content.",
+      "A change in body weight can be indicative of health problems.",
+      "Fat deposits in specific locations can be identified."
+    ],
+    "correctAnswer":  "A change in body weight can be indicative of health problems.",
+    "explanationText": "This is especially true with a sudden, excessive weight gain or loss. Body fat can be estimated but not measured with body weight. Measurement of body weight does not identify specific body fat deposits. The amount or degree of exercise is not determined by body weight alone.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 27,
-    "questionText": "",
+    "questionText": "What factor could cause a false-high blood pressure reading?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Having the nurse’s eyes looking down at the meniscus",
+      "Deflating the cuff too rapidly",
+      "Using a cuff that is too small",
+      "Positioning patient’s arm below the level of the heart"
+    ],
+    "correctAnswer":       "Using a cuff that is too small",
+    "explanationText": "A cuff that is too small can result in a false-high reading. Having the nurse’s eyes looking down at the meniscus can result in a false-low reading. Deflating the cuff too rapidly can result in a false-low reading. Positioning the patient’s arm below the level of the heart can result in a false-low reading.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 28,
-    "questionText": "",
+    "questionText": "What is the most common procedure for determining a patient’s radial pulse?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Use the automatic blood pressure cuff to obtain heart rate.",
+      "Palpate the radial artery for 15 seconds and multiply by 4 to obtain heart rate.",
+      "Use the pulse oximeter to obtain heart rate.",
+      "Palpate the carotid artery for 1 full minute."
+    ],
+    "correctAnswer":    "Palpate the radial artery for 15 seconds and multiply by 4 to obtain heart rate.",
+    "explanationText": "For adults, the radial artery is used generally for heart rate. The pulse oximeter does give a heart rate reading; however, this may not reveal the quality of the pulse or irregularities in the heart rhythm. The automatic blood pressure cuff does give a heart rate; however, this may not reveal the quality of the pulse or irregularities in the heart rhythm. The carotid artery generally is used when cardiopulmonary necessitation is warranted.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
   {
     "id": 29,
-    "questionText": "",
+    "questionText": "What factors can affect blood pressure? (Select all that apply.)",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Pain, Gender, Race, What the person ate",
+      "Mobility"
+
+    ],
+    "correctAnswer":       "Pain, Gender, Race, What the person ate",
+    "explanationText": "Option A: What a person eats: Ingesting caffeine before measurement may increase blood pressure. Option B: Smoking a cigarette within 30 minutes before measurement can increase blood pressure Option D: Race: The incidence of hypertension is twice as high in African-Americans as in whites. Option E: Gender: After puberty, females usually have a lower blood pressure than males; however, after menopause, women’s blood pressure may be higher than men’s. Option F: Weight: Obese patients tend to have higher blood pressures than nonobese patients. Option G: Pain: Experiencing acute pain can increase blood pressure. Option C: mobility does not have an effect on blood pressure.",
+    "explanationImage": null,
+    "notes": "Chapter 4"
   },
+
+
+
+
+
+
   {
     "id": 30,
     "questionText": "",
@@ -380,7 +445,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 31,
@@ -389,7 +455,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 32,
@@ -398,7 +465,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 33,
@@ -407,7 +475,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 34,
@@ -416,7 +485,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 35,
@@ -425,7 +495,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 36,
@@ -434,7 +505,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 37,
@@ -443,7 +515,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 38,
@@ -452,7 +525,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 39,
@@ -461,7 +535,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 6"
   },
   {
     "id": 40,
@@ -470,7 +545,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 41,
@@ -479,7 +555,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 42,
@@ -488,7 +565,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 43,
@@ -497,7 +575,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 44,
@@ -506,7 +585,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 45,
@@ -515,7 +595,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 46,
@@ -524,7 +605,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 47,
@@ -533,7 +615,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 48,
@@ -542,7 +625,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 49,
@@ -551,7 +635,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 13"
   },
   {
     "id": 50,
@@ -560,7 +645,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 51,
@@ -569,7 +655,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 52,
@@ -578,7 +665,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 53,
@@ -587,7 +675,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 54,
@@ -596,7 +685,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 55,
@@ -605,7 +695,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 56,
@@ -614,7 +705,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 57,
@@ -623,7 +715,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 58,
@@ -632,7 +725,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 9"
   },
   {
     "id": 59,
@@ -641,7 +735,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 60,
@@ -650,7 +745,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 61,
@@ -659,7 +755,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 62,
@@ -668,7 +765,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 63,
@@ -677,7 +775,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 64,
@@ -686,7 +785,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 65,
@@ -695,7 +795,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 66,
@@ -704,7 +805,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 67,
@@ -713,7 +815,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 68,
@@ -722,7 +825,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 16"
   },
   {
     "id": 69,
@@ -731,7 +835,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 70,
@@ -740,7 +845,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 71,
@@ -749,7 +855,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 72,
@@ -758,7 +865,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 73,
@@ -767,7 +875,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 74,
@@ -776,7 +885,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 75,
@@ -785,7 +895,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 76,
@@ -794,7 +905,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 77,
@@ -803,7 +915,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 78,
@@ -812,7 +925,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 14"
   },
   {
     "id": 79,
@@ -821,7 +935,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 80,
@@ -830,7 +945,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 81,
@@ -839,7 +955,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 82,
@@ -848,7 +965,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 83,
@@ -857,7 +975,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 84,
@@ -866,7 +985,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 85,
@@ -875,7 +995,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 86,
@@ -884,7 +1005,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 87,
@@ -893,7 +1015,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 88,
@@ -902,7 +1025,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 89,
@@ -911,7 +1035,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 15"
   },
   {
     "id": 90,
@@ -920,7 +1045,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 5"
   },
   {
     "id": 91,
@@ -929,7 +1055,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 5"
   },
   {
     "id": 92,
@@ -938,7 +1065,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 5"
   },
   {
     "id": 93,
@@ -947,7 +1075,8 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 5"
   },
   {
     "id": 94,
@@ -956,60 +1085,7 @@
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 95,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 96,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 97,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 98,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 99,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 100,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "explanationImage": null,
+    "notes": "Chapter 5"
   }
 ]
