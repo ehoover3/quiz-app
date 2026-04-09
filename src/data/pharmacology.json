@@ -10,7 +10,7 @@
       "A mucosal protectant"
     ],
     "correctAnswer": "An H2 antagonist",
-    "explanationText": "H2 antagonists may cause confusion and disorientation in older adults.",
+    "explanationText": "H2 antagonists can cross the blood-brain barrier and may cause central nervous system effects such as confusion and disorientation, especially in older adults. This risk is increased due to age-related changes in drug metabolism and excretion, leading to higher sensitivity and possible drug accumulation.",
     "explanationImage": null
   },
   {
@@ -24,7 +24,7 @@
       "Take the medication at bedtime with a snack."
     ],
     "correctAnswer": "Take the medication on an empty stomach, 30 to 60 minutes before eating.",
-    "explanationText": "",
+    "explanationText": "Proton pump inhibitors work by blocking acid production in the stomach, specifically targeting active proton pumps. These pumps are most active before meals, so taking the medication 30 to 60 minutes before eating maximizes its effectiveness. Taking it with food or after symptoms begin reduces its ability to prevent acid secretion.",
     "explanationImage": null
   },
   {
@@ -32,15 +32,13 @@
     "questionText": "A patient is in an outpatient cancer center for their first round of chemotherapy. Which schedule does the nurse consider most appropriate in terms of timing for intravenous antiemetic drug?",
     "questionImage": null,
     "options": [
-
-"Four hours before the chemotherapy begins",
-"Thirty to sixty minutes before chemotherapy begins",
-"At the same time as chemotherapy drugs are given",
-"At the first sign of nausea"
-
+      "Four hours before the chemotherapy begins",
+      "Thirty to sixty minutes before chemotherapy begins",
+      "At the same time as chemotherapy drugs are given",
+      "At the first sign of nausea"
     ],
     "correctAnswer": "Thirty to sixty minutes before chemotherapy begins",
-    "explanationText": "",
+    "explanationText": "Antiemetics are most effective when given before nausea begins. Administering them 30 to 60 minutes prior to chemotherapy allows the medication to reach therapeutic levels and block the vomiting center and chemoreceptor trigger zone, preventing chemotherapy-induced nausea and vomiting rather than trying to treat it after it starts.",
     "explanationImage": null
   },
   {
@@ -48,16 +46,13 @@
     "questionText": "The antidiarrheal drug Lomotil contains both diphenoxylate, a synthetic opiate agonist, and atropine, an anticholinergic. What is the purpose of the additive, atropine?",
     "questionImage": null,
     "options": [
-
-"Enhance the effects of the diphenoxylate.",
-"Discourage recreational use of the opiate diphenoxylate.",
-"Counteract the adverse effects of the diphenoxylate.",
-"Act as an adsorbent for bacteria in the bowel"
-
-
+      "Enhance the effects of the diphenoxylate.",
+      "Discourage recreational use of the opiate diphenoxylate.",
+      "Counteract the adverse effects of the diphenoxylate.",
+      "Act as an adsorbent for bacteria in the bowel"
     ],
     "correctAnswer": "Discourage recreational use of the opiate diphenoxylate.",
-    "explanationText": "",
+    "explanationText": "Atropine is added in small amounts to discourage misuse and abuse of diphenoxylate, an opioid. If taken in large doses, atropine produces unpleasant anticholinergic side effects such as tachycardia, dry mouth, and blurred vision, making recreational overuse undesirable.",
     "explanationImage": null
   },
   {
@@ -65,869 +60,377 @@
     "questionText": "Which antidiarrheal does the nurse associate with the development of adverse effects of urinary retention, headache, confusion, dry skin, rash, and blurred vision?",
     "questionImage": null,
     "options": [
-"Anticholinergics",
-"Adsorbents",
-"Probiotics",
-"Opiates"
-
+      "Anticholinergics",
+      "Adsorbents",
+      "Probiotics",
+      "Opiates"
     ],
     "correctAnswer": "Anticholinergics",
-    "explanationText": "",
+    "explanationText": "Anticholinergic drugs block acetylcholine, leading to decreased secretions and smooth muscle activity. This results in classic side effects such as urinary retention, dry skin, blurred vision, confusion, and headache. These effects are especially pronounced in older adults and are commonly remembered by the phrase 'can't see, can't pee, can't spit, can't poop.'",
     "explanationImage": null
   },
   {
     "id": 6,
-    "questionText": "",
+    "questionText": "Which adverse effect should the nurse monitor for in a patient taking captopril?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Dry cough",
+      "Constipation",
+      "Bradycardia",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Dry cough",
+    "explanationText": "ACE inhibitors like captopril increase bradykinin levels, which can lead to a persistent dry cough. This is a common reason for discontinuation."
   },
   {
     "id": 7,
-    "questionText": "",
+    "questionText": "Which electrolyte imbalance is associated with captopril use?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Hypercalcemia"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "explanationText": "ACE inhibitors decrease aldosterone secretion, leading to potassium retention and increased risk of hyperkalemia."
   },
   {
     "id": 8,
-    "questionText": "",
+    "questionText": "What is the primary action of furosemide?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Increase sodium reabsorption",
+      "Block sodium and chloride reabsorption in the loop of Henle",
+      "Increase potassium retention",
+      "Reduce calcium excretion"
+    ],
+    "correctAnswer": "Block sodium and chloride reabsorption in the loop of Henle",
+    "explanationText": "Furosemide is a loop diuretic that inhibits sodium and chloride reabsorption in the loop of Henle, leading to significant diuresis."
   },
   {
     "id": 9,
-    "questionText": "",
+    "questionText": "Which adverse effect is most concerning with furosemide?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Hyperkalemia",
+      "Ototoxicity",
+      "Constipation",
+      "Hypertension"
+    ],
+    "correctAnswer": "Ototoxicity",
+    "explanationText": "High doses or rapid IV administration of furosemide can cause ototoxicity, leading to hearing loss."
   },
   {
     "id": 10,
-    "questionText": "",
+    "questionText": "Which electrolyte imbalance is common with hydrochlorothiazide?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypernatremia",
+      "Hypermagnesemia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "explanationText": "Thiazide diuretics increase potassium excretion, leading to hypokalemia."
   },
   {
     "id": 11,
-    "questionText": "",
+    "questionText": "Hydrochlorothiazide is most commonly used to treat which condition?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Heart block",
+      "Hypertension",
+      "Peptic ulcer disease",
+      "Asthma"
+    ],
+    "correctAnswer": "Hypertension",
+    "explanationText": "Thiazide diuretics are first-line medications for hypertension due to their ability to reduce blood volume and vascular resistance."
   },
   {
     "id": 12,
-    "questionText": "",
+    "questionText": "What is the primary action of losartan?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Blocks beta receptors",
+      "Inhibits ACE enzyme",
+      "Blocks angiotensin II receptors",
+      "Increases aldosterone"
+    ],
+    "correctAnswer": "Blocks angiotensin II receptors",
+    "explanationText": "Losartan is an ARB that blocks angiotensin II receptors, preventing vasoconstriction and lowering blood pressure."
   },
   {
     "id": 13,
-    "questionText": "",
+    "questionText": "Which side effect is less common with losartan compared to ACE inhibitors?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Hyperkalemia",
+      "Dry cough",
+      "Hypotension",
+      "Dizziness"
+    ],
+    "correctAnswer": "Dry cough",
+    "explanationText": "ARBs do not increase bradykinin levels, so they are less likely to cause a dry cough compared to ACE inhibitors."
   },
   {
     "id": 14,
-    "questionText": "",
+    "questionText": "Spironolactone is classified as which type of diuretic?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Loop diuretic",
+      "Thiazide diuretic",
+      "Potassium-sparing diuretic",
+      "Osmotic diuretic"
+    ],
+    "correctAnswer": "Potassium-sparing diuretic",
+    "explanationText": "Spironolactone blocks aldosterone, leading to sodium excretion and potassium retention."
   },
   {
     "id": 15,
-    "questionText": "",
+    "questionText": "Which adverse effect is associated with spironolactone?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Ototoxicity",
+      "Dry cough"
+    ],
+    "correctAnswer": "Hyperkalemia",
+    "explanationText": "Spironolactone causes potassium retention, increasing the risk of hyperkalemia."
   },
   {
     "id": 16,
-    "questionText": "",
+    "questionText": "What is the primary effect of verapamil?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Increase heart rate",
+      "Decrease heart rate and contractility",
+      "Increase blood volume",
+      "Stimulate beta receptors"
+    ],
+    "correctAnswer": "Decrease heart rate and contractility",
+    "explanationText": "Verapamil is a calcium channel blocker that slows conduction through the AV node and decreases myocardial contractility."
   },
   {
     "id": 17,
-    "questionText": "",
+    "questionText": "Which adverse effect is common with verapamil?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Diarrhea",
+      "Constipation",
+      "Hyperkalemia",
+      "Tachycardia"
+    ],
+    "correctAnswer": "Constipation",
+    "explanationText": "Constipation is a common side effect of verapamil due to its effects on smooth muscle."
   },
   {
     "id": 18,
-    "questionText": "",
+    "questionText": "Carvedilol blocks which receptors?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Alpha only",
+      "Beta only",
+      "Alpha and beta",
+      "Calcium channels"
+    ],
+    "correctAnswer": "Alpha and beta",
+    "explanationText": "Carvedilol blocks both alpha and beta receptors, leading to vasodilation and decreased heart rate."
   },
   {
     "id": 19,
-    "questionText": "",
+    "questionText": "Which condition requires caution when taking carvedilol?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Asthma",
+      "Diarrhea",
+      "Hyperthyroidism",
+      "Anemia"
+    ],
+    "correctAnswer": "Asthma",
+    "explanationText": "Beta blockers can cause bronchoconstriction, making them risky for patients with asthma."
   },
   {
     "id": 20,
-    "questionText": "",
+    "questionText": "Clonidine works by which mechanism?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Stimulating alpha-2 receptors",
+      "Blocking beta receptors",
+      "Inhibiting calcium channels",
+      "Increasing aldosterone"
+    ],
+    "correctAnswer": "Stimulating alpha-2 receptors",
+    "explanationText": "Clonidine stimulates central alpha-2 receptors, reducing sympathetic outflow and lowering blood pressure."
   },
   {
     "id": 21,
-    "questionText": "",
+    "questionText": "Which adverse effect is common with clonidine?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Dry mouth",
+      "Diarrhea",
+      "Tachycardia",
+      "Weight loss"
+    ],
+    "correctAnswer": "Dry mouth",
+    "explanationText": "Clonidine commonly causes dry mouth and sedation due to decreased sympathetic activity."
   },
   {
     "id": 22,
-    "questionText": "",
+    "questionText": "Atorvastatin works by inhibiting which enzyme?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "ACE",
+      "HMG-CoA reductase",
+      "Lipase",
+      "Amylase"
+    ],
+    "correctAnswer": "HMG-CoA reductase",
+    "explanationText": "Atorvastatin lowers cholesterol by inhibiting HMG-CoA reductase, reducing cholesterol synthesis in the liver."
   },
   {
     "id": 23,
-    "questionText": "",
+    "questionText": "Which serious adverse effect is associated with atorvastatin?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Rhabdomyolysis",
+      "Hypertension",
+      "Constipation",
+      "Dry cough"
+    ],
+    "correctAnswer": "Rhabdomyolysis",
+    "explanationText": "Statins can cause muscle breakdown (rhabdomyolysis), leading to muscle pain and possible kidney damage."
   },
   {
     "id": 24,
-    "questionText": "",
+    "questionText": "What is the primary effect of nitrates?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Vasoconstriction",
+      "Vasodilation",
+      "Increase heart rate",
+      "Increase blood volume"
+    ],
+    "correctAnswer": "Vasodilation",
+    "explanationText": "Nitrates dilate blood vessels, reducing preload and improving blood flow to the heart."
   },
   {
     "id": 25,
-    "questionText": "",
+    "questionText": "Which instruction is important for patients taking nitroglycerin?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Take with food",
+      "Sit down before taking",
+      "Take only at night",
+      "Avoid water"
+    ],
+    "correctAnswer": "Sit down before taking",
+    "explanationText": "Nitroglycerin can cause hypotension and dizziness, so patients should sit down to prevent falls."
   },
   {
     "id": 26,
-    "questionText": "",
+    "questionText": "What is a common side effect of antacids containing aluminum hydroxide?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Diarrhea",
+      "Constipation",
+      "Hypertension",
+      "Dry cough"
+    ],
+    "correctAnswer": "Constipation",
+    "explanationText": "Aluminum-containing antacids commonly cause constipation."
   },
   {
     "id": 27,
-    "questionText": "",
+    "questionText": "What is the purpose of atropine in diphenoxylate-atropine?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Enhance diarrhea",
+      "Discourage abuse",
+      "Improve absorption",
+      "Reduce nausea"
+    ],
+    "correctAnswer": "Discourage abuse",
+    "explanationText": "Atropine causes unpleasant effects at high doses, discouraging misuse of diphenoxylate."
   },
   {
     "id": 28,
-    "questionText": "",
+    "questionText": "How does docusate sodium work?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Stimulates bowel",
+      "Softens stool",
+      "Blocks absorption",
+      "Increases acid"
+    ],
+    "correctAnswer": "Softens stool",
+    "explanationText": "Docusate is a stool softener that allows water and fats to penetrate stool, making it easier to pass."
   },
   {
     "id": 29,
-    "questionText": "",
+    "questionText": "Famotidine belongs to which drug class?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "PPI",
+      "H2 antagonist",
+      "Antacid",
+      "Prokinetic"
+    ],
+    "correctAnswer": "H2 antagonist",
+    "explanationText": "Famotidine blocks H2 receptors, reducing gastric acid secretion."
   },
   {
     "id": 30,
-    "questionText": "",
+    "questionText": "What is the action of metoclopramide?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Decrease motility",
+      "Increase gastric motility",
+      "Reduce acid only",
+      "Block histamine"
+    ],
+    "correctAnswer": "Increase gastric motility",
+    "explanationText": "Metoclopramide enhances GI motility and speeds gastric emptying."
   },
   {
     "id": 31,
-    "questionText": "",
+    "questionText": "What is a key teaching point for omeprazole?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Take with food",
+      "Take before meals",
+      "Take at night only",
+      "Take with antacids"
+    ],
+    "correctAnswer": "Take before meals",
+    "explanationText": "PPIs should be taken before meals to maximize effectiveness."
   },
   {
     "id": 32,
-    "questionText": "",
+    "questionText": "Ondansetron works by blocking which receptor?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Histamine",
+      "Acetylcholine"
+    ],
+    "correctAnswer": "Serotonin",
+    "explanationText": "Ondansetron blocks serotonin receptors in the CTZ to prevent nausea and vomiting."
   },
   {
     "id": 33,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 34,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 35,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 36,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 37,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 38,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 39,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 40,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 41,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 42,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 43,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 44,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 45,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 46,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 47,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 48,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 49,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 50,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 51,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 52,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 53,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 54,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 55,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 56,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 57,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 58,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 59,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 60,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 61,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 62,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 63,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 64,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 65,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 66,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 67,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 68,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 69,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 70,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 71,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 72,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 73,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 74,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 75,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 76,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 77,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 78,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 79,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 80,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 81,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 82,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 83,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 84,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 85,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 86,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 87,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 88,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 89,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 90,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 91,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 92,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 93,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 94,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 95,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 96,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 97,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 98,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 99,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 100,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
+    "questionText": "How should sucralfate be taken?",
+    "questionImage": null,
+    "options": [
+      "With meals",
+      "On an empty stomach",
+      "At bedtime only",
+      "With antacids"
+    ],
+    "correctAnswer": "On an empty stomach",
+    "explanationText": "Sucralfate forms a protective barrier over ulcers and works best on an empty stomach."
   }
 ]

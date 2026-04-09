@@ -24,7 +24,7 @@
       "A woman who delivered preterm"
     ],
     "correctAnswer": "A woman who has never been pregnant",
-    "explanationText": "Nulligravida is used for a woman who has never been pregnant.",
+    "explanationText": "Nulligravida describes a woman who has never been pregnant.",
     "explanationImage": null
   },
   {
@@ -32,13 +32,13 @@
     "questionText": "Multigravida",
     "questionImage": null,
     "options": [
-      "A woman who has had two or more pregnancies",
+      "A woman who has been pregnant two or more times",
       "A woman who is pregnant for the first time",
       "A woman who has never been pregnant",
       "A woman who delivered preterm"
     ],
-    "correctAnswer": "A woman who has had two or more pregnancies",
-    "explanationText": "Multigravida describes a woman who has been pregnant two or more times.",
+    "correctAnswer": "A woman who has been pregnant two or more times",
+    "explanationText": "Multigravida refers to a woman who has been pregnant two or more times.",
     "explanationImage": null
   },
   {
@@ -46,40 +46,40 @@
     "questionText": "Term pregnancy",
     "questionImage": null,
     "options": [
-      "Pregnancy from 37 weeks to 42 weeks",
+      "Pregnancy from 37 to 42 weeks gestation",
       "Pregnancy less than 37 weeks",
       "Pregnancy beyond 42 weeks",
       "Any pregnancy regardless of gestation"
     ],
-    "correctAnswer": "Pregnancy from 37 weeks to 42 weeks",
+    "correctAnswer": "Pregnancy from 37 to 42 weeks gestation",
     "explanationText": "A term pregnancy is one that reaches at least 37 weeks but is less than 42 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 5,
-    "questionText": "Post term",
+    "questionText": "Post-term pregnancy",
     "questionImage": null,
     "options": [
-      "A pregnancy that goes beyond 42 weeks",
-      "A pregnancy that ends before 37 weeks",
+      "Pregnancy that continues beyond 42 weeks gestation",
+      "Pregnancy that ends before 37 weeks",
       "Pregnancy between 37 and 42 weeks",
       "Any pregnancy with complications"
     ],
-    "correctAnswer": "A pregnancy that goes beyond 42 weeks",
+    "correctAnswer": "Pregnancy that continues beyond 42 weeks gestation",
     "explanationText": "Post-term refers to a pregnancy that continues past 42 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 6,
-    "questionText": "Preterm",
+    "questionText": "Preterm pregnancy",
     "questionImage": null,
     "options": [
-      "Pregnancy that is at least 20 weeks to 37 weeks",
+      "Pregnancy delivered between 20 and 37 weeks gestation",
       "Pregnancy from 37 to 42 weeks",
       "Pregnancy beyond 42 weeks",
       "Any miscarriage before 20 weeks"
     ],
-    "correctAnswer": "Pregnancy that is at least 20 weeks to 37 weeks",
+    "correctAnswer": "Pregnancy delivered between 20 and 37 weeks gestation",
     "explanationText": "Preterm pregnancies are those delivered between 20 and 37 weeks gestation.",
     "explanationImage": null
   },
@@ -88,18 +88,18 @@
     "questionText": "Viability",
     "questionImage": null,
     "options": [
-      "Capacity to live outside uterus around 22-25 weeks",
+      "Capacity of the fetus to survive outside the uterus, typically around 22–25 weeks gestation",
       "Pregnancy beyond 42 weeks",
       "Pregnancy between 37 and 42 weeks",
       "A woman who has had two or more pregnancies"
     ],
-    "correctAnswer": "Capacity to live outside uterus around 22-25 weeks",
-    "explanationText": "Viability is the stage at which the fetus can survive outside the uterus, typically around 22-25 weeks gestation.",
+    "correctAnswer": "Capacity of the fetus to survive outside the uterus, typically around 22–25 weeks gestation",
+    "explanationText": "Viability is the stage at which the fetus can survive outside the uterus, usually around 22–25 weeks gestation.",
     "explanationImage": null
   },
   {
     "id": 8,
-    "questionText": "Susie is coming into your clinic today. She is currently pregnant for the 4th time. As you obtain her health history, she tells you that she delivered 2 of her children right on her EDD, and 1 child was delivered at 35 weeks gestation. She has 3 children and is here for prenatal care. What is her GTPAL?",
+    "questionText": "Susie is pregnant for the fourth time. She delivered 2 children at term and 1 at 35 weeks. She currently has 3 living children. What is her GTPAL?",
     "questionImage": null,
     "options": [
       "G=4, T=2, P=1, A=0, L=3",
@@ -108,12 +108,12 @@
       "G=4, T=1, P=2, A=0, L=3"
     ],
     "correctAnswer": "G=4, T=2, P=1, A=0, L=3",
-    "explanationText": "GTPAL: Gravida=4 pregnancies, Term=2 (full-term), Preterm=1, Abortions=0, Living=3.",
+    "explanationText": "GTPAL: Gravida=4, Term=2, Preterm=1, Abortions=0, Living=3.",
     "explanationImage": null
   },
   {
     "id": 9,
-    "questionText": "Deb came into the ER complaining of RLQ pain (right lower quadrant pain). She is 6 weeks late for her period and was on a birth control pill, but forgot to take it for a week while she was out of town last month. You do a UPT (urine pregnancy test) and find that it is positive. She is worried because she has had 2 previous miscarriages and delivered her first baby at 24 weeks. What is her GTPAL?",
+    "questionText": "Deb is 6 weeks late for her period, with 2 previous miscarriages and one preterm birth at 24 weeks. What is her GTPAL?",
     "questionImage": null,
     "options": [
       "G=4, T=0, P=1, A=2, L=1",
@@ -122,12 +122,12 @@
       "G=4, T=0, P=2, A=1, L=1"
     ],
     "correctAnswer": "G=4, T=0, P=1, A=2, L=1",
-    "explanationText": "Gravida=4 pregnancies (current + 3 prior), Term=0 (none delivered ≥37 weeks), Preterm=1 (24-week delivery), Abortions=2 (2 miscarriages), Living=1.",
+    "explanationText": "Gravida=4 (current + 3 previous), Term=0, Preterm=1, Abortions=2, Living=1.",
     "explanationImage": null
   },
   {
     "id": 10,
-    "questionText": "Allison is getting ready to have surgery and you are admitting her into the surgery holding area. She is not pregnant now. As you obtain her history, she tells you she has had 3 full term births, 1 elective abortion, 1 miscarriage, and delivered another baby 2 months early. What is her GTPAL?",
+    "questionText": "Allison has 3 full-term births, 1 elective abortion, 1 miscarriage, and 1 preterm delivery. What is her GTPAL?",
     "questionImage": null,
     "options": [
       "G=6, T=3, P=1, A=2, L=4",
@@ -136,7 +136,7 @@
       "G=6, T=3, P=1, A=3, L=4"
     ],
     "correctAnswer": "G=6, T=3, P=1, A=2, L=4",
-    "explanationText": "Gravida=6 total pregnancies, Term=3, Preterm=1 (2 months early), Abortions=2 (1 elective, 1 miscarriage), Living children=4.",
+    "explanationText": "GTPAL: Gravida=6, Term=3, Preterm=1, Abortions=2, Living=4.",
     "explanationImage": null
   },
   {
@@ -144,7 +144,7 @@
     "questionText": "Race",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "a social construct associated with power",
+    "correctAnswer": "A social construct associated with power",
     "explanationText": "",
     "explanationImage": null
   },
@@ -153,16 +153,16 @@
     "questionText": "Ethnicity",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "a collective identity, a sense of uniqueness within the larger society, and a distinction from nonmembers. Focuses on differences in meanings, values, and ways of living.",
+    "correctAnswer": "A collective identity reflecting uniqueness, cultural values, and ways of living",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 13,
-    "questionText": "Minority Group",
+    "questionText": "Minority group",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Consists of people who are living within a society in which they are disadvantaged in relation to power, control of their own lives and wealth",
+    "correctAnswer": "People disadvantaged in society with less access to power, resources, and wealth",
     "explanationText": "",
     "explanationImage": null
   },
@@ -171,166 +171,199 @@
     "questionText": "Spirituality",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "An individual's sense of peace, purpose, and connection to others as well as the person’s belief about the meaning of life",
+    "correctAnswer": "An individual's sense of peace, purpose, connection, and meaning in life",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 15,
-    "questionText": "FICA Tool",
+    "questionText": "FICA tool",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "correctAnswer": "Faith or Beliefs, Importance & Influence, Community, Address",
+    "explanationText": "Faith or Beliefs: What are your spiritual beliefs? Importance & Influence: Is faith important? Community: Are you connected to a faith group? Address: How can we support your spirituality?",
     "explanationImage": null
   },
   {
     "id": 16,
-    "questionText": "",
+    "questionText": "Five leading causes of infant death",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Faith or Beliefs, Importance & Influence, Community, Address",
-    "explanationText": "Faith or Beliefs: What are your spiritual beliefs? Do you consider yourself spiritual? Importance & Influence: Is faith/spirituality important to you? Community: Are you connect with a faith center? Is there a person/group that supports or assists you? Address: What can I do for you? What can we do to support your spiritual beliefs/practices?",
+    "correctAnswer": "Preterm birth/low birth weight, Injuries, SIDS, Maternal pregnancy complications, Congenital anomalies",
+    "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 17,
-    "questionText": "Five leading cause of infant death",
+    "questionText": "First trimester of pregnancy",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Preterm birth and low birth weight, Injuries, Sudden infant death syndrome, Maternal pregnancy complications",
+    "correctAnswer": "1 to 13 weeks gestation",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 18,
-    "questionText": "First pregancy term",
+    "questionText": "Second trimester of pregnancy",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "1 to 13 weeks",
+    "correctAnswer": "14 to 26 weeks gestation",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 19,
-    "questionText": "Second pregnancy term",
+    "questionText": "Third trimester of pregnancy",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "14 to 26 weeks",
+    "correctAnswer": "27 to 40 weeks gestation",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 20,
-    "questionText": "Third pregnancy term",
+    "questionText": "GTPAL",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "27 to 40 weeks",
-    "explanationText": "",
+    "correctAnswer": "Gravida, Term, Preterm, Abortions/Miscarriages, Living children",
+    "explanationText": "Gravida: total pregnancies. Term: 37–42 weeks. Preterm: 20–37 weeks. Abortions: elective or spontaneous. Living: children currently alive.",
     "explanationImage": null
   },
   {
     "id": 21,
-    "questionText": "GTPAL",
+    "questionText": "Congenital defect",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Gravida. Term. Preterm. Abortions/Miscarriages. Living children",
-    "explanationText": "Gravida: woman who is pregnant/number of pregnancies including this one. Term: 37-42 weeks. Preterm: 20-37 weeks. Abortions/Miscarriages: elective vs. spontaneous. Living children: currently",
+    "correctAnswer": "An abnormality that occurs during fetal development",
+    "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 22,
-    "questionText": "Congenital Defect",
+    "questionText": "Genetic defect",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Abnormality during development",
+    "correctAnswer": "An abnormality that occurs at conception",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 23,
-    "questionText": "Genetic Defect",
+    "questionText": "EDD",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Abnormality during conception",
+    "correctAnswer": "Estimated date of delivery",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 24,
-    "questionText": "EDD",
+    "questionText": "EDC",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Estimated Date of Delivery",
+    "correctAnswer": "Estimated date of confinement",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 25,
-    "questionText": "EDC",
+    "questionText": "LMP",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Estimated Date of Confinement",
+    "correctAnswer": "First day of the last menstrual period",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 26,
-    "questionText": "LMP",
+    "questionText": "Calculate due date based on LMP: August 1, 2021",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "First day of last menstrual period",
-    "explanationText": "",
+    "correctAnswer": "May 8, 2022",
+    "explanationText": "Subtract 3 months from August and add 7 days: May 8, 2022.",
     "explanationImage": null
   },
   {
     "id": 27,
-    "questionText": "Calculate due date LMP: 8-1-21",
+    "questionText": "Braxton Hicks contractions",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "5-8-22",
-    "explanationText": "Subtract 3 months to May, add 7 days to May 8",
+    "correctAnswer": "Intermittent, painless contractions that do not cause cervical dilation",
+    "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 28,
-    "questionText": "What are presumptive signs (subjective) of pregnancy?",
+    "questionText": "Colostrum",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
+    "correctAnswer": "A thick, yellowish “premilk” fluid that can appear by 14 weeks gestation",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 29,
-    "questionText": "What are probable signs (objective) of pregnancy?",
+    "questionText": "PICA",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
+    "correctAnswer": "Non-nutritive cravings for substances like ice, clay, or starch",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 30,
-    "questionText": "What are positive signs of pregnancy? (actual verification)",
+    "questionText": "A client who is 7 weeks gestation experiences morning nausea and vomiting. Which action should the nurse include in teaching?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts",
+    "options": [
+      "Eat crackers or plain toast before getting out of bed",
+      "Awaken during the night to eat a snack",
+      "Skip breakfast and eat lunch after nausea subsides",
+      "Eat a large evening meal"
+    ],
+    "correctAnswer": "Eat crackers or plain toast before getting out of bed",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 31,
-    "questionText": "What is a torch screening?",
+    "questionText": "A client at 23 weeks gestation asks about immunizations. Which statement is correct?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex",
+    "options": [
+      "Do not receive rubella vaccine while breastfeeding",
+      "Receive varicella vaccine before delivery",
+      "Influenza vaccination can be given during pregnancy",
+      "Tdap cannot be given until after delivery"
+    ],
+    "correctAnswer": "Influenza vaccination can be given during pregnancy",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 32,
-    "questionText": "The Embryotic period lasts for how many days/weeks?",
+    "questionText": "A nurse is measuring the fundal height at 22 weeks gestation. Where should the fundus be palpated?",
+    "questionImage": null,
+    "options": [
+      "Slightly above the umbilicus",
+      "5 cm above the umbilicus",
+      "Slightly below the umbilicus",
+      "5 cm below the umbilicus"
+    ],
+    "correctAnswer": "Slightly above the umbilicus",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "TORCH screening includes which infections?",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "Toxoplasmosis, Other (Hepatitis B), Rubella, Cytomegalovirus, Herpes simplex",
+    "explanationText": "Rubella vaccine should be given pre-conception; avoid during pregnancy and delay pregnancy 3 months after vaccine.",
+    "explanationImage": null
+  },
+  {
+    "id": 34,
+    "questionText": "Embryonic period duration",
     "questionImage": null,
     "options": [
       "15 days to 8 weeks",
@@ -338,642 +371,209 @@
       "Conception to 9 weeks",
       "5 days to 8 weeks"
     ],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 33,
-    "questionText": "A woman presents to the ED stating that she has been pregnant 4 times and has had one miscarriage. Her first child was born at 37 weeks, second child born at 41 weeks, and third child born at 42 weeks. All of her children are living. A urine pregnancy test indicates that she is pregnant. What is her GTPAL??",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 34,
-    "questionText": "A client presents to the clinic for her initial prenatal visit. The client states that her last menstrual cycle started on January 27th and is unsure when it ended. The nurse calculates her EDD as:",
-    "questionImage": null,
-    "options": [
-      "November 2nd",
-      "November 3rd",
-      "November 4th",
-      "November 5th"
-    ],
-    "correctAnswer": "",
+    "correctAnswer": "15 days to 8 weeks",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 35,
-    "questionText": "Braxton Hicks",
+    "questionText": "A woman presents pregnant 4 times, 1 miscarriage, children born at 37, 41, and 42 weeks, all living. What is her GTPAL?",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "intermittent, painless contractions that do not cause cervical dilatation",
+    "correctAnswer": "G=5, T=3, P=0, A=1, L=3",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 36,
-    "questionText": "Colostrum",
+    "questionText": "A client presents for initial prenatal visit. LMP was January 27. EDD is:",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "a thick, yellowish “premilk” fluid that can be present by 14 weeks",
-    "explanationText": "",
+    "options": [
+      "November 2",
+      "November 3",
+      "November 4",
+      "November 5"
+    ],
+    "correctAnswer": "November 3",
+    "explanationText": "Naegele’s rule: add 1 year, subtract 3 months, add 7 days to LMP.",
     "explanationImage": null
   },
   {
     "id": 37,
-    "questionText": "What is PICA?",
+    "questionText": "Presumptive signs (subjective) of pregnancy",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "Non-nutritive cravings",
+    "correctAnswer": "Nausea/vomiting, breast changes, increased urination, fatigue, missed period",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 38,
-    "questionText": "A client who is 7 weeks of gestation is experiencing nausea and vomiting in the morning. Which of the following information should the nurse include in the teaching?",
+    "questionText": "Probable signs (objective) of pregnancy",
     "questionImage": null,
-    "options": [
-      "Eat crackers of plain toast before getting out of bed.",
-      "Awaken during the night to eat a snack",
-      "Skip breakfast and each lunch after nausea has subsided.",
-      "Eat a large evening meal."
-    ],
-    "correctAnswer": "Eat crackers of plain toast before getting out of bed.",
+    "options": [],
+    "correctAnswer": "Uterine enlargement, positive hCG test, Hegar sign, Chadwick sign, Goodell sign",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 39,
-    "questionText": "A nurse is teaching a client who is at 23 weeks of gestation about immunizations. Which of the following statements should the nurse include in the teaching?",
+    "questionText": "Positive signs (confirmation) of pregnancy",
     "questionImage": null,
-    "options": [
-      "You should not receive the rubella vaccine while breastfeeding.",
-      "You should receive a varicella vaccine before you deliver.",
-      "You can receive an influenza vaccination during pregnancy.",
-      "You cannot receive the Tdap vaccine until after you deliver."
-    ],
-    "correctAnswer": "You can receive an influenza vaccination during pregnancy.",
+    "options": [],
+    "correctAnswer": "Fetal heart tones, ultrasound, palpation of fetal parts, fetal movements, radiologic confirmation",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 40,
-    "questionText": "A nurse is preparing to measure the fundal height of a client who is at 22 weeks of gestation. At which location should the nurse expect to palpate the fundus?",
-    "questionImage": null,
-    "options": [
-
-"5 cm above the umbilicus",
-"Slightly above the umbilicus",
-"Slightly below the umbilicus",
-"5 cm below the umbilicus"
-
-    ],
-    "correctAnswer": "Slightly above the umbilicus",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 41,
-    "questionText": "",
+    "questionText": "Calculate LMP due date: August 1, 2021",
     "questionImage": null,
     "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "correctAnswer": "May 8, 2022",
+    "explanationText": "Subtract 3 months from August, add 7 days: May 8",
+    "explanationImage": null
+
+},  {
+    "id": 41,
+    "questionText": "Which drug can cause confusion and disorientation in older adults admitted for a possible GI bleed?",
+    "questionImage": null,
+    "options": [
+      "An antacid",
+      "A proton pump inhibitor (PPI)",
+      "An H2 receptor antagonist",
+      "A mucosal protectant"
+    ],
+    "correctAnswer": "An H2 receptor antagonist",
+    "explanationText": "H2 receptor antagonists, especially in older adults, can cross the blood-brain barrier and may cause confusion or disorientation.",
     "explanationImage": null
   },
   {
     "id": 42,
-    "questionText": "",
+    "questionText": "Which medication is classified as an ACE inhibitor used to treat hypertension?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Captopril",
+      "Losartan"
+    ],
+    "correctAnswer": "Captopril",
+    "explanationText": "Captopril is an ACE inhibitor that lowers blood pressure by inhibiting the conversion of angiotensin I to angiotensin II.",
     "explanationImage": null
   },
   {
     "id": 43,
-    "questionText": "",
+    "questionText": "Which medication is a loop diuretic commonly used in hypertension management?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Hydrochlorothiazide",
+      "Furosemide",
+      "Captopril",
+      "Losartan"
+    ],
+    "correctAnswer": "Furosemide",
+    "explanationText": "Furosemide is a loop diuretic that promotes excretion of sodium and water, reducing blood volume and blood pressure.",
     "explanationImage": null
   },
   {
     "id": 44,
-    "questionText": "",
+    "questionText": "Which drug is a thiazide diuretic used for managing hypertension?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Captopril",
+      "Losartan"
+    ],
+    "correctAnswer": "Hydrochlorothiazide",
+    "explanationText": "Hydrochlorothiazide reduces fluid retention by increasing sodium and water excretion, helping lower blood pressure.",
     "explanationImage": null
   },
   {
     "id": 45,
-    "questionText": "",
+    "questionText": "Which medication is an angiotensin receptor blocker (ARB) used in hypertension?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Losartan",
+      "Captopril",
+      "Furosemide",
+      "Hydrochlorothiazide"
+    ],
+    "correctAnswer": "Losartan",
+    "explanationText": "Losartan blocks angiotensin II receptors, causing vasodilation and reducing blood pressure.",
     "explanationImage": null
   },
   {
     "id": 46,
-    "questionText": "",
+    "questionText": "Rho(D) immune globulin is indicated postpartum when which situation occurs?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Mother Rh–, baby Rh+",
+      "Mother Rh–, baby Rh–",
+      "Mother Rh+, baby Rh+",
+      "Mother Rh+, baby Rh–"
+    ],
+    "correctAnswer": "Mother Rh–, baby Rh+",
+    "explanationText": "Rho(D) immune globulin prevents maternal sensitization to Rh+ fetal blood, which can occur if the mother is Rh– and the baby is Rh+.",
     "explanationImage": null
   },
   {
     "id": 47,
-    "questionText": "",
+    "questionText": "Which finding during a prenatal visit at 16 weeks gestation requires nursing follow-up?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Temperature 98.6°F (37°C)",
+      "Respiratory rate 14/min",
+      "Heart rate 110/min",
+      "Fundal height consistent with gestational age"
+    ],
+    "correctAnswer": "Heart rate 110/min",
+    "explanationText": "A maternal heart rate of 110 may indicate tachycardia, which requires follow-up to rule out underlying conditions.",
     "explanationImage": null
   },
   {
     "id": 48,
-    "questionText": "",
+    "questionText": "Which prenatal activities are appropriate for a 16-week gestation visit?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Provide nutrition education",
+      "Obtain midstream urinalysis",
+      "Send blood for complete blood count",
+      "Send blood for alpha-fetoprotein (AFP) screening",
+      "Advise DNA testing",
+      "Collect specimens for vaginal culture"
+    ],
+    "correctAnswer": "Provide nutrition education, Obtain midstream urinalysis, Send blood for complete blood count, Send blood for alpha-fetoprotein (AFP) screening, Collect specimens for vaginal culture",
+    "explanationText": "These interventions are standard for mid-second trimester prenatal care. DNA testing is not routinely recommended at 16 weeks without indication.",
     "explanationImage": null
   },
   {
     "id": 49,
-    "questionText": "",
+    "questionText": "A patient presents with water intoxication after consuming 2 gallons of water. Which assessment finding is most concerning?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Thready pulse 110 bpm",
+      "Nausea and vomiting",
+      "Confusion and disorientation",
+      "Patellar reflex 1+"
+    ],
+    "correctAnswer": "Confusion and disorientation",
+    "explanationText": "Neurological changes such as confusion indicate cerebral edema from hyponatremia, a life-threatening complication of water intoxication.",
     "explanationImage": null
   },
   {
     "id": 50,
-    "questionText": "",
+    "questionText": "During a neurological assessment, which pulse characteristic indicates reduced perfusion?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 51,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 52,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 53,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 54,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 55,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 56,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 57,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 58,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 59,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 60,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 61,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 62,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 63,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 64,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 65,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 66,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 67,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 68,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 69,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 70,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 71,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 72,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 73,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 74,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 75,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 76,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 77,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 78,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 79,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 80,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 81,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 82,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 83,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 84,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 85,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 86,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 87,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 88,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 89,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 90,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 91,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 92,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 93,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 94,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 95,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 96,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 97,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 98,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 99,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 100,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Bounding",
+      "Thready",
+      "Regular",
+      "Full"
+    ],
+    "correctAnswer": "Thready",
+    "explanationText": "A thready pulse is weak and indicates reduced stroke volume or hypovolemia.",
     "explanationImage": null
   }
 ]

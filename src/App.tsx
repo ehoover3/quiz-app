@@ -28,6 +28,8 @@ export default function App() {
         <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>Pharmacology</button>
         <button className="button" onClick={() => handleSelectQuiz("healthAssessment")}>Health Assessment</button>
         <button className="button" onClick={() => handleSelectQuiz("fundamentals")}>Fundamentals</button>
+        <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>Pharmacology</button>
+
       </div>
     );
   }
