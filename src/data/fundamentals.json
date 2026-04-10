@@ -1,907 +1,380 @@
 [
   {
     "id": 1,
-    "questionText": "",
+    "questionText": "A nurse is assessing a client who has respiratory acidosis. Which of the following findings should the nurse expect?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Abdominal pain",
+      "Numbness of fingers",
+      "Lethargy",
+      "Dry skin"
+    ],
+    "correctAnswer": "Lethargy",
+    "explanationText": "Manifestations of respiratory acidosis can include anxiety, confusion, and lethargy.",
     "explanationImage": null
   },
   {
     "id": 2,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client who has a chest tube. Which of the following actions should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Strip the client's chest tube every 2 hrs.",
+      "Place the chest tube drainage system above the level of the client's heart.",
+      "Tape the connections on the client's chest tube.",
+      "Loop the tubing of the chest tube on the client's bed."
+    ],
+    "correctAnswer": "Tape the connections on the client's chest tube.",
+    "explanationText": "The connections on the chest tube should be securely taped to reduce the risk of disconnection which can cause air to enter the client's pleural cavity.",
     "explanationImage": null
   },
   {
     "id": 3,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client who has metabolic alkalosis. Which of the following actions should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Have the client breathe into a paper bag.",
+      "Plan to administer sodium bicarbonate to the client.",
+      "Place the client on seizure precautions.",
+      "Encourage the client to breathe slowly."
+    ],
+    "correctAnswer": "Place the client on seizure precautions.",
+    "explanationText": "Initiate seizure precautions because metabolic alkalosis puts client at risk for seizure activity.",
     "explanationImage": null
   },
   {
     "id": 4,
-    "questionText": "",
+    "questionText": "A nurse is planning to administer a unit of PRBCs for a client. Which of the following actions should the nurse plan to take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Ensure 2 nurses check the label on the unit of blood.",
+      "Administer the blood transfusion over 1 hr.",
+      "Flush the transfusion tubing with 5% dextrose in water.",
+      "Stay with the client for the first 10 min after starting the transfusion."
+    ],
+    "correctAnswer": "Ensure 2 nurses check the label on the unit of blood.",
+    "explanationText": "Two nurses should verify the blood product with the client's identification and blood type compatibility to reduce the risk of transfusion reaction.",
     "explanationImage": null
   },
   {
     "id": 5,
-    "questionText": "",
+    "questionText": "A nurse is assisting with the care of a client who has metabolic alkalosis. Which of the following actions should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Have the client breathe into a paper bag.",
+      "Plan to administer sodium bicarbonate to the client.",
+      "Place the client on seizure precautions.",
+      "Encourage the client to breathe slowly."
+    ],
+    "correctAnswer": "Place the client on seizure precautions.",
+    "explanationText": "The nurse should initiate seizure precautions because the client who has metabolic alkalosis is at risk for seizure activity.",
     "explanationImage": null
   },
   {
     "id": 6,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client receiving a continuous infusion through a peripheral IV device. The nurse notes the catheter site is cool, swollen, blanched, and painful to touch. Which of the following actions should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Slow the IV infusion.",
+      "Aspirate fluid from the IV cannula.",
+      "Place a pressure dressing over the IV site.",
+      "Place the affected extremity below the level of the client’s heart."
+    ],
+    "correctAnswer": "Aspirate fluid from the IV cannula.",
+    "explanationText": "The nurse should attempt to aspirate fluid from the IV cannula to reduce further tissue injury from infiltrated fluid.",
     "explanationImage": null
   },
   {
     "id": 7,
-    "questionText": "",
+    "questionText": "A nurse is teaching a client how to perform a dressing change. The nurse asks the client to explain the information in their own words. Which of the following types of teaching methods is the nurse utilizing?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Teach-back",
+      "Question-and-answer",
+      "Lecture",
+      "Role-play"
+    ],
+    "correctAnswer": "Teach-back",
+    "explanationText": "Teach-back is an active teaching method used to evaluate client understanding by having the client repeat information in their own words.",
     "explanationImage": null
   },
   {
     "id": 8,
-    "questionText": "",
+    "questionText": "A nurse is assessing a client who has diarrhea. Which of the following findings is a manifestation of hypokalemia?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Cerebral edema",
+      "Hypertension",
+      "Muscle weakness",
+      "Hyperactive bowel sounds"
+    ],
+    "correctAnswer": "Muscle weakness",
+    "explanationText": "Hypokalemia can cause muscle weakness, hypotension, and dysrhythmias.",
     "explanationImage": null
   },
   {
     "id": 9,
-    "questionText": "",
+    "questionText": "A nurse is teaching a newly licensed nurse about client education. The nurse should include that which of the following is the role of the nurse in client education?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Prescribe medications",
+      "Diagnose client illnesses",
+      "Describe the steps of a surgical procedure",
+      "Encourage clients to advocate for themselves."
+    ],
+    "correctAnswer": "Encourage clients to advocate for themselves.",
+    "explanationText": "Client education should empower clients to take control of their care and advocate for themselves.",
     "explanationImage": null
   },
   {
     "id": 10,
-    "questionText": "",
+    "questionText": "A nurse is teaching a client who has a new colostomy. Which of the following outcomes should the nurse expect?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Increase in length of care in the health care facility",
+      "Report of anxiety",
+      "Report of empowerment",
+      "Increase in need for pain medication"
+    ],
+    "correctAnswer": "Report of empowerment",
+    "explanationText": "Client education should promote independence and empowerment in managing the colostomy.",
     "explanationImage": null
   },
   {
     "id": 11,
-    "questionText": "",
+    "questionText": "A nurse is teaching a client how to use crutches. Which of the following interventions uses the psychomotor domain of learning?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Show the client a video on walking with crutches.",
+      "Ask the client to demonstrate walking with crutches.",
+      "Describe the steps of walking with crutches for the client.",
+      "Encourage the client to ask questions about walking with crutches."
+    ],
+    "correctAnswer": "Ask the client to demonstrate walking with crutches.",
+    "explanationText": "Psychomotor learning involves physical demonstration of skills.",
     "explanationImage": null
   },
   {
     "id": 12,
-    "questionText": "",
+    "questionText": "A nurse is preparing to teach a client who has impaired cognition. Which of the following actions should the nurse include in the plan?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Avoid making eye contact with the client during the educational session.",
+      "Involve the client’s family in the educational session.",
+      "Speak quickly to the client.",
+      "Provide long educational sessions."
+    ],
+    "correctAnswer": "Involve the client’s family in the educational session.",
+    "explanationText": "Family involvement helps reinforce teaching for clients with impaired cognition.",
     "explanationImage": null
   },
   {
     "id": 13,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client receiving a continuous IV infusion through a short-peripheral device. The nurse notes the catheter site is warm and painful to touch. Which of the following actions should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Change the client’s IV tubing every 96 hr.",
+      "Replace the client’s transparent IV dressing every 24 hr.",
+      "Check the client’s IV site every 8 hr.",
+      "Ensure the client’s IV solution is changed every 48 hr"
+    ],
+    "correctAnswer": "Change the client’s IV tubing every 96 hr.",
+    "explanationText": "IV tubing for continuous infusions should be changed every 96 hours to reduce infection risk.",
     "explanationImage": null
   },
   {
     "id": 14,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client receiving PRBCs. The nurse suspects a transfusion reaction. Which of the following actions should the nurse take first?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Infuse 0.9% sodium chloride.",
+      "Return the unit of blood to the blood bank.",
+      "Stop the transfusion.",
+      "Obtain a blood sample from the client."
+    ],
+    "correctAnswer": "Stop the transfusion.",
+    "explanationText": "The priority action is to stop the transfusion immediately to prevent further harm.",
     "explanationImage": null
   },
   {
     "id": 15,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client who has a new colostomy and states they are not ready to look at the stoma. The nurse encourages the client to share their feelings about the colostomy. Which of the following teaching strategies is the nurse utilizing?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Question-and-answer",
+      "Discussion",
+      "Return demonstration",
+      "Role-play"
+    ],
+    "correctAnswer": "Discussion",
+    "explanationText": "Discussion allows expression of feelings and is part of the affective learning domain.",
     "explanationImage": null
   },
   {
     "id": 16,
-    "questionText": "",
+    "questionText": "A nurse is planning to insert a short-peripheral IV device into the arm of a client who has a bleeding disorder. Which of the following actions should the nurse plan to take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Apply a tourniquet to the client’s arm.",
+      "Apply a warm compress over the selected insertion site.",
+      "Elevate the client’s arm above the heart.",
+      "Apply friction to the selected insertion site."
+    ],
+    "correctAnswer": "Apply a warm compress over the selected insertion site.",
+    "explanationText": "Warm compress promotes vasodilation and easier, less traumatic IV insertion.",
     "explanationImage": null
   },
   {
     "id": 17,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client who has metabolic alkalosis. Which of the following actions should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Have the client breathe into a paper bag.",
+      "Plan to administer sodium bicarbonate to the client.",
+      "Place the client on continuous cardiac monitoring.",
+      "Obtain a prescription for insulin for the client."
+    ],
+    "correctAnswer": "Place the client on continuous cardiac monitoring.",
+    "explanationText": "Metabolic alkalosis increases risk for dysrhythmias; cardiac monitoring is required.",
     "explanationImage": null
   },
   {
     "id": 18,
-    "questionText": "",
+    "questionText": "A nurse is assessing a client receiving PRBCs. Which finding indicates an allergic transfusion reaction?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Distended neck veins",
+      "Flank pain",
+      "Elevated blood pressure",
+      "Wheezing"
+    ],
+    "correctAnswer": "Wheezing",
+    "explanationText": "Wheezing is a sign of an allergic transfusion reaction requiring immediate intervention.",
     "explanationImage": null
   },
   {
     "id": 19,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client who has nausea and vomiting. Which acid-base imbalance is the client at risk for?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Respiratory acidosis",
+      "Metabolic acidosis",
+      "Respiratory alkalosis",
+      "Metabolic alkalosis"
+    ],
+    "correctAnswer": "Metabolic alkalosis",
+    "explanationText": "Vomiting causes loss of gastric acid leading to metabolic alkalosis.",
     "explanationImage": null
   },
   {
     "id": 20,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client with COPD. Which acid-base imbalance is the client at risk for?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Metabolic alkalosis",
+      "Metabolic acidosis",
+      "Respiratory alkalosis",
+      "Respiratory acidosis"
+    ],
+    "correctAnswer": "Respiratory acidosis",
+    "explanationText": "COPD leads to CO2 retention causing respiratory acidosis.",
     "explanationImage": null
   },
   {
     "id": 21,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client with respiratory alkalosis and hyperventilation. Which action should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Administer sodium bicarbonate",
+      "Have the client place head between knees",
+      "Have the client breathe into a paper bag",
+      "Administer insulin"
+    ],
+    "correctAnswer": "Have the client breathe into a paper bag",
+    "explanationText": "Paper bag breathing helps increase CO2 levels and correct respiratory alkalosis.",
     "explanationImage": null
   },
   {
     "id": 22,
-    "questionText": "",
+    "questionText": "A nurse is assessing a client with chronic kidney disease. Which finding indicates hyperkalemia?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Cerebral edema",
+      "Hypoactive bowel sounds",
+      "Wheezing",
+      "Decreased deep tendon reflexes"
+    ],
+    "correctAnswer": "Hypoactive bowel sounds",
+    "explanationText": "Hyperkalemia decreases GI motility leading to hypoactive bowel sounds.",
     "explanationImage": null
   },
   {
     "id": 23,
-    "questionText": "",
+    "questionText": "A nurse is planning preoperative teaching. Which action should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Ensure privacy for the client",
+      "Dim the lights in the room",
+      "Start with least important information",
+      "Provide material at eighth-grade reading level"
+    ],
+    "correctAnswer": "Provide material at eighth-grade reading level",
+    "explanationText": "Educational materials should be at an appropriate reading level to ensure understanding.",
     "explanationImage": null
   },
   {
     "id": 24,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client with a peripheral IV site that is warm and painful. Which action should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Apply a warm compress",
+      "Place a pressure dressing",
+      "Slow IV infusion",
+      "Place extremity below heart"
+    ],
+    "correctAnswer": "Apply a warm compress",
+    "explanationText": "Warm compress helps reduce inflammation associated with phlebitis.",
     "explanationImage": null
   },
   {
     "id": 25,
-    "questionText": "",
+    "questionText": "A nurse is providing preoperative teaching about coughing and deep breathing. Which statement is correct?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Exhale through your nose",
+      "Repeat every 2 hrs",
+      "Hold your breath for 5 seconds",
+      "Inhale through your mouth"
+    ],
+    "correctAnswer": "Repeat every 2 hrs",
+    "explanationText": "Deep breathing should be performed every 1–2 hours to prevent atelectasis.",
     "explanationImage": null
   },
   {
     "id": 26,
-    "questionText": "",
+    "questionText": "A nurse is caring for a client with a tracheostomy. Which action should the nurse take?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Preoxygenate for 10 seconds",
+      "Clean with chlorhexidine solution",
+      "Place in lateral position",
+      "Perform care every 4 hr"
+    ],
+    "correctAnswer": "Clean with chlorhexidine solution",
+    "explanationText": "Chlorhexidine helps reduce infection risk during tracheostomy care.",
     "explanationImage": null
   },
   {
     "id": 27,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 28,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 29,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 30,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 31,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 32,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 33,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 34,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 35,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 36,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 37,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 38,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 39,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 40,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 41,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 42,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 43,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 44,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 45,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 46,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 47,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 48,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 49,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 50,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 51,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 52,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 53,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 54,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 55,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 56,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 57,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 58,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 59,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 60,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 61,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 62,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 63,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 64,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 65,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 66,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 67,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 68,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 69,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 70,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 71,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 72,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 73,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 74,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 75,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 76,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 77,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 78,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 79,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 80,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 81,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-
-
-
-
-
-  {
-    "id": 82,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 83,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 84,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 85,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 86,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 87,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 88,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 89,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 90,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 91,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 92,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 93,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 94,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 95,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 96,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 97,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 98,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 99,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 100,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "questionText": "A nurse is planning to calculate a client's cardiac output. Which data should be obtained?",
+    "questionImage": null,
+    "options": [
+      "Temperature",
+      "Heart rate",
+      "Blood pressure",
+      "Respiratory rate"
+    ],
+    "correctAnswer": "Heart rate",
+    "explanationText": "Cardiac output = heart rate × stroke volume.",
     "explanationImage": null
   }
 ]

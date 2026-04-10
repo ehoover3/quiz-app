@@ -1,213 +1,93 @@
 [
   {
-    "id": 1,
-    "questionText": "Which drug can cause confusion in older adults?",
-    "options": ["Antacid", "PPI", "H2 antagonist", "Mucosal protectant"],
-    "correctAnswer": "H2 antagonist",
-    "explanationText": "H2 antagonists (histamine-2 receptor blockers) reduce stomach acid but can cross the blood-brain barrier and cause confusion, especially in older adults."
+    "id": 31,
+    "questionText": "A patient still has chest pain after taking nitroglycerin. What is the priority action?",
+    "options": ["Give another dose of nitroglycerin", "Call ambulance/emergency services", "Have the patient rest", "Check blood pressure"],
+    "correctAnswer": "Call ambulance/emergency services",
+    "explanationText": "Chest pain that does not resolve after nitroglycerin may indicate myocardial infarction and requires emergency intervention."
   },
   {
-    "id": 2,
-    "questionText": "How should PPIs be taken?",
-    "options": ["With meals", "30–60 minutes before meals", "Only when symptomatic", "At bedtime"],
-    "correctAnswer": "30–60 minutes before meals",
-    "explanationText": "Proton pump inhibitors (PPIs) reduce gastric acid production and work best when taken 30–60 minutes before meals when proton pumps are most active."
+    "id": 32,
+    "questionText": "Chronic stable angina is best described as:",
+    "options": ["Pain that occurs at rest", "Pain that improves with rest", "Pain with fever", "Pain unrelated to exertion"],
+    "correctAnswer": "Pain that improves with rest",
+    "explanationText": "Stable angina is typically triggered by exertion and resolves with rest or nitroglycerin."
   },
   {
-    "id": 3,
-    "questionText": "When should antiemetics be given for chemotherapy?",
-    "options": ["4 hours before", "30–60 minutes before", "At same time", "After nausea starts"],
-    "correctAnswer": "30–60 minutes before",
-    "explanationText": "Antiemetics prevent nausea by blocking receptors in the chemoreceptor trigger zone (CTZ) and should be given before chemotherapy to be effective."
+    "id": 33,
+    "questionText": "Which symptom pattern is most consistent with a duodenal ulcer?",
+    "options": ["Pain worse after eating", "Pain relieved by eating", "No relation to meals", "Constant severe vomiting"],
+    "correctAnswer": "Pain relieved by eating",
+    "explanationText": "Duodenal ulcer pain is often relieved by food and may return a few hours after meals or at night."
   },
   {
-    "id": 4,
-    "questionText": "Why is atropine added to diphenoxylate?",
-    "options": ["Enhance effect", "Discourage abuse", "Reduce side effects", "Absorb toxins"],
-    "correctAnswer": "Discourage abuse",
-    "explanationText": "Atropine is added to diphenoxylate to discourage abuse by causing unpleasant anticholinergic side effects at high doses."
+    "id": 34,
+    "questionText": "Which foods should a patient with GERD avoid?",
+    "options": ["Chocolate, citrus, caffeine", "Rice, chicken, water", "Bananas and oatmeal", "Lean fish and vegetables"],
+    "correctAnswer": "Chocolate, citrus, caffeine",
+    "explanationText": "Chocolate, citrus, and caffeine can relax the lower esophageal sphincter and worsen GERD symptoms."
   },
   {
-    "id": 5,
-    "questionText": "Which drugs cause dry skin and urinary retention?",
-    "options": ["Anticholinergics", "Adsorbents", "Probiotics", "Opiates"],
-    "correctAnswer": "Anticholinergics",
-    "explanationText": "Anticholinergics block acetylcholine, leading to dry skin, dry mouth, urinary retention, and constipation."
+    "id": 35,
+    "questionText": "Metoclopramide works by:",
+    "options": ["Blocking dopamine receptors in the CTZ and increasing gastric emptying", "Increasing acid secretion", "Blocking histamine receptors", "Coating gastric ulcers"],
+    "correctAnswer": "Blocking dopamine receptors in the CTZ and increasing gastric emptying",
+    "explanationText": "Metoclopramide is a prokinetic antiemetic that blocks dopamine in the chemoreceptor trigger zone and promotes gastric emptying."
   },
   {
-    "id": 6,
-    "questionText": "Common side effect of captopril?",
-    "options": ["Dry cough", "Constipation", "Bradycardia", "Hypercalcemia"],
-    "correctAnswer": "Dry cough",
-    "explanationText": "Captopril is an angiotensin-converting enzyme (ACE) inhibitor. It increases bradykinin levels, which can cause a persistent dry cough."
+    "id": 36,
+    "questionText": "A serious adverse effect of ondansetron (Zofran) is:",
+    "options": ["Hypoglycemia", "Prolonged QT interval", "Bradycardia", "Hypertension"],
+    "correctAnswer": "Prolonged QT interval",
+    "explanationText": "Ondansetron can prolong the QT interval, increasing the risk of dangerous cardiac arrhythmias."
   },
   {
-    "id": 7,
-    "questionText": "Captopril can cause which electrolyte imbalance?",
-    "options": ["Hypokalemia", "Hyperkalemia", "Hyponatremia", "Hypercalcemia"],
-    "correctAnswer": "Hyperkalemia",
-    "explanationText": "ACE inhibitors reduce aldosterone, leading to potassium retention and hyperkalemia (high potassium levels)."
+    "id": 37,
+    "questionText": "How long does docusate sodium typically take to produce a bowel movement?",
+    "options": ["30 minutes", "6 hours", "1 day", "2–3 days"],
+    "correctAnswer": "2–3 days",
+    "explanationText": "Docusate sodium is a stool softener that may take 2–3 days to produce a bowel movement."
   },
   {
-    "id": 8,
-    "questionText": "Action of furosemide?",
-    "options": ["Increase Na reabsorption", "Block Na/Cl in loop", "Retain potassium", "Reduce calcium loss"],
-    "correctAnswer": "Block Na/Cl in loop",
-    "explanationText": "Furosemide is a loop diuretic that blocks sodium and chloride reabsorption in the loop of Henle, increasing urine output."
+    "id": 38,
+    "questionText": "Antacids should be used cautiously in patients with:",
+    "options": ["Asthma", "Chronic kidney disease (CKD)", "Hypertension", "GERD"],
+    "correctAnswer": "Chronic kidney disease (CKD)",
+    "explanationText": "Antacids can accumulate electrolytes such as magnesium or aluminum in patients with renal impairment."
   },
   {
-    "id": 9,
-    "questionText": "Serious adverse effect of furosemide?",
-    "options": ["Hyperkalemia", "Ototoxicity", "Constipation", "Hypertension"],
-    "correctAnswer": "Ototoxicity",
-    "explanationText": "Rapid intravenous (IV) administration of furosemide can cause ototoxicity, or hearing damage."
+    "id": 39,
+    "questionText": "Diphenoxylate with atropine is used to treat diarrhea. Its primary mechanism includes:",
+    "options": ["Increasing intestinal motility", "Opioid-like slowing of GI motility", "Increasing acid secretion", "Stimulating bowel movements"],
+    "correctAnswer": "Opioid-like slowing of GI motility",
+    "explanationText": "Diphenoxylate is an opioid antidiarrheal that slows GI motility; atropine is added to discourage abuse."
   },
   {
-    "id": 10,
-    "questionText": "HCTZ commonly causes:",
-    "options": ["Hyperkalemia", "Hypokalemia", "Hypernatremia", "Hypermagnesemia"],
-    "correctAnswer": "Hypokalemia",
-    "explanationText": "Hydrochlorothiazide (HCTZ) is a thiazide diuretic that increases potassium excretion, leading to hypokalemia."
+    "id": 40,
+    "questionText": "Sucralfate should be administered:",
+    "options": ["With meals", "On an empty stomach, 1 hour before meals", "Only at bedtime", "After meals"],
+    "correctAnswer": "On an empty stomach, 1 hour before meals",
+    "explanationText": "Sucralfate coats ulcers and works best when taken on an empty stomach before meals."
   },
   {
-    "id": 11,
-    "questionText": "HCTZ is used to treat:",
-    "options": ["Heart block", "Hypertension", "Ulcers", "Asthma"],
-    "correctAnswer": "Hypertension",
-    "explanationText": "HCTZ lowers blood pressure by reducing blood volume, making it a first-line treatment for hypertension (HTN)."
+    "id": 41,
+    "questionText": "Which is a key risk and use combination for omeprazole (PPI)?",
+    "options": ["Osteoporosis risk and use with antibiotics for H. pylori", "Kidney stones and use with insulin", "Bradycardia and use with beta blockers", "Hyperglycemia and use with steroids"],
+    "correctAnswer": "Osteoporosis risk and use with antibiotics for H. pylori",
+    "explanationText": "Omeprazole is a proton pump inhibitor used for GERD and ulcers; long-term use increases fracture risk and it is used in H. pylori combination therapy with antibiotics."
   },
   {
-    "id": 12,
-    "questionText": "Losartan works by:",
-    "options": ["Blocking beta receptors", "Inhibiting ACE", "Blocking angiotensin II", "Increasing aldosterone"],
-    "correctAnswer": "Blocking angiotensin II",
-    "explanationText": "Losartan is an angiotensin II receptor blocker (ARB) that prevents vasoconstriction and lowers blood pressure."
+    "id": 42,
+    "questionText": "Smoking has what effect on gastric acid production?",
+    "options": ["Decreases acid production", "No effect", "Increases acid production", "Neutralizes acid"],
+    "correctAnswer": "Increases acid production",
+    "explanationText": "Smoking increases gastric acid secretion and can worsen peptic ulcer disease and GERD."
   },
   {
-    "id": 13,
-    "questionText": "Less common with losartan?",
-    "options": ["Hyperkalemia", "Dry cough", "Hypotension", "Dizziness"],
-    "correctAnswer": "Dry cough",
-    "explanationText": "ARBs do not increase bradykinin like ACE inhibitors, so dry cough is less common."
-  },
-  {
-    "id": 14,
-    "questionText": "Spironolactone is:",
-    "options": ["Loop diuretic", "Thiazide", "Potassium-sparing", "Osmotic"],
-    "correctAnswer": "Potassium-sparing",
-    "explanationText": "Spironolactone is a potassium-sparing diuretic that blocks aldosterone, leading to sodium loss and potassium retention."
-  },
-  {
-    "id": 15,
-    "questionText": "Spironolactone can cause:",
-    "options": ["Hypokalemia", "Hyperkalemia", "Ototoxicity", "Dry cough"],
-    "correctAnswer": "Hyperkalemia",
-    "explanationText": "Because it retains potassium, spironolactone can lead to hyperkalemia."
-  },
-
-  {
-    "id": 52,
-    "questionText": "What is the priority action for a patient experiencing anaphylaxis?",
-    "options": ["Check BP", "Assess airway and respirations", "Start IV fluids", "Give antihistamines"],
-    "correctAnswer": "Assess airway and respirations",
-    "explanationText": "Anaphylaxis is a severe allergic reaction that can cause airway obstruction. Airway and breathing are always the priority before circulation such as blood pressure (BP)."
-  },
-  {
-    "id": 53,
-    "questionText": "Which lab marker is most specific for myocardial infarction?",
-    "options": ["CK-MB", "Troponin", "BNP", "Myoglobin"],
-    "correctAnswer": "Troponin",
-    "explanationText": "Troponin is the most specific marker for myocardial infarction (MI), which is heart muscle damage due to lack of oxygen."
-  },
-  {
-    "id": 54,
-    "questionText": "Minimum MAP needed for organ perfusion?",
-    "options": ["50", "60", "70", "90"],
-    "correctAnswer": "70",
-    "explanationText": "Mean arterial pressure (MAP) reflects perfusion to vital organs. A MAP of at least 70 mmHg is needed to maintain adequate blood flow."
-  },
-  {
-    "id": 55,
-    "questionText": "Patient 25 lbs above baseline weight—anticipate?",
-    "options": ["Antibiotic", "Diuretic", "Insulin", "Beta blocker"],
-    "correctAnswer": "Diuretic",
-    "explanationText": "Rapid weight gain indicates fluid overload. Diuretics help remove excess fluid and are commonly used in heart failure and hypertension (HTN)."
-  },
-  {
-    "id": 56,
-    "questionText": "When should diuretics be given?",
-    "options": ["After 6 PM", "Before 3 PM", "At bedtime", "PRN"],
-    "correctAnswer": "Before 3 PM",
-    "explanationText": "Diuretics increase urine output. Giving them earlier in the day helps prevent nocturia (frequent nighttime urination)."
-  },
-  {
-    "id": 57,
-    "questionText": "How many BP readings to diagnose hypertension?",
-    "options": ["1", "2", "3", "5"],
-    "correctAnswer": "3",
-    "explanationText": "Hypertension (HTN) is diagnosed after multiple elevated blood pressure (BP) readings, typically three."
-  },
-  {
-    "id": 58,
-    "questionText": "Key teaching for clonidine?",
-    "options": ["Stop abruptly", "Avoid driving initially", "Take with grapefruit", "Causes insomnia"],
-    "correctAnswer": "Avoid driving initially",
-    "explanationText": "Clonidine lowers blood pressure (BP) by reducing sympathetic outflow and can cause sedation, so patients should avoid driving initially."
-  },
-  {
-    "id": 59,
-    "questionText": "Stopping clonidine abruptly causes:",
-    "options": ["Hypotension", "Rebound hypertension", "Bradycardia", "Hyperkalemia"],
-    "correctAnswer": "Rebound hypertension",
-    "explanationText": "Abrupt discontinuation can cause rebound hypertension (HTN), a sudden increase in blood pressure due to increased sympathetic activity."
-  },
-  {
-    "id": 60,
-    "questionText": "When should atorvastatin be taken?",
-    "options": ["Morning", "Afternoon", "Evening", "With meals"],
-    "correctAnswer": "Evening",
-    "explanationText": "Cholesterol production in the liver is highest at night, so atorvastatin is most effective when taken in the evening."
-  },
-  {
-    "id": 61,
-    "questionText": "Before giving carvedilol, assess:",
-    "options": ["RR", "Pulse for 1 minute", "Temp", "Glucose"],
-    "correctAnswer": "Pulse for 1 minute",
-    "explanationText": "Carvedilol lowers heart rate (HR) and blood pressure (BP). Hold if HR is below 60 beats per minute."
-  },
-  {
-    "id": 62,
-    "questionText": "Sign of hypokalemia?",
-    "options": ["Muscle cramps", "Bradycardia", "HTN", "Confusion"],
-    "correctAnswer": "Muscle cramps",
-    "explanationText": "Hypokalemia (low potassium) can cause muscle cramps, weakness, and arrhythmias."
-  },
-  {
-    "id": 63,
-    "questionText": "Furosemide IV rate?",
-    "options": ["Rapid push", ">20 mg/min", "≤10 mg/min", "With food"],
-    "correctAnswer": "≤10 mg/min",
-    "explanationText": "Furosemide given intravenously (IV) must be administered slowly (≤10 mg/min) to prevent ototoxicity."
-  },
-  {
-    "id": 64,
-    "questionText": "Contraindication for laxatives?",
-    "options": ["HTN", "Bowel obstruction", "Headache", "GERD"],
-    "correctAnswer": "Bowel obstruction",
-    "explanationText": "Laxatives are contraindicated in bowel obstruction due to risk of perforation. GERD (gastroesophageal reflux disease) is not a contraindication."
-  },
-  {
-    "id": 65,
-    "questionText": "GERD patient should report:",
-    "options": ["Heartburn", "Constipation", "Diarrhea", "Bloating"],
-    "correctAnswer": "Diarrhea",
-    "explanationText": "GERD (gastroesophageal reflux disease) is treated with proton pump inhibitors (PPIs), which can increase the risk of Clostridium difficile infection, so diarrhea must be reported."
-  },
-  {
-    "id": 66,
-    "questionText": "Modifiable CAD risk factor?",
-    "options": ["Age", "Genetics", "Low HDL", "Gender"],
-    "correctAnswer": "Low HDL",
-    "explanationText": "Coronary artery disease (CAD) risk is increased by low high-density lipoprotein (HDL), which is the 'good cholesterol' and can be improved with lifestyle changes."
+    "id": 43,
+    "questionText": "A laxative should NOT be given in which situation?",
+    "options": ["Constipation", "Fecal impaction", "Hypertension", "GERD"],
+    "correctAnswer": "Fecal impaction",
+    "explanationText": "Laxatives are contraindicated in fecal impaction due to risk of bowel perforation and obstruction complications."
   }
 ]
