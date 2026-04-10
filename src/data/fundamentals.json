@@ -303,8 +303,8 @@
       "Wheezing",
       "Decreased deep tendon reflexes"
     ],
-    "correctAnswer": "Hypoactive bowel sounds",
-    "explanationText": "Hyperkalemia decreases GI motility leading to hypoactive bowel sounds.",
+    "correctAnswer": "Decreased deep tendon reflexes",
+    "explanationText": "Hyperkalemia can cause decreased deep tendon reflexes, paralysis, and dysrhythmias.",
     "explanationImage": null
   },
   {
@@ -359,8 +359,8 @@
       "Place in lateral position",
       "Perform care every 4 hr"
     ],
-    "correctAnswer": "Clean with chlorhexidine solution",
-    "explanationText": "Chlorhexidine helps reduce infection risk during tracheostomy care.",
+    "correctAnswer": "Perform care every 4 hr",
+    "explanationText": "The nurse should perform tracheostomy care every 4 hr to reduce the risk of infection.",
     "explanationImage": null
   },
   {
