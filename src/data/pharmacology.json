@@ -2,613 +2,212 @@
   {
     "id": 1,
     "questionText": "Which drug can cause confusion in older adults?",
-    "options": [
-      "Antacid",
-      "PPI",
-      "H2 antagonist",
-      "Mucosal protectant"
-    ],
+    "options": ["Antacid", "PPI", "H2 antagonist", "Mucosal protectant"],
     "correctAnswer": "H2 antagonist",
-    "explanationText": "H2 antagonists are used to reduce gastric acid in conditions like GERD and GI bleeds. They can cross the blood-brain barrier and cause confusion, especially in older adults. Nurses should monitor mental status closely. This is why H2 antagonists are correct."
+    "explanationText": "H2 antagonists (histamine-2 receptor blockers) reduce stomach acid but can cross the blood-brain barrier and cause confusion, especially in older adults."
   },
   {
     "id": 2,
     "questionText": "How should PPIs be taken?",
-    "options": [
-      "With meals",
-      "30–60 minutes before meals",
-      "Only when symptomatic",
-      "At bedtime"
-    ],
+    "options": ["With meals", "30–60 minutes before meals", "Only when symptomatic", "At bedtime"],
     "correctAnswer": "30–60 minutes before meals",
-    "explanationText": "PPIs are used to treat GERD and ulcers by blocking acid secretion. They work best when taken before meals when proton pumps are active. Nurses should teach patients to take them on an empty stomach. This makes this answer correct."
+    "explanationText": "Proton pump inhibitors (PPIs) reduce gastric acid production and work best when taken 30–60 minutes before meals when proton pumps are most active."
   },
   {
     "id": 3,
     "questionText": "When should antiemetics be given for chemotherapy?",
-    "options": [
-      "4 hours before",
-      "30–60 minutes before",
-      "At same time",
-      "After nausea starts"
-    ],
+    "options": ["4 hours before", "30–60 minutes before", "At same time", "After nausea starts"],
     "correctAnswer": "30–60 minutes before",
-    "explanationText": "Antiemetics are used to prevent nausea by blocking receptors in the CTZ. Giving them before chemotherapy prevents symptoms. Nurses should administer 30–60 minutes prior. This is why this is correct."
+    "explanationText": "Antiemetics prevent nausea by blocking receptors in the chemoreceptor trigger zone (CTZ) and should be given before chemotherapy to be effective."
   },
   {
     "id": 4,
     "questionText": "Why is atropine added to diphenoxylate?",
-    "options": [
-      "Enhance effect",
-      "Discourage abuse",
-      "Reduce side effects",
-      "Absorb toxins"
-    ],
+    "options": ["Enhance effect", "Discourage abuse", "Reduce side effects", "Absorb toxins"],
     "correctAnswer": "Discourage abuse",
-    "explanationText": "Diphenoxylate is used for diarrhea. Atropine is added to discourage abuse by causing unpleasant effects at high doses. Nurses should monitor for anticholinergic effects. This makes this answer correct."
+    "explanationText": "Atropine is added to diphenoxylate to discourage abuse by causing unpleasant anticholinergic side effects at high doses."
   },
   {
     "id": 5,
     "questionText": "Which drugs cause dry skin and urinary retention?",
-    "options": [
-      "Anticholinergics",
-      "Adsorbents",
-      "Probiotics",
-      "Opiates"
-    ],
+    "options": ["Anticholinergics", "Adsorbents", "Probiotics", "Opiates"],
     "correctAnswer": "Anticholinergics",
-    "explanationText": "Anticholinergics are used to reduce GI motility. They block acetylcholine, causing dry skin, urinary retention, and confusion. Nurses should use caution in older adults. This explains the answer."
+    "explanationText": "Anticholinergics block acetylcholine, leading to dry skin, dry mouth, urinary retention, and constipation."
   },
   {
     "id": 6,
     "questionText": "Common side effect of captopril?",
-    "options": [
-      "Dry cough",
-      "Constipation",
-      "Bradycardia",
-      "Hypercalcemia"
-    ],
+    "options": ["Dry cough", "Constipation", "Bradycardia", "Hypercalcemia"],
     "correctAnswer": "Dry cough",
-    "explanationText": "Captopril is used to treat hypertension and heart failure. It increases bradykinin, leading to a dry cough. Nurses should monitor for cough and angioedema. This makes dry cough correct."
+    "explanationText": "Captopril is an angiotensin-converting enzyme (ACE) inhibitor. It increases bradykinin levels, which can cause a persistent dry cough."
   },
   {
     "id": 7,
     "questionText": "Captopril can cause which electrolyte imbalance?",
-    "options": [
-      "Hypokalemia",
-      "Hyperkalemia",
-      "Hyponatremia",
-      "Hypercalcemia"
-    ],
+    "options": ["Hypokalemia", "Hyperkalemia", "Hyponatremia", "Hypercalcemia"],
     "correctAnswer": "Hyperkalemia",
-    "explanationText": "Captopril is used to lower BP by reducing aldosterone. This causes potassium retention. Nurses must monitor potassium levels. This explains why hyperkalemia is correct."
+    "explanationText": "ACE inhibitors reduce aldosterone, leading to potassium retention and hyperkalemia (high potassium levels)."
   },
   {
     "id": 8,
     "questionText": "Action of furosemide?",
-    "options": [
-      "Increase Na reabsorption",
-      "Block Na/Cl in loop",
-      "Retain potassium",
-      "Reduce calcium loss"
-    ],
+    "options": ["Increase Na reabsorption", "Block Na/Cl in loop", "Retain potassium", "Reduce calcium loss"],
     "correctAnswer": "Block Na/Cl in loop",
-    "explanationText": "Furosemide is used for edema and hypertension. It blocks sodium and chloride reabsorption in the loop of Henle. Nurses monitor potassium and fluid status. This makes the answer correct."
+    "explanationText": "Furosemide is a loop diuretic that blocks sodium and chloride reabsorption in the loop of Henle, increasing urine output."
   },
   {
     "id": 9,
     "questionText": "Serious adverse effect of furosemide?",
-    "options": [
-      "Hyperkalemia",
-      "Ototoxicity",
-      "Constipation",
-      "Hypertension"
-    ],
+    "options": ["Hyperkalemia", "Ototoxicity", "Constipation", "Hypertension"],
     "correctAnswer": "Ototoxicity",
-    "explanationText": "Furosemide is used for fluid overload. Rapid IV use can cause ototoxicity. Nurses should administer slowly and monitor hearing. This explains the correct answer."
+    "explanationText": "Rapid intravenous (IV) administration of furosemide can cause ototoxicity, or hearing damage."
   },
   {
     "id": 10,
     "questionText": "HCTZ commonly causes:",
-    "options": [
-      "Hyperkalemia",
-      "Hypokalemia",
-      "Hypernatremia",
-      "Hypermagnesemia"
-    ],
+    "options": ["Hyperkalemia", "Hypokalemia", "Hypernatremia", "Hypermagnesemia"],
     "correctAnswer": "Hypokalemia",
-    "explanationText": "Hydrochlorothiazide is used for hypertension. It increases potassium excretion, causing hypokalemia. Nurses should monitor electrolytes. This makes the answer correct."
+    "explanationText": "Hydrochlorothiazide (HCTZ) is a thiazide diuretic that increases potassium excretion, leading to hypokalemia."
   },
   {
     "id": 11,
     "questionText": "HCTZ is used to treat:",
-    "options": [
-      "Heart block",
-      "Hypertension",
-      "Ulcers",
-      "Asthma"
-    ],
+    "options": ["Heart block", "Hypertension", "Ulcers", "Asthma"],
     "correctAnswer": "Hypertension",
-    "explanationText": "Hydrochlorothiazide is used to treat hypertension by reducing blood volume. Nurses monitor BP and electrolytes. This explains the answer."
+    "explanationText": "HCTZ lowers blood pressure by reducing blood volume, making it a first-line treatment for hypertension (HTN)."
   },
   {
     "id": 12,
     "questionText": "Losartan works by:",
-    "options": [
-      "Blocking beta receptors",
-      "Inhibiting ACE",
-      "Blocking angiotensin II",
-      "Increasing aldosterone"
-    ],
+    "options": ["Blocking beta receptors", "Inhibiting ACE", "Blocking angiotensin II", "Increasing aldosterone"],
     "correctAnswer": "Blocking angiotensin II",
-    "explanationText": "Losartan is used to treat hypertension. It blocks angiotensin II receptors, preventing vasoconstriction. Nurses monitor BP and potassium. This makes the answer correct."
+    "explanationText": "Losartan is an angiotensin II receptor blocker (ARB) that prevents vasoconstriction and lowers blood pressure."
   },
   {
     "id": 13,
     "questionText": "Less common with losartan?",
-    "options": [
-      "Hyperkalemia",
-      "Dry cough",
-      "Hypotension",
-      "Dizziness"
-    ],
+    "options": ["Hyperkalemia", "Dry cough", "Hypotension", "Dizziness"],
     "correctAnswer": "Dry cough",
-    "explanationText": "Losartan is used for hypertension and does not increase bradykinin. Therefore, dry cough is less common than with ACE inhibitors. This explains the answer."
+    "explanationText": "ARBs do not increase bradykinin like ACE inhibitors, so dry cough is less common."
   },
   {
     "id": 14,
     "questionText": "Spironolactone is:",
-    "options": [
-      "Loop diuretic",
-      "Thiazide",
-      "Potassium-sparing",
-      "Osmotic"
-    ],
+    "options": ["Loop diuretic", "Thiazide", "Potassium-sparing", "Osmotic"],
     "correctAnswer": "Potassium-sparing",
-    "explanationText": "Spironolactone is used for hypertension and heart failure. It blocks aldosterone and spares potassium. Nurses monitor potassium levels. This makes the answer correct."
+    "explanationText": "Spironolactone is a potassium-sparing diuretic that blocks aldosterone, leading to sodium loss and potassium retention."
   },
   {
     "id": 15,
     "questionText": "Spironolactone can cause:",
-    "options": [
-      "Hypokalemia",
-      "Hyperkalemia",
-      "Ototoxicity",
-      "Dry cough"
-    ],
+    "options": ["Hypokalemia", "Hyperkalemia", "Ototoxicity", "Dry cough"],
     "correctAnswer": "Hyperkalemia",
-    "explanationText": "Spironolactone is used to retain potassium while removing sodium. This increases risk of hyperkalemia. Nurses monitor potassium closely. This explains the answer."
+    "explanationText": "Because it retains potassium, spironolactone can lead to hyperkalemia."
+  },
+
+  {
+    "id": 52,
+    "questionText": "What is the priority action for a patient experiencing anaphylaxis?",
+    "options": ["Check BP", "Assess airway and respirations", "Start IV fluids", "Give antihistamines"],
+    "correctAnswer": "Assess airway and respirations",
+    "explanationText": "Anaphylaxis is a severe allergic reaction that can cause airway obstruction. Airway and breathing are always the priority before circulation such as blood pressure (BP)."
   },
   {
-    "id": 16,
-    "questionText": "Effect of verapamil?",
-    "options": [
-      "Increase HR",
-      "Decrease HR and contractility",
-      "Increase volume",
-      "Stimulate beta receptors"
-    ],
-    "correctAnswer": "Decrease HR and contractility",
-    "explanationText": "Verapamil is used for hypertension and arrhythmias. It blocks calcium channels, slowing heart rate and decreasing contractility. Nurses monitor HR and BP. This makes the answer correct."
+    "id": 53,
+    "questionText": "Which lab marker is most specific for myocardial infarction?",
+    "options": ["CK-MB", "Troponin", "BNP", "Myoglobin"],
+    "correctAnswer": "Troponin",
+    "explanationText": "Troponin is the most specific marker for myocardial infarction (MI), which is heart muscle damage due to lack of oxygen."
   },
   {
-    "id": 17,
-    "questionText": "Common side effect of verapamil?",
-    "options": [
-      "Diarrhea",
-      "Constipation",
-      "Hyperkalemia",
-      "Tachycardia"
-    ],
-    "correctAnswer": "Constipation",
-    "explanationText": "Verapamil is used for cardiac conditions. It slows smooth muscle activity, causing constipation. Nurses should monitor bowel patterns. This explains the answer."
+    "id": 54,
+    "questionText": "Minimum MAP needed for organ perfusion?",
+    "options": ["50", "60", "70", "90"],
+    "correctAnswer": "70",
+    "explanationText": "Mean arterial pressure (MAP) reflects perfusion to vital organs. A MAP of at least 70 mmHg is needed to maintain adequate blood flow."
   },
   {
-    "id": 18,
-    "questionText": "Carvedilol blocks:",
-    "options": [
-      "Alpha",
-      "Beta",
-      "Alpha and beta",
-      "Calcium"
-    ],
-    "correctAnswer": "Alpha and beta",
-    "explanationText": "Carvedilol is used for hypertension and heart failure. It blocks both alpha and beta receptors, causing vasodilation and decreased HR. Nurses monitor BP and HR. This makes the answer correct."
+    "id": 55,
+    "questionText": "Patient 25 lbs above baseline weight—anticipate?",
+    "options": ["Antibiotic", "Diuretic", "Insulin", "Beta blocker"],
+    "correctAnswer": "Diuretic",
+    "explanationText": "Rapid weight gain indicates fluid overload. Diuretics help remove excess fluid and are commonly used in heart failure and hypertension (HTN)."
   },
   {
-    "id": 19,
-    "questionText": "Avoid carvedilol in:",
-    "options": [
-      "Asthma",
-      "Diarrhea",
-      "Hyperthyroid",
-      "Anemia"
-    ],
-    "correctAnswer": "Asthma",
-    "explanationText": "Carvedilol is used for heart conditions. Beta blockade can cause bronchoconstriction. Nurses should use caution in asthma. This explains the answer."
+    "id": 56,
+    "questionText": "When should diuretics be given?",
+    "options": ["After 6 PM", "Before 3 PM", "At bedtime", "PRN"],
+    "correctAnswer": "Before 3 PM",
+    "explanationText": "Diuretics increase urine output. Giving them earlier in the day helps prevent nocturia (frequent nighttime urination)."
   },
   {
-    "id": 20,
-    "questionText": "Clonidine mechanism?",
-    "options": [
-      "Stimulates alpha-2",
-      "Blocks beta",
-      "Blocks calcium",
-      "Increases aldosterone"
-    ],
-    "correctAnswer": "Stimulates alpha-2",
-    "explanationText": "Clonidine is used for hypertension. It stimulates alpha-2 receptors, reducing sympathetic outflow. Nurses monitor BP and sedation. This makes the answer correct."
+    "id": 57,
+    "questionText": "How many BP readings to diagnose hypertension?",
+    "options": ["1", "2", "3", "5"],
+    "correctAnswer": "3",
+    "explanationText": "Hypertension (HTN) is diagnosed after multiple elevated blood pressure (BP) readings, typically three."
   },
   {
-    "id": 21,
-    "questionText": "Common side effect of clonidine?",
-    "options": [
-      "Dry mouth",
-      "Diarrhea",
-      "Tachycardia",
-      "Weight loss"
-    ],
-    "correctAnswer": "Dry mouth",
-    "explanationText": "Clonidine is used to treat hypertension by stimulating alpha-2 receptors and reducing sympathetic outflow. This leads to side effects like dry mouth and sedation. Nurses should monitor for hypotension and CNS depression. This makes dry mouth the correct answer."
+    "id": 58,
+    "questionText": "Key teaching for clonidine?",
+    "options": ["Stop abruptly", "Avoid driving initially", "Take with grapefruit", "Causes insomnia"],
+    "correctAnswer": "Avoid driving initially",
+    "explanationText": "Clonidine lowers blood pressure (BP) by reducing sympathetic outflow and can cause sedation, so patients should avoid driving initially."
   },
   {
-    "id": 22,
-    "questionText": "Atorvastatin inhibits which enzyme?",
-    "options": [
-      "ACE",
-      "HMG-CoA reductase",
-      "Lipase",
-      "Amylase"
-    ],
-    "correctAnswer": "HMG-CoA reductase",
-    "explanationText": "Atorvastatin is used to lower cholesterol by inhibiting HMG-CoA reductase in the liver. This reduces cholesterol production. Nurses should monitor liver enzymes and lipid levels. This explains why this is correct."
+    "id": 59,
+    "questionText": "Stopping clonidine abruptly causes:",
+    "options": ["Hypotension", "Rebound hypertension", "Bradycardia", "Hyperkalemia"],
+    "correctAnswer": "Rebound hypertension",
+    "explanationText": "Abrupt discontinuation can cause rebound hypertension (HTN), a sudden increase in blood pressure due to increased sympathetic activity."
   },
   {
-    "id": 23,
-    "questionText": "Serious side effect of atorvastatin?",
-    "options": [
-      "Rhabdomyolysis",
-      "Hypertension",
-      "Constipation",
-      "Dry cough"
-    ],
-    "correctAnswer": "Rhabdomyolysis",
-    "explanationText": "Atorvastatin is used to reduce cholesterol and cardiovascular risk. A serious adverse effect is rhabdomyolysis, which causes muscle breakdown and can lead to kidney damage. Nurses should monitor for muscle pain and dark urine. This makes rhabdomyolysis correct."
+    "id": 60,
+    "questionText": "When should atorvastatin be taken?",
+    "options": ["Morning", "Afternoon", "Evening", "With meals"],
+    "correctAnswer": "Evening",
+    "explanationText": "Cholesterol production in the liver is highest at night, so atorvastatin is most effective when taken in the evening."
   },
   {
-    "id": 24,
-    "questionText": "Primary effect of nitrates?",
-    "options": [
-      "Vasoconstriction",
-      "Vasodilation",
-      "Increase heart rate",
-      "Increase blood volume"
-    ],
-    "correctAnswer": "Vasodilation",
-    "explanationText": "Nitrates are used to treat angina by causing vasodilation, which reduces preload and improves blood flow to the heart. Nurses should monitor for hypotension and headaches. This explains why vasodilation is correct."
+    "id": 61,
+    "questionText": "Before giving carvedilol, assess:",
+    "options": ["RR", "Pulse for 1 minute", "Temp", "Glucose"],
+    "correctAnswer": "Pulse for 1 minute",
+    "explanationText": "Carvedilol lowers heart rate (HR) and blood pressure (BP). Hold if HR is below 60 beats per minute."
   },
   {
-    "id": 25,
-    "questionText": "Key teaching for nitroglycerin?",
-    "options": [
-      "Take with food",
-      "Sit before taking",
-      "Take at night",
-      "Avoid fluids"
-    ],
-    "correctAnswer": "Sit before taking",
-    "explanationText": "Nitroglycerin is used for angina relief by causing vasodilation. It can cause sudden hypotension and dizziness. Nurses should teach patients to sit before taking to prevent falls. This makes this answer correct."
+    "id": 62,
+    "questionText": "Sign of hypokalemia?",
+    "options": ["Muscle cramps", "Bradycardia", "HTN", "Confusion"],
+    "correctAnswer": "Muscle cramps",
+    "explanationText": "Hypokalemia (low potassium) can cause muscle cramps, weakness, and arrhythmias."
   },
   {
-    "id": 26,
-    "questionText": "Aluminum antacids cause:",
-    "options": [
-      "Diarrhea",
-      "Constipation",
-      "Hypertension",
-      "Dry cough"
-    ],
-    "correctAnswer": "Constipation",
-    "explanationText": "Aluminum-based antacids are used to neutralize stomach acid. A common side effect is constipation. Nurses should monitor bowel patterns and may recommend stool softeners if needed. This explains the answer."
+    "id": 63,
+    "questionText": "Furosemide IV rate?",
+    "options": ["Rapid push", ">20 mg/min", "≤10 mg/min", "With food"],
+    "correctAnswer": "≤10 mg/min",
+    "explanationText": "Furosemide given intravenously (IV) must be administered slowly (≤10 mg/min) to prevent ototoxicity."
   },
   {
-    "id": 27,
-    "questionText": "Purpose of atropine in Lomotil?",
-    "options": [
-      "Enhance diarrhea",
-      "Discourage abuse",
-      "Improve absorption",
-      "Reduce nausea"
-    ],
-    "correctAnswer": "Discourage abuse",
-    "explanationText": "Diphenoxylate-atropine is used to treat diarrhea. Atropine is added to discourage abuse by causing unpleasant side effects at high doses. Nurses should monitor for anticholinergic effects. This makes the answer correct."
+    "id": 64,
+    "questionText": "Contraindication for laxatives?",
+    "options": ["HTN", "Bowel obstruction", "Headache", "GERD"],
+    "correctAnswer": "Bowel obstruction",
+    "explanationText": "Laxatives are contraindicated in bowel obstruction due to risk of perforation. GERD (gastroesophageal reflux disease) is not a contraindication."
   },
   {
-    "id": 28,
-    "questionText": "Docusate works by:",
-    "options": [
-      "Stimulating bowel",
-      "Softening stool",
-      "Blocking absorption",
-      "Increasing acid"
-    ],
-    "correctAnswer": "Softening stool",
-    "explanationText": "Docusate is used to treat constipation by softening stool. It allows water and fat to penetrate stool, making it easier to pass. Nurses should encourage fluid intake. This explains the answer."
+    "id": 65,
+    "questionText": "GERD patient should report:",
+    "options": ["Heartburn", "Constipation", "Diarrhea", "Bloating"],
+    "correctAnswer": "Diarrhea",
+    "explanationText": "GERD (gastroesophageal reflux disease) is treated with proton pump inhibitors (PPIs), which can increase the risk of Clostridium difficile infection, so diarrhea must be reported."
   },
   {
-    "id": 29,
-    "questionText": "Famotidine class?",
-    "options": [
-      "PPI",
-      "H2 antagonist",
-      "Antacid",
-      "Prokinetic"
-    ],
-    "correctAnswer": "H2 antagonist",
-    "explanationText": "Famotidine is used to reduce stomach acid in GERD and ulcers. It works as an H2 receptor antagonist. Nurses should monitor for confusion in older adults. This makes the answer correct."
-  },
-  {
-    "id": 30,
-    "questionText": "Metoclopramide action?",
-    "options": [
-      "Decrease motility",
-      "Increase motility",
-      "Reduce acid",
-      "Block histamine"
-    ],
-    "correctAnswer": "Increase motility",
-    "explanationText": "Metoclopramide is used to treat gastroparesis and nausea. It increases gastric motility and speeds emptying. Nurses should monitor for extrapyramidal side effects. This explains the answer."
-  },
-  {
-    "id": 31,
-    "questionText": "Omeprazole teaching?",
-    "options": [
-      "Take with food",
-      "Take before meals",
-      "Take at night",
-      "Take with antacids"
-    ],
-    "correctAnswer": "Take before meals",
-    "explanationText": "Omeprazole is used to treat GERD and ulcers by reducing acid production. It should be taken before meals for best effect. Nurses should monitor for long-term risks like osteoporosis. This makes the answer correct."
-  },
-  {
-    "id": 32,
-    "questionText": "Ondansetron blocks:",
-    "options": [
-      "Dopamine",
-      "Serotonin",
-      "Histamine",
-      "Acetylcholine"
-    ],
-    "correctAnswer": "Serotonin",
-    "explanationText": "Ondansetron is used to prevent nausea and vomiting, especially with chemotherapy. It blocks serotonin receptors in the CTZ. Nurses should monitor for QT prolongation. This explains the correct answer."
-  },
-  {
-    "id": 33,
-    "questionText": "How is sucralfate taken?",
-    "options": [
-      "With meals",
-      "Empty stomach",
-      "At bedtime",
-      "With antacids"
-    ],
-    "correctAnswer": "Empty stomach",
-    "explanationText": "Sucralfate is used to treat ulcers by forming a protective barrier over the stomach lining. It must be taken on an empty stomach to work effectively. Nurses should avoid giving it with other medications. This makes the answer correct."
-  },
-  {
-    "id": 34,
-    "questionText": "*What should a patient do if chest pain continues after taking nitroglycerin?",
-    "options": [
-      "Take another dose and wait",
-      "Call an ambulance",
-      "Go to sleep",
-      "Drink water"
-    ],
-    "correctAnswer": "Call an ambulance",
-    "explanationText": "Nitroglycerin is used to treat angina by causing vasodilation. If chest pain is not relieved after taking it, this may indicate a myocardial infarction. Nurses must teach patients to call emergency services immediately."
-  },
-  {
-    "id": 35,
-    "questionText": "*Chronic stable angina is relieved by:",
-    "options": [
-      "Exercise",
-      "Rest",
-      "Eating",
-      "Stress"
-    ],
-    "correctAnswer": "Rest",
-    "explanationText": "Stable angina is predictable and occurs with exertion. It is relieved by rest or nitroglycerin. Nurses should educate patients on recognizing patterns."
-  },
-  {
-    "id": 36,
-    "questionText": "*Which foods should patients with GERD avoid?",
-    "options": [
-      "Chocolate, citrus, caffeine",
-      "Rice and bread",
-      "Lean meats",
-      "Vegetables"
-    ],
-    "correctAnswer": "Chocolate, citrus, caffeine",
-    "explanationText": "GERD is caused by acid reflux into the esophagus. Foods like chocolate, citrus, and caffeine increase acid production or relax the LES. Nurses should teach avoidance of triggers."
-  },
-  {
-    "id": 37,
-    "questionText": "*Metoclopramide works by:",
-    "options": [
-      "Blocking dopamine and increasing motility",
-      "Blocking histamine",
-      "Reducing acid only",
-      "Increasing serotonin"
-    ],
-    "correctAnswer": "Blocking dopamine and increasing motility",
-    "explanationText": "Metoclopramide is used for nausea and gastroparesis. It blocks dopamine receptors in the CTZ and increases gastric motility. Nurses should monitor for extrapyramidal symptoms."
-  },
-  {
-    "id": 38,
-    "questionText": "*Key adverse effect of ondansetron (Zofran)?",
-    "options": [
-      "QT prolongation",
-      "Hypertension",
-      "Constipation",
-      "Bradycardia"
-    ],
-    "correctAnswer": "QT prolongation",
-    "explanationText": "Ondansetron is used to prevent nausea and vomiting. It blocks serotonin receptors but can prolong the QT interval. Nurses should monitor ECG in high-risk patients."
-  },
-  {
-    "id": 39,
-    "questionText": "*How long does docusate take to work?",
-    "options": [
-      "Immediately",
-      "24 hours",
-      "2–3 days",
-      "1 week"
-    ],
-    "correctAnswer": "2–3 days",
-    "explanationText": "Docusate is used as a stool softener. It works slowly by allowing water into stool, typically taking 2–3 days. Nurses should educate patients not to expect immediate relief."
-  },
-  {
-    "id": 40,
-    "questionText": "*Why should GERD patients report diarrhea?",
-    "options": [
-      "Risk of dehydration",
-      "Risk of C. diff infection",
-      "Normal side effect",
-      "Indicates healing"
-    ],
-    "correctAnswer": "Risk of C. diff infection",
-    "explanationText": "GERD medications like PPIs reduce stomach acid, increasing infection risk. Persistent diarrhea may indicate C. difficile infection. Nurses should instruct patients to report this immediately."
-  },
-  {
-    "id": 41,
-    "questionText": "*Antacids are best used for:",
-    "options": [
-      "Long-term therapy",
-      "Short-term relief",
-      "Infections",
-      "Hypertension"
-    ],
-    "correctAnswer": "Short-term relief",
-    "explanationText": "Antacids are used to neutralize stomach acid quickly. They provide short-term symptom relief. Nurses should not rely on them for chronic management."
-  },
-  {
-    "id": 42,
-    "questionText": "*When should antacids be avoided?",
-    "options": [
-      "Kidney disease",
-      "Hypertension",
-      "Diabetes",
-      "Asthma"
-    ],
-    "correctAnswer": "Kidney disease",
-    "explanationText": "Antacids are used for acid relief but contain electrolytes like magnesium or aluminum. These can accumulate in kidney disease. Nurses should avoid use in these patients."
-  },
-  {
-    "id": 43,
-    "questionText": "*Diphenoxylate-atropine is classified as:",
-    "options": [
-      "Opioid antidiarrheal",
-      "Antacid",
-      "Antiemetic",
-      "Laxative"
-    ],
-    "correctAnswer": "Opioid antidiarrheal",
-    "explanationText": "Diphenoxylate is used to treat diarrhea by slowing GI motility. It is an opioid. Atropine is added to prevent abuse. Nurses should monitor bowel function."
-  },
-  {
-    "id": 44,
-    "questionText": "*Anticholinergics commonly cause:",
-    "options": [
-      "Dry mouth and urinary retention",
-      "Hypertension",
-      "Bradycardia",
-      "Sweating"
-    ],
-    "correctAnswer": "Dry mouth and urinary retention",
-    "explanationText": "Anticholinergics are used to decrease GI motility. They block acetylcholine, causing dry mouth, blurred vision, constipation, and urinary retention. Nurses should provide safety education."
-  },
-  {
-    "id": 45,
-    "questionText": "*When should ondansetron be given for chemotherapy?",
-    "options": [
-      "After nausea starts",
-      "30 minutes before chemo",
-      "At bedtime",
-      "4 hours after"
-    ],
-    "correctAnswer": "30 minutes before chemo",
-    "explanationText": "Ondansetron is used to prevent chemotherapy-induced nausea. It should be given before treatment to block serotonin receptors. Nurses should administer 30 minutes prior."
-  },
-  {
-    "id": 46,
-    "questionText": "*Omeprazole long-term risk includes:",
-    "options": [
-      "Osteoporosis",
-      "Hypertension",
-      "Hypoglycemia",
-      "Bradycardia"
-    ],
-    "correctAnswer": "Osteoporosis",
-    "explanationText": "Omeprazole is used for GERD and ulcers. Long-term use decreases calcium absorption, increasing fracture risk. Nurses may recommend calcium and vitamin D supplementation."
-  },
-  {
-    "id": 47,
-    "questionText": "*Sucralfate should be taken:",
-    "options": [
-      "With meals",
-      "On empty stomach before meals",
-      "At bedtime only",
-      "With antacids"
-    ],
-    "correctAnswer": "On empty stomach before meals",
-    "explanationText": "Sucralfate is used to treat ulcers by coating the stomach lining. It must be taken on an empty stomach before meals. Nurses should avoid giving it with other medications."
-  },
-  {
-    "id": 48,
-    "questionText": "*Smoking affects gastric acid by:",
-    "options": [
-      "Decreasing production",
-      "Increasing production",
-      "Neutralizing acid",
-      "Blocking acid"
-    ],
-    "correctAnswer": "Increasing production",
-    "explanationText": "Smoking increases gastric acid production and worsens GERD and ulcers. Nurses should encourage smoking cessation."
-  },
-  {
-    "id": 49,
-    "questionText": "*When are laxatives contraindicated?",
-    "options": [
-      "Nausea, vomiting, or obstruction",
-      "Hypertension",
-      "Headache",
-      "Fever"
-    ],
-    "correctAnswer": "Nausea, vomiting, or obstruction",
-    "explanationText": "Laxatives are used to relieve constipation. They are contraindicated in bowel obstruction, nausea, or vomiting due to risk of perforation. Nurses must assess before use."
-  },
-  {
-    "id": 50,
-    "questionText": "*Spironolactone works by:",
-    "options": [
-      "Blocking aldosterone",
-      "Blocking sodium",
-      "Increasing potassium loss",
-      "Increasing calcium"
-    ],
-    "correctAnswer": "Blocking aldosterone",
-    "explanationText": "Spironolactone is used for hypertension and heart failure. It blocks aldosterone, causing sodium loss and potassium retention. Nurses monitor for hyperkalemia."
-  },
-  {
-    "id": 51,
-    "questionText": "*Captopril benefit for diabetic patients?",
-    "options": [
-      "Improves vision",
-      "Renal protection",
-      "Increases insulin",
-      "Reduces glucose"
-    ],
-    "correctAnswer": "Renal protection",
-    "explanationText": "Captopril is used for hypertension and protects kidney function in diabetic patients. It reduces intraglomerular pressure. Nurses monitor kidney function and potassium levels."
+    "id": 66,
+    "questionText": "Modifiable CAD risk factor?",
+    "options": ["Age", "Genetics", "Low HDL", "Gender"],
+    "correctAnswer": "Low HDL",
+    "explanationText": "Coronary artery disease (CAD) risk is increased by low high-density lipoprotein (HDL), which is the 'good cholesterol' and can be improved with lifestyle changes."
   }
 ]
