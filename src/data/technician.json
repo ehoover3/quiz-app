@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "questionText": "A technician is preparing to transfer a client who is unable to walk from bed to a wheelchair.  Which technique should the technician use?",
+    "questionImage": null,
+    "options": [
+      "Stand toward client's stronger side",
+      "Instruct clinet to lean backward from the hips",
+      "Place the wheelchair at a 45 degree angle to the bed",
+      "Assume a narrow stance with feet 15 cm (6 in) apart"
+    ],
+    "correctAnswer": "Place the wheelchair at a 45 degree angle to the bed",
+    "explanationText": "Positioning the wheelchair at a 45° allows the client to pivot, lessening the amount of rotation required. Safely transferring a client from a bed to a wheelchair requires the nurse to instruct the client to lean forward from the hips.  This technique positions the client in the proper direction of the movement.  Safely transferring a client from a bed to a wheelchair requires the nurse to stand in front of the client toward the side that requires the most support.  This technique will help maintain balance during the transfer.  Safely transferring a client from a bed to a wheelchair requires the nurse to assume a wide stance with one foot in front of the other.  This technique protects the nurse from losing balance during the transfer.",
+    "explanationImage": null
+  }
+]
