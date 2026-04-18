@@ -25,7 +25,7 @@ export default function App() {
     return (
       <div className="card">
         <h1 className="title">Choose a Quiz</h1>
-        <button className="button" onClick={() => handleSelectQuiz("fundamentals")}>Fundamentals</button>
+        <button className="button" onClick={() => handleSelectQuiz("fundamentals")}>Fundamentals Exam 3</button>
         {/* <button className="button" onClick={() => handleSelectQuiz("healthAssessment")}>Health Assessment</button> */}
         <button className="button" onClick={() => handleSelectQuiz("healthyPopulations")}>Health Populations</button>
         {/* <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>Pharmacology</button> */}
