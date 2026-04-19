@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "questionText": "The answer is A.",
+    "questionImage": null,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": "A",
+    "explanationText": "Because the answer is A.",
+    "explanationImage": null
+  },
+  {
+    "id": 2,
+    "questionText": "The answer is B.",
+    "questionImage": null,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": "B",
+    "explanationText": "Because the answer is B.",
+    "explanationImage": null
+  }
+]
