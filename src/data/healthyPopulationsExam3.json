@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "questionText": "How is culture best defined?",
+    "questionImage": null,
+    "options": [
+      "A pattern of shared attitudes, beliefs, norms, roles, and values within a group",
+      "A person’s genetic makeup and inherited traits",
+      "A system of laws governing a country",
+      "An individual’s economic status"
+    ],
+    "correctAnswer": "A pattern of shared attitudes, beliefs, norms, roles, and values within a group",
+    "explanationText": "Culture refers to shared attitudes, beliefs, norms, roles, and values among people in a group or region.",
+    "explanationImage": null
+  },
+  {
+    "id": 2,
+    "questionText": "Which best defines ethnicity?",
+    "questionImage": null,
+    "options": [
+      "A biological classification based on physical traits",
+      "A collective identity based on shared values, meanings, and ways of living",
+      "A legal classification of citizenship",
+      "A person's occupation"
+    ],
+    "correctAnswer": "A collective identity based on shared values, meanings, and ways of living",
+    "explanationText": "Ethnicity focuses on shared identity, values, meanings, and cultural practices within a group.",
+    "explanationImage": null
+  },
+  {
+    "id": 3,
+    "questionText": "What does spirituality refer to?",
+    "questionImage": null,
+    "options": [
+      "Religious attendance frequency",
+      "An individual’s sense of peace, purpose, and connection to others",
+      "A person’s cultural background",
+      "A person’s financial status"
+    ],
+    "correctAnswer": "An individual’s sense of peace, purpose, and connection to others",
+    "explanationText": "Spirituality involves meaning, purpose, and connection, not just religion.",
+    "explanationImage": null
+  },
+  {
+    "id": 4,
+    "questionText": "Which of the following is included in the FICA spiritual assessment?",
+    "questionImage": null,
+    "options": [
+      "Family, Income, Culture, Assessment",
+      "Faith, Importance, Community, Address",
+      "Function, Integrity, Care, Access",
+      "Feelings, Identity, Culture, Action"
+    ],
+    "correctAnswer": "Faith, Importance, Community, Address",
+    "explanationText": "FICA stands for Faith, Importance, Community, and Address in care.",
+    "explanationImage": null
+  },
+  {
+    "id": 5,
+    "questionText": "Which is a common barrier to healthcare?",
+    "questionImage": null,
+    "options": [
+      "High health literacy",
+      "Financial limitations",
+      "Access to transportation",
+      "Strong support system"
+    ],
+    "correctAnswer": "Financial limitations",
+    "explanationText": "Financial issues, along with cultural and social factors, can limit access to healthcare.",
+    "explanationImage": null
+  },
+  {
+    "id": 6,
+    "questionText": "What is the average length of a pregnancy?",
+    "questionImage": null,
+    "options": [
+      "32 weeks",
+      "36 weeks",
+      "40 weeks",
+      "44 weeks"
+    ],
+    "correctAnswer": "40 weeks",
+    "explanationText": "A full-term pregnancy is about 40 weeks or 280 days.",
+    "explanationImage": null
+  },
+  {
+    "id": 7,
+    "questionText": "Which weeks correspond to the second trimester?",
+    "questionImage": null,
+    "options": [
+      "1–13 weeks",
+      "14–26 weeks",
+      "27–40 weeks",
+      "20–30 weeks"
+    ],
+    "correctAnswer": "14–26 weeks",
+    "explanationText": "The second trimester spans from 14 to 26 weeks of pregnancy.",
+    "explanationImage": null
+  },
+  {
+    "id": 8,
+    "questionText": "What is the definition of race?",
+    "questionImage": null,
+    "options": [
+      "A biological classification strictly based on genetics",
+      "A social construct used to group people based on perceived traits",
+      "A measure of cultural beliefs",
+      "A legal classification system"
+    ],
+    "correctAnswer": "A social construct used to group people based on perceived traits",
+    "explanationText": "Race is a social construct, not a strictly biological category.",
+    "explanationImage": null
+  },
+  {
+    "id": 9,
+    "questionText": "What defines a minority group?",
+    "questionImage": null,
+    "options": [
+      "A group with fewer people numerically",
+      "A group with more wealth than others",
+      "A group disadvantaged in power and control within society",
+      "A group with the same cultural practices"
+    ],
+    "correctAnswer": "A group disadvantaged in power and control within society",
+    "explanationText": "Minority groups are defined by disparities in power and control, not just numbers.",
+    "explanationImage": null
+  },
+  {
+    "id": 10,
+    "questionText": "What is infant mortality?",
+    "questionImage": null,
+    "options": [
+      "Deaths of infants before birth",
+      "Number of babies who die within the first year per 1,000 live births",
+      "Deaths of mothers during childbirth",
+      "Number of premature births"
+    ],
+    "correctAnswer": "Number of babies who die within the first year per 1,000 live births",
+    "explanationText": "Infant mortality measures deaths during the first year of life per 1,000 live births.",
+    "explanationImage": null
+  },
+  {
+    "id": 11,
+    "questionText": "Which is a leading cause of infant death?",
+    "questionImage": null,
+    "options": [
+      "Hypertension",
+      "Birth defects",
+      "Asthma",
+      "Diabetes"
+    ],
+    "correctAnswer": "Birth defects",
+    "explanationText": "Birth defects are one of the leading causes of infant mortality.",
+    "explanationImage": null
+  },
+  {
+    "id": 12,
+    "questionText": "What does gravida refer to?",
+    "questionImage": null,
+    "options": [
+      "Number of live births",
+      "A woman who is pregnant",
+      "Number of miscarriages",
+      "Weeks of gestation"
+    ],
+    "correctAnswer": "A woman who is pregnant",
+    "explanationText": "Gravida refers to a woman who is pregnant or has been pregnant.",
+    "explanationImage": null
+  },
+  {
+    "id": 13,
+    "questionText": "What is a nulligravida?",
+    "questionImage": null,
+    "options": [
+      "A woman with one pregnancy",
+      "A woman who has never been pregnant",
+      "A woman with multiple pregnancies",
+      "A woman with a miscarriage"
+    ],
+    "correctAnswer": "A woman who has never been pregnant",
+    "explanationText": "Nulligravida refers to a woman who has never been pregnant.",
+    "explanationImage": null
+  },
+  {
+    "id": 14,
+    "questionText": "What is considered a term pregnancy?",
+    "questionImage": null,
+    "options": [
+      "20–30 weeks",
+      "30–36 weeks",
+      "37–42 weeks",
+      "42–45 weeks"
+    ],
+    "correctAnswer": "37–42 weeks",
+    "explanationText": "A term pregnancy is between 37 and 42 weeks.",
+    "explanationImage": null
+  },
+  {
+    "id": 15,
+    "questionText": "What does viability refer to in pregnancy?",
+    "questionImage": null,
+    "options": [
+      "Ability to conceive",
+      "Ability to survive outside the uterus",
+      "Length of pregnancy",
+      "Fetal growth rate"
+    ],
+    "correctAnswer": "Ability to survive outside the uterus",
+    "explanationText": "Viability refers to the fetus’s ability to live outside the uterus, typically around 22–25 weeks.",
+    "explanationImage": null
+  },
+  {
+    "id": 16,
+    "questionText": "What is the EDD based on?",
+    "questionImage": null,
+    "options": [
+      "First ultrasound",
+      "Last menstrual period minus 3 months plus 7 days",
+      "Fetal heart rate",
+      "Maternal weight"
+    ],
+    "correctAnswer": "Last menstrual period minus 3 months plus 7 days",
+    "explanationText": "EDD is calculated using Naegele’s rule: LMP minus 3 months plus 7 days.",
+    "explanationImage": null
+  },
+  {
+    "id": 17,
+    "questionText": "Which is a presumptive sign of pregnancy?",
+    "questionImage": null,
+    "options": [
+      "Positive fetal heart tones",
+      "Amenorrhea",
+      "Ultrasound visualization",
+      "Fetal movement palpated by provider"
+    ],
+    "correctAnswer": "Amenorrhea",
+    "explanationText": "Presumptive signs are subjective, such as missed periods (amenorrhea).",
+    "explanationImage": null
+  },
+  {
+    "id": 18,
+    "questionText": "Which is a positive sign of pregnancy?",
+    "questionImage": null,
+    "options": [
+      "Nausea",
+      "Breast tenderness",
+      "Fetal heart tones detected",
+      "Frequent urination"
+    ],
+    "correctAnswer": "Fetal heart tones detected",
+    "explanationText": "Positive signs directly confirm pregnancy, such as fetal heart tones.",
+    "explanationImage": null
+  },
+  {
+    "id": 19,
+    "questionText": "What does TORCH screening test for?",
+    "questionImage": null,
+    "options": [
+      "Genetic disorders",
+      "Maternal infections that can harm the fetus",
+      "Blood type compatibility",
+      "Hormone levels"
+    ],
+    "correctAnswer": "Maternal infections that can harm the fetus",
+    "explanationText": "TORCH screens for infections like toxoplasmosis, rubella, CMV, and herpes.",
+    "explanationImage": null
+  },
+  {
+    "id": 20,
+    "questionText": "What is the primary concern with Rh incompatibility?",
+    "questionImage": null,
+    "options": [
+      "Maternal hypertension",
+      "Maternal antibodies attacking fetal red blood cells",
+      "Low maternal blood sugar",
+      "Placental rupture"
+    ],
+    "correctAnswer": "Maternal antibodies attacking fetal red blood cells",
+    "explanationText": "Rh incompatibility can lead to hemolysis of fetal RBCs due to maternal antibodies.",
+    "explanationImage": null
+  },
+  {
+    "id": 21,
+    "questionText": "Which of the following correctly lists the components of a TORCH screening?",
+    "questionImage": null,
+    "options": [
+      "Toxoplasmosis, Other (Hepatitis B), Rubella, Cytomegalovirus, Herpes simplex",
+      "Tuberculosis, Osteoporosis, Rubella, Chickenpox, HIV",
+      "Tetanus, Otitis media, Respiratory syncytial virus, COVID-19, Herpes zoster",
+      "Thyroid disease, Obesity, Renal failure, Cardiac defects, Hypertension"
+    ],
+    "correctAnswer": "Toxoplasmosis, Other (Hepatitis B), Rubella, Cytomegalovirus, Herpes simplex",
+    "explanationText": "TORCH is an acronym for infections that can harm the fetus: Toxoplasmosis, Other (such as Hepatitis B), Rubella, Cytomegalovirus (CMV), and Herpes simplex virus.",
+    "explanationImage": null
+  }
+]

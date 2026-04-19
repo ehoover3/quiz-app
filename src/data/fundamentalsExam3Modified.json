@@ -1,0 +1,417 @@
+[
+  {
+    "id": 24,
+    "questionText": "How would the infusion of the intravenous (IV) fluids be affected if the tubing were unintentionally dislodged from the chamber of the control mechanism of the electronic infusion device (EID)?",
+    "questionImage": null,
+    "options": [
+      "The infusion would slow to a 'keep vein open' rate.",
+      "The patient would receive a bolus of fluid.",
+      "The infusion would continue at the prescribed rate.",
+      "The flow of fluid would stop."
+    ],
+    "correctAnswer": "The flow of fluid would stop.",
+    "explanationText": "The fluid would stop, because an anti-free flow safeguard on the EID tubing would stop the flow of fluids",
+    "explanationImage": null
+  },
+  {
+    "id": 43,
+    "questionText": "Which should the nurse do first when caring for a nonverbal client who is restless, agitated, and irritable?",
+    "questionImage": null,
+    "options": [
+      "Administer oxygen",
+      "Suction the oropharynx",
+      "Reduce environmental stimuli",
+      "Determine patency of the airway"
+    ],
+    "correctAnswer": "Determine patency of the airway",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 82,
+    "questionText": "A nurse is caring for a client whose ABG results are pH 7.30, PaCO2 32 mm Hg, and HCO3- 19 mEq/L. The nurse should identify that the client has which of the following acid base imbalances?",
+    "questionImage": null,
+    "options": [
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis"
+    ],
+    "correctAnswer": "Metabolic Acidosis",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 87,
+    "questionText": "A patient is admitted to the hospital with severe dyspnea and wheezing. ABG levels on admission are: pH 7.21, PaCO2 53 mmHg, PaO2 66 mmHG, and HCO3- 24. The nurse interprets these values to indicate which acid base imbalance?",
+    "questionImage": null,
+    "options": [
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis"
+    ],
+    "correctAnswer": "Respiratory Acidosis",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 88,
+    "questionText": "A patient is hyperventilating from acute pain. Interventions to manage his pain and oxygenation will decrease his risk of which acid-base imbalance?",
+    "questionImage": null,
+    "options": [
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis"
+    ],
+    "correctAnswer": "Respiratory Alkalosis",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 89,
+    "questionText": "A client presents to the ED after 48 hours of severe diarrhea. ABG results show: pH 7.3, CO2 38, HCO3 18. Which Acid Base Imbalance is this patient experiencing?",
+    "questionImage": null,
+    "options": [
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis"
+    ],
+    "correctAnswer": "Metabolic Acidosis",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "On morning assessment of your patient who has severe burns, you notice that fluid is starting to accumulate in his arms and legs. You note that his weight has not changed and his intake and output is equal. What do you suspect?",
+    "questionImage": null,
+    "options": [
+      "Third spacing",
+      "This is normal and expected after a burn and it is benign",
+      "Document this finding as non-pitting abdominal edema.",
+      "Intravascular compartment syndrome"
+    ],
+    "correctAnswer": "Third spacing",
+    "explanationText": "You  would suspect third spacing. Third-spacing is the accumulation of  trapped extracellular fluid in a body space as a result in this case of a  burn. Third spacing can occur in body spaces such as the pericardial,  pleural, peritoneal, and joint cavities, bowel, and abdomen after a  trauma or burn. It is normal not to see a change in weight or abnormal  intake or output values.",
+    "explanationImage": null
+  },
+  {
+    "id": 55,
+    "questionText": "When preparing the patient's environment for safe oxygen therapy, which intervention is a priority to minimize the patient's risk for injury?",
+    "questionImage": null,
+    "options": [
+      "Place appropriate signage to alert staff and visitors to the presence of oxygen in the patient's room",
+      "Instruct nursing assistive personnel (NAP) to immediately correct or report safety hazards",
+      "Inspect all electrical equipment in the patient's room for the presence of safety-check tags",
+      "Ensure that the patient receives the prescribed amount of oxygen via the appropriate method."
+    ],
+    "correctAnswer": "Inspect all electrical equipment in the patient's room for the presence of safety-check tags",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 73,
+    "questionText": "Which nursing action shows the most effective planning for emergency care of a patient with a tracheostomy?",
+    "questionImage": null,
+    "options": [
+      "Having a spare oxygen mask at the patient's bedside",
+      "Keeping an obturator and a tracheostomy tube at the patient's bedside",
+      "Reviewing the agency's policy regarding tracheostomy care",
+      "Instructing the family to call immediately if the patient has difficulty breathing"
+    ],
+    "correctAnswer": "Keeping an obturator and a tracheostomy tube at the patient's bedside",
+    "explanationText": "Keeping an obturator and a tracheostomy tube of the correct size at the patient's bedside is the best way to plan for an emergency involving a tracheostomy, such as tube dislodgement.",
+    "explanationImage": null
+  },
+  {
+    "id": 83,
+    "questionText": "A nurse is caring for a client who has metabolic alkalosis. As the client compensates for this acid-base imbalance, which of the following mechanisms should the nurse expect the client's body to use?",
+    "questionImage": null,
+    "options": [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Increased renal acid excretion",
+      "Decreased renal acid excretion"
+    ],
+    "correctAnswer": "Hypoventilation",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 84,
+    "questionText": "A nurse is caring for a client who has a high fever and is hyperventilating. His ABG results are pH 7.51, PaCO2 28mm Hg, and HCO3- 24 mEq/L. The nurse should identify that the client has which of the following acid-base imbalances?",
+    "questionImage": null,
+    "options": [
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis"
+    ],
+    "correctAnswer": "Respiratory Alkalosis",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 85,
+    "questionText": "A nurse is assessing a client who has acute alcohol intoxication. The nurse should identify that the client is at risk for which of the following acid-base imbalances?",
+    "questionImage": null,
+    "options": [
+      "Respiratory Acidosis",
+      "Respiratory Alkalosis",
+      "Metabolic Acidosis",
+      "Metabolic Alkalosis"
+    ],
+    "correctAnswer": "Metabolic Acidosis",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 14,
+    "questionText": "Which action by the nurse helps to ensure patient safety when administering IV fluids by gravity to very young children?",
+    "questionImage": null,
+    "options": [
+      "Using microdrip tubing for the infusion",
+      "Using macrodrip tubing for the infusion",
+      "Using a volume-control device for the infusion",
+      "Not infusing more than 25 mL/hour of IV fluids"
+    ],
+    "correctAnswer": "Using a volume-control device for the infusion",
+    "explanationText": "Using a volume control device for a gravity infusion enhances patient safety by preventing an accidental fluid bolus that causes circulatory overload",
+    "explanationImage": null
+  },
+  {
+    "id": 44,
+    "questionText": "A primary health-care provider prescribes oxygen for a client to be delivered at a high flow rate. Which additional nursing action is necessary when implementing a high-liter flow as opposed to a low-liter flow?",
+    "questionImage": null,
+    "options": [
+      "Attaching a flowmeter to the wall outlet",
+      "Providing oral hygiene whenever necessary",
+      "Using an oil-based lubricant when caring for the nares",
+      "Humidifying oxygen before it is delivered to the client"
+    ],
+    "correctAnswer": "Humidifying oxygen before it is delivered to the client",
+    "explanationText": "n/a",
+    "explanationImage": null
+  },
+  {
+    "id": 57,
+    "questionText": "What would the nurse do first when preparing to educate the patient about safe administration of oxygen therapy at home?",
+    "questionImage": null,
+    "options": [
+      "Evaluate the patient's understanding of the combustible nature of oxygen",
+      "Arrange for a capable family member to be present during the initial discussion",
+      "Collect written information to present to the patient as supplemental instructional materials.",
+      "Assess the patients emotional readiness and physical ability to provide autonomous care"
+    ],
+    "correctAnswer": "Assess the patients emotional readiness and physical ability to provide autonomous care",
+    "explanationText": "The nurse would first assess the patient's emotional readiness and physical ability to provide self-care, since these attributes are necessary in order to teach a patient effectively about oxygen administration.",
+    "explanationImage": null
+  },
+  {
+    "id": 86,
+    "questionText": "When analyzing an arterial blood gas report of a pt with COPD & respiratory acidosis, the nurse anticipates that compensation will develop through which of the following mechanisms?",
+    "questionImage": null,
+    "options": [
+      "The kidneys retain bicarbonate.",
+      "The kidneys excrete bicarbonate.",
+      "The lungs will retain carbon dioxide.",
+      "The lungs will excrete carbon dioxide."
+    ],
+    "correctAnswer": "The kidneys retain bicarbonate.",
+    "explanationText": "The kidneys will compensate for a respiratory disorder by retaining bicarbonate. Excreting bicarbonate causes acidosis to develop. Retaining carbon dioxide causes respiratory acidosis. Excreting carbon dioxide causes respiratory alkalosis.",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "Which patient below would have a potassium level of 5.5?",
+    "questionImage": null,
+    "options": [
+      "A 76 year old who reports taking lasix four times a day",
+      "A patient with Addison's disease",
+      "A 55 year old woman who have been vomiting for 3 days consistently",
+      "A patient with liver failure"
+    ],
+    "correctAnswer": "A patient with Addison's disease",
+    "explanationText": "A patient with Addison disease suffers from increased potassium levels  due to adrenal insufficiency. Therefore, potassium levels higher than  5.1 may present in patients with Addison's disease.",
+    "explanationImage": null
+  },
+  {
+    "id": 64,
+    "questionText": "What should the nurse teach nursing assistive personnel (NAP) about selecting the appropriate site for measuring a patient's oxygen saturation level?",
+    "questionImage": null,
+    "options": [
+      "Do not use the fingers if her nails are polished.",
+      "I've checked her capillary refill, and it's acceptable in both her hands and feet.",
+      "Please review the patient's previously documented pulse oximetry readings for the site used.",
+      "Ask the patient to keep her finger motionless while you are monitoring her oxygen saturation."
+    ],
+    "correctAnswer": "I've checked her capillary refill, and it's acceptable in both her hands and feet.",
+    "explanationText": "This is the correct option, because it provides nursing assistive personnel (NAP) with specific direction regarding the appropriate sites for this particular patient",
+    "explanationImage": null
+  },
+  {
+    "id": 51,
+    "questionText": "When percussing the thorax, which of the following would be a normal finding?",
+    "questionImage": null,
+    "options": [
+      "Dullness over the lung fields",
+      "Resonance over the lung fields plus dullness over the ribs, heart, and diaphragm"
+    ],
+    "correctAnswer": "Resonance over the lung fields plus dullness over the ribs, heart, and diaphragm",
+    "explanationText": "Dullness over the lung fields during percussion is not a normal finding. Resonance over the lung fields during percussion is a normal finding. Dullness over the ribs, heart, and diaphragm during percussion is a normal finding.",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "Which patient is at more risk for an electrolyte imbalance?",
+    "questionImage": null,
+    "options": [
+      "A 5 month old with a fever of 102.4 'F and diarrhea",
+      "A 57 year old diabetic with nausea and vomiting",
+      "A 2 year old with RSV",
+      "An 87 year old with intermittent episodes of gout"
+    ],
+    "correctAnswer": "A 5 month old with a fever of 102.4 'F and diarrhea",
+    "explanationText": "The 5 month old with a fever of 102.3 'F and diarrhea is the correct  answer. Infants (age 1 and under) and older adults are at a higher risk  of fluid-related problems than any other age group. This is because  infants have the highest amount of total body fluid (80% of the body is  made up of fluid) and if any type of illness especially GI effects the  body this increases the chances of an electrolyte imbalance.",
+    "explanationImage": null
+  },
+  {
+    "id": 20,
+    "questionText": "Infiltration",
+    "questionImage": null,
+    "options": [
+      "IV fluid entering subcutaneous tissue around venipuncture site",
+      "When a vesicant (tissue damaging) drug enters subcutaneous tissue around venipuncture site",
+      "Inflammation of the inner layer of a vein"
+    ],
+    "correctAnswer": "IV fluid entering subcutaneous tissue around venipuncture site",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 21,
+    "questionText": "Extravasation",
+    "questionImage": null,
+    "options": [
+      "IV fluid entering subcutaneous tissue around venipuncture site",
+      "When a vesicant (tissue damaging) drug enters subcutaneous tissue around venipuncture site",
+      "Inflammation of the inner layer of a vein"
+    ],
+    "correctAnswer": "When a vesicant (tissue damaging) drug enters subcutaneous tissue around venipuncture site",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 22,
+    "questionText": "Phlebitis",
+    "questionImage": null,
+    "options": [
+      "IV fluid entering subcutaneous tissue around venipuncture site",
+      "When a vesicant (tissue damaging) drug enters subcutaneous tissue around venipuncture site",
+      "Inflammation of the inner layer of a vein"
+    ],
+    "correctAnswer": "Inflammation of the inner layer of a vein",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 17,
+    "questionText": "What might the nurse do to minimize the risk for injury in a patient receiving IV therapy?",
+    "questionImage": null,
+    "options": [
+      "Regulate the flow rate of the infusion",
+      "Assess the patient frequently for pain at the IV site.",
+      "Monitor the IV site frequently for signs of infiltration and phlebitis.",
+      "Educate the patient regarding symptoms of infiltration and phlebitis"
+    ],
+    "correctAnswer": "Regulate the flow rate of the infusion",
+    "explanationText": "Regulating the rate will minimize the risk for fluid overload",
+    "explanationImage": null
+  },
+  {
+    "id": 54,
+    "questionText": "What would the nurse do first when preparing to begin oxygen therapy for a patient?",
+    "questionImage": null,
+    "options": [
+      "Educate the NAP about the oxygen orders",
+      "Review the medical prescription for delivery method and flow rate.",
+      "Place a 'No Smoking' sign outside of the hospital room",
+      "Ensure that suction equipment is present in the room"
+    ],
+    "correctAnswer": "Review the medical prescription for delivery method and flow rate.",
+    "explanationText": "The nurse's initial action when preparing to begin oxygen therapy would be to review the delivery method and flow rate specified on the medical order.",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "Which patient is at most risk for hypermagnesemia?",
+    "questionImage": null,
+    "options": [
+      "A 56 year old renal failure patient",
+      "A 59 year old with hyperthyroidism",
+      "A patient reporting overuse of antacids and laxatives",
+      "A 24 year old suffering from hypoglycemia"
+    ],
+    "correctAnswer": "A 56 year old renal failure patient",
+    "explanationText": "The correct answer is a 56 year old who is a renal failure patient.  Patients who suffer from renal failure have a decreased excretion of  magnesium they are at risk for higher magnesium levels.",
+    "explanationImage": null
+  },
+  {
+    "id": 67,
+    "questionText": "Which action is part of the preparation for nasotracheal suctioning?",
+    "questionImage": null,
+    "options": [
+      "Place the patient in a supine position.",
+      "Preoxygenate the patient with 100% oxygen.",
+      "Suction 100 mL of warm tap water to flush the suction catheter.",
+      "Place water-soluble lubricant onto the open sterile catheter package"
+    ],
+    "correctAnswer": "Place water-soluble lubricant onto the open sterile catheter package",
+    "explanationText": "The patient should be in the semi-Fowler's position or sitting upright. Preoxygenation is not needed before nasotracheal suctioning. Sterile water or sterile normal saline is used to flush the catheter. Lubricant facilitates the insertion of the catheter.",
+    "explanationImage": null
+  },
+  {
+    "id": 68,
+    "questionText": "Which response would the nurse report immediately if it occurred in association with nasotracheal suctioning?",
+    "questionImage": null,
+    "options": [
+      "Patient complains of discomfort during the procedure",
+      "Patient has a severe bout of nonproductive coughing and complains of sore throat.",
+      "After oxygen delivery device has been reapplied on completion of the procedure, patient's pulse oximetry reading falls to 88%.",
+      "Patient's pulse rate increases by 10 beats/min."
+    ],
+    "correctAnswer": "After oxygen delivery device has been reapplied on completion of the procedure, patient's pulse oximetry reading falls to 88%.",
+    "explanationText": "This decline in peripheral blood oxygen saturation must be reported. It represents a decline in the patient's condition following a procedure that should have improved his or her SpO2 reading.",
+    "explanationImage": null
+  },
+  {
+    "id": 69,
+    "questionText": "While suctioning the nasotracheal airway, the nurse notes that a patient's pulse rate has fallen from 102 beats/min to 80 beats/min. What is the best course of action?",
+    "questionImage": null,
+    "options": [
+      "Encourage the patient to take several deep breaths.",
+      "Interrupt suction to the catheter for at least 10 seconds",
+      "Discontinue suctioning by removing the suction catheter",
+      "Assess the patient's pulse oximetry reading to see if oxygenation is adequate"
+    ],
+    "correctAnswer": "Discontinue suctioning by removing the suction catheter",
+    "explanationText": "A drop in pulse of 20 beats/min or more necessitates discontinuation of suctioning and removal of the catheter.",
+    "explanationImage": null
+  },
+  {
+    "id": 70,
+    "questionText": "As a nasotracheal catheter is inserted to suction the airway, a patient begins to gag and says, 'I feel like I'm going to throw up.' What is the nurse's best response?",
+    "questionImage": null,
+    "options": [
+      "Complete the catheter insertion in 5 seconds or less",
+      "Remove the catheter",
+      "Encourage the patient to take several deep breaths to minimize the nausea",
+      "Stop advancing the catheter, and allow the patient to rest for several minutes."
+    ],
+    "correctAnswer": "Remove the catheter",
+    "explanationText": "Gagging and nausea indicate that the catheter has probably entered the esophagus and must be removed.",
+    "explanationImage": null
+  }
+]
