@@ -1,296 +1,266 @@
 [
   {
     "id": 1,
-    "questionText": "How is culture best defined?",
+    "questionText": "Gravida",
     "questionImage": null,
     "options": [
-      "A pattern of shared attitudes, beliefs, norms, roles, and values within a group",
-      "A person’s genetic makeup and inherited traits",
-      "A system of laws governing a country",
-      "An individual’s economic status"
+      "A woman who has never been pregnant",
+      "A woman who is pregnant",
+      "A woman who has had two or more pregnancies"
     ],
-    "correctAnswer": "A pattern of shared attitudes, beliefs, norms, roles, and values within a group",
-    "explanationText": "Culture refers to shared attitudes, beliefs, norms, roles, and values among people in a group or region.",
+    "correctAnswer": "A woman who is pregnant",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 2,
-    "questionText": "Which best defines ethnicity?",
+    "questionText": "Nulligravida",
     "questionImage": null,
     "options": [
-      "A biological classification based on physical traits",
-      "A collective identity based on shared values, meanings, and ways of living",
-      "A legal classification of citizenship",
-      "A person's occupation"
+      "A woman who has never been pregnant",
+      "A woman who is pregnant",
+      "A woman who has had two or more pregnancies"
     ],
-    "correctAnswer": "A collective identity based on shared values, meanings, and ways of living",
-    "explanationText": "Ethnicity focuses on shared identity, values, meanings, and cultural practices within a group.",
+    "correctAnswer": "A woman who has never been pregnant",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 3,
-    "questionText": "What does spirituality refer to?",
+    "questionText": "Multigravida",
     "questionImage": null,
     "options": [
-      "Religious attendance frequency",
-      "An individual’s sense of peace, purpose, and connection to others",
-      "A person’s cultural background",
-      "A person’s financial status"
+      "A woman who has never been pregnant",
+      "A woman who is pregnant",
+      "A woman who has had two or more pregnancies"
     ],
-    "correctAnswer": "An individual’s sense of peace, purpose, and connection to others",
-    "explanationText": "Spirituality involves meaning, purpose, and connection, not just religion.",
+    "correctAnswer": "A woman who has had two or more pregnancies",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 4,
-    "questionText": "Which of the following is included in the FICA spiritual assessment?",
+    "questionText": "Term Pregnancy",
     "questionImage": null,
     "options": [
-      "Family, Income, Culture, Assessment",
-      "Faith, Importance, Community, Address",
-      "Function, Integrity, Care, Access",
-      "Feelings, Identity, Culture, Action"
+      "Pregnancy from 37 weeks to 42 weeks",
+      "A pregnancy that goes beyond 42 weeks",
+      "Pregnancy that is at least 20 weeks to 37 weeks",
+      "Capacity to live outside uterus, around 22-25 weeks"
     ],
-    "correctAnswer": "Faith, Importance, Community, Address",
-    "explanationText": "FICA stands for Faith, Importance, Community, and Address in care.",
+    "correctAnswer": "Pregnancy from 37 weeks to 42 weeks",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 5,
-    "questionText": "Which is a common barrier to healthcare?",
+    "questionText": "Post Term",
     "questionImage": null,
     "options": [
-      "High health literacy",
-      "Financial limitations",
-      "Access to transportation",
-      "Strong support system"
+      "Pregnancy from 37 weeks to 42 weeks",
+      "A pregnancy that goes beyond 42 weeks",
+      "Pregnancy that is at least 20 weeks to 37 weeks",
+      "Capacity to live outside uterus, around 22-25 weeks"
     ],
-    "correctAnswer": "Financial limitations",
-    "explanationText": "Financial issues, along with cultural and social factors, can limit access to healthcare.",
+    "correctAnswer": "A pregnancy that goes beyond 42 weeks",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 6,
-    "questionText": "What is the average length of a pregnancy?",
+    "questionText": "Preterm",
     "questionImage": null,
     "options": [
-      "32 weeks",
-      "36 weeks",
-      "40 weeks",
-      "44 weeks"
+      "Pregnancy from 37 weeks to 42 weeks",
+      "A pregnancy that goes beyond 42 weeks",
+      "Pregnancy that is at least 20 weeks to 37 weeks",
+      "Capacity to live outside uterus, around 22-25 weeks"
     ],
-    "correctAnswer": "40 weeks",
-    "explanationText": "A full-term pregnancy is about 40 weeks or 280 days.",
+    "correctAnswer": "Pregnancy that is at least 20 weeks to 37 weeks",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 7,
-    "questionText": "Which weeks correspond to the second trimester?",
+    "questionText": "Viability",
     "questionImage": null,
     "options": [
-      "1–13 weeks",
-      "14–26 weeks",
-      "27–40 weeks",
-      "20–30 weeks"
+      "Pregnancy from 37 weeks to 42 weeks",
+      "A pregnancy that goes beyond 42 weeks",
+      "Pregnancy that is at least 20 weeks to 37 weeks",
+      "Capacity to live outside uterus, around 22-25 weeks"
     ],
-    "correctAnswer": "14–26 weeks",
-    "explanationText": "The second trimester spans from 14 to 26 weeks of pregnancy.",
+    "correctAnswer": "Capacity to live outside uterus, around 22-25 weeks",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 8,
-    "questionText": "What is the definition of race?",
+    "questionText": "Congenital",
     "questionImage": null,
     "options": [
-      "A biological classification strictly based on genetics",
-      "A social construct used to group people based on perceived traits",
-      "A measure of cultural beliefs",
-      "A legal classification system"
+      "Abnormality during development",
+      "Abnormality during conception"
     ],
-    "correctAnswer": "A social construct used to group people based on perceived traits",
-    "explanationText": "Race is a social construct, not a strictly biological category.",
+    "correctAnswer": "Abnormality during development",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 9,
-    "questionText": "What defines a minority group?",
+    "questionText": "Genetic",
     "questionImage": null,
     "options": [
-      "A group with fewer people numerically",
-      "A group with more wealth than others",
-      "A group disadvantaged in power and control within society",
-      "A group with the same cultural practices"
+      "Abnormality during development",
+      "Abnormality during conception"
     ],
-    "correctAnswer": "A group disadvantaged in power and control within society",
-    "explanationText": "Minority groups are defined by disparities in power and control, not just numbers.",
+    "correctAnswer": "Abnormality during conception",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 10,
-    "questionText": "What is infant mortality?",
+    "questionText": "Estimated Date of Delivery (EDD) / Estimated Date of Confinement (EDC) Calculation",
     "questionImage": null,
     "options": [
-      "Deaths of infants before birth",
-      "Number of babies who die within the first year per 1,000 live births",
-      "Deaths of mothers during childbirth",
-      "Number of premature births"
+      "- 3 Months, + 7 Days",
+      "+ 3 Months, - 7 Days"
     ],
-    "correctAnswer": "Number of babies who die within the first year per 1,000 live births",
-    "explanationText": "Infant mortality measures deaths during the first year of life per 1,000 live births.",
+    "correctAnswer": "- 3 Months, + 7 Days",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 11,
-    "questionText": "Which is a leading cause of infant death?",
+    "questionText": "Presumptive (Subjective) Signs of Pregnancy",
     "questionImage": null,
     "options": [
-      "Hypertension",
-      "Birth defects",
-      "Asthma",
-      "Diabetes"
+      "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
+      "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
+      "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts"
     ],
-    "correctAnswer": "Birth defects",
-    "explanationText": "Birth defects are one of the leading causes of infant mortality.",
+    "correctAnswer": "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 12,
-    "questionText": "What does gravida refer to?",
+    "questionText": "Probable (Objective) Signs of Pregnancy",
     "questionImage": null,
     "options": [
-      "Number of live births",
-      "A woman who is pregnant",
-      "Number of miscarriages",
-      "Weeks of gestation"
+      "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
+      "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
+      "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts"
     ],
-    "correctAnswer": "A woman who is pregnant",
-    "explanationText": "Gravida refers to a woman who is pregnant or has been pregnant.",
+    "correctAnswer": "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 13,
-    "questionText": "What is a nulligravida?",
+    "questionText": "Positive (Actual) Signs of Pregnancy",
     "questionImage": null,
     "options": [
-      "A woman with one pregnancy",
-      "A woman who has never been pregnant",
-      "A woman with multiple pregnancies",
-      "A woman with a miscarriage"
+      "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
+      "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
+      "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts"
     ],
-    "correctAnswer": "A woman who has never been pregnant",
-    "explanationText": "Nulligravida refers to a woman who has never been pregnant.",
+    "correctAnswer": "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 14,
-    "questionText": "What is considered a term pregnancy?",
+    "questionText": "TORCH Screen",
     "questionImage": null,
     "options": [
-      "20–30 weeks",
-      "30–36 weeks",
-      "37–42 weeks",
-      "42–45 weeks"
+      "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex"
     ],
-    "correctAnswer": "37–42 weeks",
-    "explanationText": "A term pregnancy is between 37 and 42 weeks.",
+    "correctAnswer": "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 15,
-    "questionText": "What does viability refer to in pregnancy?",
+    "questionText": "The Embryotic period lasts for how many days/weeks?",
     "questionImage": null,
     "options": [
-      "Ability to conceive",
-      "Ability to survive outside the uterus",
-      "Length of pregnancy",
-      "Fetal growth rate"
+      "15 days to 8 weeks",
+      "15 days to 9 weeks",
+      "Conception to 9 weeks",
+      "5 days to 8 weeks"
     ],
-    "correctAnswer": "Ability to survive outside the uterus",
-    "explanationText": "Viability refers to the fetus’s ability to live outside the uterus, typically around 22–25 weeks.",
+    "correctAnswer": "",
+    "explanationText": "n/a",
     "explanationImage": null
   },
   {
     "id": 16,
-    "questionText": "What is the EDD based on?",
+    "questionText": "A woman has been pregnant 4 times and 1 miscarriage. Her first child was born at 37 weeks, second child born at 41 weeks, and third child born at 42 weeks. All of her children are living. A urine pregnancy test indicates that she is pregnant. What is her GTPAL?",
     "questionImage": null,
     "options": [
-      "First ultrasound",
-      "Last menstrual period minus 3 months plus 7 days",
-      "Fetal heart rate",
-      "Maternal weight"
+      "G5 T2 P1 A1 L3",
+      "G5 T3 P0 A1 L3",
+      "G4 T3 P0 A1 L3"
     ],
-    "correctAnswer": "Last menstrual period minus 3 months plus 7 days",
-    "explanationText": "EDD is calculated using Naegele’s rule: LMP minus 3 months plus 7 days.",
+    "correctAnswer": "G5 T3 P0 A1 L3",
+    "explanationText": "Gravida: woman who is pregnant/number of pregnancies including this one, Term: 37-42 weeks, Preterm: 20-37 weeks, Abortions/Miscarriages: elective vs. spontaneous, Living children: currently",
+    "explanationImage": null
+  },
+  {
+    "id": 16,
+    "questionText": "Client last menstrual cycle started on January 27th and is unsure when it ended. Her EDD is:",
+    "questionImage": null,
+    "options": [
+      "November 2nd",
+      "November 3rd",
+      "November 4th",
+      "November 5th"
+    ],
+    "correctAnswer": "November 3rd",
+    "explanationText": "-3 months, +7 days",
     "explanationImage": null
   },
   {
     "id": 17,
-    "questionText": "Which is a presumptive sign of pregnancy?",
+    "questionText": "A client who is 7 weeks of gestation is experiencing nausea and vomiting in the morning. Which of the following information should the nurse include in the teaching?",
     "questionImage": null,
     "options": [
-      "Positive fetal heart tones",
-      "Amenorrhea",
-      "Ultrasound visualization",
-      "Fetal movement palpated by provider"
+      "Eat crackers of plain toast before getting out of bed.",
+      "Awaken during the night to eat a snack",
+      "Skip breakfast and each lunch after nausea has subsided.",
+      "Eat a large evening meal."
     ],
-    "correctAnswer": "Amenorrhea",
-    "explanationText": "Presumptive signs are subjective, such as missed periods (amenorrhea).",
+    "correctAnswer": "Eat crackers of plain toast before getting out of bed.",
+    "explanationText": "Nausea and vomiting in early pregnancy (often called morning sickness) is common around 6–12 weeks and is linked to hormonal changes, especially increases in human chorionic gonadotropin and estrogen. Eating dry, bland foods (like crackers or toast) before getting out of bed helps: Prevent an empty stomach, which can worsen nausea, Stabilize blood sugar levels, Reduce gastric irritation first thing in the morning",
     "explanationImage": null
   },
   {
     "id": 18,
-    "questionText": "Which is a positive sign of pregnancy?",
+    "questionText": "A nurse is teaching a client who is at 23 weeks of gestation about immunizations. Which of the following statements should the nurse include in the teaching?",
     "questionImage": null,
     "options": [
-      "Nausea",
-      "Breast tenderness",
-      "Fetal heart tones detected",
-      "Frequent urination"
+      "You should not receive the rubella vaccine while breastfeeding.",
+      "You should receive a varicella vaccine before you deliver.",
+      "You can receive an influenza vaccination during pregnancy.",
+      "You cannot receive the Tdap vaccine until after you deliver."
     ],
-    "correctAnswer": "Fetal heart tones detected",
-    "explanationText": "Positive signs directly confirm pregnancy, such as fetal heart tones.",
+    "correctAnswer": "You can receive an influenza vaccination during pregnancy.",
+    "explanationText": "The inactivated influenza vaccine is safe and recommended during pregnancy at any gestational age, including at 23 weeks. It helps protect: The mother from severe illness The fetus/newborn, since antibodies cross the placenta",
     "explanationImage": null
   },
   {
     "id": 19,
-    "questionText": "What does TORCH screening test for?",
+    "questionText": "A nurse is preparing to measure the fundal height of a client who is at 22 weeks of gestation. At which location should the nurse expect to palpate the fundus?",
     "questionImage": null,
     "options": [
-      "Genetic disorders",
-      "Maternal infections that can harm the fetus",
-      "Blood type compatibility",
-      "Hormone levels"
+      "5 cm above the umbilicus",
+      "Slightly above the umbilicus",
+      "Slightly below the umbilicus",
+      "5 cm below the umbilicus"
     ],
-    "correctAnswer": "Maternal infections that can harm the fetus",
-    "explanationText": "TORCH screens for infections like toxoplasmosis, rubella, CMV, and herpes.",
-    "explanationImage": null
-  },
-  {
-    "id": 20,
-    "questionText": "What is the primary concern with Rh incompatibility?",
-    "questionImage": null,
-    "options": [
-      "Maternal hypertension",
-      "Maternal antibodies attacking fetal red blood cells",
-      "Low maternal blood sugar",
-      "Placental rupture"
-    ],
-    "correctAnswer": "Maternal antibodies attacking fetal red blood cells",
-    "explanationText": "Rh incompatibility can lead to hemolysis of fetal RBCs due to maternal antibodies.",
-    "explanationImage": null
-  },
-  {
-    "id": 21,
-    "questionText": "Which of the following correctly lists the components of a TORCH screening?",
-    "questionImage": null,
-    "options": [
-      "Toxoplasmosis, Other (Hepatitis B), Rubella, Cytomegalovirus, Herpes simplex",
-      "Tuberculosis, Osteoporosis, Rubella, Chickenpox, HIV",
-      "Tetanus, Otitis media, Respiratory syncytial virus, COVID-19, Herpes zoster",
-      "Thyroid disease, Obesity, Renal failure, Cardiac defects, Hypertension"
-    ],
-    "correctAnswer": "Toxoplasmosis, Other (Hepatitis B), Rubella, Cytomegalovirus, Herpes simplex",
-    "explanationText": "TORCH is an acronym for infections that can harm the fetus: Toxoplasmosis, Other (such as Hepatitis B), Rubella, Cytomegalovirus (CMV), and Herpes simplex virus.",
+    "correctAnswer": "Slightly above the umbilicus",
+    "explanationText": "Fundal height helps estimate gestational age by measuring the distance from the pubic symphysis to the top of the uterus (fundus). A useful rule: Around 20 weeks, the fundus is at the level of the umbilicus. After 20 weeks, it rises about 1 cm per week. So at 22 weeks, the fundus should be slightly above the umbilicus.",
     "explanationImage": null
   }
 ]
