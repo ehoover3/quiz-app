@@ -114,7 +114,7 @@ export default function Notes() {
 
           <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
             <h4 className="font-semibold">Ca²⁺ High</h4>
-            <p className="text-sm">Stones, bones, groans</p>
+            <p className="text-sm">Stones = kidney stones. Bones = bone pain. Groans = abdominal pain, constipation, nausea. Thrones = polyuria, dehydration. Psychiatric overtones = confusion, lethargy, depression</p>
           </div>
 
           <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
