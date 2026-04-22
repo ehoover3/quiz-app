@@ -262,5 +262,169 @@
     "correctAnswer": "Slightly above the umbilicus",
     "explanationText": "Fundal height helps estimate gestational age by measuring the distance from the pubic symphysis to the top of the uterus (fundus). A useful rule: Around 20 weeks, the fundus is at the level of the umbilicus. After 20 weeks, it rises about 1 cm per week. So at 22 weeks, the fundus should be slightly above the umbilicus.",
     "explanationImage": null
+  },
+ {
+    "id": 20,
+    "questionText": "TORCH infections include all of the following except:",
+    "options": [
+      "Rubella",
+      "Toxemia",
+      "Toxoplasmosis",
+      "Herpes simplex"
+    ],
+    "correctAnswer": "Toxemia",
+    "explanationText": "TORCH stands for Toxoplasmosis, Other (e.g., syphilis), Rubella, Cytomegalovirus, and Herpes simplex. Toxemia (preeclampsia) is a maternal condition, not a congenital infection."
+  },
+  {
+    "id": 21,
+    "questionText": "A client at 12 weeks’ gestation reports heartburn. Which explanation is correct?",
+    "options": [
+      "Increased progesterone causes decreased smooth muscle motility",
+      "Pressure from the growing uterus displaces the stomach",
+      "Retained bile in the liver results in delayed digestion",
+      "Increased estrogen causes increased secretion of hydrochloric acid"
+    ],
+    "correctAnswer": "Increased progesterone causes decreased smooth muscle motility",
+    "explanationText": "Progesterone relaxes smooth muscle, slowing gastrointestinal motility and relaxing the lower esophageal sphincter. This leads to reflux and heartburn. Uterine pressure is not significant at 12 weeks."
+  },
+  {
+    "id": 22,
+    "questionText": "When completing a skin assessment of a client in the second trimester, the nurse should expect to find:",
+    "options": [
+      "Eczema",
+      "Psoriasis",
+      "Chloasma",
+      "Contact dermatitis"
+    ],
+    "correctAnswer": "Chloasma",
+    "explanationText": "Chloasma (melasma or 'mask of pregnancy') is a normal finding caused by hormonal changes that increase melanin production, leading to facial hyperpigmentation."
+  },
+  {
+    "id": 23,
+    "questionText": "Which of the following is a probable sign of pregnancy?",
+    "options": [
+      "Visualization of the fetus via ultrasound",
+      "Positive urine pregnancy test",
+      "Uterine enlargement",
+      "Breast changes"
+    ],
+    "correctAnswer": "Uterine enlargement",
+    "explanationText": "Probable signs are objective but not definitive (e.g., uterine enlargement, positive pregnancy test). Positive signs confirm pregnancy (e.g., ultrasound visualization). Presumptive signs include breast changes."
+  },
+  {
+    "id": 24,
+    "questionText": "The frequency of contractions is measured:",
+    "options": [
+      "From the beginning of one contraction to the beginning of the next",
+      "From the end of one contraction to the beginning of the next",
+      "From the beginning to the end of the same contraction",
+      "By measuring the mmHg of the contraction"
+    ],
+    "correctAnswer": "From the beginning of one contraction to the beginning of the next",
+    "explanationText": "Frequency is measured from the start of one contraction to the start of the next. Duration is measured from beginning to end of the same contraction."
+  },
+  {
+    "id": 25,
+    "questionText": "A nurse is assessing a client in active labor and notes the presenting part is at 0 station. What does this indicate?",
+    "options": [
+      "The fetal head is in the left occiput posterior position",
+      "The posterior fontanel is palpable",
+      "The lowermost portion of the fetus is at the level of the ischial spines"
+    ],
+    "correctAnswer": "The lowermost portion of the fetus is at the level of the ischial spines",
+    "explanationText": "Station refers to the position of the presenting part relative to the ischial spines. At 0 station, the fetus is engaged at the level of the ischial spines."
+  },
+  {
+    "id": 26,
+    "questionText": "A multigravida who is 8 cm dilated and 100% effaced is in which phase of labor?",
+    "options": [
+      "Active phase",
+      "Latent phase",
+      "Transition phase"
+    ],
+    "correctAnswer": "Transition phase",
+    "explanationText": "The transition phase occurs from 8–10 cm dilation and is the most intense part of the first stage of labor, with strong, frequent contractions."
+  },
+  {
+    "id": 27,
+    "questionText": "There are four stages of labor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "explanationText": "Stage 1: 0–10 cm dilation (latent, active, transition). Stage 2: pushing and delivery of the baby. Stage 3: delivery of the placenta. Stage 4: immediate postpartum recovery (first 1–4 hours)."
+  },
+  {
+    "id": 28,
+    "questionText": "Which finding is abnormal in a newborn?",
+    "options": [
+      "Axillary temperature of 99°F",
+      "Apical heart rate of 180 bpm",
+      "Respiratory rate of 50 breaths/min",
+      "Blood pressure of 60/40 mmHg"
+    ],
+    "correctAnswer": "Apical heart rate of 180 bpm",
+    "explanationText": "Normal newborn heart rate is 110–160 bpm. A rate of 180 bpm is tachycardia. The other values fall within normal newborn ranges."
+  },
+  {
+    "id": 29,
+    "questionText": "Which term describes cyanosis that is normal during the first few days of a newborn’s life?",
+    "options": [
+      "Acrocyanosis",
+      "Central cyanosis",
+      "Circumoral cyanosis",
+      "Differential cyanosis"
+    ],
+    "correctAnswer": "Acrocyanosis",
+    "explanationText": "Acrocyanosis (bluish hands and feet) is normal in newborns due to immature circulation. Central cyanosis is abnormal and indicates hypoxia."
+  },
+  {
+    "id": 30,
+    "questionText": "The stool of breastfed infants:",
+    "options": [
+      "Is thick and sticky",
+      "Is yellow to light brown",
+      "Is seedy and mustard-colored",
+      "Is firm in consistency"
+    ],
+    "correctAnswer": "Is seedy and mustard-colored",
+    "explanationText": "Breastfed stools are typically yellow, loose, and seedy. Meconium (first stool) is thick, dark, and sticky."
+  },
+  {
+    "id": 31,
+    "questionText": "Safe sleep for infants should include:",
+    "options": [
+      "No bumper pads",
+      "Firm mattress",
+      "No loose blankets",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanationText": "Safe sleep reduces the risk of SIDS. Infants should sleep on a firm surface with no loose bedding, pillows, or bumper pads."
+  },
+  {
+    "id": 32,
+    "questionText": "Which finding indicates newborn respiratory distress?",
+    "options": [
+      "Cyanosis of hands and feet",
+      "Grunting",
+      "Nasal constriction",
+      "Respiratory rate of 56"
+    ],
+    "correctAnswer": "Grunting",
+    "explanationText": "Grunting is a sign of respiratory distress, indicating the newborn is trying to keep alveoli open. Other signs include nasal flaring, retractions, and tachypnea. Acrocyanosis and RR of 56 can be normal."
+  },
+  {
+    "id": 33,
+    "questionText": "Infants should regain or exceed their birth weight by:",
+    "options": [
+      "5 days",
+      "3 weeks",
+      "2 weeks",
+      "1 week"
+    ],
+    "correctAnswer": "2 weeks",
+    "explanationText": "Newborns typically lose 5–10% of their birth weight after delivery but should regain it by 10–14 days of life."
   }
 ]
