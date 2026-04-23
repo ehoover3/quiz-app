@@ -1,4 +1,39 @@
 export default function Notes() {
+  const items = [
+
+    { src: "molding.png", label: "Molding" },
+    { src: "IschialSpines.png", label: "Ischial Spines" },
+    { src: "Babinski.png", label: "Babinski Reflex" },
+    { src: "Moro.png", label: "Moro Reflex" },
+
+    { src: "NuchalCord.png", label: "Nuchal Cord" },
+
+    { src: "Milia.png", label: "Milia" },
+
+    { src: "Mottling.png", label: "Mottling" },
+
+    { src: "OralContraceptives1.png", label: "OralContraceptives1" },
+    { src: "OralContraceptives2.png", label: "OralContraceptives2" },
+    { src: "OralContraceptives3.png", label: "OralContraceptives3" },
+    { src: "OralContraceptives4.png", label: "OralContraceptives4" },
+    { src: "TonicFencing.png", label: "TonicFencing" },
+    { src: "TORCH.png", label: "TORCH" },
+
+    { src: "apgar.png", label: "APGAR" },
+
+
+
+    { src: "birthControlPill.png", label: "Birth Control Pill" },
+    { src: "cervicalCap.jpg", label: "Cervical Cap" },
+    { src: "contraceptiveSponge.png", label: "Contraceptive Sponge" },
+    { src: "diaphram.jpg", label: "Diaphragm" },
+    { src: "femaleCondom.png", label: "Female Condom" },
+    { src: "femaleSterilizationTubalLigation.jpg", label: "Tubal Ligation" },
+    { src: "implantableProgestin.png", label: "Implantable Progestin" },
+    { src: "IUD.png", label: "IUD" },
+    { src: "maleSterilizationVasectomy.png", label: "Vasectomy" },
+    { src: "vaginalContraceptionRing.png", label: "Vaginal Ring" }
+  ];
   return (
     <div className="space-y-6 w-full max-w-4xl mx-auto">
 
@@ -41,6 +76,44 @@ export default function Notes() {
           <p className="text-sm">Permanent Sterilization: Vasectomy.  Vas deferens are cut & sealed.  Must do 2 consecutive sperm counts both showing 0 sperm.</p>
 
           <p className="text-sm">NOTE:  GO TO MODULES. DO CAN YOU GUESS THE CONTRACEPTIVE.</p>
+
+
+          {/* IMAGES */}
+          <div
+            style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fill, minmax(160px, 1fr))',
+              gap: '16px'
+            }}
+          >
+            {items.map((item) => (
+              <div
+                key={item.src}
+                style={{
+                  border: '1px solid #ddd',
+                  borderRadius: '12px',
+                  padding: '10px',
+                  textAlign: 'center',
+                  boxShadow: '0 2px 6px rgba(0,0,0,0.1)',
+                  backgroundColor: '#fff'
+                }}
+              >
+                <img
+                  src={`images/${item.src}`}
+                  alt={item.label}
+                  style={{
+                    width: '100%',
+                    height: '120px',
+                    objectFit: 'cover',
+                    borderRadius: '8px'
+                  }}
+                />
+                <div style={{ marginTop: '8px', fontSize: '14px', fontWeight: '500' }}>
+                  {item.label}
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
 
 
@@ -48,130 +121,6 @@ export default function Notes() {
       </div>
 
 
-      {/* GRID SECTION */}
-      <div className="grid md:grid-cols-3 gap-4">
-
-        <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-          <h3 className="font-semibold border-b pb-1 mb-2">
-            Cardiac Output
-          </h3>
-          <p className="text-sm">Stroke Volume × Heart Rate</p>
-        </div>
-
-        <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-          <h3 className="font-semibold border-b pb-1 mb-2">
-            Preload
-          </h3>
-          <p className="text-sm">Blood in LV at end of diastole</p>
-        </div>
-
-        <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-          <h3 className="font-semibold border-b pb-1 mb-2">
-            Afterload
-          </h3>
-          <p className="text-sm">Resistance to LV ejection</p>
-        </div>
-
-      </div>
-
-      {/* OXYGEN */}
-      <div className="card border border-gray-800">
-
-        <h3 className="title text-lg">Oxygen Delivery Devices</h3>
-
-        <div className="grid md:grid-cols-2 gap-4 mt-4">
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Nasal Cannula</h4>
-            <p className="text-sm text-gray-500">1–6 L/min</p>
-            <p className="text-sm">24%–44%</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Simple Mask</h4>
-            <p className="text-sm text-gray-500">5–10 L/min</p>
-            <p className="text-sm">35%–60%</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Non-Rebreather</h4>
-            <p className="text-sm text-gray-500">10–15 L/min</p>
-            <p className="text-sm">80%–98%</p>
-            <p className="text-xs text-gray-500 mt-1">
-              Bag must stay inflated
-            </p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Venturi Mask</h4>
-            <p className="text-sm text-gray-500">24%–60%</p>
-            <p className="text-sm">Precise FiO₂ delivery</p>
-          </div>
-
-        </div>
-      </div>
-
-      {/* ELECTROLYTES */}
-      <div className="card border border-gray-800">
-
-        <h3 className="title text-lg">
-          Fluid & Electrolyte Imbalances
-        </h3>
-
-        <div className="grid md:grid-cols-2 gap-4 mt-4">
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Hypervolemia ↑</h4>
-            <p className="text-sm">Edema, crackles, JVD, weight gain</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Hypovolemia ↓</h4>
-            <p className="text-sm">Dry mucosa, hypotension, tachycardia</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Na⁺ High</h4>
-            <p className="text-sm">Thirst, confusion</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Na⁺ Low</h4>
-            <p className="text-sm">Seizures, headache, confusion</p>
-          </div>
-
-          <div className="card border border-black hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">K⁺ High</h4>
-            <p className="text-sm">Peaked T waves, weakness</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">K⁺ Low</h4>
-            <p className="text-sm">U waves, cramps, dysrhythmias</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Ca²⁺ High</h4>
-            <p className="text-sm">Stones = kidney stones. Bones = bone pain. Groans = abdominal pain, constipation, nausea. Thrones = polyuria, dehydration. Psychiatric overtones = confusion, lethargy, depression</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Ca²⁺ Low</h4>
-            <p className="text-sm">Tetany, Chvostek, Trousseau</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Mg²⁺ High</h4>
-            <p className="text-sm">Respiratory depression, hypotension</p>
-          </div>
-
-          <div className="card border border-gray-800 hover:border-black hover:shadow-md transition">
-            <h4 className="font-semibold">Mg²⁺ Low</h4>
-            <p className="text-sm">Tremors, torsades de pointes</p>
-          </div>
-
-        </div>
-      </div>
 
     </div>
   );

@@ -263,7 +263,7 @@
     "explanationText": "Fundal height helps estimate gestational age by measuring the distance from the pubic symphysis to the top of the uterus (fundus). A useful rule: Around 20 weeks, the fundus is at the level of the umbilicus. After 20 weeks, it rises about 1 cm per week. So at 22 weeks, the fundus should be slightly above the umbilicus.",
     "explanationImage": null
   },
- {
+  {
     "id": 20,
     "questionText": "TORCH infections include all of the following except:",
     "options": [
@@ -426,5 +426,427 @@
     ],
     "correctAnswer": "2 weeks",
     "explanationText": "Newborns typically lose 5–10% of their birth weight after delivery but should regain it by 10–14 days of life."
+  },
+  {
+    "id": 34,
+    "questionText": "Culture is best defined as:",
+    "options": [
+      "A person’s biological traits",
+      "A pattern of shared attitudes, beliefs, norms, roles, and values",
+      "A system of government",
+      "A person’s income level"
+    ],
+    "correctAnswer": "A pattern of shared attitudes, beliefs, norms, roles, and values",
+    "explanationText": "Culture refers to shared attitudes, beliefs, self-definitions, norms, roles, and values among a group of people."
+  },
+  {
+    "id": 35,
+    "questionText": "Race is best described as:",
+    "options": [
+      "A biological classification",
+      "A social construct associated with power",
+      "A genetic disorder",
+      "A cultural belief system"
+    ],
+    "correctAnswer": "A social construct associated with power",
+    "explanationText": "Race is a social construct used by societies to categorize people based on perceived physical and behavioral traits."
+  },
+  {
+    "id": 36,
+    "questionText": "Ethnicity refers to:",
+    "options": [
+      "Biological differences",
+      "A person’s income level",
+      "A shared identity and cultural uniqueness",
+      "A political affiliation"
+    ],
+    "correctAnswer": "A shared identity and cultural uniqueness",
+    "explanationText": "Ethnicity focuses on shared identity, values, meanings, and ways of living that distinguish a group."
+  },
+  {
+    "id": 37,
+    "questionText": "A minority group is defined as:",
+    "options": [
+      "A group with the largest population",
+      "A group with equal power in society",
+      "A group disadvantaged in power, control, and wealth",
+      "A group defined by age"
+    ],
+    "correctAnswer": "A group disadvantaged in power, control, and wealth",
+    "explanationText": "Minority groups are those who experience disadvantages in power, control over their lives, and access to wealth."
+  },
+  {
+    "id": 38,
+    "questionText": "Sex refers to:",
+    "options": [
+      "A person's gender identity",
+      "A person's biological status assigned at birth",
+      "A person's sexual orientation",
+      "A person's cultural role"
+    ],
+    "correctAnswer": "A person's biological status assigned at birth",
+    "explanationText": "Sex is the biological classification (male or female) assigned at birth."
+  },
+  {
+    "id": 39,
+    "questionText": "Gender identity is defined as:",
+    "options": [
+      "A person's external appearance",
+      "A person's biological sex",
+      "A person's internal sense of being male, female, both, or neither",
+      "A person's sexual attraction"
+    ],
+    "correctAnswer": "A person's internal sense of being male, female, both, or neither",
+    "explanationText": "Gender identity is an individual’s internal understanding of their gender, which may differ from their assigned sex."
+  },
+  {
+    "id": 40,
+    "questionText": "Gender expression refers to:",
+    "options": [
+      "A person's biological sex",
+      "A person's internal beliefs",
+      "A person's outward presentation of gender",
+      "A person's sexual orientation"
+    ],
+    "correctAnswer": "A person's outward presentation of gender",
+    "explanationText": "Gender expression is how a person externally expresses their gender identity through behavior, clothing, and appearance."
+  },
+  {
+    "id": 41,
+    "questionText": "Sexual orientation is defined as:",
+    "options": [
+      "A person's gender identity",
+      "A person's biological sex",
+      "A person's romantic, emotional, or sexual attraction to others",
+      "A person's cultural beliefs"
+    ],
+    "correctAnswer": "A person's romantic, emotional, or sexual attraction to others",
+    "explanationText": "Sexual orientation refers to who a person is attracted to emotionally, romantically, or sexually."
+  },
+  {
+    "id": 42,
+    "questionText": "What does the 'C' in the FICA tool stand for?",
+    "options": [
+      "Care",
+      "Community",
+      "Culture",
+      "Compassion"
+    ],
+    "correctAnswer": "Community",
+    "explanationText": "The FICA tool includes Faith, Importance, Community, and Address for spiritual assessment."
+  },
+  {
+    "id": 43,
+    "questionText": "Spirituality is best defined as:",
+    "options": [
+      "Participation in religious services only",
+      "A set of cultural traditions",
+      "A sense of peace, purpose, and connection",
+      "A biological response"
+    ],
+    "correctAnswer": "A sense of peace, purpose, and connection",
+    "explanationText": "Spirituality involves a person’s sense of meaning, purpose, and connection to others or a higher power."
+  },
+  {
+    "id": 44,
+    "questionText": "Which of the following is part of culturally competent care?",
+    "options": [
+      "Avoiding other cultures",
+      "Self-awareness of one's own cultural identity",
+      "Ignoring patient beliefs",
+      "Treating all patients exactly the same without consideration"
+    ],
+    "correctAnswer": "Self-awareness of one's own cultural identity",
+    "explanationText": "Culturally competent care includes self-awareness, knowledge, skill, and a desire to understand others."
+  },
+  {
+    "id": 45,
+    "questionText": "A woman at 16 weeks gestation is in which trimester?",
+    "options": [
+      "First trimester",
+      "Second trimester",
+      "Third trimester",
+      "Post-term"
+    ],
+    "correctAnswer": "Second trimester",
+    "explanationText": "The second trimester spans from weeks 13 to 27, so 16 weeks falls within this period."
+  },
+  {
+    "id": 46,
+    "questionText": "What does 'multigravida' mean?",
+    "options": [
+      "Currently carrying multiple fetuses",
+      "This is not her first pregnancy",
+      "This is her first pregnancy",
+      "She has never been pregnant before"
+    ],
+    "correctAnswer": "This is not her first pregnancy",
+    "explanationText": "Multigravida refers to a woman who has been pregnant more than once."
+  },
+  {
+    "id": 47,
+    "questionText": "What is the ideal time to begin regular prenatal visits?",
+    "options": [
+      "When the menstrual period is 3 weeks late",
+      "At 12 weeks gestation",
+      "As soon as possible after the first missed menstrual period",
+      "At 16 weeks gestation"
+    ],
+    "correctAnswer": "As soon as possible after the first missed menstrual period",
+    "explanationText": "Early prenatal care is important for monitoring maternal and fetal health."
+  },
+  {
+    "id": 48,
+    "questionText": "Susie's LMP was 7/16/2021. What is her estimated date of delivery?",
+    "options": [
+      "4/22/2021",
+      "4/23/2022",
+      "5/16/2022",
+      "3/22/2022"
+    ],
+    "correctAnswer": "4/23/2022",
+    "explanationText": "Using Naegele’s rule: add 7 days, subtract 3 months, and add 1 year to the LMP."
+  },
+  {
+    "id": 49,
+    "questionText": "Which prenatal care activities are appropriate at 16 weeks gestation? (Select all that apply)",
+    "options": [
+      "Provide nutrition education",
+      "Obtain a midstream urinalysis",
+      "Send a blood sample for alpha-fetoprotein (AFP) testing",
+      "Advise the client to have DNA testing",
+      "Complete an obstetrical ultrasound"
+    ],
+    "correctAnswer": "Provide nutrition education, Obtain a midstream urinalysis, Send a blood sample for alpha-fetoprotein (AFP) testing, Complete an obstetrical ultrasound",
+    "explanationText": "At 16 weeks, routine care includes education, urinalysis, AFP screening, and ultrasound. DNA testing is not routinely advised unless indicated."
+  },
+  {
+    "id": 50,
+    "questionText": "Which finding in a 16-week pregnant client requires follow-up?",
+    "options": [
+      "Temperature 98.6°F",
+      "Heart rate 76 bpm",
+      "Blood pressure 132/78",
+      "Respiratory rate 14"
+    ],
+    "correctAnswer": "Blood pressure 132/78",
+    "explanationText": "A slightly elevated blood pressure in pregnancy may require monitoring for hypertensive disorders."
+  },
+  {
+    "id": 51,
+    "questionText": "During the second trimester, prenatal visits are typically scheduled every:",
+    "options": [
+      "1 week",
+      "2 weeks",
+      "4 weeks",
+      "6 weeks"
+    ],
+    "correctAnswer": "4 weeks",
+    "explanationText": "Routine prenatal visits during the second trimester occur every 4 weeks."
+  },
+  {
+    "id": 52,
+    "questionText": "An ultrasound in pregnancy is primarily used to assess fetal:",
+    "options": [
+      "Respirations",
+      "Anatomy",
+      "Nutrition",
+      "Blood pressure"
+    ],
+    "correctAnswer": "Anatomy",
+    "explanationText": "Ultrasound evaluates fetal anatomy to detect possible anomalies."
+  },
+  {
+    "id": 53,
+    "questionText": "Fetal movement is typically first felt by the mother around:",
+    "options": [
+      "12 weeks",
+      "16 weeks",
+      "20 weeks",
+      "24 weeks"
+    ],
+    "correctAnswer": "16 weeks",
+    "explanationText": "Quickening, or first fetal movement, is usually felt around 16–20 weeks."
+  },
+  {
+    "id": 54,
+    "questionText": "Fundal height measurement is used to assess:",
+    "options": [
+      "Maternal weight gain",
+      "Fetal growth",
+      "Placental position",
+      "Amniotic fluid color"
+    ],
+    "correctAnswer": "Fetal growth",
+    "explanationText": "Fundal height is a noninvasive way to estimate fetal growth during pregnancy."
+  },
+  {
+    "id": 55,
+    "questionText": "Fundal height measurements begin routinely after:",
+    "options": [
+      "12 weeks",
+      "16 weeks",
+      "20 weeks",
+      "24 weeks"
+    ],
+    "correctAnswer": "20 weeks",
+    "explanationText": "After 20 weeks, fundal height correlates with gestational age and is measured at each visit."
+  },
+  {
+    "id": 56,
+    "questionText": "Rho(D) immune globulin is given after birth when:",
+    "options": [
+      "Mother Rh+, baby Rh+",
+      "Mother Rh–, baby Rh–",
+      "Mother Rh–, baby Rh+",
+      "Mother Rh+, baby Rh–"
+    ],
+    "correctAnswer": "Mother Rh–, baby Rh+",
+    "explanationText": "RhoGAM prevents Rh sensitization when an Rh-negative mother delivers an Rh-positive infant."
+  },
+  {
+    "id": 57,
+    "questionText": "Which of the following is a sign of true labor?",
+    "options": [
+      "Irregular contractions",
+      "Contractions that stop with rest",
+      "Increasing intensity and frequency of contractions",
+      "Pain only in the abdomen"
+    ],
+    "correctAnswer": "Increasing intensity and frequency of contractions",
+    "explanationText": "True labor involves contractions that become stronger, longer, and closer together."
+  },
+  {
+    "id": 58,
+    "questionText": "What does 'station -2' indicate?",
+    "options": [
+      "Baby is crowning",
+      "Baby is above the ischial spines",
+      "Baby is at the ischial spines",
+      "Baby has been delivered"
+    ],
+    "correctAnswer": "Baby is above the ischial spines",
+    "explanationText": "Negative stations indicate the fetal head is above the ischial spines."
+  },
+  {
+    "id": 59,
+    "questionText": "Which stage of labor involves pushing and delivery of the baby?",
+    "options": [
+      "Stage 1",
+      "Stage 2",
+      "Stage 3",
+      "Stage 4"
+    ],
+    "correctAnswer": "Stage 2",
+    "explanationText": "Stage 2 begins at full dilation (10 cm) and ends with delivery of the baby."
+  },
+  {
+    "id": 60,
+    "questionText": "Which stage of labor includes delivery of the placenta?",
+    "options": [
+      "Stage 1",
+      "Stage 2",
+      "Stage 3",
+      "Stage 4"
+    ],
+    "correctAnswer": "Stage 3",
+    "explanationText": "Stage 3 is the period after birth of the baby until delivery of the placenta."
+  },
+  {
+    "id": 61,
+    "questionText": "What does AROM stand for?",
+    "options": [
+      "Artificial rupture of membranes",
+      "Active rupture of membranes",
+      "Assisted rupture of membranes",
+      "Acute rupture of membranes"
+    ],
+    "correctAnswer": "Artificial rupture of membranes",
+    "explanationText": "AROM is when the provider intentionally ruptures the amniotic sac."
+  },
+  {
+    "id": 62,
+    "questionText": "Apgar score evaluates which of the following? (Select all that apply)",
+    "options": [
+      "Heart rate",
+      "Respiratory effort",
+      "Muscle tone",
+      "Blood pressure",
+      "Color"
+    ],
+    "correctAnswer": "Heart rate, Respiratory effort, Muscle tone, Color",
+    "explanationText": "Apgar assesses heart rate, respirations, muscle tone, reflex irritability, and color."
+  },
+  {
+    "id": 63,
+    "questionText": "Which maternal position improves uterine blood flow during labor?",
+    "options": [
+      "Supine",
+      "Right lateral",
+      "Left lateral",
+      "Standing upright"
+    ],
+    "correctAnswer": "Left lateral",
+    "explanationText": "The left lateral position improves blood flow and oxygenation to the fetus."
+  },
+  {
+    "id": 64,
+    "questionText": "A newborn respiratory rate of 40 breaths per minute is:",
+    "options": [
+      "Too low",
+      "Normal",
+      "Too high",
+      "Indicative of distress"
+    ],
+    "correctAnswer": "Normal",
+    "explanationText": "Normal newborn respiratory rate is 30–60 breaths per minute."
+  },
+  {
+    "id": 65,
+    "questionText": "Which is a sign of respiratory distress in a newborn?",
+    "options": [
+      "Periodic breathing",
+      "Nasal flaring",
+      "Respiratory rate of 40",
+      "Sleeping frequently"
+    ],
+    "correctAnswer": "Nasal flaring",
+    "explanationText": "Nasal flaring, grunting, and retractions are signs of respiratory distress."
+  },
+  {
+    "id": 66,
+    "questionText": "Newborns typically lose what percentage of birth weight in the first few days?",
+    "options": [
+      "1–3%",
+      "5–10%",
+      "10–15%",
+      "15–20%"
+    ],
+    "correctAnswer": "5–10%",
+    "explanationText": "It is normal for newborns to lose 5–10% of their birth weight initially."
+  },
+  {
+    "id": 67,
+    "questionText": "Which intervention is appropriate immediately after birth?",
+    "options": [
+      "Routine oxygen administration",
+      "Skin-to-skin contact",
+      "Delaying vitamin K",
+      "Avoiding vaccinations"
+    ],
+    "correctAnswer": "Skin-to-skin contact",
+    "explanationText": "Skin-to-skin promotes bonding, temperature regulation, and breastfeeding success."
+  },
+  {
+    "id": 68,
+    "questionText": "Which finding in a newborn requires further evaluation?",
+    "options": [
+      "Heart rate 134 bpm",
+      "Soft, flat fontanels",
+      "Pale mucous membranes",
+      "Bluish hands and feet"
+    ],
+    "correctAnswer": "Pale mucous membranes",
+    "explanationText": "Pale mucous membranes may indicate poor perfusion or anemia and require follow-up."
   }
 ]
