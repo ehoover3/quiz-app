@@ -9,7 +9,7 @@
       "A woman who has had two or more pregnancies"
     ],
     "correctAnswer": "A woman who is pregnant",
-    "explanationText": "n/a",
+    "explanationText": "A woman who is pregnant",
     "explanationImage": null
   },
   {
@@ -22,7 +22,7 @@
       "A woman who has had two or more pregnancies"
     ],
     "correctAnswer": "A woman who has never been pregnant",
-    "explanationText": "n/a",
+    "explanationText": "A woman who has never been pregnant",
     "explanationImage": null
   },
   {
@@ -35,7 +35,7 @@
       "A woman who has had two or more pregnancies"
     ],
     "correctAnswer": "A woman who has had two or more pregnancies",
-    "explanationText": "n/a",
+    "explanationText": "A woman who has had two or more pregnancies",
     "explanationImage": null
   },
   {
@@ -49,7 +49,7 @@
       "Capacity to live outside uterus, around 22-25 weeks"
     ],
     "correctAnswer": "Pregnancy from 37 weeks to 42 weeks",
-    "explanationText": "n/a",
+    "explanationText": "Pregnancy from 37 weeks to 42 weeks",
     "explanationImage": null
   },
   {
@@ -63,7 +63,7 @@
       "Capacity to live outside uterus, around 22-25 weeks"
     ],
     "correctAnswer": "A pregnancy that goes beyond 42 weeks",
-    "explanationText": "n/a",
+    "explanationText": "A pregnancy that goes beyond 42 weeks",
     "explanationImage": null
   },
   {
@@ -77,7 +77,7 @@
       "Capacity to live outside uterus, around 22-25 weeks"
     ],
     "correctAnswer": "Pregnancy that is at least 20 weeks to 37 weeks",
-    "explanationText": "n/a",
+    "explanationText": "Pregnancy that is at least 20 weeks to 37 weeks",
     "explanationImage": null
   },
   {
@@ -91,7 +91,7 @@
       "Capacity to live outside uterus, around 22-25 weeks"
     ],
     "correctAnswer": "Capacity to live outside uterus, around 22-25 weeks",
-    "explanationText": "n/a",
+    "explanationText": "Capacity to live outside uterus, around 22-25 weeks",
     "explanationImage": null
   },
   {
@@ -103,7 +103,7 @@
       "Abnormality during conception"
     ],
     "correctAnswer": "Abnormality during development",
-    "explanationText": "n/a",
+    "explanationText": "Abnormality during development",
     "explanationImage": null
   },
   {
@@ -115,7 +115,7 @@
       "Abnormality during conception"
     ],
     "correctAnswer": "Abnormality during conception",
-    "explanationText": "n/a",
+    "explanationText": "Abnormality during conception",
     "explanationImage": null
   },
   {
@@ -127,7 +127,7 @@
       "+ 3 Months, - 7 Days"
     ],
     "correctAnswer": "- 3 Months, + 7 Days",
-    "explanationText": "n/a",
+    "explanationText": "- 3 Months, + 7 Days",
     "explanationImage": null
   },
   {
@@ -140,7 +140,7 @@
       "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts"
     ],
     "correctAnswer": "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
-    "explanationText": "n/a",
+    "explanationText": "Nausea/vomiting, Change in breast sensations/size, Increased urinary frequency, Fatigue, Missed menstrual period (Amenorrhea)",
     "explanationImage": null
   },
   {
@@ -153,7 +153,7 @@
       "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts"
     ],
     "correctAnswer": "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
-    "explanationText": "n/a",
+    "explanationText": "Enlargement of the uterus/abdomen, Positive test for hCG in the maternal urine or blood, Softening and compressibility of lower uterus (Hegar sign), Bluish or cyanotic color of cervix and upper vagina (Chadwick sign), Softening of the cervix (Goodell sign)",
     "explanationImage": null
   },
   {
@@ -166,7 +166,7 @@
       "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts"
     ],
     "correctAnswer": "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts",
-    "explanationText": "n/a",
+    "explanationText": "Detection of fetal heart tones by auscultation, ultrasonography, or a Doppler,  Measuring of fundal height, Palpation of fetal body parts using Leopold maneuvers, Objective detection of fetal movements (Quickening!), Radiological or ultrasonographic demonstration of fetal parts",
     "explanationImage": null
   },
   {
@@ -177,7 +177,7 @@
       "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex"
     ],
     "correctAnswer": "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex",
-    "explanationText": "n/a",
+    "explanationText": "Toxoplamosis, Other/Hepatitis B, Rubella, Provide rubella vaccine if pre-conception (do not give during pregnancy and avoid pregnancy for 3 months post vaccine!), Cytomegalovirus, Herpes simplex",
     "explanationImage": null
   },
   {
@@ -190,8 +190,8 @@
       "Conception to 9 weeks",
       "5 days to 8 weeks"
     ],
-    "correctAnswer": "",
-    "explanationText": "n/a",
+    "correctAnswer": "15 days to 8 weeks",
+    "explanationText": "15 days to 8 weeks. This is a critical time when all major organs and body systems begin to form (organogenesis).",
     "explanationImage": null
   },
   {
@@ -237,7 +237,7 @@
   },
   {
     "id": 18,
-    "questionText": "A nurse is teaching a client who is at 23 weeks of gestation about immunizations. Which of the following statements should the nurse include in the teaching?",
+    "questionText": "A nurse is teaching a client who is at 23 weeks of gestation about immunizations. Which should the nurse teach?",
     "questionImage": null,
     "options": [
       "You should not receive the rubella vaccine while breastfeeding.",
@@ -309,7 +309,8 @@
       "Breast changes"
     ],
     "correctAnswer": "Uterine enlargement",
-    "explanationText": "Probable signs are objective but not definitive (e.g., uterine enlargement, positive pregnancy test). Positive signs confirm pregnancy (e.g., ultrasound visualization). Presumptive signs include breast changes."
+    "explanationText": "Probable signs are objective but not definitive (e.g., uterine enlargement, positive pregnancy test). Positive signs confirm pregnancy (e.g., ultrasound visualization). Presumptive signs include breast changes.",
+    "explanationImage": "images/Chloasma.jpeg"
   },
   {
     "id": 24,
@@ -343,7 +344,8 @@
       "Transition phase"
     ],
     "correctAnswer": "Transition phase",
-    "explanationText": "The transition phase occurs from 8–10 cm dilation and is the most intense part of the first stage of labor, with strong, frequent contractions."
+    "explanationText": "The transition phase occurs from 8–10 cm dilation and is the most intense part of the first stage of labor, with strong, frequent contractions.",
+    "explanationImage": "images/LaborStages.png"
   },
   {
     "id": 27,

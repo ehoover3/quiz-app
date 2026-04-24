@@ -1,93 +1,100 @@
 [
-  {
-    "id": 31,
-    "questionText": "A patient still has chest pain after taking nitroglycerin. What is the priority action?",
-    "options": ["Give another dose of nitroglycerin", "Call ambulance/emergency services", "Have the patient rest", "Check blood pressure"],
-    "correctAnswer": "Call ambulance/emergency services",
-    "explanationText": "Chest pain that does not resolve after nitroglycerin may indicate myocardial infarction and requires emergency intervention."
-  },
-  {
-    "id": 32,
-    "questionText": "Chronic stable angina is best described as:",
-    "options": ["Pain that occurs at rest", "Pain that improves with rest", "Pain with fever", "Pain unrelated to exertion"],
-    "correctAnswer": "Pain that improves with rest",
-    "explanationText": "Stable angina is typically triggered by exertion and resolves with rest or nitroglycerin."
-  },
-  {
-    "id": 33,
-    "questionText": "Which symptom pattern is most consistent with a duodenal ulcer?",
-    "options": ["Pain worse after eating", "Pain relieved by eating", "No relation to meals", "Constant severe vomiting"],
-    "correctAnswer": "Pain relieved by eating",
-    "explanationText": "Duodenal ulcer pain is often relieved by food and may return a few hours after meals or at night."
-  },
-  {
-    "id": 34,
-    "questionText": "Which foods should a patient with GERD avoid?",
-    "options": ["Chocolate, citrus, caffeine", "Rice, chicken, water", "Bananas and oatmeal", "Lean fish and vegetables"],
-    "correctAnswer": "Chocolate, citrus, caffeine",
-    "explanationText": "Chocolate, citrus, and caffeine can relax the lower esophageal sphincter and worsen GERD symptoms."
-  },
-  {
-    "id": 35,
-    "questionText": "Metoclopramide works by:",
-    "options": ["Blocking dopamine receptors in the CTZ and increasing gastric emptying", "Increasing acid secretion", "Blocking histamine receptors", "Coating gastric ulcers"],
-    "correctAnswer": "Blocking dopamine receptors in the CTZ and increasing gastric emptying",
-    "explanationText": "Metoclopramide is a prokinetic antiemetic that blocks dopamine in the chemoreceptor trigger zone and promotes gastric emptying."
-  },
-  {
-    "id": 36,
-    "questionText": "A serious adverse effect of ondansetron (Zofran) is:",
-    "options": ["Hypoglycemia", "Prolonged QT interval", "Bradycardia", "Hypertension"],
-    "correctAnswer": "Prolonged QT interval",
-    "explanationText": "Ondansetron can prolong the QT interval, increasing the risk of dangerous cardiac arrhythmias."
-  },
-  {
-    "id": 37,
-    "questionText": "How long does docusate sodium typically take to produce a bowel movement?",
-    "options": ["30 minutes", "6 hours", "1 day", "2–3 days"],
-    "correctAnswer": "2–3 days",
-    "explanationText": "Docusate sodium is a stool softener that may take 2–3 days to produce a bowel movement."
-  },
-  {
-    "id": 38,
-    "questionText": "Antacids should be used cautiously in patients with:",
-    "options": ["Asthma", "Chronic kidney disease (CKD)", "Hypertension", "GERD"],
-    "correctAnswer": "Chronic kidney disease (CKD)",
-    "explanationText": "Antacids can accumulate electrolytes such as magnesium or aluminum in patients with renal impairment."
-  },
-  {
-    "id": 39,
-    "questionText": "Diphenoxylate with atropine is used to treat diarrhea. Its primary mechanism includes:",
-    "options": ["Increasing intestinal motility", "Opioid-like slowing of GI motility", "Increasing acid secretion", "Stimulating bowel movements"],
-    "correctAnswer": "Opioid-like slowing of GI motility",
-    "explanationText": "Diphenoxylate is an opioid antidiarrheal that slows GI motility; atropine is added to discourage abuse."
-  },
-  {
-    "id": 40,
-    "questionText": "Sucralfate should be administered:",
-    "options": ["With meals", "On an empty stomach, 1 hour before meals", "Only at bedtime", "After meals"],
-    "correctAnswer": "On an empty stomach, 1 hour before meals",
-    "explanationText": "Sucralfate coats ulcers and works best when taken on an empty stomach before meals."
-  },
-  {
-    "id": 41,
-    "questionText": "Which is a key risk and use combination for omeprazole (PPI)?",
-    "options": ["Osteoporosis risk and use with antibiotics for H. pylori", "Kidney stones and use with insulin", "Bradycardia and use with beta blockers", "Hyperglycemia and use with steroids"],
-    "correctAnswer": "Osteoporosis risk and use with antibiotics for H. pylori",
-    "explanationText": "Omeprazole is a proton pump inhibitor used for GERD and ulcers; long-term use increases fracture risk and it is used in H. pylori combination therapy with antibiotics."
-  },
-  {
-    "id": 42,
-    "questionText": "Smoking has what effect on gastric acid production?",
-    "options": ["Decreases acid production", "No effect", "Increases acid production", "Neutralizes acid"],
-    "correctAnswer": "Increases acid production",
-    "explanationText": "Smoking increases gastric acid secretion and can worsen peptic ulcer disease and GERD."
-  },
-  {
-    "id": 43,
-    "questionText": "A laxative should NOT be given in which situation?",
-    "options": ["Constipation", "Fecal impaction", "Hypertension", "GERD"],
-    "correctAnswer": "Fecal impaction",
-    "explanationText": "Laxatives are contraindicated in fecal impaction due to risk of bowel perforation and obstruction complications."
-  }
+  {"id":16,"questionText":"A patient prescribed buspirone for anxiety asks when the medication will begin to work. What is the best response?","options":["Immediately","Within 1 hour","In 2–4 weeks","After one dose"],"correctAnswer":"In 2–4 weeks","explanationText":"Buspirone has a delayed onset and is not effective immediately."},
+  {"id":17,"questionText":"A patient taking buspirone should avoid which substance?","options":["Milk","Grapefruit juice","Water","Rice"],"correctAnswer":"Grapefruit juice","explanationText":"Grapefruit juice can increase buspirone levels."},
+  {"id":18,"questionText":"A patient taking buspirone reports no relief after the first dose. What is the nurse’s best response?","options":["Take an extra dose","Stop the medication","Continue taking as prescribed","Switch medications immediately"],"correctAnswer":"Continue taking as prescribed","explanationText":"Buspirone requires consistent use over weeks for effect."},
+
+  {"id":19,"questionText":"A patient is prescribed levothyroxine for hypothyroidism. When should the medication be taken?","options":["With meals","At bedtime","On an empty stomach in the morning","With calcium supplements"],"correctAnswer":"On an empty stomach in the morning","explanationText":"Levothyroxine is best absorbed on an empty stomach."},
+  {"id":20,"questionText":"A patient taking levothyroxine develops palpitations and tachycardia. What does this indicate?","options":["Underdose","Overdose","Allergy","Infection"],"correctAnswer":"Overdose","explanationText":"Excess thyroid hormone increases heart rate."},
+  {"id":21,"questionText":"Which condition is treated with levothyroxine?","options":["Hyperthyroidism","Hypothyroidism","Diabetes","Hypertension"],"correctAnswer":"Hypothyroidism","explanationText":"Levothyroxine replaces thyroid hormone."},
+
+  {"id":22,"questionText":"Before administering morphine, which assessment is the nurse’s priority?","options":["Blood pressure","Respiratory rate","Temperature","Oxygen saturation"],"correctAnswer":"Respiratory rate","explanationText":"Morphine can cause respiratory depression."},
+  {"id":23,"questionText":"A patient receiving morphine develops constipation. What is the best nursing intervention?","options":["Restrict fluids","Encourage fluids and fiber","Stop medication","Give antidiarrheal"],"correctAnswer":"Encourage fluids and fiber","explanationText":"Opioids slow GI motility causing constipation."},
+  {"id":24,"questionText":"Morphine is primarily prescribed to treat which condition?","options":["Infection","Pain","Anxiety","Hypertension"],"correctAnswer":"Pain","explanationText":"Morphine is an opioid analgesic."},
+
+  {"id":25,"questionText":"A patient taking ibuprofen should be instructed to take the medication with what?","options":["Alcohol","Food","Caffeine","Juice"],"correctAnswer":"Food","explanationText":"Food reduces gastrointestinal irritation."},
+  {"id":26,"questionText":"Long-term use of ibuprofen increases the risk for which condition?","options":["Kidney damage","Hair loss","Hearing loss","Vision changes"],"correctAnswer":"Kidney damage","explanationText":"NSAIDs reduce renal blood flow."},
+  {"id":27,"questionText":"Ibuprofen belongs to which drug class?","options":["Opioid","NSAID","Antibiotic","Antidepressant"],"correctAnswer":"NSAID","explanationText":"Ibuprofen is a nonsteroidal anti-inflammatory drug."},
+
+  {"id":28,"questionText":"A patient uses nitroglycerin for chest pain. What is a common side effect?","options":["Constipation","Headache","Fever","Rash"],"correctAnswer":"Headache","explanationText":"Vasodilation causes headaches."},
+  {"id":29,"questionText":"A patient takes three doses of nitroglycerin with no relief of chest pain. What is the priority action?","options":["Rest","Drink water","Call emergency services","Take aspirin only"],"correctAnswer":"Call emergency services","explanationText":"Unrelieved chest pain may indicate myocardial infarction."},
+  {"id":30,"questionText":"Nitroglycerin is prescribed to treat which condition?","options":["Asthma","Angina","Diabetes","Infection"],"correctAnswer":"Angina","explanationText":"Nitroglycerin dilates coronary arteries."},
+
+  {"id":31,"questionText":"A patient receiving NPH insulin should be monitored for which adverse effect?","options":["Hyperglycemia","Hypoglycemia","Hypertension","Fever"],"correctAnswer":"Hypoglycemia","explanationText":"Insulin lowers blood glucose."},
+  {"id":32,"questionText":"A patient using NPH insulin experiences sweating and shakiness. What is the cause?","options":["Hyperglycemia","Hypoglycemia","Infection","Allergy"],"correctAnswer":"Hypoglycemia","explanationText":"Symptoms indicate low blood glucose."},
+  {"id":33,"questionText":"NPH insulin is classified as which type of insulin?","options":["Rapid-acting","Short-acting","Intermediate-acting","Long-acting"],"correctAnswer":"Intermediate-acting","explanationText":"NPH insulin has a peak of 4–12 hours."},
+
+  {"id":34,"questionText":"A patient taking metformin is scheduled for a CT scan with contrast. What should the nurse do?","options":["Give medication","Hold the medication","Double the dose","Stop permanently"],"correctAnswer":"Hold the medication","explanationText":"Contrast increases risk of lactic acidosis."},
+  {"id":35,"questionText":"A serious complication of metformin is which condition?","options":["Lactic acidosis","Rash","Cough","Headache"],"correctAnswer":"Lactic acidosis","explanationText":"Rare but life-threatening."},
+  {"id":36,"questionText":"Metformin is used to treat which condition?","options":["Type 1 diabetes","Type 2 diabetes","Asthma","Hypertension"],"correctAnswer":"Type 2 diabetes","explanationText":"Improves insulin sensitivity."},
+
+  {"id":37,"questionText":"A patient receiving heparin therapy requires monitoring of which lab value?","options":["INR","aPTT","WBC","Platelets"],"correctAnswer":"aPTT","explanationText":"Heparin is monitored using aPTT."},
+  {"id":38,"questionText":"A patient develops bleeding while on heparin. What is the antidote?","options":["Vitamin K","Protamine sulfate","Naloxone","Atropine"],"correctAnswer":"Protamine sulfate","explanationText":"Reverses heparin effects."},
+  {"id":39,"questionText":"Heparin is used to achieve which effect?","options":["Dissolve clots","Prevent clot formation","Increase platelets","Thicken blood"],"correctAnswer":"Prevent clot formation","explanationText":"Heparin is an anticoagulant."},
+
+  {"id":40,"questionText":"A patient taking warfarin requires monitoring of which lab value?","options":["aPTT","INR","CBC","BMP"],"correctAnswer":"INR","explanationText":"Warfarin is monitored using INR."},
+  {"id":41,"questionText":"A patient on warfarin has excessive bleeding. Which medication reverses its effects?","options":["Protamine sulfate","Vitamin K","Calcium","Magnesium"],"correctAnswer":"Vitamin K","explanationText":"Vitamin K reverses warfarin."},
+  {"id":42,"questionText":"A patient taking warfarin should limit intake of which foods?","options":["Protein","Vitamin K-rich foods","Carbohydrates","Fluids"],"correctAnswer":"Vitamin K-rich foods","explanationText":"Vitamin K decreases warfarin effectiveness."},
+
+  {"id":43,"questionText":"A patient prescribed ciprofloxacin should avoid taking the medication with which substance?","options":["Milk","Water","Bread","Rice"],"correctAnswer":"Milk","explanationText":"Calcium reduces absorption."},
+  {"id":44,"questionText":"A serious adverse effect of ciprofloxacin is which condition?","options":["Hair loss","Tendon rupture","Weight gain","Dry mouth"],"correctAnswer":"Tendon rupture","explanationText":"Fluoroquinolones carry this risk."},
+  {"id":45,"questionText":"Ciprofloxacin is used to treat which condition?","options":["Viral infection","Bacterial infection","Fungal infection","Pain"],"correctAnswer":"Bacterial infection","explanationText":"It is an antibiotic."},
+
+  {"id":46,"questionText":"Epinephrine is the first-line treatment for which condition?","options":["Asthma","Anaphylaxis","Pain","Infection"],"correctAnswer":"Anaphylaxis","explanationText":"Epinephrine reverses severe allergic reactions."},
+  {"id":47,"questionText":"A patient receiving epinephrine develops tachycardia. What is the cause?","options":["Allergy","Expected effect","Infection","Overdose only"],"correctAnswer":"Expected effect","explanationText":"Epinephrine stimulates the heart."},
+  {"id":48,"questionText":"Epinephrine produces which respiratory effect?","options":["Bronchoconstriction","Bronchodilation","Sedation","Apnea"],"correctAnswer":"Bronchodilation","explanationText":"Improves airway opening."},
+
+  {"id":49,"questionText":"Albuterol is prescribed for which condition?","options":["Hypertension","Asthma","Diabetes","Depression"],"correctAnswer":"Asthma","explanationText":"Albuterol is a bronchodilator."},
+  {"id":50,"questionText":"A patient using albuterol experiences tremors. What does this indicate?","options":["Allergy","Expected side effect","Toxicity","Infection"],"correctAnswer":"Expected side effect","explanationText":"Beta-agonists commonly cause tremors."},
+  {"id":51,"questionText":"Albuterol works by causing which effect?","options":["Bronchoconstriction","Bronchodilation","Sedation","Antibiotic action"],"correctAnswer":"Bronchodilation","explanationText":"Relaxes airway muscles."},
+
+  {"id":52,"questionText":"Prednisone belongs to which drug class?","options":["Antibiotic","Steroid","Opioid","Antacid"],"correctAnswer":"Steroid","explanationText":"Prednisone is a corticosteroid."},
+  {"id":53,"questionText":"Long-term prednisone use increases the risk of which condition?","options":["Immunosuppression","Hair growth","Weight loss","Hypoglycemia"],"correctAnswer":"Immunosuppression","explanationText":"Suppresses immune system."},
+  {"id":54,"questionText":"Why should prednisone not be stopped abruptly?","options":["Addiction","Adrenal crisis","Fever","Pain"],"correctAnswer":"Adrenal crisis","explanationText":"Requires tapering."},
+
+  {"id":55,"questionText":"Aspirin is used to prevent which condition?","options":["Infection","Blood clots","Asthma","Diabetes"],"correctAnswer":"Blood clots","explanationText":"Aspirin inhibits platelet aggregation."},
+  {"id":56,"questionText":"Aspirin should be avoided in children due to risk of which condition?","options":["Flu","Reye syndrome","Asthma","Diabetes"],"correctAnswer":"Reye syndrome","explanationText":"Serious pediatric condition."},
+  {"id":57,"questionText":"A patient taking aspirin should be monitored for which adverse effect?","options":["Constipation","Bleeding","Hair loss","Dry skin"],"correctAnswer":"Bleeding","explanationText":"Aspirin increases bleeding risk."},
+
+  {"id":58,"questionText":"Vancomycin is used to treat which type of infection?","options":["Viral","Severe bacterial","Fungal","Parasitic"],"correctAnswer":"Severe bacterial","explanationText":"Often used for MRSA."},
+  {"id":59,"questionText":"A patient receiving vancomycin develops flushing and redness. What is this called?","options":["Stevens-Johnson syndrome","Red man syndrome","Anaphylaxis","Angioedema"],"correctAnswer":"Red man syndrome","explanationText":"Infuse slowly to prevent."},
+  {"id":60,"questionText":"Vancomycin can cause damage to which sense?","options":["Vision","Hearing","Taste","Smell"],"correctAnswer":"Hearing","explanationText":"Ototoxicity risk."},
+{"id":61,"questionText":"A patient is prescribed cyclobenzaprine for muscle spasms. What is the most important safety instruction?","options":["Take with alcohol","Avoid driving until effects are known","Increase caffeine intake","Take extra doses for pain"],"correctAnswer":"Avoid driving until effects are known","explanationText":"Cyclobenzaprine causes drowsiness and sedation."},
+  {"id":62,"questionText":"A patient taking cyclobenzaprine reports excessive drowsiness. What is the nurse’s best response?","options":["Stop medication immediately","This is an expected side effect","Take with alcohol","Double the dose"],"correctAnswer":"This is an expected side effect","explanationText":"Sedation is a common side effect of muscle relaxants."},
+  {"id":63,"questionText":"Cyclobenzaprine is prescribed to treat which condition?","options":["Seizures","Muscle spasms","Infection","Anxiety"],"correctAnswer":"Muscle spasms","explanationText":"Cyclobenzaprine is a muscle relaxant."},
+
+  {"id":64,"questionText":"A patient is prescribed clonidine for hypertension. What should the nurse monitor closely?","options":["Blood glucose","Blood pressure","Temperature","Respirations"],"correctAnswer":"Blood pressure","explanationText":"Clonidine lowers blood pressure."},
+  {"id":65,"questionText":"A patient stops taking clonidine abruptly. What complication may occur?","options":["Hypoglycemia","Rebound hypertension","Constipation","Fever"],"correctAnswer":"Rebound hypertension","explanationText":"Abrupt withdrawal causes severe hypertension."},
+  {"id":66,"questionText":"A common side effect of clonidine is which condition?","options":["Dry mouth","Diarrhea","Cough","Fever"],"correctAnswer":"Dry mouth","explanationText":"Clonidine commonly causes dry mouth."},
+
+  {"id":67,"questionText":"A patient taking verapamil should be monitored for which cardiac effect?","options":["Tachycardia","Bradycardia","Hypertension","Arrhythmia only"],"correctAnswer":"Bradycardia","explanationText":"Verapamil slows heart rate."},
+  {"id":68,"questionText":"A patient taking verapamil reports constipation. What is the nurse’s best response?","options":["Stop medication","This is a common side effect","Take with alcohol","Double the dose"],"correctAnswer":"This is a common side effect","explanationText":"Constipation is common with calcium channel blockers."},
+  {"id":69,"questionText":"Verapamil belongs to which drug class?","options":["ACE inhibitor","Calcium channel blocker","Diuretic","Antibiotic"],"correctAnswer":"Calcium channel blocker","explanationText":"Used for hypertension and arrhythmias."},
+
+  {"id":70,"questionText":"A patient receiving diazepam should be monitored for which priority adverse effect?","options":["Hypertension","Respiratory depression","Fever","Cough"],"correctAnswer":"Respiratory depression","explanationText":"Benzodiazepines depress CNS and respiration."},
+  {"id":71,"questionText":"A patient taking diazepam reports drowsiness. What is the nurse’s best response?","options":["Stop medication","This is expected","Take with alcohol","Double the dose"],"correctAnswer":"This is expected","explanationText":"Sedation is common."},
+  {"id":72,"questionText":"Diazepam is used to treat which condition?","options":["Infection","Seizures and anxiety","Diabetes","Asthma"],"correctAnswer":"Seizures and anxiety","explanationText":"It is a benzodiazepine."},
+
+  {"id":73,"questionText":"A patient taking phenytoin should maintain good oral hygiene to prevent which condition?","options":["Tooth decay","Gum hyperplasia","Dry mouth","Bleeding gums"],"correctAnswer":"Gum hyperplasia","explanationText":"Phenytoin causes gingival overgrowth."},
+  {"id":74,"questionText":"Why must phenytoin levels be monitored closely?","options":["It is inexpensive","It has a narrow therapeutic index","It acts quickly","It is short-acting"],"correctAnswer":"It has a narrow therapeutic index","explanationText":"Small changes can cause toxicity."},
+  {"id":75,"questionText":"Phenytoin is prescribed to treat which condition?","options":["Pain","Seizures","Infection","Asthma"],"correctAnswer":"Seizures","explanationText":"It is an anticonvulsant."},
+
+  {"id":76,"questionText":"A patient taking levodopa-carbidopa should avoid high-protein meals because they can cause what effect?","options":["Increased absorption","Decreased absorption","No effect","Toxicity"],"correctAnswer":"Decreased absorption","explanationText":"Protein interferes with drug absorption."},
+  {"id":77,"questionText":"A patient taking levodopa-carbidopa develops involuntary movements. What is this called?","options":["Bradykinesia","Dyskinesia","Ataxia","Tremor"],"correctAnswer":"Dyskinesia","explanationText":"Common side effect of therapy."},
+  {"id":78,"questionText":"Levodopa-carbidopa is used to treat which disease?","options":["Alzheimer’s","Parkinson’s","Diabetes","Asthma"],"correctAnswer":"Parkinson’s","explanationText":"Increases dopamine levels."},
+
+  {"id":79,"questionText":"A patient taking alprazolam should be educated about which risk?","options":["Hair loss","Addiction","Fever","Cough"],"correctAnswer":"Addiction","explanationText":"Benzodiazepines carry dependence risk."},
+  {"id":80,"questionText":"A patient taking alprazolam reports drowsiness. What is the nurse’s best response?","options":["Stop medication","This is expected","Take with alcohol","Double the dose"],"correctAnswer":"This is expected","explanationText":"Sedation is common."},
+  {"id":81,"questionText":"Alprazolam is prescribed to treat which condition?","options":["Infection","Anxiety","Pain","Hypertension"],"correctAnswer":"Anxiety","explanationText":"It is a benzodiazepine."},
+
+  {"id":82,"questionText":"A patient prescribed oseltamivir asks when to start the medication. What is the best response?","options":["After 1 week","Within 48 hours of symptoms","After symptoms resolve","Only if severe"],"correctAnswer":"Within 48 hours of symptoms","explanationText":"Most effective early."},
+  {"id":83,"questionText":"A patient taking oseltamivir reports nausea. What is the nurse’s best response?","options":["Stop medication","This is a common side effect","Take with alcohol","Double dose"],"correctAnswer":"This is a common side effect","explanationText":"GI upset is common."},
+  {"id":84,"questionText":"Oseltamivir is used to treat which infection?","options":["Bacterial","Fungal","Influenza","Parasitic"],"correctAnswer":"Influenza","explanationText":"It is an antiviral."},
+
+  {"id":85,"questionText":"A patient taking aluminum hydroxide should be monitored for which side effect?","options":["Diarrhea","Constipation","Fever","Cough"],"correctAnswer":"Constipation","explanationText":"Common with antacids containing aluminum."},
+  {"id":86,"questionText":"A patient with kidney disease should avoid aluminum hydroxide because of what risk?","options":["Hypertension","Aluminum toxicity","Hyperglycemia","Fever"],"correctAnswer":"Aluminum toxicity","explanationText":"Impaired excretion increases risk."},
+  {"id":87,"questionText":"Aluminum hydroxide is used to treat which condition?","options":["Pain","Acid reflux","Infection","Asthma"],"correctAnswer":"Acid reflux","explanationText":"Neutralizes stomach acid."},
+
+  {"id":88,"questionText":"A patient prescribed azithromycin should be instructed to do what?","options":["Stop when feeling better","Finish entire course","Double doses","Skip doses"],"correctAnswer":"Finish entire course","explanationText":"Prevents resistance."},
+  {"id":89,"questionText":"Azithromycin can cause which cardiac effect?","options":["Bradycardia","QT prolongation","Hypertension","Heart block"],"correctAnswer":"QT prolongation","explanationText":"Can affect heart rhythm."},
+  {"id":90,"questionText":"Azithromycin is used to treat which type of infection?","options":["Viral","Bacterial","Fungal","Parasitic"],"correctAnswer":"Bacterial","explanationText":"It is a macrolide antibiotic."}
 ]
