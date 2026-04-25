@@ -35,8 +35,8 @@ export default function App() {
             Fundamentals Exam 3 (All TopHat Questions)
           </button>
 
-          <button className="button" onClick={() => handleSelectQuiz("fundamentalsExam3Modified")}>
-            Fundamentals Exam 3 (Focused Review)
+          <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>
+            Pharmacology
           </button>
 
           <button className="button" onClick={() => handleSelectQuiz("healthyPopulationsExam3")}>
