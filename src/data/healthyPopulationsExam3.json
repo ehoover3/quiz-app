@@ -103,7 +103,7 @@
       "Abnormality during conception"
     ],
     "correctAnswer": "Abnormality during development",
-    "explanationText": "Abnormality during development",
+    "explanationText": "Congenital is abnormality during development. Genetic is abnormality during conception.",
     "explanationImage": null
   },
   {
@@ -115,7 +115,7 @@
       "Abnormality during conception"
     ],
     "correctAnswer": "Abnormality during conception",
-    "explanationText": "Abnormality during conception",
+    "explanationText": "Congenital is abnormality during development. Genetic is abnormality during conception.",
     "explanationImage": null
   },
   {
@@ -297,7 +297,8 @@
       "Contact dermatitis"
     ],
     "correctAnswer": "Chloasma",
-    "explanationText": "Chloasma (melasma or 'mask of pregnancy') is a normal finding caused by hormonal changes that increase melanin production, leading to facial hyperpigmentation."
+    "explanationText": "Chloasma (melasma or 'mask of pregnancy') is a normal finding caused by hormonal changes that increase melanin production, leading to facial hyperpigmentation.",
+    "explanationImage": "images/Chloasma.jpeg"
   },
   {
     "id": 23,
@@ -309,8 +310,7 @@
       "Breast changes"
     ],
     "correctAnswer": "Uterine enlargement",
-    "explanationText": "Probable signs are objective but not definitive (e.g., uterine enlargement, positive pregnancy test). Positive signs confirm pregnancy (e.g., ultrasound visualization). Presumptive signs include breast changes.",
-    "explanationImage": "images/Chloasma.jpeg"
+    "explanationText": "Probable signs are objective but not definitive (e.g., uterine enlargement, positive pregnancy test). Positive signs confirm pregnancy (e.g., ultrasound visualization). Presumptive signs include breast changes."
   },
   {
     "id": 24,
@@ -415,7 +415,8 @@
       "Respiratory rate of 56"
     ],
     "correctAnswer": "Grunting",
-    "explanationText": "Grunting is a sign of respiratory distress, indicating the newborn is trying to keep alveoli open. Other signs include nasal flaring, retractions, and tachypnea. Acrocyanosis and RR of 56 can be normal."
+    "explanationText": "Grunting is a sign of respiratory distress, indicating the newborn is trying to keep alveoli open. Other signs include nasal flaring, retractions, and tachypnea. Acrocyanosis and RR of 56 can be normal.",
+    "explanationImage": "images/pediatricDistress.png"
   },
   {
     "id": 33,
@@ -428,102 +429,6 @@
     ],
     "correctAnswer": "2 weeks",
     "explanationText": "Newborns typically lose 5–10% of their birth weight after delivery but should regain it by 10–14 days of life."
-  },
-  {
-    "id": 34,
-    "questionText": "Culture is best defined as:",
-    "options": [
-      "A person’s biological traits",
-      "A pattern of shared attitudes, beliefs, norms, roles, and values",
-      "A system of government",
-      "A person’s income level"
-    ],
-    "correctAnswer": "A pattern of shared attitudes, beliefs, norms, roles, and values",
-    "explanationText": "Culture refers to shared attitudes, beliefs, self-definitions, norms, roles, and values among a group of people."
-  },
-  {
-    "id": 35,
-    "questionText": "Race is best described as:",
-    "options": [
-      "A biological classification",
-      "A social construct associated with power",
-      "A genetic disorder",
-      "A cultural belief system"
-    ],
-    "correctAnswer": "A social construct associated with power",
-    "explanationText": "Race is a social construct used by societies to categorize people based on perceived physical and behavioral traits."
-  },
-  {
-    "id": 36,
-    "questionText": "Ethnicity refers to:",
-    "options": [
-      "Biological differences",
-      "A person’s income level",
-      "A shared identity and cultural uniqueness",
-      "A political affiliation"
-    ],
-    "correctAnswer": "A shared identity and cultural uniqueness",
-    "explanationText": "Ethnicity focuses on shared identity, values, meanings, and ways of living that distinguish a group."
-  },
-  {
-    "id": 37,
-    "questionText": "A minority group is defined as:",
-    "options": [
-      "A group with the largest population",
-      "A group with equal power in society",
-      "A group disadvantaged in power, control, and wealth",
-      "A group defined by age"
-    ],
-    "correctAnswer": "A group disadvantaged in power, control, and wealth",
-    "explanationText": "Minority groups are those who experience disadvantages in power, control over their lives, and access to wealth."
-  },
-  {
-    "id": 38,
-    "questionText": "Sex refers to:",
-    "options": [
-      "A person's gender identity",
-      "A person's biological status assigned at birth",
-      "A person's sexual orientation",
-      "A person's cultural role"
-    ],
-    "correctAnswer": "A person's biological status assigned at birth",
-    "explanationText": "Sex is the biological classification (male or female) assigned at birth."
-  },
-  {
-    "id": 39,
-    "questionText": "Gender identity is defined as:",
-    "options": [
-      "A person's external appearance",
-      "A person's biological sex",
-      "A person's internal sense of being male, female, both, or neither",
-      "A person's sexual attraction"
-    ],
-    "correctAnswer": "A person's internal sense of being male, female, both, or neither",
-    "explanationText": "Gender identity is an individual’s internal understanding of their gender, which may differ from their assigned sex."
-  },
-  {
-    "id": 40,
-    "questionText": "Gender expression refers to:",
-    "options": [
-      "A person's biological sex",
-      "A person's internal beliefs",
-      "A person's outward presentation of gender",
-      "A person's sexual orientation"
-    ],
-    "correctAnswer": "A person's outward presentation of gender",
-    "explanationText": "Gender expression is how a person externally expresses their gender identity through behavior, clothing, and appearance."
-  },
-  {
-    "id": 41,
-    "questionText": "Sexual orientation is defined as:",
-    "options": [
-      "A person's gender identity",
-      "A person's biological sex",
-      "A person's romantic, emotional, or sexual attraction to others",
-      "A person's cultural beliefs"
-    ],
-    "correctAnswer": "A person's romantic, emotional, or sexual attraction to others",
-    "explanationText": "Sexual orientation refers to who a person is attracted to emotionally, romantically, or sexually."
   },
   {
     "id": 42,
@@ -613,13 +518,9 @@
     "id": 49,
     "questionText": "Which prenatal care activities are appropriate at 16 weeks gestation? (Select all that apply)",
     "options": [
-      "Provide nutrition education",
-      "Obtain a midstream urinalysis",
-      "Send a blood sample for alpha-fetoprotein (AFP) testing",
-      "Advise the client to have DNA testing",
-      "Complete an obstetrical ultrasound"
+      "Provide nutrition education, Obtain a midstream urinalysis, Send a blood sample for alpha-fetoprotein (AFP) testing, Advise the client to have DNA testing, Complete an obstetrical ultrasound"
     ],
-    "correctAnswer": "Provide nutrition education, Obtain a midstream urinalysis, Send a blood sample for alpha-fetoprotein (AFP) testing, Complete an obstetrical ultrasound",
+    "correctAnswer": "Provide nutrition education, Obtain a midstream urinalysis, Send a blood sample for alpha-fetoprotein (AFP) testing, Advise the client to have DNA testing, Complete an obstetrical ultrasound",
     "explanationText": "At 16 weeks, routine care includes education, urinalysis, AFP screening, and ultrasound. DNA testing is not routinely advised unless indicated."
   },
   {
@@ -777,7 +678,8 @@
       "Color"
     ],
     "correctAnswer": "Heart rate, Respiratory effort, Muscle tone, Color",
-    "explanationText": "Apgar assesses heart rate, respirations, muscle tone, reflex irritability, and color."
+    "explanationText": "Apgar assesses heart rate, respirations, muscle tone, reflex irritability, and color.",
+    "explanationImage": "images/APGAR.png"
   },
   {
     "id": 63,
