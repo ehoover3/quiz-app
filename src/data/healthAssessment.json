@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "questionText": "",
+    "questionText": "Pediatric Respiratory: sporadic abdominal breathers, nasall flaring, count RR x1 min (RETRACTION IS NEVER NORMAL). Infant RR is 30 to 60.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "questionText": "",
+    "questionText": "Pediatric CVPV: listen to heart and lungs first then count apical HR",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "questionText": "",
+    "questionText": "Pediatric HEENT: pull pinna down and back to assess ear canal (adult pulls pinna up)",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -28,16 +28,16 @@
   },
   {
     "id": 4,
-    "questionText": "",
+    "questionText": "Pediatric SHN: Mongolian Spot (Congenital Dermal Melanocytosis), stork bite, strawberry hemangioma, etc.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
     "explanationText": "",
-    "explanationImage": null
+    "explanationImage": "images/strawberryHemangioma.png"
   },
   {
     "id": 5,
-    "questionText": "",
+    "questionText": "Pediatric Pain: Wong-Baker Faces Scale for 3+ etc.  Know all pain scales for all groups.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "questionText": "",
+    "questionText": "Pediatric Neuro: Moro, Babinski, Fencing.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "questionText": "",
+    "questionText": "Expected Lung Sounds: Bronchial heard over trachea and thorax (e>I), bronchovesicular (e=i), vesicular (e<i)",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "questionText": "",
+    "questionText": "Adventitious breath sounds:  Rhonchi (sonorous) low pitched, snoring or moaning sounds, usually during expiraiton, caused by bronchitis or COPD airflow obstruction.  May clear with coughing, wheezes (sibilant): high pitched,, musical sounds usually during expiration.  Air passes through constricted passage.  Can be heard both inspiratory and expiratory",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "questionText": "",
+    "questionText": "Stridor: High pitched, crowing honking sound casued by partial obstruction of the larynx/trachea.  can be heard on i and e",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "questionText": "",
+    "questionText": "Pleural friction rub: crunching, creaking screen door sound caused by inflamed parietal and visceral pleura rubbing against each other (pleurisy).  can be heard on i and e.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "questionText": "",
+    "questionText": "Edema Scale:  1+ is barely perceptible 2mm. 2+ is deeper pit, rebounds in a few seconds 4mm deep.  3+ is a deep pit, rebounds in 10 seconds, 6mm deep.  4+ is deepest, rebounds in > 30 seconds and is 8mm deep.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "questionText": "",
+    "questionText": "Muscle strenght grading",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "questionText": "",
+    "questionText": "pain scale",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "questionText": "",
+    "questionText": "glasgow coma scale",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "questionText": "",
+    "questionText": "reflexes scale",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "questionText": "",
+    "questionText": "Heart S1 -  closing of mitral and tricuspid indicates beginning of systold. S1 is heard louder at apex.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "questionText": "",
+    "questionText": "Heart S2 - closing of aortic and pulmonic.  indicates beginnign of diastole.  S2 is best heard at the base. ",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "questionText": "",
+    "questionText": "S3 caused by radid filling aginst ventricle wall.  Fluid volume overload.  Congestive heart failure.  Rapid filling of blood.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "questionText": "",
+    "questionText": "S4 is a stiff ventricle.  Ventricular hypertrophy.  Can be normal in athletes age < 30.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -172,34 +172,44 @@
   },
   {
     "id": 20,
-    "questionText": "",
+    "questionText": "Peripheral vascular disease includes...",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Arterial Insufficiency",
+      "Venous Insufficiency",
+      "Both"
+    ],
+    "correctAnswer": "Both",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 21,
-    "questionText": "",
+    "questionText": "Arterial insufficiency",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Skin cooler, cooler down the legs, no edema of legs, cap refill greater than 3 sec, thin shiny hairless kin on legs, dependent rubor (skin on legs redden when legs down), elevation pallor, decresased or absent pedal pulses, intermittent claudication (pain in legs with exercise) and pain in legs when legs are elevated",
+      "Skin generally warm on legs but toes may be cooler, lower leg edema, cap refill less than 3 sec, thickened skin on lower legs (with or without hair), chronic brown color of lower legs (due to hemosiderin staining), varicose veins, pedal pulses present"
+    ],
+    "correctAnswer": "Skin cooler, cooler down the legs, no edema of legs, cap refill greater than 3 sec, thin shiny hairless kin on legs, dependent rubor (skin on legs redden when legs down), elevation pallor, decresased or absent pedal pulses, intermittent claudication (pain in legs with exercise) and pain in legs when legs are elevated",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 22,
-    "questionText": "",
+    "questionText": "Venous insufficiency: skin generally warm on legs but toes may be cooler, lower leg edema, cap refill less than 3 sec, thickened skin on lower legs (with or without hair), chronic brown color of lower legs (due to hemosiderin staining), varicose veins, pedal pulses present",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Skin cooler, cooler down the legs, no edema of legs, cap refill greater than 3 sec, thin shiny hairless kin on legs, dependent rubor (skin on legs redden when legs down), elevation pallor, decresased or absent pedal pulses, intermittent claudication (pain in legs with exercise) and pain in legs when legs are elevated",
+      "Skin generally warm on legs but toes may be cooler, lower leg edema, cap refill less than 3 sec, thickened skin on lower legs (with or without hair), chronic brown color of lower legs (due to hemosiderin staining), varicose veins, pedal pulses present"
+    ],
+    "correctAnswer": "Skin generally warm on legs but toes may be cooler, lower leg edema, cap refill less than 3 sec, thickened skin on lower legs (with or without hair), chronic brown color of lower legs (due to hemosiderin staining), varicose veins, pedal pulses present",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 23,
-    "questionText": "",
+    "questionText": "Muscle Strength.  No evidence of contractility = 0.  Evidence of contractility (trace) is 1.  COMPLETE ROM w/gravity elimi.... ADD MORE HERE",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -208,7 +218,7 @@
   },
   {
     "id": 24,
-    "questionText": "",
+    "questionText": "Shoulder & Hip: flexion, extension, abduction, adduction, internal and external roatation, hyperextension",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -217,214 +227,7 @@
   },
   {
     "id": 25,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 26,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 27,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 28,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 29,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 30,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 31,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 32,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 33,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 34,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 35,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 36,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 37,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 38,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 39,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 40,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 41,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 42,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 43,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 44,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 45,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 46,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 47,
-    "questionText": "",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 48,
-    "questionText": "",
+    "questionText": "Ankle: dorsiflexion, plantarflexion, abduction, adduction, eversion and inversion",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -433,7 +236,214 @@
   },
   {
     "id": 49,
-    "questionText": "",
+    "questionText": "Elbows and knees: flexion and extension, pronation, supination (elbow), hyperextension",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 26,
+    "questionText": "Gout: uric acid deposits in joints, great toe often affected, decrease purine in diet.",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 27,
+    "questionText": "Rheumatoid Arthritis: autoimmune arthritis, ulndar deviation, swan-neck and boutonniere deformities, bilateral",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "Osteoarthritis: degenerative joint disease, stiffness after awakening, lasts less than 30 min, heberden/bounchard nodes, unilateral",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "Osteoporosis: (silent disease) bone mass/density loss, prone to fractures > age 50, more common in females, often symptomless",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 30,
+    "questionText": "Carpal Tunnel: pressure on median nerve, tinels sign - tap on median nerve, phalen's test - flex wrists and press dorsal aspect together x1 minute",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 31,
+    "questionText": "SHN: Stage 1 intact skin, nonblanchable.  Stage 2: partial thickness skin loss, open ulcer/pink wound bed, no slough or eschar.  Stage 3: full thickness skin loss, subcutaneous tissue visible, no bone tendon, or muscle visible, slough may be present.  Stage 4 is full thickness tissue loss with exposed bone, tendon, or muscle. Slough/eschar may be present.",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "Abdomen: RUQ liver, gallbladder. LUQ: spleen, stomach. LLQ: descending colon. RLQ: appendix (mcBurney's point) cecum.",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "Abdomen: Inspect then auscultate, palpate, percuss",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 34,
+    "questionText": "Abdomen: normal variations round or flat, soft, faint vascular network, striae, p iercings, 5-35 bowel sounds per minute, tympany throughout, unable to palpate organs",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 35,
+    "questionText": "Abdomen: abnormal variations: firm, distended, hypoactive,/absent bowel sounds (0 sounds for 4 MINUTES), organs palpable",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 36,
+    "questionText": "Appendicites: rebound tenderness (ADD MORE HERE)",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 37,
+    "questionText": "DTR Responses: Tricpets: exetnsion of forearm from elbow.  Biceps (bicep muscle contracts slight arm flexion, brancioradialis (pronation of forearm), patellar, achilles, babinski.",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 38,
+    "questionText": "Aphasia: Receptive aphasia, expressive aphasia, aphasia, dysphasia",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 39,
+    "questionText": "Receptive aphasia: inable to comprehend speech of others, spoken words are logical",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 40,
+    "questionText": "Expressive aphasia, ",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 41,
+    "questionText": "Aphasia: defenctive or absent labnuage functoin ",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 42,
+    "questionText": "Dysphasia: speech impairment",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 43,
+    "questionText": "Dysphagia: difficulty swallowing",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 44,
+    "questionText": "EYE: Suspect strabismus.  client eyes apper lazy. stabismus, amblyopia. then do Hirschberg test (shine light into cornea of eyes bilateral and observe position of light.  Cover/Uncover test (if asymmetric, perform to see which eye has weak extraocular muscles).",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 45,
+    "questionText": "KNOW ALL CRANIAL NERVES",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 46,
+    "questionText": "Breast Cancer. Signs and symptoms. painless, unilateral lump/discharge, fixed location (not moveable), irregular shape, does not change wiht menstrual cycle.  RISK FACTORS: early menarche, late menopause, 30% or more overweight, heavy alcohol intake, first pregnany after age 30.",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 47,
+    "questionText": "Usually not breast cancer. Round, oval, moveable, changes with cycle, comes and goes, painful, bilateral.",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 48,
+    "questionText": "Breast exam positions: Female is supine with arms above head.  Male:  Seated.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -442,7 +452,7 @@
   },
   {
     "id": 50,
-    "questionText": "",
+    "questionText": "Vesicular heard over periphery of lungs (i>e)",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -451,16 +461,18 @@
   },
   {
     "id": 51,
-    "questionText": "",
+    "questionText": "Secondary Prevention: ",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "screening like mammogram, pap smear, skin checks"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 52,
-    "questionText": "",
+    "questionText": "Primary prevention",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -469,25 +481,29 @@
   },
   {
     "id": 53,
-    "questionText": "",
+    "questionText": "Standard Precautions",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "Wear gloves when in contact with mucous membranes"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 54,
-    "questionText": "",
+    "questionText": "Phalen's Test",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "Used to detect carpal tunnel syndrome"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 55,
-    "questionText": "",
+    "questionText": "Rehematiod arthriticst.  swan neck and boutonniere deformmaties.  condition lasts greater than 30 seconds",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -496,25 +512,29 @@
   },
   {
     "id": 56,
-    "questionText": "",
+    "questionText": "dorsi flexion",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "point toe to sky"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 57,
-    "questionText": "",
+    "questionText": "plantar flexion",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "gas pedal"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 58,
-    "questionText": "",
+    "questionText": "Muscle strength scale",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -523,70 +543,84 @@
   },
   {
     "id": 59,
-    "questionText": "",
+    "questionText": "barrel chest",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "1 to 1 anterioposterio to tarnser diamter ratio.  seen in COPD.  also see pursed lip  breathing, tripod position, clubbing"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 60,
-    "questionText": "",
+    "questionText": "clubbing",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "nailbed greater than 160 degrees from chronic hypoxemia"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 61,
-    "questionText": "",
+    "questionText": "wheezes",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "high pitch musical sounds"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 62,
-    "questionText": "",
+    "questionText": "CN 7",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "bells palsy damages to upper and lower motor neurons"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 63,
-    "questionText": "",
+    "questionText": "Stroke vs bells palsy",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "Bells palsy looks worse"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 64,
-    "questionText": "",
+    "questionText": "Erythema",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "reddended area"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 65,
-    "questionText": "",
+    "questionText": "urticaria",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "hives"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 66,
-    "questionText": "",
+    "questionText": "herstuism",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -595,34 +629,40 @@
   },
   {
     "id": 67,
-    "questionText": "",
+    "questionText": "STAGE 1 pressure injury",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "skin is intact"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 68,
-    "questionText": "",
+    "questionText": "s4 heart sound",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "non compliant or stiff ventricle"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 69,
-    "questionText": "",
+    "questionText": "S3",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "fluid overload"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 70,
-    "questionText": "",
+    "questionText": "Venous Insufficiency",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -631,25 +671,29 @@
   },
   {
     "id": 71,
-    "questionText": "",
+    "questionText": "Arterial Insufficiency",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "pain in legs when elevated...."
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 72,
-    "questionText": "",
+    "questionText": "S1 heart sound",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "close mitral and Triscupsd, begin diastole"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 73,
-    "questionText": "",
+    "questionText": "EDEMA SCALE",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -658,7 +702,7 @@
   },
   {
     "id": 74,
-    "questionText": "",
+    "questionText": "Accomodation: pupiuls equal round and reactive to light and accomodation.  able to demonstrate it.",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -667,7 +711,7 @@
   },
   {
     "id": 75,
-    "questionText": "",
+    "questionText": "Stridor: Wheezes, crackles, rhochi, pleasural friction rub, stridor",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -676,50 +720,51 @@
   },
   {
     "id": 76,
-    "questionText": "",
+    "questionText": "chronic pain",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "more than 6 months"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
-
-
-
-
-
-
-
-    {
+  {
     "id": 77,
-    "questionText": "",
+    "questionText": "acute pain",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "less than 6 months"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 78,
-    "questionText": "",
+    "questionText": "testicular cnacner",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "most common in young white males"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 79,
-    "questionText": "",
+    "questionText": "prostate cancer",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "more common in older black males"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 80,
-    "questionText": "",
+    "questionText": "Wong Baker Faces Scale",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -728,16 +773,18 @@
   },
   {
     "id": 81,
-    "questionText": "",
+    "questionText": "Parkinsons",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "slurred speech, hand tremors, shuffling gate"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 82,
-    "questionText": "",
+    "questionText": "Aortic",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -746,7 +793,7 @@
   },
   {
     "id": 83,
-    "questionText": "",
+    "questionText": "Glasgow Scale 3 to 15",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -755,25 +802,31 @@
   },
   {
     "id": 84,
-    "questionText": "",
+    "questionText": "COPD Signs",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "clubbing, pursed lip breathing, barrel chest, AP-diamter ratio 1-1, SOB, rhonci/coarse breath sounds"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 85,
-    "questionText": "",
+    "questionText": "What makes bile?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Liver",
+      "Gallbladder",
+      "Bowels"
+    ],
+    "correctAnswer": "Liver",
+    "explanationText": "RUQ liver makes bile, gallbladder stores bile",
     "explanationImage": null
   },
   {
     "id": 86,
-    "questionText": "",
+    "questionText": "Jaundice",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -782,34 +835,41 @@
   },
   {
     "id": 87,
-    "questionText": "",
+    "questionText": "Pink area of coccyx does not blanch when palpated",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Abnormal",
+      "Normal"
+    ],
+    "correctAnswer": "Abnormal",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 88,
-    "questionText": "",
+    "questionText": "Phalen's Test",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Carpal Tunnel screen"
+    ],
+    "correctAnswer": "Carpal Tunnel screen",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 89,
-    "questionText": "",
+    "questionText": "What is the correct order of abdominal assessment?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Inspect, auscultate, palpate, percuss"
+    ],
+    "correctAnswer": "Inspect, auscultate, palpate, percuss",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 90,
-    "questionText": "",
+    "questionText": "Clubbing and Cyanosis",
     "questionImage": null,
     "options": [],
     "correctAnswer": "",
@@ -818,87 +878,603 @@
   },
   {
     "id": 91,
-    "questionText": "",
+    "questionText": "Vertigo",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "The room feels like it is spinning.",
+      "Lightheaded / Faint"
+    ],
+    "correctAnswer": "The room feels like it is spinning.",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 92,
-    "questionText": "",
+    "questionText": "Dizzy",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "The room feels like it is spinning.",
+      "Lightheaded / Faint"
+    ],
+    "correctAnswer": "Lightheaded / Faint",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 93,
-    "questionText": "",
+    "questionText": "What are the ranges of motion for elbows?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "flexion and extension, pronation, supination (elbow), hyperextension"
+    ],
+    "correctAnswer": "flexion and extension, pronation, supination (elbow), hyperextension",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 94,
-    "questionText": "",
+    "questionText": "Client stool is black and tarry.",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Abnormal"
+    ],
+    "correctAnswer": "Indicates GI bleed.",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 95,
-    "questionText": "",
+    "questionText": "Infant stool is black and tarry is called what?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Meconium"
+    ],
+    "correctAnswer": "Meconium",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 96,
-    "questionText": "",
+    "questionText": "Patient had no bowel movement in 7 days, what pain is this called?",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "Visceral Pain"
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 97,
-    "questionText": "",
+    "questionText": "What is the term of a high pitched wheezing indicating upper airway obstruction?",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
+    "options": [
+      "Stridor"
+    ],
+    "correctAnswer": "Stridor",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 98,
-    "questionText": "",
+    "questionText": "The type of pain a patient experiences when they break their femur is...",
     "questionImage": null,
-    "options": [],
-    "correctAnswer": "",
-    "explanationText": "",
+    "options": [
+      "Somatic Pain",
+      "Visceral"
+    ],
+    "correctAnswer": "Somatic Pain",
+    "explanationText": "Visceral is pain that is affecting the organs. Somatic the structures like bones, tissues, muscles.",
     "explanationImage": null
   },
   {
     "id": 99,
-    "questionText": "",
+    "questionText": "Heart failure symptoms",
     "questionImage": null,
-    "options": [],
+    "options": [
+      "SOB, Fatigue, Angina, "
+    ],
     "correctAnswer": "",
     "explanationText": "",
     "explanationImage": null
   },
   {
     "id": 100,
+    "questionText": "Left Sided Heart Failure",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "SOB, Cough, Fluid backs up in lungs",
+    "explanationImage": null
+  },
+  {
+    "id": 100,
+    "questionText": "Right Sided Heart Failure",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "blood backs up in the body",
+    "explanationImage": null
+  },
+  {
+    "id": 137,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 138,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 139,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 140,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 141,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 142,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 143,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 144,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 145,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 146,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 147,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 148,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 149,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 150,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 151,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 152,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 153,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 154,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 155,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 156,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 157,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 158,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 159,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 160,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 161,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 162,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 163,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 164,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 165,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 166,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 167,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 168,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 169,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 170,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 171,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 172,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 173,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 174,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 175,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 176,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 177,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 178,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 179,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 180,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 181,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 182,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 183,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 184,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 185,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 186,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 187,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 188,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 189,
+    "questionText": "",
+    "questionImage": null,
+    "options": [],
+    "correctAnswer": "",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 190,
     "questionText": "",
     "questionImage": null,
     "options": [],
