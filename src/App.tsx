@@ -45,6 +45,9 @@ export default function App() {
             Pharmacology
           </button>
 
+          <button className="button" onClick={() => handleSelectQuiz("pharmacologyInstructorReview")}>
+            Pharmacology Instructor Review
+          </button>
 
           <button className="button" onClick={() => handleSelectQuiz("fundamentalsExam3")}>
             Fundamentals Exam 3 (All TopHat Questions)

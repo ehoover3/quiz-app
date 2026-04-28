@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "questionText": "What medication is commonly prescribed for gout?",
+    "questionImage": null,
+    "options": ["Allopurinol", "Acetaminophen", "Morphine", "Acyclovir"],
+    "correctAnswer": "Allopurinol",
+    "explanationText": "Allopurinol is used to reduce uric acid levels in patients with gout.",
+    "explanationImage": null
+  },
+  {
+    "id": 2,
+    "questionText": "A patient taking allopurinol develops a rash. What is the priority action?",
+    "questionImage": null,
+    "options": ["Continue medication", "Reduce the dose", "Discontinue and call provider", "Give antihistamines"],
+    "correctAnswer": "Discontinue and call provider",
+    "explanationText": "A rash may indicate a serious reaction and requires stopping the medication and notifying the provider.",
+    "explanationImage": null
+  },
+  {
+    "id": 3,
+    "questionText": "What is the maximum daily dose of acetaminophen?",
+    "questionImage": null,
+    "options": ["2000 mg", "3000 mg", "4000 mg", "5000 mg"],
+    "correctAnswer": "4000 mg",
+    "explanationText": "Exceeding 4000 mg per day increases the risk of liver toxicity.",
+    "explanationImage": null
+  },
+  {
+    "id": 4,
+    "questionText": "How often can a patient take 500 mg of acetaminophen?",
+    "questionImage": null,
+    "options": ["Every 2 hours", "Every 4 hours", "Every 6 hours", "Once daily"],
+    "correctAnswer": "Every 6 hours",
+    "explanationText": "Acetaminophen 500 mg is commonly prescribed every 6 hours as needed.",
+    "explanationImage": null
+  },
+  {
+    "id": 5,
+    "questionText": "Which instruction should be given to a patient taking acetaminophen?",
+    "questionImage": null,
+    "options": ["Drink alcohol freely", "Avoid alcohol", "Take double dose if pain persists", "Only take at night"],
+    "correctAnswer": "Avoid alcohol",
+    "explanationText": "Alcohol increases the risk of liver damage when combined with acetaminophen.",
+    "explanationImage": null
+  },
+  {
+    "id": 6,
+    "questionText": "Morphine is primarily used to treat what level of pain?",
+    "questionImage": null,
+    "options": ["Mild pain", "Moderate pain", "Severe pain", "Inflammation"],
+    "correctAnswer": "Severe pain",
+    "explanationText": "Morphine is an opioid analgesic used for severe pain.",
+    "explanationImage": null
+  },
+  {
+    "id": 7,
+    "questionText": "Which vital signs should be closely monitored when a patient is on morphine?",
+    "questionImage": null,
+    "options": ["Temperature only", "Respiratory rate, BP, HR", "Blood glucose", "Oxygen saturation only"],
+    "correctAnswer": "Respiratory rate, BP, HR",
+    "explanationText": "Morphine can depress respiration and affect cardiovascular function.",
+    "explanationImage": null
+  },
+  {
+    "id": 8,
+    "questionText": "A patient on morphine has a respiratory rate of 7 breaths per minute. What should the nurse do?",
+    "questionImage": null,
+    "options": ["Give more morphine", "Administer naloxone", "Encourage fluids", "Do nothing"],
+    "correctAnswer": "Administer naloxone",
+    "explanationText": "Naloxone reverses opioid-induced respiratory depression.",
+    "explanationImage": null
+  },
+  {
+    "id": 9,
+    "questionText": "What is important when administering IV acyclovir?",
+    "questionImage": null,
+    "options": ["Restrict fluids", "Ensure hydration", "Monitor sodium only", "Give with alcohol"],
+    "correctAnswer": "Ensure hydration",
+    "explanationText": "Hydration helps prevent kidney toxicity from acyclovir.",
+    "explanationImage": null
+  },
+  {
+    "id": 10,
+    "questionText": "Oseltamivir should be started within how many hours of symptom onset?",
+    "questionImage": null,
+    "options": ["12", "24", "48", "72"],
+    "correctAnswer": "48",
+    "explanationText": "Starting within 48 hours improves effectiveness.",
+    "explanationImage": null
+  },
+  {
+    "id": 11,
+    "questionText": "What is the first-line medication for anaphylaxis?",
+    "questionImage": null,
+    "options": ["Diphenhydramine", "Epinephrine", "Albuterol", "Steroids"],
+    "correctAnswer": "Epinephrine",
+    "explanationText": "Epinephrine reverses airway constriction and increases blood pressure.",
+    "explanationImage": null
+  },
+  {
+    "id": 12,
+    "questionText": "Which antibiotic is given orally for C. difficile infection?",
+    "questionImage": null,
+    "options": ["Ciprofloxacin", "Azithromycin", "Vancomycin", "Amoxicillin"],
+    "correctAnswer": "Vancomycin",
+    "explanationText": "Oral vancomycin treats C. diff infections.",
+    "explanationImage": null
+  },
+  {
+    "id": 13,
+    "questionText": "Why must vancomycin levels be monitored?",
+    "questionImage": null,
+    "options": ["It causes hypertension", "It has a narrow therapeutic index", "It causes hypoglycemia", "It affects vision"],
+    "correctAnswer": "It has a narrow therapeutic index",
+    "explanationText": "Close monitoring prevents toxicity and ensures effectiveness.",
+    "explanationImage": null
+  },
+  {
+    "id": 14,
+    "questionText": "What organ function should be monitored with narrow therapeutic index drugs?",
+    "questionImage": null,
+    "options": ["Liver", "Kidney", "Lungs", "Skin"],
+    "correctAnswer": "Kidney",
+    "explanationText": "Creatinine levels help assess kidney function.",
+    "explanationImage": null
+  },
+  {
+    "id": 15,
+    "questionText": "What is important teaching for azithromycin?",
+    "questionImage": null,
+    "options": ["Stop when better", "Take all medication", "Skip doses if improved", "Take only at night"],
+    "correctAnswer": "Take all medication",
+    "explanationText": "Completing antibiotics prevents resistance.",
+    "explanationImage": null
+  },
+  {
+    "id": 16,
+    "questionText": "What is a serious side effect of ciprofloxacin?",
+    "questionImage": null,
+    "options": ["Dry mouth", "Achilles tendon rupture", "Bradycardia", "Headache"],
+    "correctAnswer": "Achilles tendon rupture",
+    "explanationText": "Fluoroquinolones can damage tendons.",
+    "explanationImage": null
+  },
+  {
+    "id": 17,
+    "questionText": "Which medication can cause orange discoloration of body fluids?",
+    "questionImage": null,
+    "options": ["Benztropine", "Levodopa/Carbidopa", "Buspirone", "Fluoxetine"],
+    "correctAnswer": "Levodopa/Carbidopa",
+    "explanationText": "This is a harmless side effect.",
+    "explanationImage": null
+  },
+  {
+    "id": 18,
+    "questionText": "What should a patient do if experiencing hallucinations on CNS medications?",
+    "questionImage": null,
+    "options": ["Ignore it", "Stop medication and call provider", "Increase dose", "Take with food"],
+    "correctAnswer": "Stop medication and call provider",
+    "explanationText": "Hallucinations may indicate toxicity or adverse effects.",
+    "explanationImage": null
+  },
+  {
+    "id": 19,
+    "questionText": "What is a side effect of cyclobenzaprine?",
+    "questionImage": null,
+    "options": ["Insomnia", "Drowsiness", "Hypertension", "Increased appetite"],
+    "correctAnswer": "Drowsiness",
+    "explanationText": "Cyclobenzaprine causes CNS depression.",
+    "explanationImage": null
+  },
+  {
+    "id": 20,
+    "questionText": "Which drug is used IV for acute seizure control?",
+    "questionImage": null,
+    "options": ["Phenytoin", "Diazepam", "Buspirone", "Fluoxetine"],
+    "correctAnswer": "Diazepam",
+    "explanationText": "Diazepam is first-line for acute seizures but does not prevent them.",
+    "explanationImage": null
+  },
+  {
+    "id": 21,
+    "questionText": "Which medication prevents seizures and should not be stopped abruptly?",
+    "questionImage": null,
+    "options": ["Diazepam", "Phenytoin", "Alprazolam", "Cyclobenzaprine"],
+    "correctAnswer": "Phenytoin",
+    "explanationText": "Stopping suddenly can cause seizures.",
+    "explanationImage": null
+  },
+  {
+    "id": 22,
+    "questionText": "What is a common side effect of benztropine?",
+    "questionImage": null,
+    "options": ["Diarrhea", "Dry mouth", "Sweating", "Bradycardia"],
+    "correctAnswer": "Dry mouth",
+    "explanationText": "Anticholinergic effects cause dryness.",
+    "explanationImage": null
+  },
+  {
+    "id": 23,
+    "questionText": "What should be monitored when starting fluoxetine?",
+    "questionImage": null,
+    "options": ["Kidney function", "Suicidal ideation", "Electrolytes", "Blood pressure"],
+    "correctAnswer": "Suicidal ideation",
+    "explanationText": "SSRIs may increase suicide risk initially.",
+    "explanationImage": null
+  },
+  {
+    "id": 24,
+    "questionText": "Which symptoms indicate serotonin syndrome?",
+    "questionImage": null,
+    "options": ["Dry skin", "Sweating and tachycardia", "Constipation", "Bradycardia"],
+    "correctAnswer": "Sweating and tachycardia",
+    "explanationText": "These are key signs of serotonin syndrome.",
+    "explanationImage": null
+  },
+  {
+    "id": 25,
+    "questionText": "Which anti-anxiety drug is non-habit forming?",
+    "questionImage": null,
+    "options": ["Alprazolam", "Diazepam", "Buspirone", "Lorazepam"],
+    "correctAnswer": "Buspirone",
+    "explanationText": "Buspirone has low abuse potential.",
+    "explanationImage": null
+  },
+  {
+    "id": 26,
+    "questionText": "What should be avoided with buspirone?",
+    "questionImage": null,
+    "options": ["Milk", "Grapefruit juice", "Water", "Salt"],
+    "correctAnswer": "Grapefruit juice",
+    "explanationText": "Grapefruit interferes with metabolism.",
+    "explanationImage": null
+  },
+  {
+    "id": 27,
+    "questionText": "Which ACE inhibitor causes a dry cough?",
+    "questionImage": null,
+    "options": ["Metformin", "Captopril", "Warfarin", "Furosemide"],
+    "correctAnswer": "Captopril",
+    "explanationText": "Dry cough is a classic ACE inhibitor side effect.",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "When should diuretics like furosemide be taken?",
+    "questionImage": null,
+    "options": ["Before bed", "After 6 PM", "Before 3 PM", "Only at night"],
+    "correctAnswer": "Before 3 PM",
+    "explanationText": "Prevents nocturia.",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "What electrolyte imbalance is a concern with furosemide?",
+    "questionImage": null,
+    "options": ["High potassium", "Low potassium", "High sodium", "Low calcium"],
+    "correctAnswer": "Low potassium",
+    "explanationText": "Loop diuretics cause potassium loss.",
+    "explanationImage": null
+  },
+  {
+    "id": 30,
+    "questionText": "Which diuretic is potassium-sparing?",
+    "questionImage": null,
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Metformin"],
+    "correctAnswer": "Spironolactone",
+    "explanationText": "Spironolactone retains potassium.",
+    "explanationImage": null
+  },
+  {
+    "id": 31,
+    "questionText": "What lab is monitored with heparin?",
+    "questionImage": null,
+    "options": ["INR", "aPTT", "Hemoglobin", "Platelets"],
+    "correctAnswer": "aPTT",
+    "explanationText": "aPTT reflects heparin activity.",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "What lab is monitored with warfarin?",
+    "questionImage": null,
+    "options": ["aPTT", "INR", "Platelets", "WBC"],
+    "correctAnswer": "INR",
+    "explanationText": "INR reflects warfarin effectiveness.",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "What should be done with metformin before contrast imaging?",
+    "questionImage": null,
+    "options": ["Increase dose", "Hold medication", "Take with food", "Skip only one dose"],
+    "correctAnswer": "Hold medication",
+    "explanationText": "Prevents kidney injury.",
+    "explanationImage": null
+  },
+  {
+    "id": 34,
+    "questionText": "What are common side effects of albuterol?",
+    "questionImage": null,
+    "options": ["Bradycardia", "Tachycardia and nervousness", "Sedation", "Constipation"],
+    "correctAnswer": "Tachycardia and nervousness",
+    "explanationText": "Beta-agonists stimulate the heart.",
+    "explanationImage": null
+  },
+  {
+    "id": 35,
+    "questionText": "What is a major risk of NSAIDs?",
+    "questionImage": null,
+    "options": ["Kidney stones", "GI bleeding", "Hair loss", "Hypoglycemia"],
+    "correctAnswer": "GI bleeding",
+    "explanationText": "NSAIDs irritate the stomach lining.",
+    "explanationImage": null
+  },
+  {
+    "id": 36,
+    "questionText": "When should antacids be taken relative to other medications?",
+    "questionImage": null,
+    "options": ["Same time", "Within 30 minutes", "2 hours apart", "Only at night"],
+    "correctAnswer": "2 hours apart",
+    "explanationText": "Antacids interfere with absorption.",
+    "explanationImage": null
+  },
+  {
+    "id": 37,
+    "questionText": "Which antacid should be avoided in renal patients?",
+    "questionImage": null,
+    "options": ["Magnesium hydroxide", "Aluminum hydroxide", "Calcium carbonate", "Sodium bicarbonate"],
+    "correctAnswer": "Aluminum hydroxide",
+    "explanationText": "Can accumulate in renal failure.",
+    "explanationImage": null
+  },
+  {
+    "id": 38,
+    "questionText": "What is a long-term risk of omeprazole?",
+    "questionImage": null,
+    "options": ["Hypertension", "Osteoporosis", "Diabetes", "Asthma"],
+    "correctAnswer": "Osteoporosis",
+    "explanationText": "Long-term PPI use reduces calcium absorption.",
+    "explanationImage": null
+  },
+  {
+    "id": 39,
+    "questionText": "What is a risk factor for type 2 diabetes?",
+    "questionImage": null,
+    "options": ["Underweight", "Obesity", "Dehydration", "Low sodium"],
+    "correctAnswer": "Obesity",
+    "explanationText": "Obesity increases insulin resistance.",
+    "explanationImage": null
+  },
+  {
+    "id": 40,
+    "questionText": "What blood pressure reading is considered concerning hypotension?",
+    "questionImage": null,
+    "options": ["120/80", "130/85", "90/60", "140/90"],
+    "correctAnswer": "90/60",
+    "explanationText": "Indicates low perfusion risk.",
+    "explanationImage": null
+  }
+]
