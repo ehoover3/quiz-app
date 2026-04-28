@@ -31,20 +31,29 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
-          <button className="button" onClick={() => handleSelectQuiz("fundamentalsExam3")}>
-            Fundamentals Exam 3 (All TopHat Questions)
+
+          <button className="button" onClick={() => handleSelectQuiz("healthyPopulationsExam3")}>
+            Healthy Populations
+          </button>
+
+
+          <button className="button" onClick={() => handleSelectQuiz("healthAssessment")}>
+            Health Assessment
           </button>
 
           <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>
             Pharmacology
           </button>
 
-          <button className="button" onClick={() => handleSelectQuiz("healthyPopulationsExam3")}>
-            Health Populations
+
+          <button className="button" onClick={() => handleSelectQuiz("fundamentalsExam3")}>
+            Fundamentals Exam 3 (All TopHat Questions)
           </button>
 
+
+
           <button className="button" onClick={() => handleSelectQuiz("test")}>
-            Test
+          (For Testing New Features)
           </button>
         </div>
 

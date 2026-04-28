@@ -632,218 +632,266 @@
   {
     "id": 400,
     "questionText": "What is Cranial Nerve I?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Olfactory nerve",
-    "explanationText": "CN I is the olfactory nerve responsible for smell.",
-    "explanationImage": null
+    "options": [
+      "Olfactory nerve",
+      "Optic nerve",
+      "Oculomotor nerve",
+      "Trigeminal nerve"
+    ],
+    "correctAnswer": "Olfactory nerve"
   },
   {
     "id": 401,
     "questionText": "What is Cranial Nerve II?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Optic nerve",
-    "explanationText": "CN II is the optic nerve responsible for vision.",
-    "explanationImage": null
+    "options": [
+      "Optic nerve",
+      "Olfactory nerve",
+      "Trochlear nerve",
+      "Facial nerve"
+    ],
+    "correctAnswer": "Optic nerve"
   },
   {
     "id": 402,
     "questionText": "What is Cranial Nerve III?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Oculomotor nerve",
-    "explanationText": "CN III controls most eye movements, pupil constriction, and eyelid elevation.",
-    "explanationImage": null
+    "options": [
+      "Oculomotor nerve",
+      "Trochlear nerve",
+      "Abducens nerve",
+      "Optic nerve"
+    ],
+    "correctAnswer": "Oculomotor nerve"
   },
   {
     "id": 403,
     "questionText": "What is Cranial Nerve IV?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Trochlear nerve",
-    "explanationText": "CN IV controls the superior oblique muscle, which moves the eye downward and laterally.",
-    "explanationImage": null
+    "options": [
+      "Trochlear nerve",
+      "Oculomotor nerve",
+      "Trigeminal nerve",
+      "Abducens nerve"
+    ],
+    "correctAnswer": "Trochlear nerve"
   },
   {
     "id": 404,
     "questionText": "What is Cranial Nerve V?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Trigeminal nerve",
-    "explanationText": "CN V provides facial sensation and controls muscles of mastication.",
-    "explanationImage": null
+    "options": [
+      "Trigeminal nerve",
+      "Facial nerve",
+      "Glossopharyngeal nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswer": "Trigeminal nerve"
   },
   {
     "id": 405,
     "questionText": "What is Cranial Nerve VI?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Abducens nerve",
-    "explanationText": "CN VI controls lateral eye movement via the lateral rectus muscle.",
-    "explanationImage": null
+    "options": [
+      "Abducens nerve",
+      "Trochlear nerve",
+      "Oculomotor nerve",
+      "Vestibulocochlear nerve"
+    ],
+    "correctAnswer": "Abducens nerve"
   },
   {
     "id": 406,
     "questionText": "What is Cranial Nerve VII?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Facial nerve",
-    "explanationText": "CN VII controls facial expression, taste from anterior 2/3 of tongue, and salivation.",
-    "explanationImage": null
+    "options": [
+      "Facial nerve",
+      "Trigeminal nerve",
+      "Glossopharyngeal nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswer": "Facial nerve"
   },
   {
     "id": 407,
     "questionText": "What is Cranial Nerve VIII?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Vestibulocochlear nerve",
-    "explanationText": "CN VIII is responsible for hearing and balance.",
-    "explanationImage": null
+    "options": [
+      "Vestibulocochlear nerve",
+      "Vagus nerve",
+      "Glossopharyngeal nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswer": "Vestibulocochlear nerve"
   },
   {
     "id": 408,
     "questionText": "What is Cranial Nerve IX?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Glossopharyngeal nerve",
-    "explanationText": "CN IX is involved in taste (posterior 1/3 of tongue), swallowing, and gag reflex.",
-    "explanationImage": null
+    "options": [
+      "Glossopharyngeal nerve",
+      "Vagus nerve",
+      "Facial nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswer": "Glossopharyngeal nerve"
   },
   {
     "id": 409,
     "questionText": "What is Cranial Nerve X?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Vagus nerve",
-    "explanationText": "CN X controls parasympathetic functions of the heart, lungs, and digestive tract and supports swallowing and speech.",
-    "explanationImage": null
+    "options": [
+      "Vagus nerve",
+      "Glossopharyngeal nerve",
+      "Hypoglossal nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswer": "Vagus nerve"
   },
   {
     "id": 410,
     "questionText": "What is Cranial Nerve XI?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Accessory nerve",
-    "explanationText": "CN XI controls sternocleidomastoid and trapezius muscles for head turning and shoulder shrugging.",
-    "explanationImage": null
+    "options": [
+      "Accessory nerve",
+      "Hypoglossal nerve",
+      "Vagus nerve",
+      "Facial nerve"
+    ],
+    "correctAnswer": "Accessory nerve"
   },
   {
     "id": 411,
     "questionText": "What is Cranial Nerve XII?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Hypoglossal nerve",
-    "explanationText": "CN XII controls tongue movement for speech and swallowing.",
-    "explanationImage": null
+    "options": [
+      "Hypoglossal nerve",
+      "Accessory nerve",
+      "Vagus nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctAnswer": "Hypoglossal nerve"
   },
   {
     "id": 412,
     "questionText": "What is the primary function of Cranial Nerve I?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Smell (olfaction)",
-    "explanationText": "CN I detects odors and transmits smell information to the brain.",
-    "explanationImage": null
+    "options": [
+      "Smell (olfaction)",
+      "Vision",
+      "Hearing",
+      "Balance"
+    ],
+    "correctAnswer": "Smell (olfaction)"
   },
   {
     "id": 413,
     "questionText": "What is the primary function of Cranial Nerve II?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Vision",
-    "explanationText": "CN II carries visual information from the retina to the brain.",
-    "explanationImage": null
+    "options": [
+      "Vision",
+      "Smell",
+      "Eye movement",
+      "Facial sensation"
+    ],
+    "correctAnswer": "Vision"
   },
   {
     "id": 414,
     "questionText": "What is the primary function of Cranial Nerve III?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Eye movement, pupil constriction, eyelid elevation",
-    "explanationText": "CN III controls most extraocular eye movements and parasympathetic pupillary constriction.",
-    "explanationImage": null
+    "options": [
+      "Eye movement, pupil constriction, eyelid elevation",
+      "Facial sensation",
+      "Hearing and balance",
+      "Tongue movement"
+    ],
+    "correctAnswer": "Eye movement, pupil constriction, eyelid elevation"
   },
   {
     "id": 415,
     "questionText": "What is the primary function of Cranial Nerve IV?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Eye movement (downward and inward)",
-    "explanationText": "CN IV controls the superior oblique muscle for downward and inward eye movement.",
-    "explanationImage": null
+    "options": [
+      "Eye movement (downward and inward)",
+      "Lateral eye movement",
+      "Facial expression",
+      "Swallowing"
+    ],
+    "correctAnswer": "Eye movement (downward and inward)"
   },
   {
     "id": 416,
     "questionText": "What is the primary function of Cranial Nerve V?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Facial sensation and chewing",
-    "explanationText": "CN V provides sensation to the face and motor control for mastication.",
-    "explanationImage": null
+    "options": [
+      "Facial sensation and chewing",
+      "Vision",
+      "Hearing",
+      "Tongue movement"
+    ],
+    "correctAnswer": "Facial sensation and chewing"
   },
   {
     "id": 417,
     "questionText": "What is the primary function of Cranial Nerve VI?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Lateral eye movement",
-    "explanationText": "CN VI controls the lateral rectus muscle for abduction of the eye.",
-    "explanationImage": null
+    "options": [
+      "Lateral eye movement",
+      "Downward eye movement",
+      "Facial expression",
+      "Swallowing"
+    ],
+    "correctAnswer": "Lateral eye movement"
   },
   {
     "id": 418,
     "questionText": "What is the primary function of Cranial Nerve VII?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Facial expression and taste (anterior tongue)",
-    "explanationText": "CN VII controls facial muscles, taste from the anterior 2/3 of the tongue, and salivary glands.",
-    "explanationImage": null
+    "options": [
+      "Facial expression and taste (anterior tongue)",
+      "Facial sensation",
+      "Hearing",
+      "Tongue movement"
+    ],
+    "correctAnswer": "Facial expression and taste (anterior tongue)"
   },
   {
     "id": 419,
     "questionText": "What is the primary function of Cranial Nerve VIII?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Hearing and balance",
-    "explanationText": "CN VIII is responsible for auditory input and vestibular balance functions.",
-    "explanationImage": null
+    "options": [
+      "Hearing and balance",
+      "Vision",
+      "Smell",
+      "Swallowing"
+    ],
+    "correctAnswer": "Hearing and balance"
   },
   {
     "id": 420,
     "questionText": "What is the primary function of Cranial Nerve IX?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Swallowing, gag reflex, taste (posterior tongue)",
-    "explanationText": "CN IX contributes to swallowing, gag reflex, and taste from the posterior third of the tongue.",
-    "explanationImage": null
+    "options": [
+      "Swallowing, gag reflex, taste (posterior tongue)",
+      "Facial expression",
+      "Vision",
+      "Lateral eye movement"
+    ],
+    "correctAnswer": "Swallowing, gag reflex, taste (posterior tongue)"
   },
   {
     "id": 421,
     "questionText": "What is the primary function of Cranial Nerve X?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Parasympathetic control of heart, lungs, and digestion",
-    "explanationText": "CN X regulates autonomic functions and supports swallowing and speech.",
-    "explanationImage": null
+    "options": [
+      "Parasympathetic control of heart, lungs, and digestion",
+      "Facial sensation",
+      "Hearing",
+      "Eye movement"
+    ],
+    "correctAnswer": "Parasympathetic control of heart, lungs, and digestion"
   },
   {
     "id": 422,
     "questionText": "What is the primary function of Cranial Nerve XI?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Shoulder and head movement",
-    "explanationText": "CN XI controls sternocleidomastoid and trapezius muscles.",
-    "explanationImage": null
+    "options": [
+      "Shoulder and head movement",
+      "Tongue movement",
+      "Vision",
+      "Balance"
+    ],
+    "correctAnswer": "Shoulder and head movement"
   },
   {
     "id": 423,
     "questionText": "What is the primary function of Cranial Nerve XII?",
-    "questionImage": null,
-    "options": [],
-    "correctAnswer": "Tongue movement",
-    "explanationText": "CN XII controls tongue movements essential for speech and swallowing.",
-    "explanationImage": null
+    "options": [
+      "Tongue movement",
+      "Swallowing",
+      "Facial expression",
+      "Hearing"
+    ],
+    "correctAnswer": "Tongue movement"
   },
   {
     "id": 500,

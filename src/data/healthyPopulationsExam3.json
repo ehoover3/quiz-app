@@ -301,17 +301,17 @@
     "explanationImage": "images/Chloasma.jpeg"
   },
   {
-    "id": 23,
-    "questionText": "Which of the following is a probable sign of pregnancy?",
-    "options": [
-      "Visualization of the fetus via ultrasound",
-      "Positive urine pregnancy test",
-      "Uterine enlargement",
-      "Breast changes"
-    ],
-    "correctAnswer": "Uterine enlargement",
-    "explanationText": "Probable signs are objective but not definitive (e.g., uterine enlargement, positive pregnancy test). Positive signs confirm pregnancy (e.g., ultrasound visualization). Presumptive signs include breast changes."
-  },
+  "id": 23,
+  "questionText": "Which of the following is a probable sign of pregnancy?",
+  "options": [
+    "Positive urine pregnancy test and uterine enlargement",
+    "Visualization of the fetus via ultrasound",
+    "Breast changes",
+    "Quickening (feeling fetal movement)"
+  ],
+  "correctAnswer": "Positive urine pregnancy test and uterine enlargement",
+  "explanationText": "Probable signs are objective but not definitive, such as a positive pregnancy test and uterine enlargement. Positive signs confirm pregnancy (e.g., ultrasound visualization of the fetus). Presumptive signs include breast changes and quickening."
+},
   {
     "id": 24,
     "questionText": "The frequency of contractions is measured:",
@@ -667,20 +667,19 @@
     "correctAnswer": "Artificial rupture of membranes",
     "explanationText": "AROM is when the provider intentionally ruptures the amniotic sac."
   },
-  {
-    "id": 62,
-    "questionText": "Apgar score evaluates which of the following? (Select all that apply)",
-    "options": [
-      "Heart rate",
-      "Respiratory effort",
-      "Muscle tone",
-      "Blood pressure",
-      "Color"
-    ],
-    "correctAnswer": "Heart rate, Respiratory effort, Muscle tone, Color",
-    "explanationText": "Apgar assesses heart rate, respirations, muscle tone, reflex irritability, and color.",
-    "explanationImage": "images/APGAR.png"
-  },
+{
+  "id": 62,
+  "questionText": "Apgar score evaluates which of the following?",
+  "options": [
+    "Heart rate, Respiratory effort, Muscle tone, Color",
+    "Heart rate, Blood pressure, Temperature",
+    "Respiratory effort, Blood pressure, Reflexes",
+    "Muscle tone, Temperature, Color"
+  ],
+  "correctAnswer": "Heart rate, Respiratory effort, Muscle tone, Color",
+  "explanationText": "Apgar assesses heart rate, respirations, muscle tone, reflex irritability, and color.",
+  "explanationImage": "images/APGAR.png"
+},
   {
     "id": 63,
     "questionText": "Which maternal position improves uterine blood flow during labor?",
