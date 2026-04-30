@@ -1,0 +1,1914 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which finding in an infant respiratory assessment is NEVER considered normal?",
+    "questionImage": null,
+    "options": [
+      "Abdominal (diaphragmatic) breathing",
+      "Respiratory rate of 30–60 breaths/min",
+      "Nasal flaring",
+      "Mild irregular breathing pattern"
+    ],
+    "correctAnswer": "Nasal flaring",
+    "explanationText": "Abdominal breathing and a respiratory rate of 30–60 breaths per minute can be normal in infants. Nasal flaring indicates increased work of breathing and is never normal.",
+    "explanationImage": null
+  },
+  {
+    "id": 2,
+    "questionText": "What is the correct sequence when assessing pediatric cardiovascular vital signs?",
+    "questionImage": null,
+    "options": [
+      "Check apical heart rate first, then listen to heart and lungs",
+      "Listen to heart and lungs first, then count apical heart rate",
+      "Palpate radial pulse first, then apical heart rate",
+      "Count respiratory rate first, then blood pressure"
+    ],
+    "correctAnswer": "Listen to heart and lungs first, then count apical heart rate",
+    "explanationText": "In pediatric assessment, auscultate heart and lungs first to avoid affecting baseline vital signs, then count the apical heart rate for accuracy.",
+    "explanationImage": null
+  },
+  {
+    "id": 3,
+    "questionText": "How should the pinna be manipulated when assessing the ear canal of a pediatric patient?",
+    "questionImage": null,
+    "options": [
+      "Pull pinna up and back",
+      "Pull pinna down and back",
+      "Pull pinna straight outward",
+      "Do not manipulate the pinna"
+    ],
+    "correctAnswer": "Pull pinna down and back",
+    "explanationText": "In children, the ear canal is more straightened by pulling the pinna down and back. In adults, it is pulled up and back.",
+    "explanationImage": null
+  },
+  {
+    "id": 4,
+    "questionText": "Which of the following are common benign skin findings in infants?",
+    "questionImage": null,
+    "options": [
+      "Mongolian spots, stork bites, and strawberry hemangiomas",
+      "Melanoma, basal cell carcinoma, and psoriasis",
+      "Eczema, impetigo, and cellulitis",
+      "Vitiligo, shingles, and scabies"
+    ],
+    "correctAnswer": "Mongolian spots, stork bites, and strawberry hemangiomas",
+    "explanationText": "Mongolian spots, stork bites, and strawberry hemangiomas are common benign vascular or pigmented lesions seen in infants.",
+    "explanationImage": "images/strawberryHemangioma.png"
+  },
+  {
+    "id": 5,
+    "questionText": "Which pain assessment tool is most appropriate for children aged 3 years and older?",
+    "questionImage": null,
+    "options": [
+      "Numeric pain scale (0–10)",
+      "Wong-Baker Faces Scale",
+      "FLACC scale",
+      "CRIES scale"
+    ],
+    "correctAnswer": "Wong-Baker Faces Scale",
+    "explanationText": "The Wong-Baker Faces Scale is commonly used for children aged 3 years and older who may not understand numeric scales.",
+    "explanationImage": null
+  },
+  {
+    "id": 6,
+    "questionText": "Which of the following are primitive neonatal reflexes?",
+    "questionImage": null,
+    "options": [
+      "Moro, Babinski, and Fencing (tonic neck) reflexes",
+      "Patellar, Achilles, and biceps reflexes",
+      "Gag, cough, and corneal reflexes",
+      "Pupillary, accommodation, and corneal reflexes"
+    ],
+    "correctAnswer": "Moro, Babinski, and Fencing (tonic neck) reflexes",
+    "explanationText": "Moro, Babinski, and tonic neck (fencing) reflexes are primitive reflexes present in infants and typically disappear as the nervous system matures.",
+    "explanationImage": null
+  },
+  {
+    "id": 7,
+    "questionText": "Which lung sound is normally heard over the trachea?",
+    "questionImage": null,
+    "options": [
+      "Vesicular",
+      "Bronchial",
+      "Bronchovesicular",
+      "Crackles"
+    ],
+    "correctAnswer": "Bronchial",
+    "explanationText": "Bronchial breath sounds are normally heard over the trachea and are loud with a longer expiratory phase than inspiratory phase.",
+    "explanationImage": null
+  },
+  {
+    "id": 8,
+    "questionText": "Which adventitious lung sound is described as a high-pitched, musical sound usually caused by narrowed airways?",
+    "questionImage": null,
+    "options": [
+      "Rhonchi",
+      "Wheezes",
+      "Crackles",
+      "Pleural rub"
+    ],
+    "correctAnswer": "Wheezes",
+    "explanationText": "Wheezes are high-pitched, musical sounds caused by narrowed airways and can occur during inspiration, expiration, or both.",
+    "explanationImage": null
+  },
+  {
+    "id": 9,
+    "questionText": "Stridor is best described as which of the following?",
+    "questionImage": null,
+    "options": [
+      "Low-pitched snoring sound from lower airways",
+      "High-pitched crowing sound from upper airway obstruction",
+      "Crackling sound from fluid in alveoli",
+      "Pleural rubbing sound during respiration"
+    ],
+    "correctAnswer": "High-pitched crowing sound from upper airway obstruction",
+    "explanationText": "Stridor is a high-pitched, crowing sound caused by partial obstruction of the larynx or trachea and is a medical emergency.",
+    "explanationImage": null
+  },
+  {
+    "id": 10,
+    "questionText": "What causes a pleural friction rub?",
+    "questionImage": null,
+    "options": [
+      "Fluid in the alveoli",
+      "Inflamed pleural surfaces rubbing together",
+      "Airway narrowing in bronchi",
+      "Excess mucus in large airways"
+    ],
+    "correctAnswer": "Inflamed pleural surfaces rubbing together",
+    "explanationText": "A pleural friction rub occurs when inflamed visceral and parietal pleura rub together, often heard in pleurisy.",
+    "explanationImage": null
+  },
+  {
+    "id": 11,
+    "questionText": "Which description matches 3+ pitting edema?",
+    "questionImage": null,
+    "options": [
+      "2 mm depth, barely visible indentation",
+      "4 mm depth, rebounds in a few seconds",
+      "6 mm depth, rebounds in about 10 seconds",
+      "8 mm depth, rebounds in over 30 seconds"
+    ],
+    "correctAnswer": "6 mm depth, rebounds in about 10 seconds",
+    "explanationText": "3+ pitting edema is a deep indentation approximately 6 mm that rebounds slowly, usually within about 10 seconds.",
+    "explanationImage": null
+  },
+  {
+    "id": 12,
+    "questionText": "What does a muscle strength grade of 5/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "No muscle contraction",
+      "Active movement with gravity eliminated",
+      "Active movement against gravity only",
+      "Normal full strength against resistance"
+    ],
+    "correctAnswer": "Normal full strength against resistance",
+    "explanationText": "A grade of 5/5 indicates normal muscle strength with full resistance against examiner force.",
+    "explanationImage": null
+  },
+  {
+    "id": 13,
+    "questionText": "Which pain scale is most commonly used for adult patients?",
+    "questionImage": null,
+    "options": [
+      "FLACC scale",
+      "Wong-Baker Faces Scale",
+      "Numeric Rating Scale (0–10)",
+      "CRIES scale"
+    ],
+    "correctAnswer": "Numeric Rating Scale (0–10)",
+    "explanationText": "The 0–10 Numeric Rating Scale is most commonly used for adults who can self-report pain intensity.",
+    "explanationImage": null
+  },
+  {
+    "id": 14,
+    "questionText": "What is the normal Glasgow Coma Scale (GCS) score?",
+    "questionImage": null,
+    "options": [
+      "3",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": "15",
+    "explanationText": "A GCS score of 15 indicates full consciousness with normal eye, verbal, and motor responses.",
+    "explanationImage": null
+  },
+  {
+    "id": 15,
+    "questionText": "What does a deep tendon reflex score of 2+ indicate?",
+    "questionImage": null,
+    "options": [
+      "Absent reflex",
+      "Diminished reflex",
+      "Normal reflex",
+      "Hyperactive reflex"
+    ],
+    "correctAnswer": "Normal reflex",
+    "explanationText": "A score of 2+ on reflex testing is considered normal and expected.",
+    "explanationImage": null
+  },
+  {
+    "id": 16,
+    "questionText": "S1 heart sound is caused by:",
+    "questionImage": null,
+    "options": [
+      "Closure of aortic and pulmonic valves",
+      "Closure of mitral and tricuspid valves",
+      "Opening of semilunar valves",
+      "Rapid ventricular filling"
+    ],
+    "correctAnswer": "Closure of mitral and tricuspid valves",
+    "explanationText": "S1 is caused by closure of the mitral and tricuspid valves and marks the beginning of systole.",
+    "explanationImage": null
+  },
+  {
+    "id": 17,
+    "questionText": "S2 heart sound is best described as:",
+    "questionImage": null,
+    "options": [
+      "Closure of mitral and tricuspid valves",
+      "Closure of aortic and pulmonic valves",
+      "Rapid ventricular filling",
+      "Atrial contraction"
+    ],
+    "correctAnswer": "Closure of aortic and pulmonic valves",
+    "explanationText": "S2 is caused by closure of the aortic and pulmonic valves and marks the beginning of diastole.",
+    "explanationImage": null
+  },
+  {
+    "id": 18,
+    "questionText": "S3 heart sound is most commonly associated with:",
+    "questionImage": null,
+    "options": [
+      "Normal finding in all adults",
+      "Fluid volume overload and heart failure",
+      "Valve stenosis",
+      "Hypertension only"
+    ],
+    "correctAnswer": "Fluid volume overload and heart failure",
+    "explanationText": "S3 is caused by rapid ventricular filling and is often associated with fluid overload or congestive heart failure.",
+    "explanationImage": null
+  },
+  {
+    "id": 19,
+    "questionText": "S4 heart sound is commonly associated with:",
+    "questionImage": null,
+    "options": [
+      "Normal aging only",
+      "Stiff ventricle and ventricular hypertrophy",
+      "Fluid overload",
+      "Aortic regurgitation only"
+    ],
+    "correctAnswer": "Stiff ventricle and ventricular hypertrophy",
+    "explanationText": "S4 occurs when the atria contract against a stiff ventricle, often due to ventricular hypertrophy. It can be normal in athletes under 30.",
+    "explanationImage": null
+  },
+  {
+    "id": 20,
+    "questionText": "Peripheral vascular disease includes which conditions?",
+    "questionImage": null,
+    "options": [
+      "Arterial insufficiency only",
+      "Venous insufficiency only",
+      "Both arterial and venous insufficiency",
+      "Neither arterial nor venous disease"
+    ],
+    "correctAnswer": "Both arterial and venous insufficiency",
+    "explanationText": "Peripheral vascular disease includes both arterial and venous insufficiency affecting circulation in the extremities.",
+    "explanationImage": null
+  },
+  {
+    "id": 21,
+    "questionText": "Which of the following findings is most consistent with arterial insufficiency?",
+    "questionImage": null,
+    "options": [
+      "Warm skin with brown discoloration and varicose veins",
+      "Cool, thin, shiny skin with absent pedal pulses and intermittent claudication",
+      "Warm skin with lower leg edema and intact pulses",
+      "Brisk capillary refill and thickened skin on lower legs"
+    ],
+    "correctAnswer": "Cool, thin, shiny skin with absent pedal pulses and intermittent claudication",
+    "explanationText": "Arterial insufficiency typically presents with cool extremities, thin shiny hairless skin, delayed capillary refill, diminished or absent pulses, dependent rubor, elevation pallor, and pain with activity (intermittent claudication).",
+    "explanationImage": null
+  },
+  {
+    "id": 22,
+    "questionText": "Which of the following findings is most consistent with venous insufficiency?",
+    "questionImage": null,
+    "options": [
+      "Cool, pale skin with absent pulses",
+      "Warm skin with lower leg edema, varicose veins, and brown discoloration",
+      "Severe pain with elevation and no edema",
+      "Thin, shiny skin with delayed capillary refill"
+    ],
+    "correctAnswer": "Warm skin with lower leg edema, varicose veins, and brown discoloration",
+    "explanationText": "Venous insufficiency typically presents with warm skin, edema, varicose veins, normal or brisk capillary refill, intact pulses, and hemosiderin staining (brown discoloration).",
+    "explanationImage": null
+  },
+  {
+    "id": 23,
+    "questionText": "What does a muscle strength grade of 3/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "No muscle contraction",
+      "Movement with gravity eliminated only",
+      "Full range of motion against gravity but no resistance",
+      "Normal strength against full resistance"
+    ],
+    "correctAnswer": "Full range of motion against gravity but no resistance",
+    "explanationText": "A grade of 3/5 indicates the patient can move the limb through full range of motion against gravity but cannot tolerate added resistance.",
+    "explanationImage": null
+  },
+  {
+    "id": 24,
+    "questionText": "Which joints primarily allow flexion, extension, abduction, adduction, and internal/external rotation?",
+    "questionImage": null,
+    "options": [
+      "Elbow and knee",
+      "Shoulder and hip",
+      "Ankle and wrist",
+      "Cervical spine only"
+    ],
+    "correctAnswer": "Shoulder and hip",
+    "explanationText": "The shoulder and hip are ball-and-socket joints that allow flexion, extension, abduction, adduction, rotation, and hyperextension.",
+    "explanationImage": null
+  },
+  {
+    "id": 25,
+    "questionText": "Which joint movements include dorsiflexion, plantar flexion, inversion, and eversion?",
+    "questionImage": null,
+    "options": [
+      "Shoulder",
+      "Hip",
+      "Ankle",
+      "Elbow"
+    ],
+    "correctAnswer": "Ankle",
+    "explanationText": "The ankle joint allows dorsiflexion, plantar flexion, inversion, and eversion.",
+    "explanationImage": null
+  },
+  {
+    "id": 49,
+    "questionText": "Which movements are primarily associated with the elbow and knee joints?",
+    "questionImage": null,
+    "options": [
+      "Flexion and extension only",
+      "Rotation and abduction",
+      "Inversion and eversion",
+      "Circumduction only"
+    ],
+    "correctAnswer": "Flexion and extension only",
+    "explanationText": "Elbow and knee joints primarily allow flexion and extension. The elbow also allows pronation and supination of the forearm.",
+    "explanationImage": null
+  },
+  {
+    "id": 26,
+    "questionText": "Which condition is caused by uric acid crystal deposition and commonly affects the great toe?",
+    "questionImage": null,
+    "options": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Gout",
+      "Osteoporosis"
+    ],
+    "correctAnswer": "Gout",
+    "explanationText": "Gout is caused by uric acid crystal deposition in joints, often affecting the great toe (podagra), and is associated with high purine intake.",
+    "explanationImage": null
+  },
+  {
+    "id": 27,
+    "questionText": "Which condition is characterized by bilateral joint involvement and deformities such as ulnar deviation and swan-neck deformities?",
+    "questionImage": null,
+    "options": [
+      "Gout",
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Osteoporosis"
+    ],
+    "correctAnswer": "Rheumatoid arthritis",
+    "explanationText": "Rheumatoid arthritis is an autoimmune disease causing bilateral joint inflammation and deformities such as ulnar deviation, swan-neck, and boutonniere deformities.",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "Which condition is characterized by joint stiffness lasting less than 30 minutes in the morning and is usually unilateral?",
+    "questionImage": null,
+    "options": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Gout",
+      "Systemic lupus erythematosus"
+    ],
+    "correctAnswer": "Osteoarthritis",
+    "explanationText": "Osteoarthritis is a degenerative joint disease with stiffness that typically lasts less than 30 minutes in the morning and is often unilateral.",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "Which condition is known as a 'silent disease' due to progressive bone density loss and increased fracture risk?",
+    "questionImage": null,
+    "options": [
+      "Osteoporosis",
+      "Osteoarthritis",
+      "Rheumatoid arthritis",
+      "Gout"
+    ],
+    "correctAnswer": "Osteoporosis",
+    "explanationText": "Osteoporosis is characterized by decreased bone mass and density, increasing fracture risk, especially in women over age 50.",
+    "explanationImage": null
+  },
+  {
+    "id": 30,
+    "questionText": "Which tests are used to assess carpal tunnel syndrome?",
+    "questionImage": null,
+    "options": [
+      "Romberg and Babinski tests",
+      "Tinel's sign and Phalen's test",
+      "Brudzinski and Kernig signs",
+      "Apley and McMurray tests"
+    ],
+    "correctAnswer": "Tinel's sign and Phalen's test",
+    "explanationText": "Tinel's sign involves tapping over the median nerve, and Phalen's test involves wrist flexion to reproduce symptoms of carpal tunnel syndrome.",
+    "explanationImage": null
+  },
+  {
+    "id": 31,
+    "questionText": "Which description best represents a Stage 3 pressure injury?",
+    "questionImage": null,
+    "options": [
+      "Nonblanchable erythema with intact skin",
+      "Partial thickness skin loss with exposed dermis",
+      "Full thickness skin loss with exposed subcutaneous fat, but no bone or muscle",
+      "Full thickness tissue loss with exposed bone and muscle"
+    ],
+    "correctAnswer": "Full thickness skin loss with exposed subcutaneous fat, but no bone or muscle",
+    "explanationText": "Stage 3 pressure injuries involve full thickness skin loss with visible subcutaneous fat but no exposure of bone, tendon, or muscle.",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "Which pairing of abdominal quadrant and organ is correct?",
+    "questionImage": null,
+    "options": [
+      "RUQ: spleen",
+      "LUQ: appendix",
+      "RLQ: liver",
+      "RUQ: liver and gallbladder"
+    ],
+    "correctAnswer": "RUQ: liver and gallbladder",
+    "explanationText": "The right upper quadrant (RUQ) contains the liver and gallbladder.",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "What is the correct order of abdominal assessment?",
+    "questionImage": null,
+    "options": [
+      "Palpate, percuss, auscultate, inspect",
+      "Inspect, auscultate, percuss, palpate",
+      "Inspect, palpate, auscultate, percuss",
+      "Auscultate, inspect, palpate, percuss"
+    ],
+    "correctAnswer": "Inspect, auscultate, percuss, palpate",
+    "explanationText": "Abdominal assessment follows Inspect, Auscultate, Percuss, then Palpate to avoid altering bowel sounds.",
+    "explanationImage": null
+  },
+  {
+    "id": 34,
+    "questionText": "Which finding is considered a normal abdominal assessment?",
+    "questionImage": null,
+    "options": [
+      "Rigid abdomen with absent bowel sounds",
+      "Firm distended abdomen with tenderness",
+      "Soft abdomen with 5–35 bowel sounds per minute",
+      "Organs easily palpable and hyperactive bowel sounds"
+    ],
+    "correctAnswer": "Soft abdomen with 5–35 bowel sounds per minute",
+    "explanationText": "A normal abdomen is soft, may be flat or rounded, with active bowel sounds and no palpable organs.",
+    "explanationImage": null
+  },
+  {
+    "id": 35,
+    "questionText": "Which finding is considered abnormal in abdominal assessment?",
+    "questionImage": null,
+    "options": [
+      "Soft, non-tender abdomen",
+      "Active bowel sounds in all quadrants",
+      "Firm distended abdomen with absent bowel sounds",
+      "Tympany on percussion"
+    ],
+    "correctAnswer": "Firm distended abdomen with absent bowel sounds",
+    "explanationText": "Abnormal findings include rigidity, distension, hypoactive or absent bowel sounds, and palpable organs.",
+    "explanationImage": null
+  },
+  {
+    "id": 36,
+    "questionText": "Which clinical sign is associated with appendicitis?",
+    "questionImage": null,
+    "options": [
+      "Murphy's sign",
+      "Rebound tenderness at McBurney's point",
+      "CVA tenderness",
+      "Psoas sign only in upper abdomen"
+    ],
+    "correctAnswer": "Rebound tenderness at McBurney's point",
+    "explanationText": "Appendicitis is commonly associated with rebound tenderness at McBurney's point in the RLQ.",
+    "explanationImage": null
+  },
+  {
+    "id": 37,
+    "questionText": "Which reflex corresponds to triceps testing?",
+    "questionImage": null,
+    "options": [
+      "Flexion of forearm",
+      "Extension of forearm at elbow",
+      "Plantar flexion of foot",
+      "Extension of knee"
+    ],
+    "correctAnswer": "Extension of forearm at elbow",
+    "explanationText": "The triceps reflex causes extension of the forearm at the elbow.",
+    "explanationImage": null
+  },
+  {
+    "id": 38,
+    "questionText": "What term describes difficulty producing speech while comprehension is intact?",
+    "questionImage": null,
+    "options": [
+      "Receptive aphasia",
+      "Expressive aphasia",
+      "Dysphagia",
+      "Dysarthria"
+    ],
+    "correctAnswer": "Expressive aphasia",
+    "explanationText": "Expressive aphasia involves difficulty speaking while comprehension remains intact.",
+    "explanationImage": null
+  },
+  {
+    "id": 39,
+    "questionText": "Which condition involves inability to understand spoken language?",
+    "questionImage": null,
+    "options": [
+      "Expressive aphasia",
+      "Receptive aphasia",
+      "Dysarthria",
+      "Apraxia"
+    ],
+    "correctAnswer": "Receptive aphasia",
+    "explanationText": "Receptive aphasia is the inability to understand spoken or written language despite fluent speech production.",
+    "explanationImage": null
+  },
+  {
+    "id": 40,
+    "questionText": "What best describes expressive aphasia?",
+    "questionImage": null,
+    "options": [
+      "Cannot understand language but can speak fluently",
+      "Cannot speak or write properly but understands language",
+      "Loss of all motor function",
+      "Inability to swallow"
+    ],
+    "correctAnswer": "Cannot speak or write properly but understands language",
+    "explanationText": "Expressive aphasia involves impaired speech or writing ability with preserved comprehension.",
+    "explanationImage": null
+  },
+  {
+    "id": 41,
+    "questionText": "What is the best definition of aphasia?",
+    "questionImage": null,
+    "options": [
+      "Difficulty swallowing food or liquids",
+      "Deficit or loss of language function affecting speech and comprehension",
+      "Weakness of facial muscles affecting speech",
+      "Inability to coordinate voluntary movement"
+    ],
+    "correctAnswer": "Deficit or loss of language function affecting speech and comprehension",
+    "explanationText": "Aphasia is a neurological condition involving impairment or loss of language function, which can affect speaking, understanding, reading, and writing.",
+    "explanationImage": null
+  },
+  {
+    "id": 42,
+    "questionText": "Which term best describes dysphasia?",
+    "questionImage": null,
+    "options": [
+      "Complete loss of language function",
+      "Difficulty swallowing",
+      "Impaired or partial disruption of speech and language",
+      "Loss of vision in one eye"
+    ],
+    "correctAnswer": "Impaired or partial disruption of speech and language",
+    "explanationText": "Dysphasia refers to partial impairment of language ability, including difficulty speaking or understanding language. It is often used interchangeably with mild aphasia in some settings.",
+    "explanationImage": null
+  },
+  {
+    "id": 43,
+    "questionText": "What is dysphagia?",
+    "questionImage": null,
+    "options": [
+      "Difficulty speaking",
+      "Difficulty swallowing",
+      "Difficulty hearing",
+      "Difficulty walking"
+    ],
+    "correctAnswer": "Difficulty swallowing",
+    "explanationText": "Dysphagia is difficulty swallowing and can involve problems with chewing, moving food safely into the esophagus, or risk of aspiration.",
+    "explanationImage": null
+  },
+  {
+    "id": 44,
+    "questionText": "Which assessment techniques are used to evaluate suspected strabismus in a patient?",
+    "questionImage": null,
+    "options": [
+      "Snellen chart and visual acuity testing",
+      "Hirschberg test and cover/uncover test",
+      "Ophthalmoscopy and tonometry",
+      "Pupil dilation and fundoscopy only"
+    ],
+    "correctAnswer": "Hirschberg test and cover/uncover test",
+    "explanationText": "The Hirschberg test evaluates corneal light reflex alignment, and the cover/uncover test assesses ocular alignment and identifies weak extraocular muscles in suspected strabismus.",
+    "explanationImage": null
+  },
+  {
+    "id": 400,
+    "questionText": "What is Cranial Nerve I?",
+    "options": [
+      "Olfactory nerve",
+      "Optic nerve",
+      "Oculomotor nerve",
+      "Trigeminal nerve"
+    ],
+    "correctAnswer": "Olfactory nerve"
+  },
+  {
+    "id": 401,
+    "questionText": "What is Cranial Nerve II?",
+    "options": [
+      "Optic nerve",
+      "Olfactory nerve",
+      "Trochlear nerve",
+      "Facial nerve"
+    ],
+    "correctAnswer": "Optic nerve"
+  },
+  {
+    "id": 402,
+    "questionText": "What is Cranial Nerve III?",
+    "options": [
+      "Oculomotor nerve",
+      "Trochlear nerve",
+      "Abducens nerve",
+      "Optic nerve"
+    ],
+    "correctAnswer": "Oculomotor nerve"
+  },
+  {
+    "id": 403,
+    "questionText": "What is Cranial Nerve IV?",
+    "options": [
+      "Trochlear nerve",
+      "Oculomotor nerve",
+      "Trigeminal nerve",
+      "Abducens nerve"
+    ],
+    "correctAnswer": "Trochlear nerve"
+  },
+  {
+    "id": 404,
+    "questionText": "What is Cranial Nerve V?",
+    "options": [
+      "Trigeminal nerve",
+      "Facial nerve",
+      "Glossopharyngeal nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswer": "Trigeminal nerve"
+  },
+  {
+    "id": 405,
+    "questionText": "What is Cranial Nerve VI?",
+    "options": [
+      "Abducens nerve",
+      "Trochlear nerve",
+      "Oculomotor nerve",
+      "Vestibulocochlear nerve"
+    ],
+    "correctAnswer": "Abducens nerve"
+  },
+  {
+    "id": 406,
+    "questionText": "What is Cranial Nerve VII?",
+    "options": [
+      "Facial nerve",
+      "Trigeminal nerve",
+      "Glossopharyngeal nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswer": "Facial nerve"
+  },
+  {
+    "id": 407,
+    "questionText": "What is Cranial Nerve VIII?",
+    "options": [
+      "Vestibulocochlear nerve",
+      "Vagus nerve",
+      "Glossopharyngeal nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswer": "Vestibulocochlear nerve"
+  },
+  {
+    "id": 408,
+    "questionText": "What is Cranial Nerve IX?",
+    "options": [
+      "Glossopharyngeal nerve",
+      "Vagus nerve",
+      "Facial nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswer": "Glossopharyngeal nerve"
+  },
+  {
+    "id": 409,
+    "questionText": "What is Cranial Nerve X?",
+    "options": [
+      "Vagus nerve",
+      "Glossopharyngeal nerve",
+      "Hypoglossal nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswer": "Vagus nerve"
+  },
+  {
+    "id": 410,
+    "questionText": "What is Cranial Nerve XI?",
+    "options": [
+      "Accessory nerve",
+      "Hypoglossal nerve",
+      "Vagus nerve",
+      "Facial nerve"
+    ],
+    "correctAnswer": "Accessory nerve"
+  },
+  {
+    "id": 411,
+    "questionText": "What is Cranial Nerve XII?",
+    "options": [
+      "Hypoglossal nerve",
+      "Accessory nerve",
+      "Vagus nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctAnswer": "Hypoglossal nerve"
+  },
+  {
+    "id": 412,
+    "questionText": "What is the primary function of Cranial Nerve I?",
+    "options": [
+      "Smell (olfaction)",
+      "Vision",
+      "Hearing",
+      "Balance"
+    ],
+    "correctAnswer": "Smell (olfaction)"
+  },
+  {
+    "id": 413,
+    "questionText": "What is the primary function of Cranial Nerve II?",
+    "options": [
+      "Vision",
+      "Smell",
+      "Eye movement",
+      "Facial sensation"
+    ],
+    "correctAnswer": "Vision"
+  },
+  {
+    "id": 414,
+    "questionText": "What is the primary function of Cranial Nerve III?",
+    "options": [
+      "Eye movement, pupil constriction, eyelid elevation",
+      "Facial sensation",
+      "Hearing and balance",
+      "Tongue movement"
+    ],
+    "correctAnswer": "Eye movement, pupil constriction, eyelid elevation"
+  },
+  {
+    "id": 415,
+    "questionText": "What is the primary function of Cranial Nerve IV?",
+    "options": [
+      "Eye movement (downward and inward)",
+      "Lateral eye movement",
+      "Facial expression",
+      "Swallowing"
+    ],
+    "correctAnswer": "Eye movement (downward and inward)"
+  },
+  {
+    "id": 416,
+    "questionText": "What is the primary function of Cranial Nerve V?",
+    "options": [
+      "Facial sensation and chewing",
+      "Vision",
+      "Hearing",
+      "Tongue movement"
+    ],
+    "correctAnswer": "Facial sensation and chewing"
+  },
+  {
+    "id": 417,
+    "questionText": "What is the primary function of Cranial Nerve VI?",
+    "options": [
+      "Lateral eye movement",
+      "Downward eye movement",
+      "Facial expression",
+      "Swallowing"
+    ],
+    "correctAnswer": "Lateral eye movement"
+  },
+  {
+    "id": 418,
+    "questionText": "What is the primary function of Cranial Nerve VII?",
+    "options": [
+      "Facial expression and taste (anterior tongue)",
+      "Facial sensation",
+      "Hearing",
+      "Tongue movement"
+    ],
+    "correctAnswer": "Facial expression and taste (anterior tongue)"
+  },
+  {
+    "id": 419,
+    "questionText": "What is the primary function of Cranial Nerve VIII?",
+    "options": [
+      "Hearing and balance",
+      "Vision",
+      "Smell",
+      "Swallowing"
+    ],
+    "correctAnswer": "Hearing and balance"
+  },
+  {
+    "id": 420,
+    "questionText": "What is the primary function of Cranial Nerve IX?",
+    "options": [
+      "Swallowing, gag reflex, taste (posterior tongue)",
+      "Facial expression",
+      "Vision",
+      "Lateral eye movement"
+    ],
+    "correctAnswer": "Swallowing, gag reflex, taste (posterior tongue)"
+  },
+  {
+    "id": 421,
+    "questionText": "What is the primary function of Cranial Nerve X?",
+    "options": [
+      "Parasympathetic control of heart, lungs, and digestion",
+      "Facial sensation",
+      "Hearing",
+      "Eye movement"
+    ],
+    "correctAnswer": "Parasympathetic control of heart, lungs, and digestion"
+  },
+  {
+    "id": 422,
+    "questionText": "What is the primary function of Cranial Nerve XI?",
+    "options": [
+      "Shoulder and head movement",
+      "Tongue movement",
+      "Vision",
+      "Balance"
+    ],
+    "correctAnswer": "Shoulder and head movement"
+  },
+  {
+    "id": 423,
+    "questionText": "What is the primary function of Cranial Nerve XII?",
+    "options": [
+      "Tongue movement",
+      "Swallowing",
+      "Facial expression",
+      "Hearing"
+    ],
+    "correctAnswer": "Tongue movement"
+  },
+  {
+    "id": 500,
+    "questionText": "Which set of findings is most consistent with breast cancer?",
+    "questionImage": null,
+    "options": [
+      "Painful, bilateral, mobile lump that changes with menstrual cycle",
+      "Painless, unilateral, fixed, irregular mass that does not change with cycle",
+      "Soft, round, bilateral lumps that come and go",
+      "Tender, movable mass that decreases after menstruation"
+    ],
+    "correctAnswer": "Painless, unilateral, fixed, irregular mass that does not change with cycle",
+    "explanationText": "Breast cancer typically presents as a painless, unilateral, fixed, irregularly shaped mass that does not change with the menstrual cycle.",
+    "explanationImage": null
+  },
+  {
+    "id": 501,
+    "questionText": "Which findings are most consistent with a benign breast condition (not typically cancer)?",
+    "questionImage": null,
+    "options": [
+      "Fixed, hard, irregular, painless lump",
+      "Round, mobile, painful lumps that vary with menstrual cycle",
+      "Unilateral non-movable mass with nipple retraction",
+      "Hard mass with skin dimpling"
+    ],
+    "correctAnswer": "Round, mobile, painful lumps that vary with menstrual cycle",
+    "explanationText": "Benign breast conditions (such as fibrocystic changes) are often bilateral, mobile, tender, and fluctuate with the menstrual cycle.",
+    "explanationImage": null
+  },
+  {
+    "id": 502,
+    "questionText": "What is the correct positioning for a female breast examination?",
+    "questionImage": null,
+    "options": [
+      "Seated with arms at sides",
+      "Standing leaning forward only",
+      "Supine with arms raised above the head",
+      "Prone position with arms behind back"
+    ],
+    "correctAnswer": "Supine with arms raised above the head",
+    "explanationText": "Female breast exams are typically performed in the supine position with arms raised to spread breast tissue evenly.",
+    "explanationImage": null
+  },
+  {
+    "id": 503,
+    "questionText": "Where are vesicular breath sounds normally heard and how do they sound?",
+    "questionImage": null,
+    "options": [
+      "Over trachea; loud and harsh with I = E",
+      "Peripheral lung fields; soft and low-pitched with I > E",
+      "Over bronchi; hollow and blowing with E > I",
+      "Over heart; rhythmic and musical"
+    ],
+    "correctAnswer": "Peripheral lung fields; soft and low-pitched with I > E",
+    "explanationText": "Vesicular breath sounds are heard over the peripheral lung fields and are soft, low-pitched, with inspiration longer than expiration.",
+    "explanationImage": null
+  },
+  {
+    "id": 504,
+    "questionText": "Which of the following is an example of secondary prevention?",
+    "questionImage": null,
+    "options": [
+      "Exercise and healthy diet education",
+      "Smoking cessation counseling",
+      "Mammograms, Pap smears, and skin cancer screenings",
+      "Rehabilitation after stroke"
+    ],
+    "correctAnswer": "Mammograms, Pap smears, and skin cancer screenings",
+    "explanationText": "Secondary prevention focuses on early detection and screening, such as mammograms, Pap smears, and skin checks.",
+    "explanationImage": null
+  },
+  {
+    "id": 505,
+    "questionText": "Which of the following is an example of primary prevention?",
+    "questionImage": null,
+    "options": [
+      "Pap smear screening",
+      "Mammogram screening",
+      "Vaccination and health education",
+      "Cancer treatment after diagnosis"
+    ],
+    "correctAnswer": "Vaccination and health education",
+    "explanationText": "Primary prevention aims to prevent disease before it occurs, including immunizations and health education.",
+    "explanationImage": null
+  },
+  {
+    "id": 506,
+    "questionText": "Which statement best describes standard precautions?",
+    "questionImage": null,
+    "options": [
+      "Only used for patients with known infections",
+      "Used only in surgical settings",
+      "Applied to all patients; includes gloves when exposure to bodily fluids or mucous membranes is possible",
+      "Used only when handling blood"
+    ],
+    "correctAnswer": "Applied to all patients; includes gloves when exposure to bodily fluids or mucous membranes is possible",
+    "explanationText": "Standard precautions are used for all patients and include hand hygiene and PPE such as gloves when exposure risk exists.",
+    "explanationImage": null
+  },
+  {
+    "id": 507,
+    "questionText": "What is the purpose of Phalen's test?",
+    "questionImage": null,
+    "options": [
+      "To assess knee stability",
+      "To diagnose carpal tunnel syndrome",
+      "To evaluate hearing loss",
+      "To assess abdominal tenderness"
+    ],
+    "correctAnswer": "To diagnose carpal tunnel syndrome",
+    "explanationText": "Phalen's test involves wrist flexion to reproduce symptoms of carpal tunnel syndrome due to median nerve compression.",
+    "explanationImage": null
+  },
+  {
+    "id": 508,
+    "questionText": "Which condition is characterized by swan-neck and boutonniere deformities with symptoms lasting longer than 30 minutes of morning stiffness?",
+    "questionImage": null,
+    "options": [
+      "Osteoarthritis",
+      "Gout",
+      "Rheumatoid arthritis",
+      "Carpal tunnel syndrome"
+    ],
+    "correctAnswer": "Rheumatoid arthritis",
+    "explanationText": "Rheumatoid arthritis is an autoimmune disease causing joint deformities and prolonged morning stiffness often exceeding 30 minutes.",
+    "explanationImage": null
+  },
+  {
+    "id": 56,
+    "questionText": "Which movement describes dorsiflexion of the foot?",
+    "questionImage": null,
+    "options": [
+      "Pointing the toes downward",
+      "Lifting the foot upward",
+      "Rotating the foot outward",
+      "Turning the sole of the foot inward"
+    ],
+    "correctAnswer": "Lifting the foot upward",
+    "explanationText": "Dorsiflexion is the movement of lifting the top of the foot toward the shin, decreasing the angle between the foot and leg.",
+    "explanationImage": null
+  },
+  {
+    "id": 57,
+    "questionText": "Which movement describes plantar flexion of the foot?",
+    "questionImage": null,
+    "options": [
+      "Lifting the foot upward",
+      "Pointing the toes downward",
+      "Rotating the foot inward",
+      "Flexing the knee joint"
+    ],
+    "correctAnswer": "Pointing the toes downward",
+    "explanationText": "Plantar flexion is the movement of pointing the toes downward, as if pressing a gas pedal.",
+    "explanationImage": null
+  },
+  {
+    "id": 605,
+    "questionText": "What does a muscle strength grade of 0/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "Normal strength against resistance",
+      "Movement against gravity only",
+      "No muscle contraction",
+      "Movement with gravity eliminated"
+    ],
+    "correctAnswer": "No muscle contraction",
+    "explanationText": "0/5 means there is no visible or palpable muscle contraction.",
+    "explanationImage": null
+  },
+  {
+    "id": 606,
+    "questionText": "What does a muscle strength grade of 1/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "Trace contraction without movement",
+      "Full range of motion against gravity",
+      "Normal strength",
+      "Movement against resistance"
+    ],
+    "correctAnswer": "Trace contraction without movement",
+    "explanationText": "1/5 means there is a flicker or trace of contraction but no actual movement.",
+    "explanationImage": null
+  },
+  {
+    "id": 607,
+    "questionText": "What does a muscle strength grade of 2/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "Movement with gravity eliminated",
+      "Normal strength",
+      "No contraction",
+      "Movement against resistance"
+    ],
+    "correctAnswer": "Movement with gravity eliminated",
+    "explanationText": "2/5 means the patient can move the limb only when gravity is eliminated.",
+    "explanationImage": null
+  },
+  {
+    "id": 608,
+    "questionText": "What does a muscle strength grade of 3/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "Movement against gravity but no resistance",
+      "No movement",
+      "Normal strength against resistance",
+      "Trace contraction only"
+    ],
+    "correctAnswer": "Movement against gravity but no resistance",
+    "explanationText": "3/5 means the patient can move the limb against gravity but cannot tolerate resistance.",
+    "explanationImage": null
+  },
+  {
+    "id": 609,
+    "questionText": "What does a muscle strength grade of 4/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "Normal strength against full resistance",
+      "Movement against gravity only",
+      "Weak movement against some resistance",
+      "No contraction"
+    ],
+    "correctAnswer": "Weak movement against some resistance",
+    "explanationText": "4/5 indicates the patient has movement against resistance but is weaker than normal.",
+    "explanationImage": null
+  },
+  {
+    "id": 610,
+    "questionText": "What does a muscle strength grade of 5/5 indicate?",
+    "questionImage": null,
+    "options": [
+      "Normal strength against full resistance",
+      "Movement with gravity eliminated",
+      "Trace contraction only",
+      "No movement"
+    ],
+    "correctAnswer": "Normal strength against full resistance",
+    "explanationText": "5/5 is normal muscle strength with full resistance against examiner force.",
+    "explanationImage": null
+  },
+  {
+    "id": 59,
+    "questionText": "Which description best defines barrel chest?",
+    "questionImage": null,
+    "options": [
+      "Normal chest with 2:1 anterior-posterior to transverse diameter ratio",
+      "Equal 1:1 anterior-posterior to transverse diameter ratio, commonly seen in COPD",
+      "Sunken sternum due to pectus excavatum",
+      "Asymmetrical chest expansion due to trauma"
+    ],
+    "correctAnswer": "Equal 1:1 anterior-posterior to transverse diameter ratio, commonly seen in COPD",
+    "explanationText": "Barrel chest is characterized by an increased anterior-posterior diameter (1:1 ratio), often seen in COPD along with pursed-lip breathing, tripod positioning, and sometimes clubbing.",
+    "explanationImage": null
+  },
+  {
+    "id": 60,
+    "questionText": "What is clubbing of the nails most commonly associated with?",
+    "questionImage": null,
+    "options": [
+      "Acute dehydration",
+      "Chronic hypoxemia",
+      "Vitamin deficiency",
+      "Acute infection"
+    ],
+    "correctAnswer": "Chronic hypoxemia",
+    "explanationText": "Clubbing is associated with chronic hypoxemia and is identified by an increased nail bed angle greater than 160 degrees.",
+    "explanationImage": null
+  },
+  {
+    "id": 61,
+    "questionText": "Which description best defines wheezes?",
+    "questionImage": null,
+    "options": [
+      "Low-pitched snoring sounds caused by secretions",
+      "High-pitched musical sounds caused by narrowed airways",
+      "Crunching sounds from pleural friction",
+      "Absent breath sounds in lung collapse"
+    ],
+    "correctAnswer": "High-pitched musical sounds caused by narrowed airways",
+    "explanationText": "Wheezes are high-pitched, musical breath sounds caused by narrowed or obstructed airways and may occur during inspiration, expiration, or both.",
+    "explanationImage": null
+  },
+  {
+    "id": 62,
+    "questionText": "Cranial Nerve VII (Facial nerve) damage is most commonly associated with which condition?",
+    "questionImage": null,
+    "options": [
+      "Stroke affecting the brainstem only",
+      "Bell’s palsy affecting upper and lower facial muscles",
+      "Parkinson’s disease",
+      "Multiple sclerosis only"
+    ],
+    "correctAnswer": "Bell’s palsy affecting upper and lower facial muscles",
+    "explanationText": "Bell’s palsy is a lower motor neuron lesion of CN VII causing unilateral facial weakness affecting both upper and lower face.",
+    "explanationImage": null
+  },
+  {
+    "id": 63,
+    "questionText": "What is a key clinical difference between stroke and Bell’s palsy?",
+    "questionImage": null,
+    "options": [
+      "Stroke only affects the lower face",
+      "Bell’s palsy affects both upper and lower face, stroke usually spares the forehead",
+      "Bell’s palsy causes weakness in both arms and legs",
+      "Stroke causes isolated facial drooping only"
+    ],
+    "correctAnswer": "Bell’s palsy affects both upper and lower face, stroke usually spares the forehead",
+    "explanationText": "In stroke (upper motor neuron lesion), the forehead is often spared. In Bell’s palsy (lower motor neuron lesion), both upper and lower facial muscles are affected.",
+    "explanationImage": null
+  },
+  {
+    "id": 64,
+    "questionText": "What is erythema?",
+    "questionImage": null,
+    "options": [
+      "Blue discoloration of the skin",
+      "Reddened area of the skin due to increased blood flow",
+      "Yellow discoloration of the skin",
+      "Loss of skin pigmentation"
+    ],
+    "correctAnswer": "Reddened area of the skin due to increased blood flow",
+    "explanationText": "Erythema refers to redness of the skin caused by capillary dilation and increased blood flow.",
+    "explanationImage": null
+  },
+  {
+    "id": 65,
+    "questionText": "What is urticaria?",
+    "questionImage": null,
+    "options": [
+      "Bruising under the skin",
+      "Hives characterized by raised, itchy welts",
+      "Dry scaly patches",
+      "Skin infection with pus"
+    ],
+    "correctAnswer": "Hives characterized by raised, itchy welts",
+    "explanationText": "Urticaria (hives) are raised, itchy, red welts on the skin often due to allergic reactions.",
+    "explanationImage": null
+  },
+  {
+    "id": 66,
+    "questionText": "What is hirsutism?",
+    "questionImage": null,
+    "options": [
+      "Hair loss on the scalp",
+      "Excessive hair growth in androgen-dependent areas in females",
+      "Skin redness due to infection",
+      "Loss of body hair due to aging"
+    ],
+    "correctAnswer": "Excessive hair growth in androgen-dependent areas in females",
+    "explanationText": "Hirsutism refers to excessive male-pattern hair growth in females, often due to hormonal imbalance.",
+    "explanationImage": null
+  },
+  {
+    "id": 67,
+    "questionText": "What characterizes a Stage 1 pressure injury?",
+    "questionImage": null,
+    "options": [
+      "Open wound with exposed bone",
+      "Partial thickness skin loss with blister",
+      "Intact skin with non-blanchable redness",
+      "Full thickness tissue loss"
+    ],
+    "correctAnswer": "Intact skin with non-blanchable redness",
+    "explanationText": "Stage 1 pressure injuries involve intact skin with non-blanchable erythema over a bony prominence.",
+    "explanationImage": null
+  },
+  {
+    "id": 68,
+    "questionText": "What causes an S4 heart sound?",
+    "questionImage": null,
+    "options": [
+      "Rapid ventricular filling",
+      "Non-compliant or stiff ventricle",
+      "Valve regurgitation",
+      "Normal finding in all adults"
+    ],
+    "correctAnswer": "Non-compliant or stiff ventricle",
+    "explanationText": "S4 occurs when atrial contraction forces blood into a stiff, non-compliant ventricle.",
+    "explanationImage": null
+  },
+  {
+    "id": 69,
+    "questionText": "What is the most common cause of an S3 heart sound?",
+    "questionImage": null,
+    "options": [
+      "Valve stenosis",
+      "Fluid overload or heart failure",
+      "Hypertension only",
+      "Normal aging process only"
+    ],
+    "correctAnswer": "Fluid overload or heart failure",
+    "explanationText": "S3 is associated with rapid ventricular filling and is commonly seen in fluid overload or congestive heart failure.",
+    "explanationImage": null
+  },
+  {
+    "id": 70,
+    "questionText": "Which findings are most consistent with venous insufficiency?",
+    "questionImage": null,
+    "options": [
+      "Cool, pale skin with absent pulses",
+      "Warm skin, edema, varicose veins, brown discoloration, and intact pulses",
+      "Severe pain with elevation and no edema",
+      "Hairless, shiny skin with delayed capillary refill"
+    ],
+    "correctAnswer": "Warm skin, edema, varicose veins, brown discoloration, and intact pulses",
+    "explanationText": "Venous insufficiency presents with edema, varicose veins, warm skin, brown discoloration from hemosiderin, and intact pulses.",
+    "explanationImage": null
+  },
+  {
+    "id": 71,
+    "questionText": "Which finding is most consistent with arterial insufficiency?",
+    "questionImage": null,
+    "options": [
+      "Warm skin with edema and varicose veins",
+      "Cool, pale skin with pain when legs are elevated and diminished pulses",
+      "Brown discoloration with intact pulses",
+      "Soft, warm skin with brisk capillary refill"
+    ],
+    "correctAnswer": "Cool, pale skin with pain when legs are elevated and diminished pulses",
+    "explanationText": "Arterial insufficiency includes pain with elevation, cool skin, diminished pulses, and decreased perfusion.",
+    "explanationImage": null
+  },
+  {
+    "id": 72,
+    "questionText": "What causes the S1 heart sound?",
+    "questionImage": null,
+    "options": [
+      "Closure of aortic and pulmonic valves",
+      "Closure of mitral and tricuspid valves",
+      "Opening of semilunar valves",
+      "Rapid ventricular filling"
+    ],
+    "correctAnswer": "Closure of mitral and tricuspid valves",
+    "explanationText": "S1 is caused by closure of the mitral and tricuspid valves at the beginning of systole.",
+    "explanationImage": null
+  },
+  {
+    "id": 73,
+    "questionText": "Which option correctly describes the edema scale?",
+    "questionImage": null,
+    "options": [
+      "0+ is severe swelling with no rebound",
+      "1+ slight pitting, 2+ moderate, 3+ deep, 4+ very deep with >30 sec rebound",
+      "Only measured in upper extremities",
+      "Not clinically used anymore"
+    ],
+    "correctAnswer": "1+ slight pitting, 2+ moderate, 3+ deep, 4+ very deep with >30 sec rebound",
+    "explanationText": "Edema is graded from 1+ to 4+ based on depth of pit and rebound time.",
+    "explanationImage": null
+  },
+  {
+    "id": 74,
+    "questionText": "What does normal pupillary accommodation indicate?",
+    "questionImage": null,
+    "options": [
+      "Pupils remain fixed during focus change",
+      "Pupils constrict when focusing on near objects and dilate when focusing far",
+      "Pupils only respond to light, not focus",
+      "Unequal pupil size at rest is normal"
+    ],
+    "correctAnswer": "Pupils constrict when focusing on near objects and dilate when focusing far",
+    "explanationText": "Normal accommodation includes pupil constriction for near focus and dilation for distant focus.",
+    "explanationImage": null
+  },
+  {
+    "id": 75,
+    "questionText": "Which breath sound is described as a high-pitched, crowing sound caused by upper airway obstruction?",
+    "questionImage": null,
+    "options": [
+      "Wheezes",
+      "Crackles",
+      "Rhonchi",
+      "Stridor"
+    ],
+    "correctAnswer": "Stridor",
+    "explanationText": "Stridor is a high-pitched, crowing sound caused by partial obstruction of the larynx or trachea and is a medical emergency.",
+    "explanationImage": null
+  },
+  {
+    "id": 76,
+    "questionText": "How is chronic pain typically defined?",
+    "questionImage": null,
+    "options": [
+      "Pain lasting less than 1 week",
+      "Pain lasting less than 1 month",
+      "Pain lasting more than 6 months",
+      "Pain that only occurs at night"
+    ],
+    "correctAnswer": "Pain lasting more than 6 months",
+    "explanationText": "Chronic pain is generally defined as pain lasting longer than 3–6 months, often beyond normal tissue healing time.",
+    "explanationImage": null
+  },
+  {
+    "id": 77,
+    "questionText": "How is acute pain typically defined?",
+    "questionImage": null,
+    "options": [
+      "Pain lasting more than 6 months",
+      "Pain lasting less than 6 months",
+      "Pain that is always severe",
+      "Pain that occurs only during movement"
+    ],
+    "correctAnswer": "Pain lasting less than 6 months",
+    "explanationText": "Acute pain is short-term pain, usually lasting less than 3–6 months and associated with injury or illness.",
+    "explanationImage": null
+  },
+  {
+    "id": 78,
+    "questionText": "Which population is most commonly affected by testicular cancer?",
+    "questionImage": null,
+    "options": [
+      "Older males over age 65",
+      "Young adult males, especially white males",
+      "Adolescent females",
+      "Middle-aged females"
+    ],
+    "correctAnswer": "Young adult males, especially white males",
+    "explanationText": "Testicular cancer most commonly affects young adult males, particularly white males between ages 15–35.",
+    "explanationImage": null
+  },
+  {
+    "id": 79,
+    "questionText": "Which population has a higher risk of prostate cancer?",
+    "questionImage": null,
+    "options": [
+      "Young adult males",
+      "Older Black males",
+      "Adolescent males",
+      "Middle-aged females"
+    ],
+    "correctAnswer": "Older Black males",
+    "explanationText": "Prostate cancer is more common in older men, with higher incidence and mortality in Black males.",
+    "explanationImage": null
+  },
+  {
+    "id": 80,
+    "questionText": "What is the Wong-Baker Faces Scale used for?",
+    "questionImage": null,
+    "options": [
+      "Measuring blood pressure",
+      "Assessing pain intensity using facial expressions",
+      "Evaluating level of consciousness",
+      "Testing vision acuity"
+    ],
+    "correctAnswer": "Assessing pain intensity using facial expressions",
+    "explanationText": "The Wong-Baker Faces Scale helps patients, especially children, rate pain based on facial expressions.",
+    "explanationImage": null
+  },
+  {
+    "id": 81,
+    "questionText": "Which set of symptoms is most characteristic of Parkinson’s disease?",
+    "questionImage": null,
+    "options": [
+      "Severe headache and vision loss",
+      "Hand tremors, shuffling gait, and slurred speech",
+      "Chest pain and shortness of breath",
+      "Muscle spasms and seizures"
+    ],
+    "correctAnswer": "Hand tremors, shuffling gait, and slurred speech",
+    "explanationText": "Parkinson’s disease commonly presents with resting tremors, shuffling gait, bradykinesia, and speech changes.",
+    "explanationImage": null
+  },
+  {
+    "id": 82,
+    "questionText": "Where is the aortic valve best auscultated?",
+    "questionImage": null,
+    "options": [
+      "Left 5th intercostal space at midclavicular line",
+      "Right 2nd intercostal space at the sternal border",
+      "Left 2nd intercostal space at the sternal border",
+      "Left lower sternal border"
+    ],
+    "correctAnswer": "Right 2nd intercostal space at the sternal border",
+    "explanationText": "The aortic valve is best heard at the right 2nd intercostal space along the sternal border.",
+    "explanationImage": null
+  },
+  {
+    "id": 83,
+    "questionText": "What is the normal range of the Glasgow Coma Scale (GCS)?",
+    "questionImage": null,
+    "options": [
+      "0 to 10",
+      "3 to 15",
+      "5 to 20",
+      "1 to 12"
+    ],
+    "correctAnswer": "3 to 15",
+    "explanationText": "The Glasgow Coma Scale ranges from 3 (deep coma) to 15 (fully alert).",
+    "explanationImage": null
+  },
+  {
+    "id": 84,
+    "questionText": "Which of the following are common signs of COPD?",
+    "questionImage": null,
+    "options": [
+      "Bradycardia and hypertension",
+      "Clubbing, barrel chest, pursed-lip breathing, and shortness of breath",
+      "Sudden weight loss and rash",
+      "Hyperactive bowel sounds and abdominal pain"
+    ],
+    "correctAnswer": "Clubbing, barrel chest, pursed-lip breathing, and shortness of breath",
+    "explanationText": "COPD commonly presents with barrel chest (1:1 AP ratio), pursed-lip breathing, clubbing, dyspnea, and coarse breath sounds.",
+    "explanationImage": null
+  },
+  {
+    "id": 85,
+    "questionText": "Which organ produces bile?",
+    "questionImage": null,
+    "options": [
+      "Liver",
+      "Gallbladder",
+      "Small intestine",
+      "Pancreas"
+    ],
+    "correctAnswer": "Liver",
+    "explanationText": "The liver produces bile, which is then stored and concentrated in the gallbladder before being released into the small intestine.",
+    "explanationImage": null
+  },
+  {
+    "id": 86,
+    "questionText": "What is jaundice?",
+    "questionImage": null,
+    "options": [
+      "Blue discoloration of the skin",
+      "Yellowing of the skin and sclera due to elevated bilirubin",
+      "Red rash caused by infection",
+      "Loss of skin pigmentation"
+    ],
+    "correctAnswer": "Yellowing of the skin and sclera due to elevated bilirubin",
+    "explanationText": "Jaundice is caused by increased bilirubin levels, leading to yellow discoloration of the skin and eyes.",
+    "explanationImage": null
+  },
+  {
+    "id": 87,
+    "questionText": "A pink area over the coccyx that does not blanch when pressed indicates what?",
+    "questionImage": null,
+    "options": [
+      "Normal finding",
+      "Stage 1 pressure injury",
+      "Bruising only",
+      "Allergic reaction"
+    ],
+    "correctAnswer": "Stage 1 pressure injury",
+    "explanationText": "Non-blanchable redness over a bony prominence is a hallmark of a Stage 1 pressure injury.",
+    "explanationImage": null
+  },
+  {
+    "id": 88,
+    "questionText": "What is the purpose of Phalen's test?",
+    "questionImage": null,
+    "options": [
+      "Assess knee stability",
+      "Screen for carpal tunnel syndrome",
+      "Evaluate shoulder mobility",
+      "Test reflexes"
+    ],
+    "correctAnswer": "Screen for carpal tunnel syndrome",
+    "explanationText": "Phalen's test involves wrist flexion to reproduce symptoms of median nerve compression seen in carpal tunnel syndrome.",
+    "explanationImage": null
+  },
+  {
+    "id": 89,
+    "questionText": "What is the correct order of abdominal assessment?",
+    "questionImage": null,
+    "options": [
+      "Inspect, auscultate, percuss, palpate",
+      "Inspect, palpate, auscultate, percuss",
+      "Auscultate, inspect, palpate, percuss",
+      "Palpate, percuss, auscultate, inspect"
+    ],
+    "correctAnswer": "Inspect, auscultate, percuss, palpate",
+    "explanationText": "Abdominal assessment follows the order: inspect, auscultate, percuss, then palpate to avoid altering bowel sounds.",
+    "explanationImage": null
+  },
+  {
+    "id": 90,
+    "questionText": "Clubbing and cyanosis are most commonly associated with which condition?",
+    "questionImage": null,
+    "options": [
+      "Chronic hypoxemia",
+      "Dehydration",
+      "Acute infection",
+      "Vitamin deficiency"
+    ],
+    "correctAnswer": "Chronic hypoxemia",
+    "explanationText": "Both clubbing and cyanosis are signs of long-term low oxygen levels in the blood (chronic hypoxemia).",
+    "explanationImage": null
+  },
+  {
+    "id": 91,
+    "questionText": "Which description best defines vertigo?",
+    "questionImage": null,
+    "options": [
+      "Feeling faint or lightheaded",
+      "The sensation that the room is spinning",
+      "Loss of balance without movement",
+      "Sudden loss of vision"
+    ],
+    "correctAnswer": "The sensation that the room is spinning",
+    "explanationText": "Vertigo is a spinning sensation, often related to inner ear or vestibular dysfunction.",
+    "explanationImage": null
+  },
+  {
+    "id": 92,
+    "questionText": "Which description best defines dizziness?",
+    "questionImage": null,
+    "options": [
+      "The room feels like it is spinning",
+      "Lightheadedness or feeling faint",
+      "Severe headache with vision loss",
+      "Involuntary muscle movement"
+    ],
+    "correctAnswer": "Lightheadedness or feeling faint",
+    "explanationText": "Dizziness typically refers to feeling lightheaded or faint, not the spinning sensation seen in vertigo.",
+    "explanationImage": null
+  },
+  {
+    "id": 93,
+    "questionText": "Which movements are included in normal elbow range of motion?",
+    "questionImage": null,
+    "options": [
+      "Flexion, extension, pronation, and supination",
+      "Abduction, adduction, and rotation",
+      "Dorsiflexion and plantarflexion",
+      "Circumduction only"
+    ],
+    "correctAnswer": "Flexion, extension, pronation, and supination",
+    "explanationText": "The elbow allows flexion and extension, while the forearm allows pronation and supination.",
+    "explanationImage": null
+  },
+  {
+    "id": 94,
+    "questionText": "A client presents with black, tarry stool (melena). What does this most likely indicate?",
+    "questionImage": null,
+    "options": [
+      "Normal stool variation",
+      "Lower GI infection",
+      "Upper gastrointestinal bleeding",
+      "Dehydration"
+    ],
+    "correctAnswer": "Upper gastrointestinal bleeding",
+    "explanationText": "Black, tarry stool (melena) is typically caused by bleeding in the upper GI tract, where blood is digested.",
+    "explanationImage": null
+  },
+  {
+    "id": 95,
+    "questionText": "What is the term for the normal black, tarry stool passed by newborns?",
+    "questionImage": null,
+    "options": [
+      "Melena",
+      "Steatorrhea",
+      "Meconium",
+      "Hematochezia"
+    ],
+    "correctAnswer": "Meconium",
+    "explanationText": "Meconium is the normal first stool of a newborn, which is black and tarry in appearance.",
+    "explanationImage": null
+  },
+  {
+    "id": 96,
+    "questionText": "A patient with constipation for 7 days reports diffuse abdominal discomfort. What type of pain is this?",
+    "questionImage": null,
+    "options": [
+      "Somatic pain",
+      "Visceral pain",
+      "Neuropathic pain",
+      "Referred pain"
+    ],
+    "correctAnswer": "Visceral pain",
+    "explanationText": "Visceral pain originates from internal organs and is often diffuse, crampy, and poorly localized, as seen with constipation.",
+    "explanationImage": null
+  },
+  {
+    "id": 97,
+    "questionText": "What is the term for a high-pitched sound indicating upper airway obstruction?",
+    "questionImage": null,
+    "options": [
+      "Wheezing",
+      "Crackles",
+      "Rhonchi",
+      "Stridor"
+    ],
+    "correctAnswer": "Stridor",
+    "explanationText": "Stridor is a high-pitched sound caused by upper airway obstruction and requires urgent evaluation.",
+    "explanationImage": null
+  },
+  {
+    "id": 98,
+    "questionText": "What type of pain is associated with a fractured femur?",
+    "questionImage": null,
+    "options": [
+      "Visceral pain",
+      "Somatic pain",
+      "Referred pain",
+      "Phantom pain"
+    ],
+    "correctAnswer": "Somatic pain",
+    "explanationText": "Somatic pain originates from skin, muscles, bones, and connective tissue, such as in fractures.",
+    "explanationImage": null
+  },
+  {
+    "id": 99,
+    "questionText": "Which of the following are common symptoms of heart failure?",
+    "questionImage": null,
+    "options": [
+      "Shortness of breath, fatigue, edema",
+      "Fever and rash",
+      "Severe headache and vision loss",
+      "Abdominal pain and diarrhea"
+    ],
+    "correctAnswer": "Shortness of breath, fatigue, edema",
+    "explanationText": "Heart failure commonly presents with dyspnea (SOB), fatigue, and fluid retention such as edema.",
+    "explanationImage": null
+  },
+  {
+    "id": 100,
+    "questionText": "Which findings are most consistent with left-sided heart failure?",
+    "questionImage": null,
+    "options": [
+      "Peripheral edema and ascites",
+      "Shortness of breath, cough, and pulmonary congestion",
+      "Jugular vein distention and liver enlargement",
+      "Weight gain without respiratory symptoms"
+    ],
+    "correctAnswer": "Shortness of breath, cough, and pulmonary congestion",
+    "explanationText": "Left-sided heart failure causes fluid to back up into the lungs, leading to dyspnea, cough, and pulmonary edema.",
+    "explanationImage": null
+  },
+  {
+    "id": 101,
+    "questionText": "Which findings are most consistent with right-sided heart failure?",
+    "questionImage": null,
+    "options": [
+      "Pulmonary edema and crackles",
+      "Shortness of breath only",
+      "Peripheral edema, jugular vein distention, and ascites",
+      "Dry cough and fatigue only"
+    ],
+    "correctAnswer": "Peripheral edema, jugular vein distention, and ascites",
+    "explanationText": "Right-sided heart failure causes blood to back up into the systemic circulation, leading to edema, JVD, and fluid retention.",
+    "explanationImage": null
+  },
+  {
+    "id": 137,
+    "questionText": "Sudden, temporary unilateral facial weakness caused by inflammation of cranial nerve VII is called:",
+    "questionImage": null,
+    "options": [
+      "Stroke",
+      "Bell’s palsy",
+      "Multiple sclerosis",
+      "Parkinson’s disease"
+    ],
+    "correctAnswer": "Bell’s palsy",
+    "explanationText": "Bell’s palsy is a lower motor neuron lesion of the facial nerve (CN VII), causing weakness of both the upper and lower face.",
+    "explanationImage": null
+  },
+  {
+    "id": 138,
+    "questionText": "What are the pack-years for a client who smoked 0.5 packs per day for 20 years?",
+    "questionImage": null,
+    "options": [
+      "5 pack-years",
+      "10 pack-years",
+      "20 pack-years",
+      "40 pack-years"
+    ],
+    "correctAnswer": "10 pack-years",
+    "explanationText": "Pack-years are calculated as packs per day × number of years. 0.5 × 20 = 10 pack-years.",
+    "explanationImage": null
+  },
+  {
+    "id": 139,
+    "questionText": "The nurse does not hear vascular sounds (bruits) over the abdomen. Is this normal?",
+    "questionImage": null,
+    "options": [
+      "Normal",
+      "Abnormal"
+    ],
+    "correctAnswer": "Normal",
+    "explanationText": "Absence of vascular sounds (bruits) in the abdomen is normal. Presence of bruits may indicate vascular abnormalities.",
+    "explanationImage": null
+  },
+  {
+    "id": 140,
+    "questionText": "Clubbing of the fingers is most commonly caused by:",
+    "questionImage": null,
+    "options": [
+      "Acute infection",
+      "Chronic hypoxemia",
+      "Dehydration",
+      "Vitamin deficiency"
+    ],
+    "correctAnswer": "Chronic hypoxemia",
+    "explanationText": "Clubbing is associated with long-term low oxygen levels, often seen in chronic lung or heart disease.",
+    "explanationImage": null
+  },
+  {
+    "id": 141,
+    "questionText": "What is the expected normal heart rate range for a newborn?",
+    "questionImage": null,
+    "options": [
+      "60–100 bpm",
+      "80–120 bpm",
+      "110–160 bpm",
+      "140–200 bpm"
+    ],
+    "correctAnswer": "110–160 bpm",
+    "explanationText": "Normal newborn heart rate ranges from 110 to 160 beats per minute.",
+    "explanationImage": null
+  },
+  {
+    "id": 142,
+    "questionText": "What is the expected normal respiratory rate range for a newborn?",
+    "questionImage": null,
+    "options": [
+      "10–20 breaths per minute",
+      "20–30 breaths per minute",
+      "30–60 breaths per minute",
+      "60–80 breaths per minute"
+    ],
+    "correctAnswer": "30–60 breaths per minute",
+    "explanationText": "Normal newborn respiratory rate is 30 to 60 breaths per minute.",
+    "explanationImage": null
+  },
+  {
+    "id": 143,
+    "questionText": "Which type of urinary incontinence is characterized by involuntary leakage when coughing, sneezing, or laughing?",
+    "questionImage": null,
+    "options": [
+      "Overflow incontinence",
+      "Urge incontinence",
+      "Stress incontinence",
+      "Functional incontinence"
+    ],
+    "correctAnswer": "Stress incontinence",
+    "explanationText": "Stress incontinence occurs when increased intra-abdominal pressure (e.g., coughing, sneezing) causes leakage.",
+    "explanationImage": null
+  },
+  {
+    "id": 144,
+    "questionText": "What term describes the force or intensity of blood flow felt with each pulse?",
+    "questionImage": null,
+    "options": [
+      "Amplitude",
+      "Stroke volume",
+      "Cardiac output",
+      "Blood pressure"
+    ],
+    "correctAnswer": "Amplitude",
+    "explanationText": "Amplitude refers to the strength or intensity of the pulse and reflects pressure changes in the artery.",
+    "explanationImage": null
+  },
+  {
+    "id": 145,
+    "questionText": "What term refers to the amount of blood ejected from the left ventricle with each heartbeat?",
+    "questionImage": null,
+    "options": [
+      "Amplitude",
+      "Stroke volume",
+      "Heart rate",
+      "Cardiac index"
+    ],
+    "correctAnswer": "Stroke volume",
+    "explanationText": "Stroke volume is the amount of blood pumped out of the left ventricle with each contraction.",
+    "explanationImage": null
+  },
+  {
+    "id": 146,
+    "questionText": "Which lobe of the brain is responsible for vision?",
+    "questionImage": null,
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correctAnswer": "Occipital lobe",
+    "explanationText": "The occipital lobe processes visual information and is responsible for vision.",
+    "explanationImage": null
+  },
+  {
+    "id": 147,
+    "questionText": "Which of the following correctly lists cranial nerves I, II, and III?",
+    "questionImage": null,
+    "options": [
+      "Olfactory, Optic, Oculomotor",
+      "Optic, Olfactory, Trochlear",
+      "Oculomotor, Trochlear, Trigeminal",
+      "Olfactory, Trochlear, Abducens"
+    ],
+    "correctAnswer": "Olfactory, Optic, Oculomotor",
+    "explanationText": "Cranial nerve I is Olfactory, II is Optic, and III is Oculomotor.",
+    "explanationImage": null
+  },
+  {
+    "id": 148,
+    "questionText": "A 2-year-old child has an unsteady gait and mild lordosis. Is this normal?",
+    "questionImage": null,
+    "options": [
+      "Normal",
+      "Abnormal"
+    ],
+    "correctAnswer": "Normal",
+    "explanationText": "Toddlers commonly have an unsteady gait and lordosis due to developing muscles and balance.",
+    "explanationImage": null
+  },
+  {
+    "id": 149,
+    "questionText": "How long should the nurse auscultate before determining that bowel sounds are absent?",
+    "questionImage": null,
+    "options": [
+      "1 minute",
+      "2 minutes",
+      "4 minutes",
+      "10 minutes"
+    ],
+    "correctAnswer": "4 minutes",
+    "explanationText": "The nurse should auscultate for at least 4 minutes before determining that bowel sounds are absent.",
+    "explanationImage": null
+  }
+]
