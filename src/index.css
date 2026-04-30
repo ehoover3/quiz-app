@@ -76,3 +76,43 @@ body {
   color: #666;
   margin-top: 12px;
 }
+
+.button-green:hover {
+  background-color: #46a602;
+}
+
+.button-red {
+  background-color: #ff4b4b;
+}
+.button-red:hover {
+  background-color: #d93a3a;
+}
+
+.button-orange {
+  background-color: #ff9600;
+}
+.button-orange:hover {
+  background-color: #cc7800;
+}
+
+.button-yellow {
+  background-color: #ffc800;
+  color: #333; /* better contrast on yellow */
+}
+.button-yellow:hover {
+  background-color: #d9aa00;
+}
+
+.button-purple {
+  background-color: #ce82ff;
+}
+.button-purple:hover {
+  background-color: #a866d9;
+}
+
+.button-blue {
+  background-color: #2b70c9;
+}
+.button-blue:hover {
+  background-color: #225aa3;
+}

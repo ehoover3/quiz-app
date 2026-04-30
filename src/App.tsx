@@ -31,35 +31,32 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
-          <button className="button" onClick={() => handleSelectQuiz("labs")}>
+          <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("labs")}>
             Labs
           </button>
 
-         <button className="button" onClick={() => handleSelectQuiz("cardiacRhythms")}>
+          <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("cardiacRhythms")}>
             Cardiac Rhythms
           </button>
 
-
-
-
-          <button className="button" onClick={() => handleSelectQuiz("healthAssessment")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("healthAssessment")}>
             Health Assessment
           </button>
 
-          <button className="button" onClick={() => handleSelectQuiz("pharmacology")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("pharmacology")}>
             Pharmacology
           </button>
 
-          <button className="button" onClick={() => handleSelectQuiz("pharmacologyInstructorReview")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("pharmacologyInstructorReview")}>
             Pharmacology Instructor Review
           </button>
 
-          <button className="button" onClick={() => handleSelectQuiz("fundamentals")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("fundamentals")}>
             Fundamentals (All TopHat Questions)
           </button>
 
-          <button className="button" onClick={() => handleSelectQuiz("test")}>
-          Test
+          <button className="button button-orange button-orange:hover" onClick={() => handleSelectQuiz("test")}>
+            Test
           </button>
         </div>
 
