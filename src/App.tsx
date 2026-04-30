@@ -39,7 +39,7 @@ export default function App() {
             Cardiac Rhythms
           </button>
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("healthAssessment")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("healthAssessment_RefinedQuestions")}>
             Health Assessment
           </button>
 
