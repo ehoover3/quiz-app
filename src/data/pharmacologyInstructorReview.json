@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "questionText": "What is the maximum daily dose of acetaminophen?",
+    "questionText": "❗ What is the maximum daily dose of acetaminophen?",
     "questionImage": null,
     "options": [
       "2000 mg",
@@ -101,10 +101,8 @@
     "questionText": "A patient on morphine has a respiratory rate of 7 breaths per minute. What should the nurse do?",
     "questionImage": null,
     "options": [
-      "Give more morphine",
-      "Administer naloxone",
-      "Encourage fluids",
-      "Do nothing"
+
+      "Administer naloxone"
     ],
     "correctAnswer": "Administer naloxone",
     "explanationText": "Naloxone reverses opioid-induced respiratory depression.",
@@ -127,7 +125,6 @@
     "questionText": "Oseltamivir should be started within how many hours of symptom onset?",
     "questionImage": null,
     "options": [
-      "12",
       "24",
       "48",
       "72"
@@ -183,10 +180,8 @@
     "questionText": "What organ function should be monitored with narrow therapeutic index drugs?",
     "questionImage": null,
     "options": [
-      "Liver",
-      "Kidney",
-      "Lungs",
-      "Skin"
+      "Kidney"
+
     ],
     "correctAnswer": "Kidney",
     "explanationText": "Creatinine levels help assess kidney function.",
@@ -239,10 +234,7 @@
     "questionText": "What should a patient do if experiencing hallucinations on CNS medications?",
     "questionImage": null,
     "options": [
-      "Ignore it",
-      "Stop medication and call provider",
-      "Increase dose",
-      "Take with food"
+      "Stop medication and call provider"
     ],
     "correctAnswer": "Stop medication and call provider",
     "explanationText": "Hallucinations may indicate toxicity or adverse effects.",
@@ -253,10 +245,8 @@
     "questionText": "What is a side effect of cyclobenzaprine?",
     "questionImage": null,
     "options": [
-      "Insomnia",
       "Drowsiness",
-      "Hypertension",
-      "Increased appetite"
+      "Hypertension"
     ],
     "correctAnswer": "Drowsiness",
     "explanationText": "Cyclobenzaprine causes CNS depression.",
@@ -264,7 +254,7 @@
   },
   {
     "id": 20,
-    "questionText": "Which drug is used IV for acute seizure control?",
+    "questionText": "❗ Which drug is used IV for acute seizure control?",
     "questionImage": null,
     "options": [
       "Phenytoin",
@@ -400,20 +390,7 @@
     "explanationText": "Loop diuretics cause potassium loss.",
     "explanationImage": null
   },
-  {
-    "id": 30,
-    "questionText": "Which diuretic is potassium-sparing?",
-    "questionImage": null,
-    "options": [
-      "Furosemide",
-      "Hydrochlorothiazide",
-      "Spironolactone",
-      "Metformin"
-    ],
-    "correctAnswer": "Spironolactone",
-    "explanationText": "Spironolactone retains potassium.",
-    "explanationImage": null
-  },
+
   {
     "id": 31,
     "questionText": "What lab is monitored with heparin?",
@@ -447,10 +424,8 @@
     "questionText": "What should be done with metformin before contrast imaging?",
     "questionImage": null,
     "options": [
-      "Increase dose",
-      "Hold medication",
-      "Take with food",
-      "Skip only one dose"
+
+      "Hold medication"
     ],
     "correctAnswer": "Hold medication",
     "explanationText": "Prevents kidney injury.",
@@ -531,7 +506,6 @@
     "questionText": "What is a risk factor for type 2 diabetes?",
     "questionImage": null,
     "options": [
-      "Underweight",
       "Obesity",
       "Dehydration",
       "Low sodium"

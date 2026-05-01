@@ -80,7 +80,7 @@
   },
   {
     "id": 7,
-    "questionText": "A patient has an ankle restraint . The toes are a light blue color. Which action will the nurse take next?",
+    "questionText": "A patient has an ankle restraint. The toes are light blue.",
     "questionImage": null,
     "options": [
       "Remove the restraint"
@@ -300,21 +300,7 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 27,
-    "questionText": "A client is on a clear liquid diet. Which of the following should the nurse teach the client to avoid while on this diet?",
-    "questionImage": null,
-    "options": [
-      "Strawberry Gelatin (Jell-o)",
-      "Plain decaffeinated tea",
-      "Black coffee",
-      "Pureed Soup",
-      "Chicken Broth"
-    ],
-    "correctAnswer": "Pureed Soup",
-    "explanationText": "",
-    "explanationImage": null
-  },
+ 
   {
     "id": 28,
     "questionText": "A patient with chronic pain. Which statement by the nurse indicates an understanding of pain management?",
@@ -329,20 +315,7 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 29,
-    "questionText": "a patient who suddenly experiences chest pain. What is the nurse’s first priority?",
-    "questionImage": null,
-    "options": [
-      "Call the rapid response team.",
-      "Start an intravenous (IV) line.",
-      "Administer pain-relief medications.",
-      "Ask the patient to rate and describe the pain."
-    ],
-    "correctAnswer": "Ask the patient to rate and describe the pain.",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
   {
     "id": 30,
     "questionText": "A patient with rheumatoid arthritis who is now going to be taking 2 acetaminophen (Tylenol) tablets every 6 hours to control pain. Which part of the patient’s social history is the nurse most concerned about?",
@@ -440,13 +413,11 @@
   },
   {
     "id": 39,
-    "questionText": "A patient who fell on the ice and has connective tissue damage in the wrist and hand. The patient describes the pain as throbbing. Which type of pain does the nurse document in this patient’s medical record?",
+    "questionText": "A patient fell on ice and has connective tissue damage in the wrist and hand. What pain type is this?",
     "questionImage": null,
     "options": [
       "Visceral Pain",
-      "Somatic Pain",
-      "Centrally Generated Pain",
-      "Peripherally Generated Pain"
+      "Somatic Pain"
     ],
     "correctAnswer": "Somatic Pain",
     "explanationText": "",
@@ -496,7 +467,7 @@
   },
   {
     "id": 43,
-    "questionText": "A nurse is assessing a patient who started to have severe pain 3 days ago. When the nurse asks the patient to describe the pain, the patient states, “The pain feels like it is in my stomach. It is a burning pain, and it spreads out in a circle around the spot where it hurts the most.” Which type of pain does the nurse document the patient is having at this time?",
+    "questionText": "Patient started to have severe pain 3 days ago. When the nurse asks the patient to describe the pain, the patient states, “The pain feels like it is in my stomach. It is a burning pain, and it spreads out in a circle around the spot where it hurts the most.” Which type of pain does the nurse document the patient is having at this time?",
     "questionImage": null,
     "options": [
       "Superficial Pain",
@@ -522,7 +493,7 @@
   },
   {
     "id": 45,
-    "questionText": "A nurse is providing medication education to a patient who just started taking ibuprofen. Which information will the nurse include in the teaching session?",
+    "questionText": "Patient started taking ibuprofen. Which information will the nurse include in the teaching session?",
     "questionImage": null,
     "options": [
       "Ibuprofen helps to depress the central nervous system to decrease pain perception.",
@@ -575,7 +546,7 @@
   },
   {
     "id": 49,
-    "questionText": "A nurse is teaching a patient about patient-controlled analgesia (PCA). Which statement made by the patient indicates to the nurse that teaching is effective?",
+    "questionText": "Patient-controlled analgesia (PCA). Which statement made by the patient indicates to the nurse that teaching is effective?",
     "questionImage": null,
     "options": [
       "I will only need to be on this pain medication.",
@@ -587,20 +558,7 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 50,
-    "questionText": "The nurse is administering pain medication for several patients. Which patient does the nurse administer medication to first?",
-    "questionImage": null,
-    "options": [
-      "The patient who needs to be premedicated before walking",
-      "The patient who has a PCA running that needs the syringe replaced",
-      "The patient who needs to take a scheduled dose of maintenance pain medication",
-      "The patient who is experiencing 8/10 pain and has an immediate order for pain medication"
-    ],
-    "correctAnswer": "The patient who is experiencing 8/10 pain and has an immediate order for pain medication",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
   {
     "id": 52,
     "questionText": "A patient arrives at the emergency department experiencing a headache and rates the pain as 7 on a 0 to 10 pain scale. Which nonpharmacological intervention does the nurse implement for this patient while awaiting orders for pain medication from the health care provider?",
@@ -645,7 +603,7 @@
   },
   {
     "id": 55,
-    "questionText": "A nurse is planning care for an older-adult patient who is experiencing pain. Which statement made by the nurse indicates the supervising nurse needs to follow up?",
+    "questionText": "Older-adult patient who is experiencing pain. Which statement made by the nurse indicates the supervising nurse needs to follow up?",
     "questionImage": null,
     "options": [
       "As adults age, their ability to perceive pain decreases.",
@@ -712,7 +670,7 @@
   },
   {
     "id": 60,
-    "questionText": "A nurse is preparing to perform a complete bed bath and linen change on an occupied bed for an adult patient. Which of the following actions should the nurse avoid taking? (Select all that apply)",
+    "questionText": "Complete bed bath and linen change on an occupied bed for an adult patient. Which should the nurse avoid taking? (Select all that apply)",
     "questionImage": null,
     "options": [
       "Cleaning the client's eyes from the inner to the outer canthus",
@@ -727,7 +685,7 @@
   },
   {
     "id": 61,
-    "questionText": "A client has been prescribed restraints for safety reasons. Which of the following actions should the nurse prioritize when applying restraints?",
+    "questionText": "A client has been prescribed restraints for safety reasons. Which should the nurse prioritize when applying restraints?",
     "questionImage": null,
     "options": [
       "Assessing skin integrity and providing skin care",
@@ -932,7 +890,7 @@
   },
   {
     "id": 77,
-    "questionText": "Which of the following actions by the nurse comply with core principles of surgical asepsis? Select all that apply.",
+    "questionText": "Which nurse actions comply with core principles of surgical asepsis? Select all that apply.",
     "questionImage": null,
     "options": [
       "Keep the sterile field in view at all times; Consider the outer 1 inch of the sterile field as contaminated"
@@ -1290,7 +1248,7 @@
   },
   {
     "id": 104,
-    "questionText": "A nurse is preparing to withdraw medication from an open multi dose vial. After confirming that the vial contains the appropriate medication and checking the expiration date, what would the nurse do next?",
+    "questionText": "Prepare to withdraw medication from an open multi dose vial. After confirming that the vial contains the appropriate medication and checking the expiration date, what would the nurse do next?",
     "questionImage": null,
     "options": [
       "Apply clean gloves",
@@ -1545,7 +1503,6 @@
     "questionImage": null,
     "options": [
       "It is important to shake the DPI before administering the medication.",
-      "It is important to exhale while the lips are still around mouthpiece.",
       "It is important to read the manufacturer's instructions to determine how quickly to inhale the medication.",
       "It is important for the patient to hold his or her breath for at least 60 seconds after inhaling the medication."
     ],
@@ -1555,7 +1512,7 @@
   },
   {
     "id": 123,
-    "questionText": "A nurse is preparing to help a patient administer a mucolytic agent using a metered-dose inhaler (MDI). What will the nurse do first in order to evaluate the medication's effectiveness?",
+    "questionText": "Nurse to administer a mucolytic agent using a metered-dose inhaler (MDI). What will the nurse do first in order to evaluate the medication's effectiveness?",
     "questionImage": null,
     "options": [
       "Assess the patient's respiratory status before administration.",
@@ -1705,7 +1662,7 @@
   },
   {
     "id": 136,
-    "questionText": "A nurse is caring for clients with a variety of wounds. Which wound will likely heal by primary intention? Select all that apply.",
+    "questionText": "Clients with a variety of wounds. Which wound will likely heal by primary intention? Select all that apply.",
     "questionImage": null,
     "options": [
       "Cut in the skin from a knife; Surgical incision",
@@ -1974,7 +1931,7 @@
   },
   {
     "id": 156,
-    "questionText": "A nurse is performing a physical assessment on a newly admitted client who is experiencing urinary incontinence. Which problem identified by the nurse is often associated with this problem?",
+    "questionText": "Physical assessment on a newly admitted client who is experiencing urinary incontinence. Which problem identified by the nurse is often associated with this problem?",
     "questionImage": null,
     "options": [
       "Chronic pain",
@@ -2028,7 +1985,7 @@
   },
   {
     "id": 160,
-    "questionText": "A nurse is inserting an indwelling urinary catheter into a male client. The nurse feels firm resistance while inserting the catheter into the penis. What should the nurse do?",
+    "questionText": "Insert an indwelling urinary catheter into a male client. The nurse feels firm resistance while inserting the catheter into the penis. What should the nurse do?",
     "questionImage": null,
     "options": [
       "Lower the penis until it is parallel to the length of the body",
@@ -2338,7 +2295,7 @@
   },
   {
     "id": 183,
-    "questionText": "A nurse is teaching a client with a history of constipation about the excessive use of laxatives. Which effect of laxatives should the nurse include as the primary reason why their use should be avoided?",
+    "questionText": "Client with constipation history and excessive laxatives use. Which effect of laxatives should the nurse include as the primary reason why their use should be avoided?",
     "questionImage": null,
     "options": [
       "Weakens the natural response to defecation",
@@ -2366,7 +2323,7 @@
   },
   {
     "id": 185,
-    "questionText": "A nurse is teaching a client how to irrigate a colostomy. The client asks, 'Why is it necessary to use the cone attachment to the irrigation catheter?' What information should the nurse include in a response to this question?",
+    "questionText": "How to irrigate a colostomy. The client asks, 'Why is it necessary to use the cone attachment to the irrigation catheter?' How should the nurse respond?",
     "questionImage": null,
     "options": [
       "Stops enema solution from flowing out of the bowel during the procedure",
@@ -2520,7 +2477,7 @@
   },
   {
     "id": 196,
-    "questionText": "A nurse is performing an assessment on a patient who has not had a bowel movement in 3 days. The nurse would expect which other assessment finding?",
+    "questionText": "Assessment on a patient who has not had a bowel movement in 3 days. The nurse would expect which other assessment finding?",
     "questionImage": null,
     "options": [
       "Hypoactive bowel sounds",
@@ -2660,7 +2617,7 @@
   },
   {
     "id": 206,
-    "questionText": "A nurse is educating a patient on how to irrigate an ostomy bag. Which statement by the patient indicates the need for further instruction?",
+    "questionText": "How to irrigate an ostomy bag. Which statement by the patient indicates the need for further instruction?",
     "questionImage": null,
     "options": [
       "I can use a fleet enema to save money because it contains the same irrigation solution.",
@@ -2904,7 +2861,8 @@
     "options": [
       "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away from the insertion site = not appropriate"
     ],
-    "correctAnswer": "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away fromt he insertion site = not appropriate",
+    "correctAnswer":       "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away from the insertion site = not appropriate"
+,
     "explanationText": "",
     "explanationImage": null
   },
@@ -3039,34 +2997,8 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 236,
-    "questionText": "While checking a blood product prior to administration, the nurse is called away to assist with another procedure. What should the nurse do with the blood product?",
-    "questionImage": null,
-    "options": [
-      "Return it to the blood bank until it can be administered.",
-      "Ask another nurse to administer it to the patient.",
-      "Ask nursing assistive personnel (NAP) to place it in the unit refrigerator if you expect to be gone less than 30 minutes.",
-      "Leave it in the patient's room."
-    ],
-    "correctAnswer": "Return it to the blood bank until it can be administered.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 237,
-    "questionText": "While checking a blood product prior to administration, the nurse notices that the birth date on the blood bag and requisition do not match the birth date on the patient's identification bracelet. Which is the correct action for the nurse to take?",
-    "questionImage": null,
-    "options": [
-      "Be especially vigilant for adverse reactions during the infusion",
-      "Ask the patient to state his or her birth date",
-      "Correct the birth date on the blood bag and requisition.",
-      "Return the blood to the blood bank"
-    ],
-    "correctAnswer": "Return the blood to the blood bank",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
+
   {
     "id": 238,
     "questionText": "An adult patient is prescribed to receive a unit of packed red blood cells. Which size intravenous catheter does the patient need to safely receive this blood?",
@@ -3139,7 +3071,7 @@
   },
   {
     "id": 243,
-    "questionText": "The nurse receives an order to infuse 1000 mL of D5W at 125 mL continuously. Which of the following actions by the nurse indicates correct interpretation of this order?",
+    "questionText": "The nurse receives an order to infuse 1000 mL of D5W at 125 mL continuously. Which indicates correct interpretation of this order?",
     "questionImage": null,
     "options": [
       "Infusing D5W 1000 mL for 8 hours and then discontinuing the infusion",
@@ -3246,20 +3178,7 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 251,
-    "questionText": "Which response might the nurse give to nursing assistive personnel (NAP) who reports that the alarm is sounding on a patient's electronic infusion device?",
-    "questionImage": null,
-    "options": [
-      "Assess the IV site for signs of inflammation.",
-      "Be sure to change the dressing on the IV site.",
-      "I'll check the IV site and pump.",
-      "Turn off the alarm."
-    ],
-    "correctAnswer": "I'll check the IV site and pump.",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
   {
     "id": 252,
     "questionText": "How would the infusion of the intravenous (IV) fluids be affected if the tubing were unintentionally dislodged from the chamber of the control mechanism of the electronic infusion device (EID)?",
@@ -3556,7 +3475,7 @@
   },
   {
     "id": 273,
-    "questionText": "A nurse is teaching a client how to use an incentive spirometer. Which position should the nurse assist the client to assume during this procedure?",
+    "questionText": "How to use an incentive spirometer. Which position should the nurse assist the client to assume during this procedure?",
     "questionImage": null,
     "options": [
       "Sitting",
@@ -3716,20 +3635,7 @@
     "explanationText": "Oxygen may not be increased based on the patient's comfort. Extra cylinders should be stored vertically 'No Smoking' signs should be placed throughout the house as well as at the entrance. Keep oxygen at least 10 feet (about 3 meters) away from anything that could generate a spark",
     "explanationImage": null
   },
-  {
-    "id": 285,
-    "questionText": "What would the nurse do first when preparing to educate the patient about safe administration of oxygen therapy at home?",
-    "questionImage": null,
-    "options": [
-      "Evaluate the patient's understanding of the combustible nature of oxygen",
-      "Arrange for a capable family member to be present during the initial discussion",
-      "Collect written information to present to the patient as supplemental instructional materials.",
-      "Assess the patients emotional readiness and physical ability to provide autonomous care"
-    ],
-    "correctAnswer": "Assess the patients emotional readiness and physical ability to provide autonomous care",
-    "explanationText": "The nurse would first assess the patient's emotional readiness and physical ability to provide self-care, since these attributes are necessary in order to teach a patient effectively about oxygen administration.",
-    "explanationImage": null
-  },
+ 
   {
     "id": 286,
     "questionText": "Which statement by the patient would indicate that he or she understands the safe use of oxygen?",
@@ -4108,7 +4014,7 @@
   },
   {
     "id": 313,
-    "questionText": "A nurse is assessing a client who has acute alcohol intoxication. The nurse should identify that the client is at risk for which of the following acid-base imbalances?",
+    "questionText": "Client with acute alcohol intoxication. The nurse should identify that the client is at risk for which of the following acid-base imbalances?",
     "questionImage": null,
     "options": [
       "Respiratory Acidosis",
@@ -4192,7 +4098,7 @@
   },
   {
     "id": 319,
-    "questionText": "A nurse is teaching a client colostomy care in relation to the affective domain. Which teaching method is most effective for the situation?",
+    "questionText": "Client colostomy care. Which teaching method is most effective for the situation?",
     "questionImage": null,
     "options": [
       "Discuss a pamphlet about colostomy care",
@@ -4206,7 +4112,7 @@
   },
   {
     "id": 320,
-    "questionText": "A nurse is preparing to teach a kinesthetic learner about exercise. Which technique will the nurse use?",
+    "questionText": "Teach a kinesthetic learner about exercise. Which will the nurse use?",
     "questionImage": null,
     "options": [
       "provide patient with pictures of exercise equipment",
@@ -4249,7 +4155,7 @@
 
   {
     "id": 324,
-    "questionText": "A nurse is teaching a client recently diagnosed with diabetes the step-by-step process for administering an insulin injection using an orange. However, after two sessions the client is still reluctant to self-administer the insulin. Which should the nurse do?",
+    "questionText": "Client recently diagnosed with diabetes. Teach the step-by-step process for administering an insulin injection using an orange. However, after two sessions the client is still reluctant to self-administer the insulin. Which should the nurse do?",
     "questionImage": null,
     "options": [
       "Keep reinforcing the principles that have been presented",
@@ -4263,7 +4169,7 @@
   },
   {
     "id": 325,
-    "questionText": "A nurse is teaching a postoperative client deep breathing and coughing exercises. Which method of instruction is most appropriate in this situation?",
+    "questionText": "Postoperative client deep breathing and coughing exercises. Which method of instruction is most appropriate in this situation?",
     "questionImage": null,
     "options": [
       "Explanation",

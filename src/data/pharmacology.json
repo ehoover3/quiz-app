@@ -644,10 +644,8 @@
     "id": 75,
     "questionText": "Phenytoin is prescribed to treat which condition?",
     "options": [
-      "Pain",
       "Seizures",
-      "Infection",
-      "Asthma"
+      "Infection"
     ],
     "correctAnswer": "Seizures",
     "explanationText": "Phenytoin is an anticonvulsant used to treat seizures. It is an anticonvulsant."

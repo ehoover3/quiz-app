@@ -566,17 +566,7 @@
     ],
     "correctAnswer": "Glossopharyngeal nerve"
   },
-  {
-    "id": 409,
-    "questionText": "What is Cranial Nerve X?",
-    "options": [
-      "Vagus nerve",
-      "Glossopharyngeal nerve",
-      "Hypoglossal nerve",
-      "Accessory nerve"
-    ],
-    "correctAnswer": "Vagus nerve"
-  },
+
   {
     "id": 410,
     "questionText": "What is Cranial Nerve XI?",
@@ -693,17 +683,7 @@
     ],
     "correctAnswer": "Parasympathetic control of heart, lungs, and digestion"
   },
-  {
-    "id": 422,
-    "questionText": "What is the primary function of Cranial Nerve XI?",
-    "options": [
-      "Shoulder and head movement",
-      "Tongue movement",
-      "Vision",
-      "Balance"
-    ],
-    "correctAnswer": "Shoulder and head movement"
-  },
+
   {
     "id": 423,
     "questionText": "What is the primary function of Cranial Nerve XII?",
