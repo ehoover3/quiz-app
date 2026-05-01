@@ -1,3 +1,19 @@
+:root {
+  --bg: #0f172a;
+  /* page background */
+  --card: #1e293b;
+  /* card background */
+  --text: #e5e7eb;
+  /* main text */
+  --muted: #94a3b8;
+  /* secondary text */
+  --border: #334155;
+
+  --accent: #60a5fa;
+  --accent-bg: #1e3a8a;
+  --accent-border: #3b82f6;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,8 +22,8 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background: #f5f7fb;
-  color: #111;
+  background: var(--bg);
+  color: var(--text);
 }
 
 .app {
@@ -17,10 +33,11 @@ body {
 }
 
 .card {
-  background: white;
+  background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 16px;
   padding: 20px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
 }
 
 .button {
@@ -33,6 +50,11 @@ body {
   color: white;
   font-size: 16px;
   font-weight: 600;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+}
+
+.button:hover {
+  filter: brightness(1.1);
 }
 
 .button:active {
@@ -40,8 +62,8 @@ body {
 }
 
 .answer {
-  background: #eef2ff;
-  color: #111;
+  background: #1e293b;
+  color: var(--text);
 }
 
 .answer.correct {
@@ -66,15 +88,9 @@ body {
   margin-bottom: 8px;
 }
 
-.subtitle {
-  color: #666;
-  margin-bottom: 16px;
-}
-
+.subtitle,
 .progress {
-  font-size: 14px;
-  color: #666;
-  margin-top: 12px;
+  color: var(--muted);
 }
 
 .button-green:hover {
@@ -84,6 +100,7 @@ body {
 .button-red {
   background-color: #ff4b4b;
 }
+
 .button-red:hover {
   background-color: #d93a3a;
 }
@@ -91,14 +108,17 @@ body {
 .button-orange {
   background-color: #ff9600;
 }
+
 .button-orange:hover {
   background-color: #cc7800;
 }
 
 .button-yellow {
   background-color: #ffc800;
-  color: #333; /* better contrast on yellow */
+  color: #333;
+  /* better contrast on yellow */
 }
+
 .button-yellow:hover {
   background-color: #d9aa00;
 }
@@ -106,6 +126,7 @@ body {
 .button-purple {
   background-color: #ce82ff;
 }
+
 .button-purple:hover {
   background-color: #a866d9;
 }
@@ -113,6 +134,7 @@ body {
 .button-blue {
   background-color: #2b70c9;
 }
+
 .button-blue:hover {
   background-color: #225aa3;
 }

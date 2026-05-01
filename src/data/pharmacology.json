@@ -1,536 +1,807 @@
 [
-
   {
     "id": 16,
     "questionText": "A patient prescribed buspirone for anxiety asks when the medication will begin to work. What is the best response?",
-    "options": ["Immediately", "Within 1 hour", "In 2–4 weeks", "After one dose"],
+    "options": [
+      "Immediately",
+      "Within 1 hour",
+      "In 2–4 weeks",
+      "After one dose"
+    ],
     "correctAnswer": "In 2–4 weeks",
     "explanationText": "Buspirone is an anxiolytic used to treat anxiety. Buspirone has a delayed onset and is not effective immediately."
   },
   {
     "id": 17,
     "questionText": "A patient taking buspirone should avoid which substance?",
-    "options": ["Milk", "Grapefruit juice", "Water", "Rice"],
+    "options": [
+      "Milk",
+      "Grapefruit juice"
+    ],
     "correctAnswer": "Grapefruit juice",
     "explanationText": "Buspirone is an anxiolytic used to treat anxiety. Grapefruit juice can increase buspirone levels."
   },
   {
     "id": 18,
     "questionText": "A patient taking buspirone reports no relief after the first dose. What is the nurse’s best response?",
-    "options": ["Take an extra dose", "Stop the medication", "Continue taking as prescribed", "Switch medications immediately"],
+    "options": [
+      "Continue taking as prescribed"
+    ],
     "correctAnswer": "Continue taking as prescribed",
     "explanationText": "Buspirone is an anxiolytic used to treat anxiety. Buspirone requires consistent use over weeks for effect."
   },
   {
     "id": 19,
     "questionText": "A patient is prescribed levothyroxine for hypothyroidism. When should the medication be taken?",
-    "options": ["With meals", "At bedtime", "On an empty stomach in the morning", "With calcium supplements"],
+    "options": [
+      "With meals",
+      "At bedtime",
+      "On an empty stomach in the morning",
+      "With calcium supplements"
+    ],
     "correctAnswer": "On an empty stomach in the morning",
     "explanationText": "Levothyroxine is a thyroid hormone replacement used to treat hypothyroidism. Levothyroxine is best absorbed on an empty stomach."
   },
   {
     "id": 20,
     "questionText": "A patient taking levothyroxine develops palpitations and tachycardia. What does this indicate?",
-    "options": ["Underdose", "Overdose", "Allergy", "Infection"],
+    "options": [
+      "Underdose",
+      "Overdose",
+      "Allergy",
+      "Infection"
+    ],
     "correctAnswer": "Overdose",
     "explanationText": "Levothyroxine is a thyroid hormone replacement used to treat hypothyroidism. Excess thyroid hormone increases heart rate."
   },
   {
     "id": 21,
     "questionText": "Which condition is treated with levothyroxine?",
-    "options": ["Hyperthyroidism", "Hypothyroidism", "Diabetes", "Hypertension"],
+    "options": [
+      "Hyperthyroidism",
+      "Hypothyroidism"    ],
     "correctAnswer": "Hypothyroidism",
     "explanationText": "Levothyroxine is a thyroid hormone replacement used to treat hypothyroidism. Levothyroxine replaces thyroid hormone."
   },
   {
     "id": 22,
     "questionText": "Before administering morphine, which assessment is the nurse’s priority?",
-    "options": ["Blood pressure", "Respiratory rate", "Temperature", "Oxygen saturation"],
+    "options": [
+      "Blood pressure",
+      "Respiratory rate",
+      "Oxygen saturation"
+    ],
     "correctAnswer": "Respiratory rate",
     "explanationText": "Morphine is an opioid analgesic used to treat moderate to severe pain. Morphine can cause respiratory depression."
   },
   {
     "id": 23,
     "questionText": "A patient receiving morphine develops constipation. What is the best nursing intervention?",
-    "options": ["Restrict fluids", "Encourage fluids and fiber", "Stop medication", "Give antidiarrheal"],
+    "options": [
+      "Restrict fluids",
+      "Encourage fluids and fiber",
+      "Stop medication",
+      "Give antidiarrheal"
+    ],
     "correctAnswer": "Encourage fluids and fiber",
     "explanationText": "Morphine is an opioid analgesic used to treat pain. Opioids slow GI motility causing constipation."
   },
   {
     "id": 24,
-    "questionText": "Morphine is primarily prescribed to treat which condition?",
-    "options": ["Infection", "Pain", "Anxiety", "Hypertension"],
+    "questionText": "Morphine is primarily treats...",
+    "options": [
+      "Pain"
+    ],
     "correctAnswer": "Pain",
     "explanationText": "Morphine is an opioid analgesic used to treat moderate to severe pain."
   },
   {
     "id": 25,
     "questionText": "A patient taking ibuprofen should be instructed to take the medication with what?",
-    "options": ["Alcohol", "Food", "Caffeine", "Juice"],
+    "options": [
+      "Food"
+    ],
     "correctAnswer": "Food",
     "explanationText": "Ibuprofen is an NSAID used to treat pain, fever, and inflammation. Food reduces gastrointestinal irritation."
   },
   {
     "id": 26,
     "questionText": "Long-term use of ibuprofen increases the risk for which condition?",
-    "options": ["Kidney damage", "Hair loss", "Hearing loss", "Vision changes"],
+    "options": [
+      "Kidney damage",
+      "Hair loss",
+      "Hearing loss",
+      "Vision changes"
+    ],
     "correctAnswer": "Kidney damage",
     "explanationText": "Ibuprofen is an NSAID used to treat pain and inflammation. NSAIDs reduce renal blood flow."
   },
   {
     "id": 27,
     "questionText": "Ibuprofen belongs to which drug class?",
-    "options": ["Opioid", "NSAID", "Antibiotic", "Antidepressant"],
+    "options": [
+      "Opioid",
+      "NSAID",
+      "Antibiotic",
+      "Antidepressant"
+    ],
     "correctAnswer": "NSAID",
     "explanationText": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, fever, and inflammation."
-  }
-,
-
-
+  },
   {
     "id": 28,
     "questionText": "A patient uses nitroglycerin for chest pain. What is a common side effect?",
-    "options": ["Constipation", "Headache", "Fever", "Rash"],
+    "options": [
+      "Constipation",
+      "Headache"
+    ],
     "correctAnswer": "Headache",
     "explanationText": "Nitroglycerin is a nitrate vasodilator used to treat angina (chest pain). Vasodilation causes headaches."
   },
   {
     "id": 29,
     "questionText": "A patient takes three doses of nitroglycerin with no relief of chest pain. What is the priority action?",
-    "options": ["Rest", "Drink water", "Call emergency services", "Take aspirin only"],
+    "options": [
+
+      "Call emergency services"
+
+    ],
     "correctAnswer": "Call emergency services",
     "explanationText": "Nitroglycerin is a nitrate vasodilator used to treat angina by improving coronary blood flow. Unrelieved chest pain may indicate myocardial infarction."
   },
   {
     "id": 30,
     "questionText": "Nitroglycerin is prescribed to treat which condition?",
-    "options": ["Asthma", "Angina", "Diabetes", "Infection"],
+    "options": [
+      "Angina"
+    ],
     "correctAnswer": "Angina",
     "explanationText": "Nitroglycerin is a nitrate vasodilator used to treat angina. Nitroglycerin dilates coronary arteries."
   },
   {
     "id": 31,
     "questionText": "A patient receiving NPH insulin should be monitored for which adverse effect?",
-    "options": ["Hyperglycemia", "Hypoglycemia", "Hypertension", "Fever"],
+    "options": [
+      "Hypoglycemia"
+
+    ],
     "correctAnswer": "Hypoglycemia",
     "explanationText": "NPH insulin is an intermediate-acting insulin used to treat diabetes mellitus. Insulin lowers blood glucose."
   },
   {
     "id": 32,
     "questionText": "A patient using NPH insulin experiences sweating and shakiness. What is the cause?",
-    "options": ["Hyperglycemia", "Hypoglycemia", "Infection", "Allergy"],
+    "options": [
+      "Hyperglycemia",
+      "Hypoglycemia",
+      "Infection",
+      "Allergy"
+    ],
     "correctAnswer": "Hypoglycemia",
     "explanationText": "NPH insulin is an intermediate-acting insulin used to treat diabetes mellitus. Symptoms indicate low blood glucose."
   },
   {
     "id": 33,
     "questionText": "NPH insulin is classified as which type of insulin?",
-    "options": ["Rapid-acting", "Short-acting", "Intermediate-acting", "Long-acting"],
+    "options": [
+      "Rapid-acting",
+      "Short-acting",
+      "Intermediate-acting",
+      "Long-acting"
+    ],
     "correctAnswer": "Intermediate-acting",
     "explanationText": "NPH insulin is an intermediate-acting insulin used to treat diabetes mellitus. NPH insulin has a peak of 4–12 hours."
   },
   {
     "id": 34,
     "questionText": "A patient taking metformin is scheduled for a CT scan with contrast. What should the nurse do?",
-    "options": ["Give medication", "Hold the medication", "Double the dose", "Stop permanently"],
+    "options": [
+      "Give medication",
+      "Hold the medication"
+    ],
     "correctAnswer": "Hold the medication",
     "explanationText": "Metformin is a biguanide antidiabetic medication used to treat type 2 diabetes. Contrast increases risk of lactic acidosis."
   },
   {
     "id": 35,
     "questionText": "A serious complication of metformin is which condition?",
-    "options": ["Lactic acidosis", "Rash", "Cough", "Headache"],
+    "options": [
+      "Lactic acidosis"
+    ],
     "correctAnswer": "Lactic acidosis",
     "explanationText": "Metformin is a biguanide antidiabetic medication used to treat type 2 diabetes. Rare but life-threatening."
   },
   {
     "id": 36,
     "questionText": "Metformin is used to treat which condition?",
-    "options": ["Type 1 diabetes", "Type 2 diabetes", "Asthma", "Hypertension"],
+    "options": [
+
+      "Type 2 diabetes"
+    ],
     "correctAnswer": "Type 2 diabetes",
     "explanationText": "Metformin is a biguanide antidiabetic medication used to treat type 2 diabetes. Improves insulin sensitivity."
   },
   {
     "id": 37,
     "questionText": "A patient receiving heparin therapy requires monitoring of which lab value?",
-    "options": ["INR", "aPTT", "WBC", "Platelets"],
+    "options": [
+      "INR",
+      "aPTT"
+    ],
     "correctAnswer": "aPTT",
     "explanationText": "Heparin is an anticoagulant used to prevent and treat blood clots. Heparin is monitored using aPTT."
   },
   {
     "id": 38,
-    "questionText": "A patient develops bleeding while on heparin. What is the antidote?",
-    "options": ["Vitamin K", "Protamine sulfate", "Naloxone", "Atropine"],
+    "questionText": "A patient is bleeding while on heparin. What is the antidote?",
+    "options": [
+      "Vitamin K",
+      "Protamine sulfate"
+    ],
     "correctAnswer": "Protamine sulfate",
     "explanationText": "Heparin is an anticoagulant used to prevent clot formation. Protamine sulfate reverses heparin effects."
   },
   {
     "id": 39,
     "questionText": "Heparin is used to achieve which effect?",
-    "options": ["Dissolve clots", "Prevent clot formation", "Increase platelets", "Thicken blood"],
+    "options": [
+      "Dissolve clots",
+      "Prevent clot formation",
+      "Increase platelets",
+      "Thicken blood"
+    ],
     "correctAnswer": "Prevent clot formation",
     "explanationText": "Heparin is an anticoagulant used to prevent and treat thromboembolic disorders. Heparin is an anticoagulant."
   },
   {
     "id": 40,
     "questionText": "A patient taking warfarin requires monitoring of which lab value?",
-    "options": ["aPTT", "INR", "CBC", "BMP"],
+    "options": [
+      "aPTT",
+      "INR",
+      "CBC",
+      "BMP"
+    ],
     "correctAnswer": "INR",
     "explanationText": "Warfarin is an anticoagulant used to prevent and treat blood clots. Warfarin is monitored using INR."
   },
   {
     "id": 41,
     "questionText": "A patient on warfarin has excessive bleeding. Which medication reverses its effects?",
-    "options": ["Protamine sulfate", "Vitamin K", "Calcium", "Magnesium"],
+    "options": [
+      "Protamine sulfate",
+      "Vitamin K"
+    ],
     "correctAnswer": "Vitamin K",
     "explanationText": "Warfarin is an anticoagulant used to prevent clot formation. Vitamin K reverses warfarin."
   },
   {
     "id": 42,
     "questionText": "A patient taking warfarin should limit intake of which foods?",
-    "options": ["Protein", "Vitamin K-rich foods", "Carbohydrates", "Fluids"],
+    "options": [
+      "Protein",
+      "Vitamin K-rich foods",
+      "Carbohydrates",
+      "Fluids"
+    ],
     "correctAnswer": "Vitamin K-rich foods",
     "explanationText": "Warfarin is an anticoagulant used to prevent blood clots. Vitamin K decreases warfarin effectiveness."
-  }
-,
-
-
+  },
   {
     "id": 43,
     "questionText": "A patient prescribed ciprofloxacin should avoid taking the medication with which substance?",
-    "options": ["Milk", "Water", "Bread", "Rice"],
+    "options": [
+      "Milk",
+      "Water",
+      "Bread",
+      "Rice"
+    ],
     "correctAnswer": "Milk",
     "explanationText": "Ciprofloxacin is a fluoroquinolone antibiotic used to treat bacterial infections. Calcium reduces absorption."
   },
   {
     "id": 44,
     "questionText": "A serious adverse effect of ciprofloxacin is which condition?",
-    "options": ["Hair loss", "Tendon rupture", "Weight gain", "Dry mouth"],
+    "options": [
+      "Hair loss",
+      "Tendon rupture",
+      "Weight gain",
+      "Dry mouth"
+    ],
     "correctAnswer": "Tendon rupture",
     "explanationText": "Ciprofloxacin is a fluoroquinolone antibiotic used to treat bacterial infections. Fluoroquinolones carry this risk."
   },
   {
     "id": 45,
     "questionText": "Ciprofloxacin is used to treat which condition?",
-    "options": ["Viral infection", "Bacterial infection", "Fungal infection", "Pain"],
+    "options": [
+      "Viral infection",
+      "Bacterial infection",
+      "Fungal infection",
+      "Pain"
+    ],
     "correctAnswer": "Bacterial infection",
     "explanationText": "Ciprofloxacin is a fluoroquinolone antibiotic used to treat bacterial infections. It is an antibiotic."
   },
   {
     "id": 46,
-    "questionText": "Epinephrine is the first-line treatment for which condition?",
-    "options": ["Asthma", "Anaphylaxis", "Pain", "Infection"],
+    "questionText": "Epinephrine is the first-line treatment for...",
+    "options": [
+      "Anaphylaxis"
+    ],
     "correctAnswer": "Anaphylaxis",
     "explanationText": "Epinephrine is a sympathomimetic adrenergic agonist used to treat anaphylaxis and severe allergic reactions. Epinephrine reverses severe allergic reactions."
   },
   {
     "id": 47,
     "questionText": "A patient receiving epinephrine develops tachycardia. What is the cause?",
-    "options": ["Allergy", "Expected effect", "Infection", "Overdose only"],
+    "options": [
+      "Allergy",
+      "Expected effect",
+      "Infection",
+      "Overdose only"
+    ],
     "correctAnswer": "Expected effect",
     "explanationText": "Epinephrine is a sympathomimetic adrenergic agonist used in emergencies such as anaphylaxis. Epinephrine stimulates the heart."
   },
   {
     "id": 48,
     "questionText": "Epinephrine produces which respiratory effect?",
-    "options": ["Bronchoconstriction", "Bronchodilation", "Sedation", "Apnea"],
+    "options": [
+      "Bronchoconstriction",
+      "Bronchodilation",
+      "Sedation",
+      "Apnea"
+    ],
     "correctAnswer": "Bronchodilation",
     "explanationText": "Epinephrine is a sympathomimetic adrenergic agonist used to treat anaphylaxis. Improves airway opening."
   },
   {
     "id": 49,
     "questionText": "Albuterol is prescribed for which condition?",
-    "options": ["Hypertension", "Asthma", "Diabetes", "Depression"],
+    "options": [
+      "Asthma"
+    ],
     "correctAnswer": "Asthma",
     "explanationText": "Albuterol is a short-acting beta2 agonist bronchodilator used to treat asthma and bronchospasm. Albuterol is a bronchodilator."
   },
   {
     "id": 50,
     "questionText": "A patient using albuterol experiences tremors. What does this indicate?",
-    "options": ["Allergy", "Expected side effect", "Toxicity", "Infection"],
+    "options": [
+      "Allergy",
+      "Expected side effect",
+      "Toxicity",
+      "Infection"
+    ],
     "correctAnswer": "Expected side effect",
     "explanationText": "Albuterol is a short-acting beta2 agonist bronchodilator used to open airways in asthma. Beta-agonists commonly cause tremors."
   },
   {
     "id": 51,
     "questionText": "Albuterol works by causing which effect?",
-    "options": ["Bronchoconstriction", "Bronchodilation", "Sedation", "Antibiotic action"],
+    "options": [
+      "Bronchoconstriction",
+      "Bronchodilation",
+      "Sedation",
+      "Antibiotic action"
+    ],
     "correctAnswer": "Bronchodilation",
     "explanationText": "Albuterol is a short-acting beta2 agonist bronchodilator used to treat asthma. Relaxes airway muscles."
   },
   {
     "id": 52,
     "questionText": "Prednisone belongs to which drug class?",
-    "options": ["Antibiotic", "Steroid", "Opioid", "Antacid"],
+    "options": [
+      "Antibiotic",
+      "Steroid",
+      "Opioid",
+      "Antacid"
+    ],
     "correctAnswer": "Steroid",
     "explanationText": "Prednisone is a corticosteroid used to treat inflammation, allergic reactions, and autoimmune disorders. Prednisone is a corticosteroid."
   },
   {
     "id": 53,
     "questionText": "Long-term prednisone use increases the risk of which condition?",
-    "options": ["Immunosuppression", "Hair growth", "Weight loss", "Hypoglycemia"],
+    "options": [
+      "Immunosuppression"
+    ],
     "correctAnswer": "Immunosuppression",
     "explanationText": "Prednisone is a corticosteroid used to reduce inflammation. Suppresses immune system."
   },
   {
     "id": 54,
     "questionText": "Why should prednisone not be stopped abruptly?",
-    "options": ["Addiction", "Adrenal crisis", "Fever", "Pain"],
+    "options": [
+      "Addiction",
+      "Adrenal crisis"
+    ],
     "correctAnswer": "Adrenal crisis",
-    "explanationText": "Prednisone is a corticosteroid used to treat inflammatory conditions. Requires tapering."
+    "explanationText": "Prednisone is a corticosteroid used to treat inflammatory conditions. Requires tapering. An adrenal crisis is a life-threatening, emergency medical condition resulting from a severe lack of cortisol, causing low blood pressure, severe vomiting, dehydration, confusion, and potential loss of consciousness. It requires immediate treatment with intravenous or intramuscular hydrocortisone."
   },
   {
     "id": 55,
     "questionText": "Aspirin is used to prevent which condition?",
-    "options": ["Infection", "Blood clots", "Asthma", "Diabetes"],
+    "options": [
+      "Infection",
+      "Blood clots",
+      "Asthma",
+      "Diabetes"
+    ],
     "correctAnswer": "Blood clots",
     "explanationText": "Aspirin is a salicylate NSAID and antiplatelet used to reduce pain, fever, inflammation, and prevent blood clots. Aspirin inhibits platelet aggregation."
   },
   {
     "id": 56,
     "questionText": "Aspirin should be avoided in children due to risk of which condition?",
-    "options": ["Flu", "Reye syndrome", "Asthma", "Diabetes"],
+    "options": [
+      "Reye syndrome"
+
+    ],
     "correctAnswer": "Reye syndrome",
     "explanationText": "Aspirin is a salicylate NSAID used for pain and antiplatelet effects. Serious pediatric condition."
   },
   {
     "id": 57,
     "questionText": "A patient taking aspirin should be monitored for which adverse effect?",
-    "options": ["Constipation", "Bleeding", "Hair loss", "Dry skin"],
+    "options": [
+      "Constipation",
+      "Bleeding",
+      "Hair loss",
+      "Dry skin"
+    ],
     "correctAnswer": "Bleeding",
     "explanationText": "Aspirin is a salicylate NSAID and antiplatelet used to prevent clotting and treat pain. Aspirin increases bleeding risk."
   },
   {
     "id": 58,
     "questionText": "Vancomycin is used to treat which type of infection?",
-    "options": ["Viral", "Severe bacterial", "Fungal", "Parasitic"],
+    "options": [
+      "Viral",
+      "Severe bacterial",
+      "Fungal",
+      "Parasitic"
+    ],
     "correctAnswer": "Severe bacterial",
     "explanationText": "Vancomycin is a glycopeptide antibiotic used to treat severe bacterial infections such as MRSA. Often used for MRSA."
   },
   {
     "id": 59,
     "questionText": "A patient receiving vancomycin develops flushing and redness. What is this called?",
-    "options": ["Stevens-Johnson syndrome", "Red man syndrome", "Anaphylaxis", "Angioedema"],
+    "options": [
+      "Red man syndrome"
+    ],
     "correctAnswer": "Red man syndrome",
     "explanationText": "Vancomycin is a glycopeptide antibiotic used to treat serious bacterial infections. Infuse slowly to prevent."
   },
   {
     "id": 60,
     "questionText": "Vancomycin can cause damage to which sense?",
-    "options": ["Vision", "Hearing", "Taste", "Smell"],
+    "options": [
+      "Hearing",
+      "Taste"
+    ],
     "correctAnswer": "Hearing",
     "explanationText": "Vancomycin is a glycopeptide antibiotic used for severe bacterial infections. Ototoxicity risk."
   },
   {
     "id": 61,
     "questionText": "A patient is prescribed cyclobenzaprine for muscle spasms. What is the most important safety instruction?",
-    "options": ["Take with alcohol", "Avoid driving until effects are known", "Increase caffeine intake", "Take extra doses for pain"],
+    "options": [
+      "Avoid driving until effects are known"
+    ],
     "correctAnswer": "Avoid driving until effects are known",
     "explanationText": "Cyclobenzaprine is a skeletal muscle relaxant used to treat muscle spasms. Cyclobenzaprine causes drowsiness and sedation."
   },
   {
     "id": 62,
     "questionText": "A patient taking cyclobenzaprine reports excessive drowsiness. What is the nurse’s best response?",
-    "options": ["Stop medication immediately", "This is an expected side effect", "Take with alcohol", "Double the dose"],
+    "options": [
+      "Stop medication immediately",
+      "This is an expected side effect"    ],
     "correctAnswer": "This is an expected side effect",
     "explanationText": "Cyclobenzaprine is a skeletal muscle relaxant used to relieve muscle spasms. Sedation is a common side effect of muscle relaxants."
   },
   {
     "id": 63,
     "questionText": "Cyclobenzaprine is prescribed to treat which condition?",
-    "options": ["Seizures", "Muscle spasms", "Infection", "Anxiety"],
+    "options": [
+      "Seizures",
+      "Muscle spasms",
+      "Infection",
+      "Anxiety"
+    ],
     "correctAnswer": "Muscle spasms",
     "explanationText": "Cyclobenzaprine is a skeletal muscle relaxant used to treat muscle spasms. Cyclobenzaprine is a muscle relaxant."
   },
   {
     "id": 64,
     "questionText": "A patient is prescribed clonidine for hypertension. What should the nurse monitor closely?",
-    "options": ["Blood glucose", "Blood pressure", "Temperature", "Respirations"],
+    "options": [
+      "Blood glucose",
+      "Blood pressure",
+      "Temperature",
+      "Respirations"
+    ],
     "correctAnswer": "Blood pressure",
     "explanationText": "Clonidine is a central alpha2 adrenergic agonist antihypertensive used to treat hypertension. Clonidine lowers blood pressure."
   },
   {
     "id": 65,
     "questionText": "A patient stops taking clonidine abruptly. What complication may occur?",
-    "options": ["Hypoglycemia", "Rebound hypertension", "Constipation", "Fever"],
+    "options": [
+      "Hypoglycemia",
+            "Hyperglycemia",
+      "Rebound hypertension"    ],
     "correctAnswer": "Rebound hypertension",
     "explanationText": "Clonidine is a central alpha2 adrenergic agonist used to treat hypertension. Abrupt withdrawal causes severe hypertension."
-  }
-,
-
-
+  },
   {
     "id": 66,
     "questionText": "A common side effect of clonidine is which condition?",
-    "options": ["Dry mouth", "Diarrhea", "Cough", "Fever"],
+    "options": [
+      "Dry mouth",
+      "Diarrhea",
+      "Cough",
+      "Fever"
+    ],
     "correctAnswer": "Dry mouth",
     "explanationText": "Clonidine is a central alpha2 adrenergic agonist antihypertensive used to treat hypertension. Clonidine commonly causes dry mouth."
   },
   {
     "id": 67,
     "questionText": "A patient taking verapamil should be monitored for which cardiac effect?",
-    "options": ["Tachycardia", "Bradycardia", "Hypertension", "Arrhythmia only"],
+    "options": [
+      "Tachycardia",
+      "Bradycardia",
+      "Hypertension",
+      "Arrhythmia only"
+    ],
     "correctAnswer": "Bradycardia",
     "explanationText": "Verapamil is a calcium channel blocker used to treat hypertension, angina, and arrhythmias. Verapamil slows heart rate."
   },
   {
     "id": 68,
     "questionText": "A patient taking verapamil reports constipation. What is the nurse’s best response?",
-    "options": ["Stop medication", "This is a common side effect", "Take with alcohol", "Double the dose"],
+    "options": [
+      "Stop medication",
+      "This is a common side effect",
+      "Double the dose"
+    ],
     "correctAnswer": "This is a common side effect",
     "explanationText": "Verapamil is a calcium channel blocker used to treat hypertension and arrhythmias. Constipation is common with calcium channel blockers."
   },
   {
     "id": 69,
     "questionText": "Verapamil belongs to which drug class?",
-    "options": ["ACE inhibitor", "Calcium channel blocker", "Diuretic", "Antibiotic"],
+    "options": [
+      "ACE inhibitor",
+      "Calcium channel blocker",
+      "Diuretic",
+      "Antibiotic"
+    ],
     "correctAnswer": "Calcium channel blocker",
     "explanationText": "Verapamil is a calcium channel blocker used for hypertension and arrhythmias."
   },
   {
     "id": 70,
     "questionText": "A patient receiving diazepam should be monitored for which priority adverse effect?",
-    "options": ["Hypertension", "Respiratory depression", "Fever", "Cough"],
+    "options": [
+      "Hypertension",
+      "Respiratory depression",
+      "Fever",
+      "Cough"
+    ],
     "correctAnswer": "Respiratory depression",
     "explanationText": "Diazepam is a benzodiazepine used to treat anxiety, seizures, and muscle spasms. Benzodiazepines depress CNS and respiration."
   },
   {
     "id": 71,
     "questionText": "A patient taking diazepam reports drowsiness. What is the nurse’s best response?",
-    "options": ["Stop medication", "This is expected", "Take with alcohol", "Double the dose"],
+    "options": [
+      "Stop medication",
+      "This is expected",
+      "Double the dose"
+    ],
     "correctAnswer": "This is expected",
     "explanationText": "Diazepam is a benzodiazepine used to treat anxiety and seizures. Sedation is common."
   },
   {
     "id": 72,
     "questionText": "Diazepam is used to treat which condition?",
-    "options": ["Infection", "Seizures and anxiety", "Diabetes", "Asthma"],
+    "options": [
+      "Infection",
+      "Seizures and anxiety",
+      "Diabetes",
+      "Asthma"
+    ],
     "correctAnswer": "Seizures and anxiety",
     "explanationText": "Diazepam is a benzodiazepine used to treat seizures and anxiety. It is a benzodiazepine."
   },
   {
     "id": 73,
     "questionText": "A patient taking phenytoin should maintain good oral hygiene to prevent which condition?",
-    "options": ["Tooth decay", "Gum hyperplasia", "Dry mouth", "Bleeding gums"],
+    "options": [
+      "Gum hyperplasia",
+      "Bleeding gums"
+    ],
     "correctAnswer": "Gum hyperplasia",
     "explanationText": "Phenytoin is an anticonvulsant used to treat seizures. Phenytoin causes gingival overgrowth."
   },
   {
     "id": 74,
     "questionText": "Why must phenytoin levels be monitored closely?",
-    "options": ["It is inexpensive", "It has a narrow therapeutic index", "It acts quickly", "It is short-acting"],
+    "options": [
+
+      "It has a narrow therapeutic index",
+      "It is short-acting"
+    ],
     "correctAnswer": "It has a narrow therapeutic index",
     "explanationText": "Phenytoin is an anticonvulsant used to prevent seizures. Small changes can cause toxicity."
   },
   {
     "id": 75,
     "questionText": "Phenytoin is prescribed to treat which condition?",
-    "options": ["Pain", "Seizures", "Infection", "Asthma"],
+    "options": [
+      "Pain",
+      "Seizures",
+      "Infection",
+      "Asthma"
+    ],
     "correctAnswer": "Seizures",
     "explanationText": "Phenytoin is an anticonvulsant used to treat seizures. It is an anticonvulsant."
   },
   {
     "id": 76,
     "questionText": "A patient taking levodopa-carbidopa should avoid high-protein meals because they can cause what effect?",
-    "options": ["Increased absorption", "Decreased absorption", "No effect", "Toxicity"],
+    "options": [
+      "Increased absorption",
+      "Decreased absorption",
+      "No effect",
+      "Toxicity"
+    ],
     "correctAnswer": "Decreased absorption",
     "explanationText": "Levodopa-carbidopa is an antiparkinson combination medication used to treat Parkinson’s disease. Protein interferes with drug absorption."
   },
   {
     "id": 77,
     "questionText": "A patient taking levodopa-carbidopa develops involuntary movements. What is this called?",
-    "options": ["Bradykinesia", "Dyskinesia", "Ataxia", "Tremor"],
+    "options": [
+      "Bradykinesia",
+      "Dyskinesia",
+      "Ataxia",
+      "Tremor"
+    ],
     "correctAnswer": "Dyskinesia",
     "explanationText": "Levodopa-carbidopa is an antiparkinson medication used to increase dopamine levels in Parkinson’s disease. Common side effect of therapy."
   },
   {
     "id": 78,
     "questionText": "Levodopa-carbidopa is used to treat which disease?",
-    "options": ["Alzheimer’s", "Parkinson’s", "Diabetes", "Asthma"],
+    "options": [
+      "Parkinson’s"
+    ],
     "correctAnswer": "Parkinson’s",
     "explanationText": "Levodopa-carbidopa is an antiparkinson medication used to treat Parkinson’s disease. Increases dopamine levels."
   },
   {
     "id": 79,
     "questionText": "A patient taking alprazolam should be educated about which risk?",
-    "options": ["Hair loss", "Addiction", "Fever", "Cough"],
+    "options": [
+      "Addiction",
+      "Fatigue",
+      "Cough"
+    ],
     "correctAnswer": "Addiction",
     "explanationText": "Alprazolam is a benzodiazepine used to treat anxiety and panic disorders. Benzodiazepines carry dependence risk."
   },
   {
     "id": 80,
     "questionText": "A patient taking alprazolam reports drowsiness. What is the nurse’s best response?",
-    "options": ["Stop medication", "This is expected", "Take with alcohol", "Double the dose"],
+    "options": [
+      "This is expected"    ],
     "correctAnswer": "This is expected",
     "explanationText": "Alprazolam is a benzodiazepine used to treat anxiety. Sedation is common."
   },
   {
     "id": 81,
     "questionText": "Alprazolam is prescribed to treat which condition?",
-    "options": ["Infection", "Anxiety", "Pain", "Hypertension"],
+    "options": [
+      "Infection",
+      "Anxiety",
+      "Pain",
+      "Hypertension"
+    ],
     "correctAnswer": "Anxiety",
     "explanationText": "Alprazolam is a benzodiazepine used to treat anxiety. It is a benzodiazepine."
   },
   {
     "id": 82,
     "questionText": "A patient prescribed oseltamivir asks when to start the medication. What is the best response?",
-    "options": ["After 1 week", "Within 48 hours of symptoms", "After symptoms resolve", "Only if severe"],
+    "options": [
+      "After 1 week",
+      "Within 48 hours of symptoms",
+      "After symptoms resolve",
+      "Only if severe"
+    ],
     "correctAnswer": "Within 48 hours of symptoms",
     "explanationText": "Oseltamivir is an antiviral neuraminidase inhibitor used to treat influenza. Most effective early."
   },
   {
     "id": 83,
     "questionText": "A patient taking oseltamivir reports nausea. What is the nurse’s best response?",
-    "options": ["Stop medication", "This is a common side effect", "Take with alcohol", "Double dose"],
+    "options": [
+      "This is a common side effect"
+    ],
     "correctAnswer": "This is a common side effect",
     "explanationText": "Oseltamivir is an antiviral used to treat influenza. GI upset is common."
   },
   {
     "id": 84,
     "questionText": "Oseltamivir is used to treat which infection?",
-    "options": ["Bacterial", "Fungal", "Influenza", "Parasitic"],
+    "options": [
+      "Bacterial",
+      "Influenza"    ],
     "correctAnswer": "Influenza",
     "explanationText": "Oseltamivir is an antiviral neuraminidase inhibitor used to treat influenza. It is an antiviral."
   },
   {
     "id": 85,
     "questionText": "A patient taking aluminum hydroxide should be monitored for which side effect?",
-    "options": ["Diarrhea", "Constipation", "Fever", "Cough"],
+    "options": [
+      "Diarrhea",
+      "Constipation"
+    ],
     "correctAnswer": "Constipation",
     "explanationText": "Aluminum hydroxide is an antacid used to treat acid reflux and dyspepsia. Common with antacids containing aluminum."
   },
   {
     "id": 86,
     "questionText": "A patient with kidney disease should avoid aluminum hydroxide because of what risk?",
-    "options": ["Hypertension", "Aluminum toxicity", "Hyperglycemia", "Fever"],
+    "options": [
+      "Hypertension",
+      "Aluminum toxicity",
+      "Hyperglycemia",
+      "Fever"
+    ],
     "correctAnswer": "Aluminum toxicity",
     "explanationText": "Aluminum hydroxide is an antacid used to reduce stomach acid. Impaired excretion increases risk."
   },
   {
     "id": 87,
     "questionText": "Aluminum hydroxide is used to treat which condition?",
-    "options": ["Pain", "Acid reflux", "Infection", "Asthma"],
+    "options": [
+      "Acid reflux"
+    ],
     "correctAnswer": "Acid reflux",
     "explanationText": "Aluminum hydroxide is an antacid used to treat acid reflux. Neutralizes stomach acid."
   },
   {
     "id": 88,
     "questionText": "A patient prescribed azithromycin should be instructed to do what?",
-    "options": ["Stop when feeling better", "Finish entire course", "Double doses", "Skip doses"],
+    "options": [
+      "Finish entire course"
+    ],
     "correctAnswer": "Finish entire course",
     "explanationText": "Azithromycin is a macrolide antibiotic used to treat bacterial infections. Prevents resistance."
   },
   {
     "id": 89,
     "questionText": "Azithromycin can cause which cardiac effect?",
-    "options": ["Bradycardia", "QT prolongation", "Hypertension", "Heart block"],
+    "options": [
+      "QT prolongation"
+    ],
     "correctAnswer": "QT prolongation",
     "explanationText": "Azithromycin is a macrolide antibiotic used to treat bacterial infections. Can affect heart rhythm."
   },
   {
     "id": 90,
     "questionText": "Azithromycin is used to treat which type of infection?",
-    "options": ["Viral", "Bacterial", "Fungal", "Parasitic"],
+    "options": [
+      "Viral",
+      "Bacterial"
+    ],
     "correctAnswer": "Bacterial",
     "explanationText": "Azithromycin is a macrolide antibiotic used to treat bacterial infections. It is a macrolide antibiotic."
   }

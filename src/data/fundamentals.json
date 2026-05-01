@@ -18,9 +18,6 @@
     "questionText": "Which of the following patient should be allowed to lie back down?",
     "questionImage": null,
     "options": [
-      "A patient who was just transferred to a chair and states that she was more comfortable in bed. Physician's orders are to be up in the chair twice daily.",
-      "A patient whose blood pressure was 110/70 prior to transfer and is now 125/80.",
-      "A patient whose blood pressure was 120/80 prior to transfer, and is now 112/78.",
       "A patient who complains of feeling dizzy and slightly nauseous when dangling on the bedside."
     ],
     "correctAnswer": "A patient who complains of feeling dizzy and slightly nauseous when dangling on the bedside.",
@@ -74,10 +71,8 @@
     "questionText": "The nurse discovers a patient on the floor. The patient states that he fell out of bed. The nurse assesses the patient and places the patient back in bed. Which action should the nurse take next?",
     "questionImage": null,
     "options": [
-      "Do nothing, no harm has occurred",
       "Notify the health care provider",
-      "Complete an incident report",
-      "Notify the charge nurse"
+      "Complete an incident report"
     ],
     "correctAnswer": "Notify the health care provider",
     "explanationText": "",
@@ -85,13 +80,10 @@
   },
   {
     "id": 7,
-    "questionText": "A patient has an ankle restraint applied. Upon assessment the nurse finds the toes a light blue color. Which action will the nurse take next?",
+    "questionText": "A patient has an ankle restraint . The toes are a light blue color. Which action will the nurse take next?",
     "questionImage": null,
     "options": [
-      "Remove the restraint",
-      "Place a blanket over the feet",
-      "Immediately do a complete head-to-toe neurologic assessment",
-      "Take the patient's blood pressure, pulse, temperature, and respiratory rate"
+      "Remove the restraint"
     ],
     "correctAnswer": "Remove the restraint",
     "explanationText": "",
@@ -108,20 +100,7 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 9,
-    "questionText": "A nurse is preparing to provide hygiene care. Which principle should the nurse consider when planning hygiene care?",
-    "questionImage": null,
-    "options": [
-      "Hygiene care is always routine and expected",
-      "During hygiene care, do not take the time to learn about patient needs",
-      "It is important to standardize a patient's hygienic practices.",
-      "No two individuals perform hygiene in the same manner"
-    ],
-    "correctAnswer": "No two individuals perform hygiene in the same manner",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
   {
     "id": 10,
     "questionText": "The nurse is providing oral care to an unconscious patient. Which action should the nurse take?",
@@ -138,12 +117,10 @@
   },
   {
     "id": 11,
-    "questionText": "The nurse is providing perineal care to an uncircumcised male patient. Which action will the nurse take?",
+    "questionText": "The nurse is providing perineal care to uncircumcised male.",
     "questionImage": null,
     "options": [
-      "Leave the foreskin alone because there is little chance of infection",
       "Retract the foreskin for cleansing and allow it to return on its own",
-      "Leave the foreskin retracted",
       "Retract the foreskin and return it to it natural position when done"
     ],
     "correctAnswer": "Retract the foreskin and return it to it natural position when done",
@@ -164,7 +141,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
   {
     "id": 14,
     "questionText": "To reduce the risk of aspiration how long should the nurse keep the bed up 30 to 45 degrees after eating?",
@@ -203,13 +179,11 @@
   },
   {
     "id": 17,
-    "questionText": "The patient has just started on enteral feedings and is reporting abdominal cramping. Which action will the nurse take next?",
+    "questionText": "Patient has just started enteral feedings and reports abdominal cramping. Which will the nurse do next?",
     "questionImage": null,
     "options": [
       "Stop the feeding",
-      "Slow the rate of the feeding",
-      "Change to a new formula",
-      "Reassure the patient it is normal"
+      "Slow the rate of the feeding"
     ],
     "correctAnswer": "Slow the rate of the feeding",
     "explanationText": "",
@@ -293,10 +267,7 @@
     "questionText": "The nurse evaluates which lab value to assess a patient's potential for wound healing?",
     "questionImage": null,
     "options": [
-      "Potassium",
-      "Lipids",
-      "Protein",
-      "WBC"
+      "Protein"
     ],
     "correctAnswer": "Protein",
     "explanationText": "",
@@ -304,7 +275,7 @@
   },
   {
     "id": 25,
-    "questionText": "The nurse is caring for a patient with dysphagia and is feeding her a pureed chicken diet when she begins to choke. What is the priority nursing intervention?",
+    "questionText": "a patient with dysphagia and is feeding her a pureed chicken diet when she begins to choke. What is the priority nursing intervention?",
     "questionImage": null,
     "options": [
       "Suction her mouth and throat",
@@ -318,7 +289,7 @@
   },
   {
     "id": 26,
-    "questionText": "The nurse is caring for a client who will require enteral feedings for the next 8 weeks. Which type of line/tube is appropriate for this client (select all that apply)?",
+    "questionText": "a client who will require enteral feedings for the next 8 weeks. Which type of line/tube is appropriate for this client (select all that apply)?",
     "questionImage": null,
     "options": [
       "NG tube; G-tube",
@@ -346,7 +317,7 @@
   },
   {
     "id": 28,
-    "questionText": "A nurse is caring for a patient with chronic pain. Which statement by the nurse indicates an understanding of pain management?",
+    "questionText": "A patient with chronic pain. Which statement by the nurse indicates an understanding of pain management?",
     "questionImage": null,
     "options": [
       "This patient says the pain is a 5 but is not acting like it. I am not going to give any pain medication.",
@@ -360,7 +331,7 @@
   },
   {
     "id": 29,
-    "questionText": "The nurse is caring for a patient who suddenly experiences chest pain. What is the nurse’s first priority?",
+    "questionText": "a patient who suddenly experiences chest pain. What is the nurse’s first priority?",
     "questionImage": null,
     "options": [
       "Call the rapid response team.",
@@ -374,16 +345,15 @@
   },
   {
     "id": 30,
-    "questionText": "A nurse is caring for a patient with rheumatoid arthritis who is now going to be taking 2 acetaminophen (Tylenol) tablets every 6 hours to control pain. Which part of the patient’s social history is the nurse most concerned about?",
+    "questionText": "A patient with rheumatoid arthritis who is now going to be taking 2 acetaminophen (Tylenol) tablets every 6 hours to control pain. Which part of the patient’s social history is the nurse most concerned about?",
     "questionImage": null,
     "options": [
       "Patient drinks 1 to 2 glasses of wine every night.",
       "Patient smokes 2 packs of cigarettes a day.",
-      "Patient occasionally uses marijuana.",
       "Patient takes anti-anxiety medications."
     ],
     "correctAnswer": "Patient drinks 1 to 2 glasses of wine every night.",
-    "explanationText": "",
+    "explanationText": "Alcohol + acetaminophen = increased chance of liver toxicity",
     "explanationImage": null
   },
   {
@@ -416,7 +386,7 @@
   },
   {
     "id": 33,
-    "questionText": "The nurse is caring for a patient to ease modifiable factors that contribute to pain. Which areas did the nurse focus on with this patient?",
+    "questionText": "a patient to ease modifiable factors that contribute to pain. Which areas did the nurse focus on with this patient?",
     "questionImage": null,
     "options": [
       "Age and gender",
@@ -428,62 +398,32 @@
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 34,
-    "questionText": "The nurse is teaching a student nurse about pain assessment scales. Which statement by the student indicates effective teaching?",
-    "questionImage": null,
-    "options": [
-      "You cannot use a pain scale to compare the pain of my patient with the pain of your patient.",
-      "When patients say they don’t need pain medication, they aren’t in pain.",
-      "A patient’s behavior is more reliable than the patient’s report of pain.",
-      "Pain assessment scales determine the quality of a patient’s pain."
-    ],
-    "correctAnswer": "You cannot use a pain scale to compare the pain of my patient with the pain of your patient.",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
   {
     "id": 35,
-    "questionText": "A nurse is providing discharge teaching for a patient with a fractured humerus. The patient is going home with hydrocodone. Which important patient education does the nurse provide?",
+    "questionText": "A nurse provides discharge teaching for a patient with fractured humerus. The patient is going home with hydrocodone. Which important patient education does the nurse provide?",
     "questionImage": null,
     "options": [
       "You need to drink plenty of fluids and eat a diet high in fiber.",
       "Narcotics can be addictive, so do not take them unless you are in severe pain.",
-      "Be sure to eat a meal high in fat before taking the medication, to avoid a stomach ulcer.",
-      "As your pain severity lessens, you will begin to give yourself once-daily intramuscular injections."
+      "Be sure to eat a meal high in fat before taking the medication, to avoid a stomach ulcer."
     ],
     "correctAnswer": "You need to drink plenty of fluids and eat a diet high in fiber.",
-    "explanationText": "",
+    "explanationText": "Hydrocodone is an opioid that slows the gut, so patients need fluids and fiber to prevent constipation.",
     "explanationImage": null
   },
   {
     "id": 36,
-    "questionText": "The nurse is caring for a group of patients. Which task may the nurse delegate to the nursing assistive personnel (NAP)?",
+    "questionText": "a group of patients. Which task may the nurse delegate to the nursing assistive personnel (NAP)?",
     "questionImage": null,
     "options": [
-      "Administer a back massage to a patient with pain.",
-      "Assessment of pain for a patient reporting abdominal pain.",
-      "Administer patient-controlled analgesia for a postoperative patient.",
-      "Inappropriate medical tests are the most common mistakes."
+      "Administer a back massage to a patient with pain."
     ],
     "correctAnswer": "Administer a back massage to a patient with pain.",
     "explanationText": "",
     "explanationImage": null
   },
-  {
-    "id": 37,
-    "questionText": "A nurse is caring for a patient who recently had spinal surgery. The nurse knows that patients usually experience acute pain following this type of surgery. The patient refuses to get up and walk and is not moving around in the bed. However, the patient is stoic and denies experiencing pain at this time. What most likely explains this patient’s behavior?",
-    "questionImage": null,
-    "options": [
-      "The surgery successfully cured the patient’s pain.",
-      "The patient’s culture is possibly influencing the patient’s experience of pain.",
-      "The primary health care provider did not prescribe the correct amount of medication.",
-      "The nurse is allowing personal beliefs about pain to influence pain management at this time."
-    ],
-    "correctAnswer": "The patient’s culture is possibly influencing the patient’s experience of pain.",
-    "explanationText": "",
-    "explanationImage": null
-  },
+
   {
     "id": 38,
     "questionText": "A patient who has had type 2 diabetes for 26 years is beginning to experience peripheral neuropathy in the feet and lower leg. The nurse is providing education to the patient to prevent injury to the feet by wearing shoes or slippers when walking. Which statement made by the nurse best explains the rationale for this instruction?",
@@ -500,7 +440,7 @@
   },
   {
     "id": 39,
-    "questionText": "A nurse is caring for a patient who fell on the ice and has connective tissue damage in the wrist and hand. The patient describes the pain as throbbing. Which type of pain does the nurse document in this patient’s medical record?",
+    "questionText": "A patient who fell on the ice and has connective tissue damage in the wrist and hand. The patient describes the pain as throbbing. Which type of pain does the nurse document in this patient’s medical record?",
     "questionImage": null,
     "options": [
       "Visceral Pain",
@@ -514,7 +454,7 @@
   },
   {
     "id": 40,
-    "questionText": "The nurse is caring for a 4-year-old child who has pain. Which technique will the nurse use to best assess pain in this child?",
+    "questionText": "a 4-year-old child who has pain. Which technique will the nurse use to best assess pain in this child?",
     "questionImage": null,
     "options": [
       "Use the FACES scale.",
@@ -528,7 +468,7 @@
   },
   {
     "id": 41,
-    "questionText": "A nurse is caring for a group of patients. Which patient will the nurse see first?",
+    "questionText": "A group of patients. Which patient will the nurse see first?",
     "questionImage": null,
     "options": [
       "A patient who received morphine and has a pulse of 62 beats/min, respirations 10 breaths/min, and blood pressure 110/60 mm Hg",
@@ -537,7 +477,7 @@
       "A patient writhing and moaning from abdominal pain after abdominal surgery"
     ],
     "correctAnswer": "A patient who received morphine and has a pulse of 62 beats/min, respirations 10 breaths/min, and blood pressure 110/60 mm Hg",
-    "explanationText": "",
+    "explanationText": "A fentanyl patch is used for chronic, severe, persistent pain—not acute pain",
     "explanationImage": null
   },
   {
@@ -572,7 +512,6 @@
     "questionText": "The nurse is evaluating the effectiveness of guided imagery for pain management as used for a patient who has second- and third-degree burns and needs extensive dressing changes. Which finding best indicates the effectiveness of guided imagery?",
     "questionImage": null,
     "options": [
-      "The patient’s facial expressions are stoic during the procedure.",
       "The patient rates pain during the dressing change as a 6 on a scale of 0 to 10.",
       "The patient’s need for analgesic medication decreases during the dressing changes.",
       "The patient asks for pain medication during the dressing changes only once throughout the procedure."
@@ -663,20 +602,6 @@
     "explanationImage": null
   },
   {
-    "id": 51,
-    "questionText": "An oriented patient has recently had surgery. Which action is best for the nurse to take to assess this patient’s pain?",
-    "questionImage": null,
-    "options": [
-      "Assess the patient’s body language.",
-      "Ask the patient to rate the level of pain.",
-      "Observe the cardiac monitor for increased heart rate.",
-      "Have the patient describe the effect of pain on the ability to cope."
-    ],
-    "correctAnswer": "Ask the patient to rate the level of pain.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
     "id": 52,
     "questionText": "A patient arrives at the emergency department experiencing a headache and rates the pain as 7 on a 0 to 10 pain scale. Which nonpharmacological intervention does the nurse implement for this patient while awaiting orders for pain medication from the health care provider?",
     "questionImage": null,
@@ -692,7 +617,7 @@
   },
   {
     "id": 53,
-    "questionText": "The nurse is caring for an infant in the intensive care unit. Which information should the nurse consider when planning care for this patient?",
+    "questionText": "an infant in the intensive care unit. Which information should the nurse consider when planning care for this patient?",
     "questionImage": null,
     "options": [
       "Infants cannot be assessed for pain.",
@@ -734,7 +659,7 @@
   },
   {
     "id": 56,
-    "questionText": "A nurse is caring for a patient who recently had abdominal surgery and is experiencing severe pain. The patient’s blood pressure is 110/60 mm Hg, and heart rate is 60 beats/min. Additionally, the patient does not appear to be in any distress. Which response by the nurse is most therapeutic?",
+    "questionText": "A patient who recently had abdominal surgery and is experiencing severe pain. The patient’s blood pressure is 110/60 mm Hg, and heart rate is 60 beats/min. Additionally, the patient does not appear to be in any distress. Which response by the nurse is most therapeutic?",
     "questionImage": null,
     "options": [
       "Your vitals do not show that you are having pain; can you describe your pain?",
@@ -748,7 +673,7 @@
   },
   {
     "id": 57,
-    "questionText": "A nurse is caring for a patient who is experiencing pain following abdominal surgery. Which information is important for the nurse to share with the patient when providing patient education about effective pain management?",
+    "questionText": "A patient who is experiencing pain following abdominal surgery. Which information is important for the nurse to share with the patient when providing patient education about effective pain management?",
     "questionImage": null,
     "options": [
       "To prevent overdose, you need to wait to ask for pain medication until you begin to experience pain.",
@@ -805,7 +730,6 @@
     "questionText": "A client has been prescribed restraints for safety reasons. Which of the following actions should the nurse prioritize when applying restraints?",
     "questionImage": null,
     "options": [
-      "Offering food and fluids",
       "Assessing skin integrity and providing skin care",
       "Providing an opportunity for the client to use the bathroom",
       "Providing range-of-motion exercises of extremities"
@@ -888,7 +812,7 @@
   },
   {
     "id": 68,
-    "questionText": "The nurse is caring for a client who is receiving an opioid pain medication and is expressing worry about developing tolerance and addiction to the pain medication. In one of their statements to the client, the nurse could explain that tolerance is (A), and addiction is (B).",
+    "questionText": "a client who is receiving an opioid pain medication and is expressing worry about developing tolerance and addiction to the pain medication. In one of their statements to the client, the nurse could explain that tolerance is (A), and addiction is (B).",
     "questionImage": null,
     "options": [
       "The need for increased amounts of an opioid to achieve the same effect; The continued behavior pattern of using  an opioid despite its negative consequences"
@@ -899,7 +823,7 @@
   },
   {
     "id": 69,
-    "questionText": "A nurse is caring for a group of clients with infections. Which infection is classified as a health care associated infection?",
+    "questionText": "A group of clients with infections. Which infection is classified as a health care associated infection?",
     "questionImage": null,
     "options": [
       "Respiratory infection contracted from a visitor",
@@ -913,7 +837,7 @@
   },
   {
     "id": 70,
-    "questionText": "A nurse is caring for a group of hospitalized clients. Which should the nurse do first to prevent client infections?",
+    "questionText": "A group of hospitalized clients. Which should the nurse do first to prevent client infections?",
     "questionImage": null,
     "options": [
       "Provide small bedside bags to dispose of used tissues",
@@ -1106,10 +1030,7 @@
     "questionText": "Which instruction should be given to a patient to ensure safety when self-applying and antibiotic ointment?",
     "questionImage": null,
     "options": [
-      "It is not necessary to allow refrigerated eye medication to warm to room temperature before administration.",
-      "Do not apply pressure directly to the eyeball when removing excess medication.",
-      "When cleaning the eye before administration, gently wash from the outer to the inner canthus.",
-      "Apply a warm, damp washcloth to the eye for several minutes to remove any crusted discharge."
+      "Do not apply pressure directly to the eyeball when removing excess medication."
     ],
     "correctAnswer": "Do not apply pressure directly to the eyeball when removing excess medication.",
     "explanationText": "",
@@ -1117,7 +1038,7 @@
   },
   {
     "id": 85,
-    "questionText": "Which statement or question best illustrates the nurse’s understanding of the role of nursing assistive personnel (NAP) in the instillation of eye medications?",
+    "questionText": "Which illustrates the nurse’s understanding of the nursing assistive personnel (NAP) in the instillation of eye medications?",
     "questionImage": null,
     "options": [
       "Did you let the eye medication warm to room temperature?",
@@ -1168,7 +1089,7 @@
       "Injecting the medication quickly"
     ],
     "correctAnswer": "Rotating injection sites",
-    "explanationText": "",
+    "explanationText": "Same spot over and over = damaged tissue + unreliable absorption",
     "explanationImage": null
   },
   {
@@ -1196,7 +1117,7 @@
       "Pull the skin taut at the injection site when inserting the needle."
     ],
     "correctAnswer": "Pull back on the plunger after inserting the needle.",
-    "explanationText": "",
+    "explanationText": "Pulling back on the plunger (aspiration) checks for blood return to ensure the needle isn’t in a blood vessel, preventing accidental intravascular injection and injury.",
     "explanationImage": null
   },
   {
@@ -1227,7 +1148,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-  
   {
     "id": 94,
     "questionText": "How might the nurse safely administer an extended-release capsule to a patient with dysphagia?",
@@ -1501,7 +1421,6 @@
     "options": [
       "Hold the ampule upside down while inserting the filter needle",
       "Inject air into the ampule before withdrawing the medication",
-      "Hold the ampule horizontally while inserting the filter needle.",
       "Expel air bubbles from the syringe while the filter needle is still inside the ampule"
     ],
     "correctAnswer": "Hold the ampule upside down while inserting the filter needle",
@@ -1692,7 +1611,7 @@
   },
   {
     "id": 127,
-    "questionText": "The nurse is instructing a patient who is to receive both a bronchodilator and a steroid medication delivered by means of a metered-dose inhaler (MDI). Which instruction is necessary for the safe administration of both agents?",
+    "questionText": "A patient is to receive both a bronchodilator and a steroid medication delivered by metered-dose inhaler (MDI). Which is safe administration of both agents?",
     "questionImage": null,
     "options": [
       "Make sure to use the steroid medication before the bronchodilator.",
@@ -1701,7 +1620,7 @@
       "Make sure you wait at least 30 seconds between administering the bronchodilator and administering the steroid medication."
     ],
     "correctAnswer": "Make sure to use the bronchodilator before the steroid medication.",
-    "explanationText": "",
+    "explanationText": "Bronchodilator → opens airway first → then steroid works more effectively",
     "explanationImage": null
   },
   {
@@ -1709,10 +1628,7 @@
     "questionText": "What is the nurse's first step in preparing to administer a prescribed medication using an automated medication dispensing system?",
     "questionImage": null,
     "options": [
-      "Establish the patient's ID using two identifiers.",
-      "Review the medication administration record (MAR).",
-      "Provide patient education",
-      "Review applicable nursing considerations."
+      "Review the medication administration record (MAR)."
     ],
     "correctAnswer": "Review the medication administration record (MAR).",
     "explanationText": "",
@@ -1724,25 +1640,10 @@
     "questionImage": null,
     "options": [
       "Assess the patient's ability to swallow oral medications without difficulty.",
-      "Ask the patient about his or her experience with this or similar medications.",
       "Prepare medications for one patient at a time.",
       "Evaluate the patient's understanding of the safety issues related to the specific drug."
     ],
     "correctAnswer": "Prepare medications for one patient at a time.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 131,
-    "questionText": "Which statement or question best illustrates the nurse's understanding of the role of nursing assistive personnel (NAP) in using automated medication dispensing systems?",
-    "questionImage": null,
-    "options": [
-      "Does the patient need her pain medication?",
-      "Let me know if she complains of any nausea.",
-      "Ask her to describe her pain and show you where it is.",
-      "Remember to log off of the system when you are finished."
-    ],
-    "correctAnswer": "Let me know if she complains of any nausea.",
     "explanationText": "",
     "explanationImage": null
   },
@@ -1790,7 +1691,7 @@
   },
   {
     "id": 135,
-    "questionText": "A nurse is caring for a group of clients experiencing various medical conditions. Which condition places the client at the highest risk for a wound infection?",
+    "questionText": "A group of clients experiencing various medical conditions. Which condition places the client at the highest risk for a wound infection?",
     "questionImage": null,
     "options": [
       "Surgical creation of a colostomy",
@@ -2045,7 +1946,7 @@
   },
   {
     "id": 154,
-    "questionText": "A nurse is caring for a debilitated female client with nocturia. Which nursing intervention is the priority when planning to meet this client's needs?",
+    "questionText": "A debilitated female client with nocturia. Which nursing intervention is the priority when planning to meet this client's needs?",
     "questionImage": null,
     "options": [
       "Encouraging the use of bladder training exercises",
@@ -2105,9 +2006,7 @@
     "questionImage": null,
     "options": [
       "Providing skin care immediately after soiling",
-      "Using a deodorant soap when providing skin care",
-      "Drying the area well after providing perineal care",
-      "Dusting the perineal area with a light film of cornstarch"
+      "Drying the area well after providing perineal care"
     ],
     "correctAnswer": "Providing skin care immediately after soiling",
     "explanationText": "",
@@ -2143,7 +2042,7 @@
   },
   {
     "id": 161,
-    "questionText": "A nurse is caring for a client with a condom catheter. Which of the following is important to implement? Select all that apply.",
+    "questionText": "Client with a condom catheter. Which is important to implement? Select all that apply.",
     "questionImage": null,
     "options": [
       "Avoiding kinks in the collection tubing; Providing perineal care at least once a day; Confirming that the adhesive band is not too tight; Leaving 1 inch between the glans penis and the drainage tubing; Ensuring that the foreskin is over the glans penis before the catheter is applies"
@@ -2154,7 +2053,7 @@
   },
   {
     "id": 162,
-    "questionText": "A nurse is caring for a female client on bedrest who has a urinary catheter. Which should the nurse do? Select all that apply.",
+    "questionText": "A female client on bedrest who has a urinary catheter. Which should the nurse do? Select all that apply.",
     "questionImage": null,
     "options": [
       "Position the tubing through the side rail of the bed",
@@ -2181,7 +2080,7 @@
   },
   {
     "id": 164,
-    "questionText": "A nurse must obtain a urine specimen for a culture and sensitivity test from a client who has an indwelling urinary catheter. Place the following steps in the order in which they should be performed.",
+    "questionText": "A nurse must get a urine specimen for a culture and sensitivity test from a client with an indwelling urinary catheter. Put the steps in order.",
     "questionImage": null,
     "options": [
       "While wearing clean gloves drain the urine in the tubing into the drainage bag; Clamp the drainage tubing below the specimen port for 15-30 minutes; Wash your hands and don clean gloves; Swab the specimen port with an antiseptic and aspirate urine via a sterile syringe; Transfer the urine to a sterile specimen cup and discard the syringe into the appropriate container; Remove the clamp from the drainage tubing"
@@ -2192,7 +2091,7 @@
   },
   {
     "id": 165,
-    "questionText": "Which of the following is the primary function of the kidney?",
+    "questionText": "Which is the primary function of the kidney?",
     "questionImage": null,
     "options": [
       "Metabolizing and excreting medications",
@@ -2276,12 +2175,11 @@
   },
   {
     "id": 171,
-    "questionText": "A patient requests the nurse’s assistance to the bedside commode and becomes frustrated when unable to void in front of the nurse. The nurse understands the patient’s inability to void because",
+    "questionText": "A patient requests the nurse’s assistance to the bedside commode and becomes frustrated when unable to void in front of the nurse. The patient is unability to void because",
     "questionImage": null,
     "options": [
       "Anxiety can make it difficult for abdominal and perineal muscles to relax enough to void",
       "The patient does not recognize the physiological signals that indicate a need to void.",
-      "The patient is lonely, and calling the nurse in under false pretenses is a way to get attention",
       "The patient is not drinking enough fluids to produce adequate urine output"
     ],
     "correctAnswer": "Anxiety can make it difficult for abdominal and perineal muscles to relax enough to void",
@@ -2412,7 +2310,7 @@
   },
   {
     "id": 181,
-    "questionText": "A nurse is caring for a client who is experiencing diarrhea. Which physiological response to diarrhea should the nurse be most concerned about?",
+    "questionText": "Client is experiencing diarrhea. Which physiological response to diarrhea should the nurse be most concerned about?",
     "questionImage": null,
     "options": [
       "Dehydration",
@@ -2496,7 +2394,7 @@
   },
   {
     "id": 187,
-    "questionText": "A primary health-care provider prescribes a tap-water enema for a client. The client asks about the purpose of the enema. Which specific information about the purpose of a tap-water enema should be included in the nurse's response?",
+    "questionText": "What is the purpose of a tap-water enema?",
     "questionImage": null,
     "options": [
       "It reduces abdominal gas",
@@ -2524,7 +2422,7 @@
   },
   {
     "id": 189,
-    "questionText": "A nurse is caring for a client with an intestinal stoma. Which intervention is most important?",
+    "questionText": "Client with an intestinal stoma. Which intervention is most important?",
     "questionImage": null,
     "options": [
       "Cleansing the stoma with cool water",
@@ -2566,7 +2464,7 @@
   },
   {
     "id": 192,
-    "questionText": "Which of the following is NOT a function of the large intestine?",
+    "questionText": "Which is NOT a function of the large intestine?",
     "questionImage": null,
     "options": [
       "Absorbing nutrients",
@@ -2594,7 +2492,7 @@
   },
   {
     "id": 194,
-    "questionText": "The nurse is caring for a patient who is confined to the bed. The nurse asks the patient if he needs to have a bowel movement 30 minutes after eating a meal because",
+    "questionText": "a patient who is confined to the bed. The nurse asks the patient if he needs to have a bowel movement 30 minutes after eating a meal because",
     "questionImage": null,
     "options": [
       "The digested food needs to make room for recently ingested food",
@@ -2650,7 +2548,7 @@
   },
   {
     "id": 198,
-    "questionText": "A nurse is caring for an older adult patient with fecal incontinence due to cathartic use. The nurse is most concerned about which complication that has the greatest risk for severe injury?",
+    "questionText": "An older adult patient with fecal incontinence due to cathartic use. The nurse is most concerned about which complication that has the greatest risk for severe injury?",
     "questionImage": null,
     "options": [
       "Rectal skin breakdown",
@@ -2673,7 +2571,7 @@
       "An oil retention enema for a patient using mineral oil laxatives"
     ],
     "correctAnswer": "A Kayexalateenema for a patient with hypokalemia",
-    "explanationText": "",
+    "explanationText": "Kayexalate lowers potassium, so giving it to a patient with hypokalemia would dangerously worsen low potassium levels",
     "explanationImage": null
   },
   {
@@ -2840,7 +2738,7 @@
   },
   {
     "id": 212,
-    "questionText": "The nurse is caring for multiple clients who require transmission-based precautions. For each of the infections below, click on the circle to specify if the infection requires contact, droplet, or airborne precautions:",
+    "questionText": "multiple clients who require transmission-based precautions. For each of the infections below, click on the circle to specify if the infection requires contact, droplet, or airborne precautions:",
     "questionImage": null,
     "options": [
       "Tuberculosis=airborne; Measles=airborne; Pertussis=droplet; Influenza=droplet; MRSA=contact"
@@ -2851,7 +2749,7 @@
   },
   {
     "id": 213,
-    "questionText": "The nurse is caring for a client who is experiencing a localized right hand incision infection. Which of the following manifestations would signal to the nurse that the infection may be becoming systemic? (Select all that apply)",
+    "questionText": "a client who is experiencing a localized right hand incision infection. Which of the following manifestations would signal to the nurse that the infection may be becoming systemic? (Select all that apply)",
     "questionImage": null,
     "options": [
       "Fever; Anorexia; Nausea and vomiting; Malaise"
@@ -2951,7 +2849,7 @@
   },
   {
     "id": 221,
-    "questionText": "The nurse is caring for a client who has a sacral pressure injury with visible subcutaneous fat, but without muscle or bone visible. How would the nurse stage this pressure injury?",
+    "questionText": "a client who has a sacral pressure injury with visible subcutaneous fat, but without muscle or bone visible. How would the nurse stage this pressure injury?",
     "questionImage": null,
     "options": [
       "Stage I",
@@ -2990,7 +2888,7 @@
   },
   {
     "id": 224,
-    "questionText": "The nurse is caring for a post-operative client who recently had abdominal surgery and is also experiencing a severe cough from an illness obtained after surgery. The client told the nurse that he just felt a popping sensation accompanied by severe pain in the area of his wound after a recent coughing spell. The nurse would suspect that the client has experienced a(n) (A), which occurs when (B).",
+    "questionText": "a post-operative client who recently had abdominal surgery and is also experiencing a severe cough from an illness obtained after surgery. The client told the nurse that he just felt a popping sensation accompanied by severe pain in the area of his wound after a recent coughing spell. The nurse would suspect that the client has experienced a(n) (A), which occurs when (B).",
     "questionImage": null,
     "options": [
       "Evisceration; The wound and underlying tissues separate allowing organs to protrude through the incision"
@@ -3004,7 +2902,7 @@
     "questionText": "The nurse is preparing to change a client’s PICC line dressing. For each practice, click on the circle to specify if the practice is appropriate or is not appropriate for a PICC line dressing change.",
     "questionImage": null,
     "options": [
-      "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away fromt he insertion site = not appropriate"
+      "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away from the insertion site = not appropriate"
     ],
     "correctAnswer": "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away fromt he insertion site = not appropriate",
     "explanationText": "",
@@ -3023,7 +2921,7 @@
   },
   {
     "id": 227,
-    "questionText": "A client presents with symptoms of a postrenal injury. Which of the following is a potential cause of a postrenal injury?",
+    "questionText": "A client presents with symptoms of a postrenal injury. Which is a potential cause of a postrenal injury?",
     "questionImage": null,
     "options": [
       "Dehydration",
@@ -3037,12 +2935,12 @@
   },
   {
     "id": 228,
-    "questionText": "A client recently had a nephrostomy placed. The nurse can educate the family about the nephrostomy by telling them that the nephrostomy is placed in the (A), and because of that, dressings need to be done using (B) technique.",
+    "questionText": "New nephrostomy placed. The nephrostomy is placed in the (A), and because of that, dressings need to be done using (B) technique.",
     "questionImage": null,
     "options": [
       "Kidney; Sterile"
     ],
-    "correctAnswer": "",
+    "correctAnswer": "Kidney; Sterile",
     "explanationText": "",
     "explanationImage": null
   },
@@ -3392,7 +3290,7 @@
   },
   {
     "id": 254,
-    "questionText": "The nurse calculates that the patient is to receive 125 mL of intravenous (IV) normal saline per hour. After programming the infusion pump to deliver at that rate, how would the nurse ensure accurate fluid administration?",
+    "questionText": "The patient is to get 125 mL of intravenous (IV) normal saline per hour. After programming the infusion pump to deliver at that rate, how would the nurse ensure accurate fluid administration?",
     "questionImage": null,
     "options": [
       "First verify that the fluid is dripping, and then check the level of fluid remaining in the container every hour.",
@@ -3446,14 +3344,6 @@
     "explanationText": "",
     "explanationImage": null
   },
- 
- 
- 
- 
- 
- 
- 
- 
   {
     "id": 258,
     "questionText": "A patient is admitted to the ER with the following findings: heart rate of 115 (thready upon palpation), 81/57 blood pressure, 25 ml/hr urinary output, and Sodium level of 162. What interventions do you expect the medical doctor to order for this patient?",
@@ -3549,12 +3439,12 @@
       "Bradycardia and pitting edema in lower extremities"
     ],
     "correctAnswer": "Increased blood pressure and crackles throughout the lungs",
-    "explanationText": "The correct answer is increased blood pressure and crackles throughout the lungs. Patients with CHF are in fluid volume overload and the heart  can not compensate for the extra fluid volume, therefore, the fluid starts to 'backup'. You would find an increased blood pressure and  crackles in the lungs. You would also see pitting edema in the lower  extremities but NOT bradycardia.",
+    "explanationText": "Patients with CHF are in fluid volume overload and the heart can not compensate for the extra fluid volume, therefore, the fluid starts to 'backup'. You would find an increased blood pressure and crackles in the lungs. You would also see pitting edema in the lower extremities but NOT bradycardia.",
     "explanationImage": null
   },
   {
     "id": 265,
-    "questionText": "A nurse teaches a client how to use an incentive spirometer. Which projected client outcome supports the conclusion that the use of the incentive spirometer was effective?",
+    "questionText": "A client uses an incentive spirometer. Which outcome supports the use of the incentive spirometer was effective?",
     "questionImage": null,
     "options": [
       "Expiratory volume will be decreased",
@@ -3610,7 +3500,7 @@
   },
   {
     "id": 269,
-    "questionText": "A nurse hears a client explain the purpose of pursed-lip breathing to a relative. Which information would indicate to the nurse that the client correctly understood the nurse's teaching about pursed-lip breathing?",
+    "questionText": "Pursed-lip breathing. Which info indicates correct understanding?",
     "questionImage": null,
     "options": [
       "Precipitates coughing",
@@ -3652,7 +3542,7 @@
   },
   {
     "id": 272,
-    "questionText": "A primary health-care provider prescribes oxygen for a client to be delivered at a high flow rate. Which additional nursing action is necessary when implementing a high-liter flow as opposed to a low-liter flow?",
+    "questionText": "Oxygen is prescribed at a high flow rate. Which is needed when implementing a high-liter flow as opposed to a low-liter flow?",
     "questionImage": null,
     "options": [
       "Attaching a flowmeter to the wall outlet",
@@ -3694,7 +3584,7 @@
   },
   {
     "id": 275,
-    "questionText": "A nurse is caring for a client who has a chest tube after thoracic surgery. Which of the following should the nurse implement when caring for this client? Select all that apply.",
+    "questionText": "Client has a chest tube after thoracic surgery. Which of the following should the nurse implement when caring for this client? Select all that apply.",
     "questionImage": null,
     "options": [
       "Encourage the client to cough and deep breathe at regular intervals - Position the collection device below the level of the chest - Maintain an airtight dressing over the puncture wound - Avoid using pins to secure tubing",
@@ -3706,7 +3596,7 @@
   },
   {
     "id": 276,
-    "questionText": "A nurse is caring for a client receiving oxygen via a nasal cannula. Which of the following should the nurse implement? Select all that apply.",
+    "questionText": "Client receiving oxygen via a nasal cannula. Which of the following should the nurse implement? Select all that apply.",
     "questionImage": null,
     "options": [
       "Apply a water-based lubricant to the client's nares - Adjust the flowmeter to the prescribed oxygen flow rate - Reassess nares/ cheeks/ and ears for signs of pressure every 2 hours - Place the nasal prongs so that they curve downward when in the nares - oop the tubing over the client's ears and adjust it gently under the chin",
@@ -3870,7 +3760,7 @@
   },
   {
     "id": 288,
-    "questionText": "The nurse is caring for a patient who is recovering from a left partial lobectomy. Which action would be most helpful in reexpanding the affected lung?",
+    "questionText": "a patient who is recovering from a left partial lobectomy. Which action would be most helpful in reexpanding the affected lung?",
     "questionImage": null,
     "options": [
       "Placing the patient in a right side-lying position",
@@ -3912,7 +3802,7 @@
   },
   {
     "id": 291,
-    "questionText": "Which of the following is a risk factor for decreased oxygen saturation level in a patient?",
+    "questionText": "Which is a risk factor for decreased oxygen saturation level in a patient?",
     "questionImage": null,
     "options": [
       "Chest wall injury",
@@ -3982,7 +3872,7 @@
   },
   {
     "id": 296,
-    "questionText": "Which response would the nurse report immediately if it occurred in association with nasotracheal suctioning?",
+    "questionText": "Which response would the nurse report immediately if it occurred with nasotracheal suctioning?",
     "questionImage": null,
     "options": [
       "Patient complains of discomfort during the procedure",
@@ -4083,8 +3973,6 @@
     "questionText": "Which action may be delegated to nursing assistive personnel (NAP) regarding the care of a patient with a tracheostomy?",
     "questionImage": null,
     "options": [
-      "Performing tracheostomy care for a patient whose tracheostomy was placed 1 week ago",
-      "Removing the outer cannula and placing the obturator",
       "Holding the tracheostomy tube while the nurse changes the neck ties",
       "Monitoring oxygen saturation levels and placing oxygen if needed"
     ],
@@ -4117,7 +4005,7 @@
       "Monitoring the patient for signs of hypoxia"
     ],
     "correctAnswer": "Observing the six rights of medication administration",
-    "explanationText": "Although a patient should call before getting out of bed, since the oxygen tubing may pose a trip hazard, it is more important for the nurse to ensure that the oxygen is administered correctly. The skill of setting and adjusting the oxygen flow rate may not be delegated to NAP. Oxygen is considered a medication and must be administered following the six rights of medication administration. This option is directed toward evaluating the patient's response to oxygen therapy, not toward minimizing his or her risk for injury",
+    "explanationText": "Although a patient should call before getting out of bed, since the oxygen tubing may pose a trip hazard, it is more important for the nurse to ensure that the oxygen is administered correctly. The skill of setting and adjusting the oxygen flow rate may not be delegated to NAP. Oxygen is considered a medication and must be administered following the six rights of medication administration. This option is directed toward evaluating the patient's response to oxygen therapy, not toward minimizing his or her risk for injury. Right patient, right medication, right dose, right route, right time, and right documentation.",
     "explanationImage": null
   },
   {
@@ -4164,7 +4052,7 @@
   },
   {
     "id": 309,
-    "questionText": "A nurse is caring for a client who has respiratory acidosis. Which of the following medications should the nurse prepare to administer?",
+    "questionText": "Client has respiratory acidosis. Which of the following medications should the nurse prepare to administer?",
     "questionImage": null,
     "options": [
       "Antiemetic",
@@ -4178,7 +4066,7 @@
   },
   {
     "id": 310,
-    "questionText": "A nurse is caring for a client whose ABG results are pH 7.30, PaCO2 32 mm Hg, and HCO3- 19 mEq/L. The nurse should identify that the client has which of the following acid base imbalances?",
+    "questionText": "Client has ABG results of pH 7.30, PaCO2 32 mm Hg, and HCO3- 19 mEq/L. The nurse should identify that the client has which of the following acid base imbalances?",
     "questionImage": null,
     "options": [
       "Respiratory Acidosis",
@@ -4192,7 +4080,7 @@
   },
   {
     "id": 311,
-    "questionText": "A nurse is caring for a client who has metabolic alkalosis. As the client compensates for this acid-base imbalance, which of the following mechanisms should the nurse expect the client's body to use?",
+    "questionText": "Client has metabolic alkalosis. As the client compensates for this acid-base imbalance, which of the following mechanisms should the nurse expect the client's body to use?",
     "questionImage": null,
     "options": [
       "Hypoventilation",
@@ -4206,7 +4094,7 @@
   },
   {
     "id": 312,
-    "questionText": "A nurse is caring for a client who has a high fever and is hyperventilating. His ABG results are pH 7.51, PaCO2 28mm Hg, and HCO3- 24 mEq/L. The nurse should identify that the client has which of the following acid-base imbalances?",
+    "questionText": "Client has a high fever and is hyperventilating. His ABG results are pH 7.51, PaCO2 28mm Hg, and HCO3- 24 mEq/L. The nurse should identify that the client has which of the following acid-base imbalances?",
     "questionImage": null,
     "options": [
       "Respiratory Acidosis",
@@ -4290,7 +4178,7 @@
   },
   {
     "id": 318,
-    "questionText": "Which of the following is an appropriately stated learning goal (using SMART format)?",
+    "questionText": "Which is an appropriately stated learning goal (using SMART format)?",
     "questionImage": null,
     "options": [
       "The client will understand their medication regimen",
@@ -4358,20 +4246,7 @@
     "explanationText": "n/a",
     "explanationImage": null
   },
-  {
-    "id": 323,
-    "questionText": "A nurse is planning a weight-reduction program with a client. Which should the nurse anticipate will be the MOST important component that will determine the success or failure of this program?",
-    "questionImage": null,
-    "options": [
-      "Rewarding compliant behavior with favorite foods",
-      "Encouraging at least 1 hour of exercise daily",
-      "Using an 800 calorie dietary regimen",
-      "Setting realistic goals"
-    ],
-    "correctAnswer": "Setting realistic goals",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
+
   {
     "id": 324,
     "questionText": "A nurse is teaching a client recently diagnosed with diabetes the step-by-step process for administering an insulin injection using an orange. However, after two sessions the client is still reluctant to self-administer the insulin. Which should the nurse do?",
@@ -4402,7 +4277,7 @@
   },
   {
     "id": 326,
-    "questionText": "The nurse is caring for a client who is receiving IV fluids. When assessing the IV site, the nurse notices warmth and redness around the IV site, along with a streak up the vein. The nurse would recognize this complication as (A), and the nurse’s priority action would be to (B).",
+    "questionText": "a client who is receiving IV fluids. When assessing the IV site, the nurse notices warmth and redness around the IV site, along with a streak up the vein. The nurse would recognize this complication as (A), and the nurse’s priority action would be to (B).",
     "questionImage": null,
     "options": [
       "Phlebitis. Remove the IV catheter.",
@@ -4426,7 +4301,7 @@
     "explanationImage": null
   },
   {
-    "id":328,
+    "id": 328,
     "questionText": "Select the actions that should be avoided when selecting a site for a peripheral IV:",
     "questionImage": null,
     "options": [
@@ -4439,7 +4314,7 @@
   },
   {
     "id": 329,
-    "questionText": "A nurse is caring for a client with pneumonia. Which of the following interventions is the nurse’s priority?",
+    "questionText": "Client with pneumonia. Which of the following interventions is the nurse’s priority?",
     "questionImage": null,
     "options": [
       "Ensuring adequate hydration",
@@ -4465,7 +4340,7 @@
   },
   {
     "id": 331,
-    "questionText": "The nurse is caring for a client with a chest tube. The nurse notices continuous bubbling in the water seal chamber of the chest tube. Continuous bubbling in the water seal chamber:",
+    "questionText": "a client with a chest tube. The nurse notices continuous bubbling in the water seal chamber of the chest tube. Continuous bubbling in the water seal chamber:",
     "questionImage": null,
     "options": [
       "Is an expected finding",
@@ -4479,7 +4354,7 @@
   },
   {
     "id": 332,
-    "questionText": "The nurse is caring for a client with the following arterial blood gas results: pH 7.47, CO2 30 mmHg, HCO3 25 mEq/L. The nurse interprets these results as:",
+    "questionText": "a client with the following arterial blood gas results: pH 7.47, CO2 30 mmHg, HCO3 25 mEq/L. The nurse interprets these results as:",
     "questionImage": null,
     "options": [
       "Respiratory acidosis",
@@ -4493,7 +4368,7 @@
   },
   {
     "id": 333,
-    "questionText": "The nurse is caring for a client with the following arterial blood gas results: pH 7.30, CO2 37 mmHg, HCO3 19 mEq/L. The nurse interprets these results as:",
+    "questionText": "a client with the following arterial blood gas results: pH 7.30, CO2 37 mmHg, HCO3 19 mEq/L. The nurse interprets these results as:",
     "questionImage": null,
     "options": [
       "Respiratory acidosis",
@@ -4518,7 +4393,7 @@
   },
   {
     "id": 335,
-    "questionText": "The nurse is caring for a client who had an excessive intake of antacids. The nurse knows this client is at risk for which of the following electrolyte imbalances?",
+    "questionText": "a client who had an excessive intake of antacids. The nurse knows this client is at risk for which of the following electrolyte imbalances?",
     "questionImage": null,
     "options": [
       "Hypocalcemia",
@@ -4614,7 +4489,7 @@
       "Discussing a client's feelings about a recent diagnosis.",
       "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication."
     ],
-    "correctAnswer":       "Explaining the purpose and side effects of a medication to a client. Asking the client to identify risk factors for their health condition.",
+    "correctAnswer": "Explaining the purpose and side effects of a medication to a client. Asking the client to identify risk factors for their health condition.",
     "explanationText": "n/a",
     "explanationImage": null
   },
@@ -4627,7 +4502,7 @@
       "Discussing a client's feelings about a recent diagnosis.",
       "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication."
     ],
-    "correctAnswer":       "Discussing a client's feelings about a recent diagnosis.",
+    "correctAnswer": "Discussing a client's feelings about a recent diagnosis.",
     "explanationText": "n/a",
     "explanationImage": null
   },
@@ -4640,7 +4515,7 @@
       "Discussing a client's feelings about a recent diagnosis.",
       "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication."
     ],
-    "correctAnswer":       "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication.",
+    "correctAnswer": "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication.",
     "explanationText": "n/a",
     "explanationImage": null
   }
