@@ -39,20 +39,6 @@
     "explanationImage": null
   },
   {
-    "id": 4,
-    "questionText": "Which of the following patients would require repositioning?",
-    "questionImage": null,
-    "options": [
-      "A patient who has been sitting in a chair for 10 minutes watching television",
-      "A patient in correct body alignment who was turned 2 hours ago",
-      "A patient with paraplegia who has been sitting in a chair for 10 minutes but states that she is comfortable",
-      "A patient who was repositioned for comfort 30 minutes ago after being moved up in bed"
-    ],
-    "correctAnswer": "A patient in correct body alignment who was turned 2 hours ago",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
     "id": 5,
     "questionText": "Which of the following instructions provided by the nurse to ancillary staff assigned the responsibility of bathing a patient who has been prescribed elastic stockings is most likely to ensure the continued skin integrity of the patient's legs?",
     "questionImage": null,
@@ -100,7 +86,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
   {
     "id": 10,
     "questionText": "The nurse is providing oral care to an unconscious patient. Which action should the nurse take?",
@@ -190,39 +175,13 @@
     "explanationImage": null
   },
   {
-    "id": 18,
-    "questionText": "What temperature do you administer an intermittent gastric tube feeding to the patient?",
-    "questionImage": null,
-    "options": [
-      "Chilled from the unit refrigerator",
-      "Warmed to 98-100 degrees Fahrenheit",
-      "Room temperature"
-    ],
-    "correctAnswer": "Room temperature",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
     "id": 19,
-    "questionText": "The patient is on parenteral nutrition and is diaphoretic, shaky, and confused. Which problem does the nurse prepare to address?",
+    "questionText": "Parenteral nutrition and is diaphoretic, shaky, and confused. Which problem is this?",
     "questionImage": null,
     "options": [
       "hypoglycemia / low blood sugar"
     ],
     "correctAnswer": "hypoglycemia / low blood sugar",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 20,
-    "questionText": "A small-bore feeding tube is placed. Which technique will the nurse use to best verify the initial tube placement?",
-    "questionImage": null,
-    "options": [
-      "Inject air into the tube and auscultate over the abdomen",
-      "Aspirate gastric contents and check for pH",
-      "Obtain an order for an x-ray of the chest/abdomen"
-    ],
-    "correctAnswer": "Obtain an order for an x-ray of the chest/abdomen",
     "explanationText": "",
     "explanationImage": null
   },
@@ -245,20 +204,6 @@
       "Allow plenty of time to eat meals; Offer thickened liquids as ordered; Coach the patient to use the chin-tuck technique when eating"
     ],
     "correctAnswer": "Allow plenty of time to eat meals; Offer thickened liquids as ordered; Coach the patient to use the chin-tuck technique when eating",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 23,
-    "questionText": "An older adult is admitted to the hospital for multiple health problems. Assessment reveals that the client has no teeth and is having difficulty eating. Which diet should the nurse encourage the physician to order for this client?",
-    "questionImage": null,
-    "options": [
-      "Liquid supplements",
-      "Mechanical soft",
-      "Pureed",
-      "Soft"
-    ],
-    "correctAnswer": "Mechanical soft",
     "explanationText": "",
     "explanationImage": null
   },
@@ -300,7 +245,6 @@
     "explanationText": "",
     "explanationImage": null
   },
- 
   {
     "id": 28,
     "questionText": "A patient with chronic pain. Which statement by the nurse indicates an understanding of pain management?",
@@ -315,7 +259,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
   {
     "id": 30,
     "questionText": "A patient with rheumatoid arthritis who is now going to be taking 2 acetaminophen (Tylenol) tablets every 6 hours to control pain. Which part of the patient’s social history is the nurse most concerned about?",
@@ -371,7 +314,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
   {
     "id": 35,
     "questionText": "A nurse provides discharge teaching for a patient with fractured humerus. The patient is going home with hydrocodone. Which important patient education does the nurse provide?",
@@ -396,7 +338,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
   {
     "id": 38,
     "questionText": "A patient who has had type 2 diabetes for 26 years is beginning to experience peripheral neuropathy in the feet and lower leg. The nurse is providing education to the patient to prevent injury to the feet by wearing shoes or slippers when walking. Which statement made by the nurse best explains the rationale for this instruction?",
@@ -558,21 +499,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
-  {
-    "id": 52,
-    "questionText": "A patient arrives at the emergency department experiencing a headache and rates the pain as 7 on a 0 to 10 pain scale. Which nonpharmacological intervention does the nurse implement for this patient while awaiting orders for pain medication from the health care provider?",
-    "questionImage": null,
-    "options": [
-      "Reassures the patient that the provider will come to the emergency department soon",
-      "Softly plays music that the patient finds relaxing",
-      "Frequently reassesses the patient’s pain scores",
-      "Teaches the patient how to do yoga"
-    ],
-    "correctAnswer": "Softly plays music that the patient finds relaxing",
-    "explanationText": "",
-    "explanationImage": null
-  },
   {
     "id": 53,
     "questionText": "an infant in the intensive care unit. Which information should the nurse consider when planning care for this patient?",
@@ -606,10 +532,7 @@
     "questionText": "Older-adult patient who is experiencing pain. Which statement made by the nurse indicates the supervising nurse needs to follow up?",
     "questionImage": null,
     "options": [
-      "As adults age, their ability to perceive pain decreases.",
-      "Older patients may have low serum albumin in their blood, causing toxic effects of analgesic drugs.",
-      "Patients who have dementia probably experience pain, and their pain is not always well controlled.",
-      "It is safe to administer opioids to older adults as long as you start with small doses and frequently assess the patient’s response to the medication."
+      "As adults age, their ability to perceive pain decreases."
     ],
     "correctAnswer": "As adults age, their ability to perceive pain decreases.",
     "explanationText": "",
@@ -784,9 +707,6 @@
     "questionText": "A group of clients with infections. Which infection is classified as a health care associated infection?",
     "questionImage": null,
     "options": [
-      "Respiratory infection contracted from a visitor",
-      "Vaginal infection in a postmenopausal woman",
-      "Urinary tract infection in a client who is sedentary",
       "Wound infection caused by unwashed hands of a caregiver"
     ],
     "correctAnswer": "Wound infection caused by unwashed hands of a caregiver",
@@ -826,10 +746,7 @@
     "questionText": "Which should the nurse do to interrupt the transmission link in the chain of infection?",
     "questionImage": null,
     "options": [
-      "Wash the hands before providing care to a client",
-      "Position a commode next to a client's bed",
-      "Provide education about a balanced diet",
-      "Change a dressing when it is soiled"
+      "Wash the hands before providing care to a client"
     ],
     "correctAnswer": "Wash the hands before providing care to a client",
     "explanationText": "",
@@ -924,20 +841,6 @@
       "Apply a warm, damp washcloth to the external ear to remove any crusted discharge."
     ],
     "correctAnswer": "Remain in the lateral position (unaffected side) for a few minutes after instillation",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 80,
-    "questionText": "Which statement or question best illustrates the nurse’s understanding of the role of nursing assistive personnel (NAP) in the instillation of ear medications?",
-    "questionImage": null,
-    "options": [
-      "Did you let the ear medication warm to room temperature?",
-      "Do you think the patient is capable of instilling her own eardrops?",
-      "Please tell the patient that the medication may make him dizzy when he stands up.",
-      "Be sure to keep the patient on her side for a few minutes, because I just administered her eardrops."
-    ],
-    "correctAnswer": "Be sure to keep the patient on her side for a few minutes, because I just administered her eardrops.",
     "explanationText": "",
     "explanationImage": null
   },
@@ -1084,9 +987,7 @@
     "questionImage": null,
     "options": [
       "Ventrogluteal",
-      "Abdominal",
-      "Deltoid",
-      "Dorsogluteal"
+      "Deltoid"
     ],
     "correctAnswer": "Ventrogluteal",
     "explanationText": "",
@@ -1275,20 +1176,6 @@
     "explanationImage": null
   },
   {
-    "id": 106,
-    "questionText": "How can the nurse prevent negative pressure from building up in the vial when preparing an injection?",
-    "questionImage": null,
-    "options": [
-      "Inject an amount of air into the vial equivalent to the volume of medication to be withdrawn.",
-      "Insert the needle through the center of the rubber seal.",
-      "Keep the tip of the needle below the level of fluid in the vial.",
-      "Tap the barrel of the syringe to dislodge air bubbles."
-    ],
-    "correctAnswer": "Inject an amount of air into the vial equivalent to the volume of medication to be withdrawn.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
     "id": 107,
     "questionText": "How can the nurse ensure that medication from a single-dose vial is used appropriately?",
     "questionImage": null,
@@ -1363,10 +1250,7 @@
     "questionText": "Which action minimizes the risk of introducing glass particles into the syringe when drawing medication from an ampule?",
     "questionImage": null,
     "options": [
-      "Using minimal force to snap the neck of the ampule",
-      "Using gauze to cover the top of the ampule when snapping it",
-      "Using a filter needle or straw to draw the medication from the ampule",
-      "Allowing the medication to settle after the ampule has been snapped open"
+      "Using a filter needle or straw to draw the medication from the ampule"
     ],
     "correctAnswer": "Using a filter needle or straw to draw the medication from the ampule",
     "explanationText": "",
@@ -1396,20 +1280,6 @@
       "When taking an active role in self-administration of insulin"
     ],
     "correctAnswer": "During a care transition point, such as transfer to another unit",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 115,
-    "questionText": "As the nurse is giving a patient his medications, he remarks, 'I've never seen this blue pill before.' What is the nurse's correct response?",
-    "questionImage": null,
-    "options": [
-      "I'm sure the doctor knows what he's doing. Don't worry.",
-      "Our pharmacy probably sent a generic form of what you're used to taking.",
-      "What color pill are you used to seeing?",
-      "Don't take it. Let me double-check the doctor's order to make sure this is the correct medication for you."
-    ],
-    "correctAnswer": "Don't take it. Let me double-check the doctor's order to make sure this is the correct medication for you.",
     "explanationText": "",
     "explanationImage": null
   },
@@ -1466,20 +1336,6 @@
       "After inhaling the medication, hold your breath for at least 10 seconds before exhaling."
     ],
     "correctAnswer": "After inhaling the medication, hold your breath for at least 10 seconds before exhaling.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 120,
-    "questionText": "Which statement best illustrates the nurse's understanding of the role of nursing assistive personnel (NAP) in the use of a dry powder inhaler (DPI)?",
-    "questionImage": null,
-    "options": [
-      "Be sure to let me know if the patient starts coughing again.",
-      "Did you shake the inhaler well before giving it to the patient?",
-      "Do you think the patient is capable of using the inhaler independently?",
-      "Please tell the patient that the inhaler is to be used only when she is having trouble breathing."
-    ],
-    "correctAnswer": "Be sure to let me know if the patient starts coughing again.",
     "explanationText": "",
     "explanationImage": null
   },
@@ -1549,20 +1405,6 @@
       "Please tell her the inhaler is to be used no more than three times per day."
     ],
     "correctAnswer": "Be sure to let me know if she starts coughing again.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 126,
-    "questionText": "A patient has been prescribed a metered-dose inhaler (MDI) containing 200 doses of a bronchodilator. The patient has been instructed to take two puffs of the medication three times daily. At this dosage, how long will the MDI last?",
-    "questionImage": null,
-    "options": [
-      "100 days",
-      "50 days",
-      "66 days",
-      "33 days"
-    ],
-    "correctAnswer": "33 days",
     "explanationText": "",
     "explanationImage": null
   },
@@ -1753,20 +1595,6 @@
     "explanationImage": null
   },
   {
-    "id": 143,
-    "questionText": "What stage is this pressure injury?",
-    "questionImage": "images/pressureInjuryStage1.png",
-    "options": [
-      "Stage 1",
-      "Stage 2",
-      "Unstageable",
-      "Not a pressure injury"
-    ],
-    "correctAnswer": "Stage 1",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
     "id": 144,
     "questionText": "What stage is this pressure injury?",
     "questionImage": "images/pressureInjuryStage4.png",
@@ -1948,24 +1776,9 @@
     "questionText": "Which is an effective nursing intervention to prevent urinary tract infections?",
     "questionImage": null,
     "options": [
-      "Teach female clients to wipe from the back to the front after urinating",
-      "Advise clients to report burning on urination to health-care providers",
-      "Instruct clients to use bath powder to absorb perineal perspiration",
       "Encourage clients to drink several quarts of fluid daily"
     ],
     "correctAnswer": "Encourage clients to drink several quarts of fluid daily",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 158,
-    "questionText": "A client has urinary incontinence. Which is the best nursing intervention for this client?",
-    "questionImage": null,
-    "options": [
-      "Providing skin care immediately after soiling",
-      "Drying the area well after providing perineal care"
-    ],
-    "correctAnswer": "Providing skin care immediately after soiling",
     "explanationText": "",
     "explanationImage": null
   },
@@ -1974,10 +1787,7 @@
     "questionText": "A client has a urinary catheter. Which is most important when the nurse cares for this client?",
     "questionImage": null,
     "options": [
-      "Applying an antimicrobial agent to the urinary meatus 2 times a day",
-      "Ensuring that the catheter remains connected to the collection bag",
-      "Wearing sterile gloves when accessing the specimen port",
-      "Increasing fluid intake to 3,000mL a day"
+      "Ensuring that the catheter remains connected to the collection bag"
     ],
     "correctAnswer": "Ensuring that the catheter remains connected to the collection bag",
     "explanationText": "",
@@ -1988,10 +1798,7 @@
     "questionText": "Insert an indwelling urinary catheter into a male client. The nurse feels firm resistance while inserting the catheter into the penis. What should the nurse do?",
     "questionImage": null,
     "options": [
-      "Lower the penis until it is parallel to the length of the body",
-      "Inflate the balloon of the catheter with 10mL of normal saline",
-      "Stop the procedure and notify the health-care provider about the resistance",
-      "Use a twisting motion and firmly advance the catheter 2 inches farther into the penis"
+      "Stop the procedure and notify the health-care provider about the resistance"
     ],
     "correctAnswer": "Stop the procedure and notify the health-care provider about the resistance",
     "explanationText": "",
@@ -2051,10 +1858,7 @@
     "questionText": "Which is the primary function of the kidney?",
     "questionImage": null,
     "options": [
-      "Metabolizing and excreting medications",
-      "Maintaining fluid and electrolyte balance",
-      "Storing and excreting urine",
-      "Filtering blood cells and proteins"
+      "Maintaining fluid and electrolyte balance"
     ],
     "correctAnswer": "Maintaining fluid and electrolyte balance",
     "explanationText": "",
@@ -2494,10 +2298,7 @@
     "questionText": "Which nursing intervention is most effective in promoting normal defecation for a patient who has muscle weakness in the legs that prevents ambulation?",
     "questionImage": null,
     "options": [
-      "Elevate the head of the bed 45 degrees 60 minutes after breakfast",
-      "Use a mobility device to place the patient on a bedside commode",
-      "Give the patient a pillow to brace against the abdomen while bearing down",
-      "Administer a soap suds enema every 2 hours"
+      "Use a mobility device to place the patient on a bedside commode"
     ],
     "correctAnswer": "Use a mobility device to place the patient on a bedside commode",
     "explanationText": "",
@@ -2556,20 +2357,6 @@
       "A 70-year-old patient with stool incontinence"
     ],
     "correctAnswer": "A 70-year-old patient with stool incontinence",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 202,
-    "questionText": "An older adult’s perineal skin appears to be dry and thin with mild excoriation. When providing hygiene after a bowel movement, the nurse should",
-    "questionImage": null,
-    "options": [
-      "Thoroughly scrub the skin with a wash cloth and hypoallergenic soap",
-      "Apply a skin protective lotion after perineal care",
-      "Tape an occlusive moisture barrier pad to the patient’s skin",
-      "Massage the skin with deep kneading pressure"
-    ],
-    "correctAnswer": "Apply a skin protective lotion after perineal care",
     "explanationText": "",
     "explanationImage": null
   },
@@ -2673,7 +2460,7 @@
   },
   {
     "id": 210,
-    "questionText": "Place the stages of infection in order from the first stage to the last stage",
+    "questionText": "❗ Place the stages of infection in order from the first stage to the last stage",
     "questionImage": null,
     "options": [
       "Incubation; Prodromal; Acute illness; Period of decline; Period of convalenscence"
@@ -2748,9 +2535,6 @@
     "questionText": "When should the nurse administer a PRN medication?",
     "questionImage": null,
     "options": [
-      "Only when the client requests it",
-      "At the same time every day",
-      "Only when the client is in severe pain",
       "When the nurse determines the client’s need for it"
     ],
     "correctAnswer": "When the nurse determines the client’s need for it",
@@ -2861,8 +2645,7 @@
     "options": [
       "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away from the insertion site = not appropriate"
     ],
-    "correctAnswer":       "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away from the insertion site = not appropriate"
-,
+    "correctAnswer": "Using sterile technique when applying the new dressing=appropriate; Writing the date and time as well as the initials of who did the dressing change = appropriate; Never wearing gloves when removing the old dressing = not appropriate; removing the old dressing away from the insertion site = not appropriate",
     "explanationText": "",
     "explanationImage": null
   },
@@ -2882,10 +2665,7 @@
     "questionText": "A client presents with symptoms of a postrenal injury. Which is a potential cause of a postrenal injury?",
     "questionImage": null,
     "options": [
-      "Dehydration",
-      "Kidney stones",
-      "Severe blood loss",
-      "End-stage renal disease"
+      "Kidney stones"
     ],
     "correctAnswer": "Kidney stones",
     "explanationText": "",
@@ -2932,9 +2712,6 @@
     "questionText": "Which technique is most accurate in identifying an appropriate vein site for IV catheter insertion into the arm?",
     "questionImage": null,
     "options": [
-      "Remove any clothing that is covering the arm.",
-      "Apply a warm washcloth to the arm at the proposed site",
-      "Elevate the selected arm on a pillow for 2 to 3 minutes",
       "Apply a tourniquet to the selected arm 4 to 6 inches above the proposed site"
     ],
     "correctAnswer": "Apply a tourniquet to the selected arm 4 to 6 inches above the proposed site",
@@ -2997,8 +2774,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
-
   {
     "id": 238,
     "questionText": "An adult patient is prescribed to receive a unit of packed red blood cells. Which size intravenous catheter does the patient need to safely receive this blood?",
@@ -3018,10 +2793,7 @@
     "questionText": "The nurse is preparing to administer a unit of blood to a patient in the emergency department and discovers that he is not wearing an identification bracelet. What should the nurse do?",
     "questionImage": null,
     "options": [
-      "Identify the patient by asking him to produce a photo ID, such as a driver's license",
-      "Administer the blood only if you have been caring for the patient and can be certain of his identity",
-      "Return the unit to the blood bank.",
-      "Identify the patient by asking a family member to identify him."
+      "Return the unit to the blood bank."
     ],
     "correctAnswer": "Return the unit to the blood bank.",
     "explanationText": "",
@@ -3178,21 +2950,6 @@
     "explanationText": "",
     "explanationImage": null
   },
-
-  {
-    "id": 252,
-    "questionText": "How would the infusion of the intravenous (IV) fluids be affected if the tubing were unintentionally dislodged from the chamber of the control mechanism of the electronic infusion device (EID)?",
-    "questionImage": null,
-    "options": [
-      "The infusion would slow to a 'keep vein open' rate.",
-      "The patient would receive a bolus of fluid.",
-      "The infusion would continue at the prescribed rate.",
-      "The flow of fluid would stop."
-    ],
-    "correctAnswer": "The flow of fluid would stop.",
-    "explanationText": "",
-    "explanationImage": null
-  },
   {
     "id": 253,
     "questionText": "A patient is prescribed 1000 mL of intravenous (IV) normal saline to run over 8 hours. The initial fluid is hung at 0800. How many milliliters of fluid will have infused by 1200?",
@@ -3218,20 +2975,6 @@
       "Check the IV site for complications"
     ],
     "correctAnswer": "First verify that the fluid is dripping, and then check the level of fluid remaining in the container every hour.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 255,
-    "questionText": "Which information is not necessary for the nurse to include when documenting the use of an electronic infusion device (EID) for an intravenous infusion?",
-    "questionImage": null,
-    "options": [
-      "Location of the insertion site",
-      "Time at which the infusion began",
-      "Patient's pulse and heart rate",
-      "Hourly volume flow rate of the infusion"
-    ],
-    "correctAnswer": "Patient's pulse and heart rate",
     "explanationText": "",
     "explanationImage": null
   },
@@ -3376,20 +3119,6 @@
     "explanationImage": null
   },
   {
-    "id": 266,
-    "questionText": "A client has thick, tenacious respiratory secretions. Which should the nurse do to liquefy the client's secretions?",
-    "questionImage": null,
-    "options": [
-      "Change the client's positions every two hours",
-      "Get a prescription for an antitussive agent",
-      "Encourage the client to drink more fluid",
-      "Teach effective deep breathing"
-    ],
-    "correctAnswer": "Encourage the client to drink more fluid",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
     "id": 267,
     "questionText": "A client's hemoglobin saturation via pulse oximetry indicates inadequate oxygenation. Which should the nurse do first?",
     "questionImage": null,
@@ -3484,20 +3213,6 @@
       "Low-fowler"
     ],
     "correctAnswer": "Sitting",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
-    "id": 274,
-    "questionText": "Which is the most important action by the nurse after a client has a chest tube inserted to treat a pneumothorax?",
-    "questionImage": null,
-    "options": [
-      "Ensure the client's intake is at least 3,000mL of fluid per 24 hours",
-      "Provide the client with adequate medication for pain relief",
-      "Maintain the integrity of the client's chest tube",
-      "Reposition the client every 2 hours"
-    ],
-    "correctAnswer": "Maintain the integrity of the client's chest tube",
     "explanationText": "n/a",
     "explanationImage": null
   },
@@ -3609,13 +3324,10 @@
   },
   {
     "id": 283,
-    "questionText": "When preparing the patient's environment for safe oxygen therapy, which intervention is a priority to minimize the patient's risk for injury?",
+    "questionText": "Prepare patient's environment for safe oxygen therapy, which intervention is a priority to minimize the patient's risk for injury?",
     "questionImage": null,
     "options": [
-      "Place appropriate signage to alert staff and visitors to the presence of oxygen in the patient's room",
-      "Instruct nursing assistive personnel (NAP) to immediately correct or report safety hazards",
-      "Inspect all electrical equipment in the patient's room for the presence of safety-check tags",
-      "Ensure that the patient receives the prescribed amount of oxygen via the appropriate method."
+      "Inspect all electrical equipment in the patient's room for the presence of safety-check tags"
     ],
     "correctAnswer": "Inspect all electrical equipment in the patient's room for the presence of safety-check tags",
     "explanationText": "",
@@ -3635,7 +3347,6 @@
     "explanationText": "Oxygen may not be increased based on the patient's comfort. Extra cylinders should be stored vertically 'No Smoking' signs should be placed throughout the house as well as at the entrance. Keep oxygen at least 10 feet (about 3 meters) away from anything that could generate a spark",
     "explanationImage": null
   },
- 
   {
     "id": 286,
     "questionText": "Which statement by the patient would indicate that he or she understands the safe use of oxygen?",
@@ -3767,9 +3478,6 @@
     "questionText": "Which action is part of the preparation for nasotracheal suctioning?",
     "questionImage": null,
     "options": [
-      "Place the patient in a supine position.",
-      "Preoxygenate the patient with 100% oxygen.",
-      "Suction 100 mL of warm tap water to flush the suction catheter.",
       "Place water-soluble lubricant onto the open sterile catheter package"
     ],
     "correctAnswer": "Place water-soluble lubricant onto the open sterile catheter package",
@@ -3887,20 +3595,6 @@
     "explanationImage": null
   },
   {
-    "id": 304,
-    "questionText": "Which technique would the nurse use to change a patient's tracheostomy ties?",
-    "questionImage": null,
-    "options": [
-      "Use a slipknot",
-      "Ensure that two fingers fit snugly under the tie.",
-      "Knot the ends of the tie in the eyelets on the faceplate",
-      "Ask the patient to hold his or her breath while the ties are changed"
-    ],
-    "correctAnswer": "Ensure that two fingers fit snugly under the tie.",
-    "explanationText": "A slipknot could become untied. Use a square knot on tracheostomy ties. When the tie is secure, two fingers should fit snugly under it. The ends of the ties are not knotted at the eyelets on the faceplate. Doing so would make it difficult to change the ties when they become soiled. The patient is not asked to hold his or her breath during tracheostomy care",
-    "explanationImage": null
-  },
-  {
     "id": 305,
     "questionText": "What would be the nurse's priority in order to minimize a patient's risk for injury during oxygen therapy?",
     "questionImage": null,
@@ -3947,27 +3641,10 @@
     "questionText": "What would the nurse monitor frequently to ensure that the prescribed amount of oxygen is being delivered to a patient?",
     "questionImage": null,
     "options": [
-      "Arterial blood gas (ABG) levels",
-      "Oxygen flow meter setting",
-      "Respiratory rate",
-      "Temperature"
+      "Oxygen flow meter setting"
     ],
     "correctAnswer": "Oxygen flow meter setting",
     "explanationText": "The oxygen flow meter setting is directly related to the rate of oxygen delivery",
-    "explanationImage": null
-  },
-  {
-    "id": 309,
-    "questionText": "Client has respiratory acidosis. Which of the following medications should the nurse prepare to administer?",
-    "questionImage": null,
-    "options": [
-      "Antiemetic",
-      "Hypoglycemic",
-      "Antidiarrheal",
-      "Bronchodilator"
-    ],
-    "correctAnswer": "Bronchodilator",
-    "explanationText": "n/a",
     "explanationImage": null
   },
   {
@@ -3981,20 +3658,6 @@
       "Metabolic Alkalosis"
     ],
     "correctAnswer": "Metabolic Acidosis",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
-    "id": 311,
-    "questionText": "Client has metabolic alkalosis. As the client compensates for this acid-base imbalance, which of the following mechanisms should the nurse expect the client's body to use?",
-    "questionImage": null,
-    "options": [
-      "Hypoventilation",
-      "Hyperventilation",
-      "Increased renal acid excretion",
-      "Decreased renal acid excretion"
-    ],
-    "correctAnswer": "Hypoventilation",
     "explanationText": "n/a",
     "explanationImage": null
   },
@@ -4017,10 +3680,7 @@
     "questionText": "Client with acute alcohol intoxication. The nurse should identify that the client is at risk for which of the following acid-base imbalances?",
     "questionImage": null,
     "options": [
-      "Respiratory Acidosis",
-      "Respiratory Alkalosis",
-      "Metabolic Acidosis",
-      "Metabolic Alkalosis"
+      "Metabolic Acidosis"
     ],
     "correctAnswer": "Metabolic Acidosis",
     "explanationText": "n/a",
@@ -4087,10 +3747,7 @@
     "questionText": "Which is an appropriately stated learning goal (using SMART format)?",
     "questionImage": null,
     "options": [
-      "The client will understand their medication regimen",
-      "The client will administer their insulin injection in their abdomen",
-      "The client will correctly verbalize their medication dosing schedule by the day of discharge",
-      "The client will give an injection independently on their first try"
+      "The client will correctly verbalize their medication dosing schedule by the day of discharge"
     ],
     "correctAnswer": "The client will correctly verbalize their medication dosing schedule by the day of discharge",
     "explanationText": "n/a",
@@ -4111,20 +3768,6 @@
     "explanationImage": null
   },
   {
-    "id": 320,
-    "questionText": "Teach a kinesthetic learner about exercise. Which will the nurse use?",
-    "questionImage": null,
-    "options": [
-      "provide patient with pictures of exercise equipment",
-      "let the patient touch and use the exercise equipment",
-      "let the patient watch a video about exercise equipment",
-      "provide the learner with a case study about exercise equipment"
-    ],
-    "correctAnswer": "let the patient touch and use the exercise equipment",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
     "id": 321,
     "questionText": "A toddler is going to have surgery on the right ear. Which teaching method is most appropriate for this developmental stage?",
     "questionImage": null,
@@ -4138,21 +3781,6 @@
     "explanationText": "n/a",
     "explanationImage": null
   },
-  {
-    "id": 322,
-    "questionText": "A nurse’s goal is to provide teaching for restoration of health. Which situation indicates the nurse is meeting this goal?",
-    "questionImage": null,
-    "options": [
-      "teaching a family member to provide passive range of motion on a stroke patient",
-      "teaching a woman who had a recent hysterectomy about adoption",
-      "teaching expectant women about changes in child-bearing women",
-      "teaching a teenager with a broken leg how to use crutches"
-    ],
-    "correctAnswer": "teaching a teenager with a broken leg how to use crutches",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-
   {
     "id": 324,
     "questionText": "Client recently diagnosed with diabetes. Teach the step-by-step process for administering an insulin injection using an orange. However, after two sessions the client is still reluctant to self-administer the insulin. Which should the nurse do?",
@@ -4249,10 +3877,7 @@
     "questionText": "a client with a chest tube. The nurse notices continuous bubbling in the water seal chamber of the chest tube. Continuous bubbling in the water seal chamber:",
     "questionImage": null,
     "options": [
-      "Is an expected finding",
-      "Could be a sign of an air leak",
-      "Is an expected finding depending on the level of suction",
-      "Means that the lung has re-expanded"
+      "Could be a sign of an air leak"
     ],
     "correctAnswer": "Could be a sign of an air leak",
     "explanationText": "n/a",
@@ -4362,20 +3987,6 @@
     "explanationImage": null
   },
   {
-    "id": 340,
-    "questionText": "How does the teach-back method work in client education?",
-    "questionImage": null,
-    "options": [
-      "The nurse demonstrates a skill or procedure to the client",
-      "The nurse provides informational handouts to the client",
-      "The client repeats the information in their own words",
-      "The client is quizzed by the nurse on the information"
-    ],
-    "correctAnswer": "The client repeats the information in their own words",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
     "id": 341,
     "questionText": "Prior to initiating client teaching, which of the following should the nurse assess? (Select all that apply)",
     "questionImage": null,
@@ -4383,19 +3994,6 @@
       "The client’s health literacy level. The client’s motivation to learn. The resources available to the client. The client’s physical capabilities. The learning environment"
     ],
     "correctAnswer": "The client’s health literacy level. The client’s motivation to learn. The resources available to the client. The client’s physical capabilities. The learning environment",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
-    "id": 342,
-    "questionText": "Which is cognitive?",
-    "questionImage": null,
-    "options": [
-      "Explaining the purpose and side effects of a medication to a client. Asking the client to identify risk factors for their health condition.",
-      "Discussing a client's feelings about a recent diagnosis.",
-      "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication."
-    ],
-    "correctAnswer": "Explaining the purpose and side effects of a medication to a client. Asking the client to identify risk factors for their health condition.",
     "explanationText": "n/a",
     "explanationImage": null
   },
@@ -4409,19 +4007,6 @@
       "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication."
     ],
     "correctAnswer": "Discussing a client's feelings about a recent diagnosis.",
-    "explanationText": "n/a",
-    "explanationImage": null
-  },
-  {
-    "id": 344,
-    "questionText": "Which is psychomotor?",
-    "questionImage": null,
-    "options": [
-      "Explaining the purpose and side effects of a medication to a client. Asking the client to identify risk factors for their health condition.",
-      "Discussing a client's feelings about a recent diagnosis.",
-      "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication."
-    ],
-    "correctAnswer": "Demonstrating how to change a wound dressing. Observing the nurse demonstrate the steps to administer a medication.",
     "explanationText": "n/a",
     "explanationImage": null
   }
