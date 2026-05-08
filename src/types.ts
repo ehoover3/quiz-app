@@ -8,6 +8,12 @@ export type Question = {
   explanationImage: string | null;
 };
 
+export type QuizData = {
+  shuffleQuestions?: boolean;
+  shuffleOptions?: boolean;
+  questions: Question[];
+};
+
 export type ResultItem = {
   question: string;
   correctAnswer: string;

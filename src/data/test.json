@@ -1,30 +1,49 @@
-[
-  {
-    "id": 1,
-    "questionText": "The answer is A.",
-    "questionImage": null,
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctAnswer": "A",
-    "explanationText": "Because the answer is A.",
-    "explanationImage":   "images/Chloasma.jpeg"
-  },
-  {
-    "id": 2,
-    "questionText": "The answer is B.",
-    "questionImage": null,
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctAnswer": "B",
-    "explanationText": "Because the answer is B.",
-    "explanationImage": null
-  }
-]
+{
+  "shuffleQuestions": false,
+  "shuffleOptions": false,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "The answer is A.",
+      "questionImage": null,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "A",
+      "explanationText": "Because the answer is A.",
+      "explanationImage": "images/Chloasma.jpeg"
+    },
+    {
+      "id": 2,
+      "questionText": "The answer is B.",
+      "questionImage": null,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "B",
+      "explanationText": "Because the answer is B.",
+      "explanationImage": null
+    },
+
+        {
+      "id": 2,
+      "questionText": "The answer is C.",
+      "questionImage": null,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "C",
+      "explanationText": "Because the answer is C.",
+      "explanationImage": null
+    }
+  ]
+}

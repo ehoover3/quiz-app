@@ -1,80 +1,84 @@
-[
-  {
-    "id": 1,
-    "questionText": "Client has tachycardia, dyspnea, cough, and distended neck veins and receiving transfusion of RBCs.  Which intervention should nurse do to prevent these in next transfusion?",
-    "questionImage": null,
-    "options": [
-      "Use transfusion pump to regulate and maintain transfusion at slower rate."
-    ],
-    "correctAnswer": "Use transfusion pump to regulate and maintain transfusion at slower rate.",
-    "explanationText": "",
-    "explanationImage": null
-  },
-  {
-    "id": 2,
-    "questionText": "Postoperative client had conventional lumbar disk excision. Which is true?",
-    "questionImage": null,
-    "options": [
-      "I will wait about 3 weeks before returning to my usual activities.",
-      "I'll use my heateing pad if I feel back muscle spasms.",
-      "I can drive in about 2 weeks."
-    ],
-    "correctAnswer": "I'll use my heateing pad if I feel back muscle spasms.",
-    "explanationText": "Apply heat to relax paraspinal muscles.  6 weeks to heal after laminectomy.  Driving strains the back, so wait 6 weeks.",
-    "explanationImage": null
-  },
-  {
-    "id": 3,
-    "questionText": "Client is 12 hours open cholecystectomy postoperative. Which finding should the nurse report to the provider?",
-    "questionImage": null,
-    "options": [
-      "Hypoactive bowel sounds",
-      "Indwelling urinary catheter output of 25 mL/hr",
-      "Serous drainage at surgical incision site"
-    ],
-    "correctAnswer": "Indwelling urinary catheter output of 25 mL/hr",
-    "explanationText": "Rreport urinary output of < 30 mL/hr - this indicates hypovolemia or renal complication.",
-    "explanationImage": null
-  },
-  {
-    "id": 4,
-    "questionText": "Client had a breast cancer right mastectomy and has 2 JP drains.  What should the nurse teach?",
-    "questionImage": null,
-    "options": [
-      "Empty the drainage tubes once per day.",
-      "Showering is permitted before the drainage tubes are removed.",
-      "Drainage tubes often are removed at the same time as stitches.",
-      "Do not exercise your arm until the provider removes the drainage tubes."
-    ],
-    "correctAnswer": "Drainage tubes often are removed at the same time as stitches.",
-    "explanationText": "Drainage tubes and stitches are removed usually within 7 to 10 days.  Drain tubes twice per day. Take baths (not showers) until JP tubes and stitches are removed. Do nonstrenuous exercise.",
-    "explanationImage": null
-  },
-  {
-    "id": 5,
-    "questionText": "Client has Cushing's syndrome from chronic corticosteroid use. Which should nurse do?",
-    "questionImage": null,
-    "options": [
-      "Check blood glucose for hypoglycemia",
-      "Check client urine specific gravity",
-      "Weigh client weekly"
-    ],
-    "correctAnswer": "Check client urine specific gravity",
-    "explanationText": "Check urine specific gravity to assess for fluid volume overload. Cushing's syndrome is from prolonged excessive cortisol.  Cortisol retains sodium and water.",
-    "explanationImage": null
-  },
-  {
-    "id": 6,
-    "questionText": "Which is atrial flutter?",
-    "questionImage": null,
-    "options": [
-      "P waves occuring at 0.16 seconds before each QRS complex",
-      "Atrial rate of 300/min with QRS complex of 80/min",
-      "Ventricular rate of 82/min with atrial rate of 80/min",
-      "Irregular ventricular rate of 125/min with wide QRS pattern"
-    ],
-    "correctAnswer": "Atrial rate of 300/min with QRS complex of 80/min",
-    "explanationText": "Normal sinus rhythm = P waves occuring at 0.16 seconds before each QRS complex. Ventricular ectopy (extra heartbeats that originate in the ventricles) = Ventricular rate of 82/min with atrial rate of 80/min.  Ventricular tachycardia = Irregular ventricular rate of 125/min with wide QRS pattern.",
-    "explanationImage": null
-  }
-]
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Client has tachycardia, dyspnea, cough, and distended neck veins and receiving transfusion of RBCs.  Which intervention should nurse do to prevent these in next transfusion?",
+      "questionImage": null,
+      "options": [
+        "Use transfusion pump to regulate and maintain transfusion at slower rate."
+      ],
+      "correctAnswer": "Use transfusion pump to regulate and maintain transfusion at slower rate.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 2,
+      "questionText": "Postoperative client had conventional lumbar disk excision. Which is true?",
+      "questionImage": null,
+      "options": [
+        "I will wait about 3 weeks before returning to my usual activities.",
+        "I'll use my heateing pad if I feel back muscle spasms.",
+        "I can drive in about 2 weeks."
+      ],
+      "correctAnswer": "I'll use my heateing pad if I feel back muscle spasms.",
+      "explanationText": "Apply heat to relax paraspinal muscles.  6 weeks to heal after laminectomy.  Driving strains the back, so wait 6 weeks.",
+      "explanationImage": null
+    },
+    {
+      "id": 3,
+      "questionText": "Client is 12 hours open cholecystectomy postoperative. Which finding should the nurse report to the provider?",
+      "questionImage": null,
+      "options": [
+        "Hypoactive bowel sounds",
+        "Indwelling urinary catheter output of 25 mL/hr",
+        "Serous drainage at surgical incision site"
+      ],
+      "correctAnswer": "Indwelling urinary catheter output of 25 mL/hr",
+      "explanationText": "Rreport urinary output of < 30 mL/hr - this indicates hypovolemia or renal complication.",
+      "explanationImage": null
+    },
+    {
+      "id": 4,
+      "questionText": "Client had a breast cancer right mastectomy and has 2 JP drains.  What should the nurse teach?",
+      "questionImage": null,
+      "options": [
+        "Empty the drainage tubes once per day.",
+        "Showering is permitted before the drainage tubes are removed.",
+        "Drainage tubes often are removed at the same time as stitches.",
+        "Do not exercise your arm until the provider removes the drainage tubes."
+      ],
+      "correctAnswer": "Drainage tubes often are removed at the same time as stitches.",
+      "explanationText": "Drainage tubes and stitches are removed usually within 7 to 10 days.  Drain tubes twice per day. Take baths (not showers) until JP tubes and stitches are removed. Do nonstrenuous exercise.",
+      "explanationImage": null
+    },
+    {
+      "id": 5,
+      "questionText": "Client has Cushing's syndrome from chronic corticosteroid use. Which should nurse do?",
+      "questionImage": null,
+      "options": [
+        "Check blood glucose for hypoglycemia",
+        "Check client urine specific gravity",
+        "Weigh client weekly"
+      ],
+      "correctAnswer": "Check client urine specific gravity",
+      "explanationText": "Check urine specific gravity to assess for fluid volume overload. Cushing's syndrome is from prolonged excessive cortisol.  Cortisol retains sodium and water.",
+      "explanationImage": null
+    },
+    {
+      "id": 6,
+      "questionText": "Which is atrial flutter?",
+      "questionImage": null,
+      "options": [
+        "P waves occuring at 0.16 seconds before each QRS complex",
+        "Atrial rate of 300/min with QRS complex of 80/min",
+        "Ventricular rate of 82/min with atrial rate of 80/min",
+        "Irregular ventricular rate of 125/min with wide QRS pattern"
+      ],
+      "correctAnswer": "Atrial rate of 300/min with QRS complex of 80/min",
+      "explanationText": "Normal sinus rhythm = P waves occuring at 0.16 seconds before each QRS complex. Ventricular ectopy (extra heartbeats that originate in the ventricles) = Ventricular rate of 82/min with atrial rate of 80/min.  Ventricular tachycardia = Irregular ventricular rate of 125/min with wide QRS pattern.",
+      "explanationImage": null
+    }
+  ]
+}
