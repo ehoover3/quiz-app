@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which is a postiive sign of pregnancy?",
+    "questionImage": null,
+    "options": [
+      "Positive serum pregnancy test",
+      "Amenorrhea",
+      "Fetal heart tones auscultated by Doppler",
+      "Chadwick sign"
+    ],
+    "correctAnswer": "Fetal heart tones auscultated by Doppler",
+    "explanationText": "Amenorrhea is a presumptive sign. Positive pregnancy test is a probable sign. Chadwick sign is a probable indication (bluish-violet discoloration of the cervix, vagina).",
+    "explanationImage": "images/chadwickSign.png"
+  },
+  {
+    "id": 2,
+    "questionText": "Pregnant client. What should nurse teach about nonstress testing?",
+    "questionImage": null,
+    "options": [
+      "This test is an invasive procedure",
+      "If the test is reactive, baby's heart rate is healthy.",
+      "The test should record the baby's heart rate decreases."
+    ],
+    "correctAnswer": "If the test is reactive, baby's heart rate is healthy.",
+    "explanationText": "Nonstress testing is noninvasive. A reactive test indicates fetal HR accelerates with fetal movement by about 15 beats/min.",
+    "explanationImage": null
+  },
+  {
+    "id": 3,
+    "questionText": "Client is 30 weeks of gestation and has gestational HTN.  Which indicates client needs biophysical profile?",
+    "questionImage": null,
+    "options": [
+      "Fetal HR 136/min",
+      "Fetal movement 12 kicks in 12 hours",
+      "Nonreactive non-stress test"
+    ],
+    "correctAnswer": "Nonreactive non-stress test",
+    "explanationText": "Nonreactive non-stress test will extend duration of test with vibroacoustic stimulation to try to elicit a responde from fetus.  If still nonreactive, client should undergo biophysical profile (ultrasound assessment).",
+    "explanationImage": null
+  },
+  {
+    "id": 4,
+    "questionText": "Client is in prolonged labor. Which indicates fetal compromise?",
+    "questionImage": null,
+    "options": [
+      "Late decelerations with fetal bradycardia",
+      "Baseline fetal HR of 110 to 130 per minute"
+    ],
+    "correctAnswer": "Late decelerations with fetal bradycardia",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 5,
+    "questionText": "Client has trichomoniasis and is prescribed metronidazole. What should the nurse teach?",
+    "questionImage": null,
+    "options": [
+      "You and your partner need to take the medication and use a condome during intercourse until cultures are negative."
+    ],
+    "correctAnswer": "You and your partner need to take the medication and use a condome during intercourse until cultures are negative.",
+    "explanationText": "Trichomonas vaginalis is an organism that causes STI.  Symptoms are yellowish to greenish, frothy, mucopurulent, copious discharge with unpleasant odor, itching, burning, or redness of vulva and vagina.",
+    "explanationImage": "images/trichomonasVaginalis.png"
+  },
+  {
+    "id": 6,
+    "questionText": "Pregnant client is Rh-negative. In which situation should the nurse administer Rh(D) immune globuline?",
+    "questionImage": null,
+    "options": [
+      "While clinet is in labor",
+      "Following an episode of influenza during pregnancy",
+      "Prior to a blood transfusion",
+      "At 28 weeks gestation"
+    ],
+    "correctAnswer": "At 28 weeks gestation",
+    "explanationText": "Rh(D) immune globuline consist of passive antibodies against Rh factor, which will destroy any fetal RBCs in the maternal circulation and block maternal antibody production",
+    "explanationImage": "images/rhdImmuneGlobulin.png"
+  },
+  {
+    "id": 7,
+    "questionText": "Newborn weighs 4lb.  How many kg is this?",
+    "questionImage": null,
+    "options": [
+      "1.8",
+      "8.8"
+    ],
+    "correctAnswer": "1.8",
+    "explanationText": "4 lbs ÷ 2.2 = 1.8 kg",
+    "explanationImage": null
+  },
+  {
+    "id": 8,
+    "questionText": "Postpartum client reports abdominal cramping. What should nurse do?",
+    "questionImage": null,
+    "options": [
+      "Teach client to lie on her side",
+      "Offer a sitz bath",
+      "Request prescription for opioid analgesic",
+      "Encourage client to interact with newborn"
+    ],
+    "correctAnswer": "Encourage client to interact with newborn",
+    "explanationText": "Baby interactions distract and decrease discomfort from uterine contractions. Client should lie prone to reduce discomfort. Ibuprofen or acetaminophen is recommended, not an opioid. Sitz bath is for perineal discomfort.",
+    "explanationImage": "images/sitzBath.png"
+  },
+  {
+    "id": 9,
+    "questionText": "Pre-eclampsia client is scheduled magnesium sulfate via continuous IV.  Which adverse effects should the nurse teach?",
+    "questionImage": null,
+    "options": [
+      "Elevated blood pressure",
+      "Feeling of warmth",
+      "Hyperactivity",
+      "Generalized pruritus"
+    ],
+    "correctAnswer": "Feeling of warmth",
+    "explanationText": "If magnesium sulfate, then client will feel sedated, lower BP, and feeling of warmth. Generalized pruritus can be an allergic reaction.",
+    "explanationImage": null
+  },
+  {
+    "id": 10,
+    "questionText": "Client is in active labor. Nurse notes late decelerations on fetal monitor. What should nurse do?",
+    "questionImage": null,
+    "options": [
+      "Administer methyl-prostaglandin IM",
+      "Apply oxygen at 10 L/min via nonrebreather face mask"
+    ],
+    "correctAnswer": "Apply oxygen at 10 L/min via nonrebreather face mask",
+    "explanationText": "Not enough oxygen to fetus is uteroplacental insufficiency. Methyl-prostaglandin induces abortion or is for postpartum hemorrhage by delivering strong uterine contractions.",
+    "explanationImage": null
+  }
+]

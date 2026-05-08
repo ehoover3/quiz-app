@@ -31,28 +31,20 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
-          <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("labs")}>
-            Labs
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewborn")}>
+            Maternal Newborn
+          </button>
+
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgical")}>
+            Medical Surgical
           </button>
 
           <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("cardiacRhythms")}>
             Cardiac Rhythms
           </button>
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("healthAssessment_RefinedQuestions")}>
-            Health Assessment
-          </button>
-
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("pharmacology")}>
-            Pharmacology
-          </button>
-
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("pharmacologyInstructorReview")}>
-            Pharmacology Instructor Review
-          </button>
-
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("fundamentals")}>
-            Fundamentals (All TopHat Questions)
+          <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("labs")}>
+            Labs
           </button>
 
           <button className="button button-orange button-orange:hover" onClick={() => handleSelectQuiz("test")}>
