@@ -170,6 +170,39 @@
       "correctAnswer":         "Boil water for powdered formula for 1-2 min",
       "explanationText": "Parents should run tap water for 2 minutes, then boil for 1-2 minutes before mixing it with the formula to decrease contamination.",
       "explanationImage": null
+    },
+    {
+      "id": 14,
+      "questionText": "Clinet is postpartum, breastfeeding, and has perineal hematoma.  Which breastfeeding position is recommended?",
+      "questionImage": null,
+      "options": [
+"Side-lying",
+"Clutch hold",
+"Across-the-lap",
+"Cross-cradle"
+
+      ],
+      "correctAnswer": "Side-lying",
+      "explanationText": "Clutch (or football) hold is good for cesarean birth.  Across-the-lap is for smaller babies. Cross-cradle is for small babies.  Side-lying reduces pressure on the hematoma.",
+      "explanationImage": "images/breastfeedingPositions.png"
+    },
+    {
+      "id": 15,
+      "questionText": "Newborn has hyperbilirubinemia and prescribed phototherapy.  Which intervention should nurse do?",
+      "questionImage": null,
+      "options": ["Reposition newborn every 3 hours"],
+      "correctAnswer": "Reposition newborn every 3 hours",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "Pregnant client.  Which should they report immediately?",
+      "questionImage": null,
+      "options": ["Swelling of face and fingers"],
+      "correctAnswer": "Swelling of face and fingers",
+      "explanationText": "Swelling of face and fingers is an indiation fo HTN disorders such as eclampsia.",
+      "explanationImage": null
     }
   ]
 }

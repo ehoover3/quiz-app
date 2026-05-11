@@ -92,6 +92,39 @@
       "correctAnswer": "Apply a warm compress to the lesions",
       "explanationText": "Take 3 to 4 sitz baths daily.  Use mild soap to clean lesions and pat area dry.  Avoid sex when lesions are present.  A warm compress relieves discomfort.",
       "explanationImage": null
+    },
+    {
+      "id": 8,
+      "questionText": "Client had pulmonary embolism and is about to discharge.  What is true?",
+      "questionImage": null,
+      "options": [
+        "I'll call my doctor if I see any blood in my urine or stool"
+      ],
+      "correctAnswer": "I'll call my doctor if I see any blood in my urine or stool",
+      "explanationText": "Bleeding precautions are important because clients who had a pulmonary embolism take an anticoagulant",
+      "explanationImage": null
+    },
+    {
+      "id": 9,
+      "questionText": "Client has HIV. Which should the nurse include in teaching?",
+      "questionImage": null,
+      "options": [
+        "Expect persistent fever and swollen glands"
+      ],
+      "correctAnswer": "Expect persistent fever and swollen glands",
+      "explanationText": "Client with AIDS can have persistent fever, swollen glands, diarrhea, weight loss, and fatigue",
+      "explanationImage": null
+    },
+    {
+      "id": 10,
+      "questionText": "Client has cerebral lesion and develops hyperthermia.  Which area of hte client's brain is affected?",
+      "questionImage": null,
+      "options": [
+        "Hypothalamus"
+      ],
+      "correctAnswer": "Hypothalamus",
+      "explanationText": "Hypothalamus is repsonsible for temperature regulation",
+      "explanationImage": null
     }
   ]
 }
