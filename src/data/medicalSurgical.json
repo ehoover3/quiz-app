@@ -79,6 +79,19 @@
       "correctAnswer": "Atrial rate of 300/min with QRS complex of 80/min",
       "explanationText": "Normal sinus rhythm = P waves occuring at 0.16 seconds before each QRS complex. Ventricular ectopy (extra heartbeats that originate in the ventricles) = Ventricular rate of 82/min with atrial rate of 80/min.  Ventricular tachycardia = Irregular ventricular rate of 125/min with wide QRS pattern.",
       "explanationImage": null
+    },
+    {
+      "id": 7,
+      "questionText": "Client has genital herpes.  What should they do?",
+      "questionImage": null,
+      "options": [
+        "Take a sitz bath once per day",
+        "Use alcohol-based soap to clear lesions",
+        "Apply a warm compress to the lesions"
+      ],
+      "correctAnswer": "Apply a warm compress to the lesions",
+      "explanationText": "Take 3 to 4 sitz baths daily.  Use mild soap to clean lesions and pat area dry.  Avoid sex when lesions are present.  A warm compress relieves discomfort.",
+      "explanationImage": null
     }
   ]
 }

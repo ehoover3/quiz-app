@@ -130,6 +130,46 @@
       "correctAnswer": "Apply oxygen at 10 L/min via nonrebreather face mask",
       "explanationText": "Not enough oxygen to fetus is uteroplacental insufficiency. Methyl-prostaglandin induces abortion or is for postpartum hemorrhage by delivering strong uterine contractions.",
       "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "Client is post-term labor.  Which is priority?",
+      "questionImage": null,
+      "options": [
+        "I had blood-streaked discharge a few hours ago",
+        "When my water broke, it was not clear",
+        "I have not felt my baby move as much today",
+        "I feel like I cannot breathe when I walk up the stairs"
+      ],
+      "correctAnswer": "When my water broke, it was not clear",
+      "explanationText": "This is an injury risk to the newborn from meconium aspiration",
+      "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "Newborn born 2 hours ago.  Which is respiratory distress?",
+      "questionImage": null,
+      "options": [
+        "Acrocyanosis",
+        "Expiratory grunting",
+        "Respiratory rate 56/min",
+        "Irregular respiration"
+      ],
+      "correctAnswer": "Expiratory grunting",
+      "explanationText": "Grunting indicates narrowing of bronchi.  Expected respiratory range is 30 to 60/min.",
+      "explanationImage": null
+    },
+    {
+      "id": 13,
+      "questionText": "Which should be taught to parents about bottle feeding?",
+      "questionImage": null,
+      "options": [
+        "Discard unused refrigerated formula after 72 hours",
+        "Boil water for powdered formula for 1-2 min"
+      ],
+      "correctAnswer":         "Boil water for powdered formula for 1-2 min",
+      "explanationText": "Parents should run tap water for 2 minutes, then boil for 1-2 minutes before mixing it with the formula to decrease contamination.",
+      "explanationImage": null
     }
   ]
 }
