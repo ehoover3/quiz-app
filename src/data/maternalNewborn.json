@@ -203,6 +203,19 @@
       "correctAnswer": "Swelling of face and fingers",
       "explanationText": "Swelling of face and fingers is an indiation fo HTN disorders such as eclampsia.",
       "explanationImage": null
+    },
+
+       {
+      "id": 17,
+      "questionText": "Pregnant client.  35 weeks gestation has preeclampsia without severe features.  Which is a priority?",
+      "questionImage": null,
+      "options": ["480 mL urine output in 24 hr",
+    "Blood pressure 144/92 mmHg",
+  "+2 edema of the feet",
+"1+ protein in urine"],
+      "correctAnswer": "480 mL urine output in 24 hr",
+      "explanationText": "Minimal accepted level is 30 mL/hr.  +2 edema of the feet is expected at 35 weeks gestation.  +1 protein in urine and blood pressure of 144/92 mmHg is nonurgent because it is an expected finding for client with preeclampsia.",
+      "explanationImage": null
     }
   ]
 }
