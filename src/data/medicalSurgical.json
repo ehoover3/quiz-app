@@ -125,6 +125,18 @@
       "correctAnswer": "Hypothalamus",
       "explanationText": "Hypothalamus is repsonsible for temperature regulation",
       "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "Client is NPO and has NG tube to suction.  When client reports nausea, which action should nurse take?",
+      "questionImage": null,
+      "options": [
+        "Irrigate tube with normal saline solution",
+        "Increase amount of suction"
+      ],
+      "correctAnswer": "Irrigate tube with normal saline solution",
+      "explanationText": "Determine tube patency - if it isn't patent, gastric pressure can increase which causes nausea.  Increased suction can be ineffective or increase risk of injury.",
+      "explanationImage": null
     }
   ]
 }
