@@ -1,0 +1,487 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "What does AFI stand for?",
+      "questionImage": null,
+      "options": [
+        "Amniotic Fluid Index",
+        "Artificial Fetal Inspection",
+        "Anterior Fetal Indicator"
+      ],
+      "correctAnswer": "Amniotic Fluid Index",
+      "explanationText": "AFI stands for Amniotic Fluid Index.",
+      "explanationImage": null
+    },
+    {
+      "id": 2,
+      "questionText": "What does AFP stand for?",
+      "questionImage": null,
+      "options": [
+        "Alpha-Fetal Protein",
+        "Anterior Fetal Position",
+        "Artificial Placental Function"
+      ],
+      "correctAnswer": "Alpha-Fetal Protein",
+      "explanationText": "AFP stands for Alpha-Fetal Protein.",
+      "explanationImage": null
+    },
+    {
+      "id": 3,
+      "questionText": "What does AROM mean?",
+      "questionImage": null,
+      "options": [
+        "Artificial Rupture of Membranes",
+        "Anterior Rupture of Membranes",
+        "Assisted Rotation of Mother"
+      ],
+      "correctAnswer": "Artificial Rupture of Membranes",
+      "explanationText": "AROM means Artificial Rupture of Membranes.",
+      "explanationImage": null
+    },
+    {
+      "id": 4,
+      "questionText": "What does BBOW stand for?",
+      "questionImage": null,
+      "options": [
+        "Bulging Bag of Water",
+        "Baby Breathing on Own",
+        "Bilateral Bag of Waters"
+      ],
+      "correctAnswer": "Bulging Bag of Water",
+      "explanationText": "BBOW stands for Bulging Bag of Water.",
+      "explanationImage": null
+    },
+    {
+      "id": 5,
+      "questionText": "What is the abbreviation for Breastfeeding?",
+      "questionImage": null,
+      "options": [
+        "BF",
+        "BTL",
+        "BRP"
+      ],
+      "correctAnswer": "BF",
+      "explanationText": "BF stands for Breastfeeding.",
+      "explanationImage": null
+    },
+    {
+      "id": 6,
+      "questionText": "What does BRP stand for?",
+      "questionImage": null,
+      "options": [
+        "Bathroom Privileges",
+        "Bed Rest Protocol",
+        "Birth Recovery Plan"
+      ],
+      "correctAnswer": "Bathroom Privileges",
+      "explanationText": "BRP means Bathroom Privileges.",
+      "explanationImage": null
+    },
+    {
+      "id": 7,
+      "questionText": "What does BPP stand for?",
+      "questionImage": null,
+      "options": [
+        "Biophysical Profile",
+        "Blood Pressure Pattern",
+        "Birth Preparation Plan"
+      ],
+      "correctAnswer": "Biophysical Profile",
+      "explanationText": "BPP stands for Biophysical Profile.",
+      "explanationImage": null
+    },
+    {
+      "id": 8,
+      "questionText": "What does BTL stand for?",
+      "questionImage": null,
+      "options": [
+        "Bilateral Tubal Ligation",
+        "Bilateral Tissue Labor",
+        "Birth Tube Length"
+      ],
+      "correctAnswer": "Bilateral Tubal Ligation",
+      "explanationText": "BTL means Bilateral Tubal Ligation.",
+      "explanationImage": null
+    },
+    {
+      "id": 9,
+      "questionText": "What does C/S stand for?",
+      "questionImage": null,
+      "options": [
+        "Cesarean Section",
+        "Cervical Screening",
+        "Contraction Status"
+      ],
+      "correctAnswer": "Cesarean Section",
+      "explanationText": "C/S stands for Cesarean Section.",
+      "explanationImage": null
+    },
+    {
+      "id": 10,
+      "questionText": "What does CPD mean?",
+      "questionImage": null,
+      "options": [
+        "Cephalopelvic Disproportion",
+        "Cervical Pelvic Dilation",
+        "Contraction Pain Disorder"
+      ],
+      "correctAnswer": "Cephalopelvic Disproportion",
+      "explanationText": "CPD stands for Cephalopelvic Disproportion.",
+      "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "What does CTX refer to?",
+      "questionImage": null,
+      "options": [
+        "Contractions",
+        "Cervical Tension",
+        "Cesarean Treatment"
+      ],
+      "correctAnswer": "Contractions",
+      "explanationText": "CTX is the abbreviation for Contractions.",
+      "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "What does CVS stand for?",
+      "questionImage": null,
+      "options": [
+        "Chorionic Villus Sampling",
+        "Cervical Vascular Scan",
+        "Central Venous Sampling"
+      ],
+      "correctAnswer": "Chorionic Villus Sampling",
+      "explanationText": "CVS means Chorionic Villus Sampling.",
+      "explanationImage": null
+    },
+    {
+      "id": 13,
+      "questionText": "What does EDC stand for?",
+      "questionImage": null,
+      "options": [
+        "Estimated Day of Confinement",
+        "Early Delivery Calculation",
+        "Expected Date of Cervix"
+      ],
+      "correctAnswer": "Estimated Day of Confinement",
+      "explanationText": "EDC means Estimated Day of Confinement or due date.",
+      "explanationImage": null
+    },
+    {
+      "id": 14,
+      "questionText": "What does EFM stand for?",
+      "questionImage": null,
+      "options": [
+        "Electronic Fetal Monitoring",
+        "External Fetal Measurement",
+        "Estimated Fetal Movement"
+      ],
+      "correctAnswer": "Electronic Fetal Monitoring",
+      "explanationText": "EFM stands for Electronic Fetal Monitoring.",
+      "explanationImage": null
+    },
+    {
+      "id": 15,
+      "questionText": "What does FHR stand for?",
+      "questionImage": null,
+      "options": [
+        "Fetal Heart Rate",
+        "Fundal Height Reading",
+        "Fetal Health Record"
+      ],
+      "correctAnswer": "Fetal Heart Rate",
+      "explanationText": "FHR stands for Fetal Heart Rate.",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "What does GBS stand for?",
+      "questionImage": null,
+      "options": [
+        "Group Beta Strep",
+        "Gestational Blood Sugar",
+        "General Birth Screening"
+      ],
+      "correctAnswer": "Group Beta Strep",
+      "explanationText": "GBS means Group Beta Strep.",
+      "explanationImage": null
+    },
+    {
+      "id": 17,
+      "questionText": "What does GDM stand for?",
+      "questionImage": null,
+      "options": [
+        "Gestational Diabetes Mellitus",
+        "General Delivery Management",
+        "Growth Delay Measurement"
+      ],
+      "correctAnswer": "Gestational Diabetes Mellitus",
+      "explanationText": "GDM stands for Gestational Diabetes Mellitus.",
+      "explanationImage": null
+    },
+    {
+      "id": 18,
+      "questionText": "What does GHTN stand for?",
+      "questionImage": null,
+      "options": [
+        "Gestational Hypertension",
+        "General Heart Tension",
+        "Gestational Hormone Tracking"
+      ],
+      "correctAnswer": "Gestational Hypertension",
+      "explanationText": "GHTN means Gestational Hypertension.",
+      "explanationImage": null
+    },
+    {
+      "id": 19,
+      "questionText": "What does IOL stand for?",
+      "questionImage": null,
+      "options": [
+        "Induction of Labor",
+        "Initiation of Lactation",
+        "Internal Obstetric Line"
+      ],
+      "correctAnswer": "Induction of Labor",
+      "explanationText": "IOL means Induction of Labor.",
+      "explanationImage": null
+    },
+    {
+      "id": 20,
+      "questionText": "What does IUFD stand for?",
+      "questionImage": null,
+      "options": [
+        "Intrauterine Fetal Demise",
+        "Internal Uterine Fetal Development",
+        "Intrauterine Fluid Disorder"
+      ],
+      "correctAnswer": "Intrauterine Fetal Demise",
+      "explanationText": "IUFD stands for Intrauterine Fetal Demise.",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "What does IUGR stand for?",
+      "questionImage": null,
+      "options": [
+        "Intrauterine Growth Restriction",
+        "Internal Uterine Growth Rate",
+        "Infant Uterine Growth Record"
+      ],
+      "correctAnswer": "Intrauterine Growth Restriction",
+      "explanationText": "IUGR means Intrauterine Growth Restriction.",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "What does LGA mean?",
+      "questionImage": null,
+      "options": [
+        "Large for Gestational Age",
+        "Long Gestational Assessment",
+        "Late Growth Adjustment"
+      ],
+      "correctAnswer": "Large for Gestational Age",
+      "explanationText": "LGA stands for Large for Gestational Age.",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "What does LOF stand for?",
+      "questionImage": null,
+      "options": [
+        "Leaking of Fluid",
+        "Loss of Fetus",
+        "Labor Onset Frequency"
+      ],
+      "correctAnswer": "Leaking of Fluid",
+      "explanationText": "LOF means Leaking of Fluid.",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "What does NST stand for?",
+      "questionImage": null,
+      "options": [
+        "Non-stress Test",
+        "Newborn Screening Test",
+        "Nursing Status Tracking"
+      ],
+      "correctAnswer": "Non-stress Test",
+      "explanationText": "NST stands for Non-stress Test.",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "What does OA stand for?",
+      "questionImage": null,
+      "options": [
+        "Occiput Anterior",
+        "Obstetric Assessment",
+        "Ovarian Activity"
+      ],
+      "correctAnswer": "Occiput Anterior",
+      "explanationText": "OA means Occiput Anterior.",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "What does OP stand for?",
+      "questionImage": null,
+      "options": [
+        "Occiput Posterior",
+        "Obstetric Procedure",
+        "Ovarian Position"
+      ],
+      "correctAnswer": "Occiput Posterior",
+      "explanationText": "OP stands for Occiput Posterior.",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "What does PP stand for?",
+      "questionImage": null,
+      "options": [
+        "Postpartum",
+        "Pelvic Pressure",
+        "Placental Position"
+      ],
+      "correctAnswer": "Postpartum",
+      "explanationText": "PP means Postpartum.",
+      "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "What does Pre-E stand for?",
+      "questionImage": null,
+      "options": [
+        "Preeclampsia",
+        "Preterm Evaluation",
+        "Pregnancy Edema"
+      ],
+      "correctAnswer": "Preeclampsia",
+      "explanationText": "Pre-E stands for Preeclampsia.",
+      "explanationImage": null
+    },
+    {
+      "id": 29,
+      "questionText": "What does PROM stand for?",
+      "questionImage": null,
+      "options": [
+        "Premature Rupture of Membranes",
+        "Preterm Onset of Maternal Labor",
+        "Pregnancy Rupture Observation Method"
+      ],
+      "correctAnswer": "Premature Rupture of Membranes",
+      "explanationText": "PROM means Premature Rupture of Membranes.",
+      "explanationImage": null
+    },
+    {
+      "id": 30,
+      "questionText": "What does PTL stand for?",
+      "questionImage": null,
+      "options": [
+        "Preterm Labor",
+        "Post-term Labor",
+        "Placental Tissue Loss"
+      ],
+      "correctAnswer": "Preterm Labor",
+      "explanationText": "PTL stands for Preterm Labor.",
+      "explanationImage": null
+    },
+    {
+      "id": 31,
+      "questionText": "What does SGA stand for?",
+      "questionImage": null,
+      "options": [
+        "Small for Gestational Age",
+        "Second Gestational Assessment",
+        "Standard Growth Average"
+      ],
+      "correctAnswer": "Small for Gestational Age",
+      "explanationText": "SGA means Small for Gestational Age.",
+      "explanationImage": null
+    },
+    {
+      "id": 32,
+      "questionText": "What does SROM stand for?",
+      "questionImage": null,
+      "options": [
+        "Spontaneous Rupture of Membranes",
+        "Sterile Rupture of Membranes",
+        "Sudden Rupture of Maternal tissue"
+      ],
+      "correctAnswer": "Spontaneous Rupture of Membranes",
+      "explanationText": "SROM stands for Spontaneous Rupture of Membranes.",
+      "explanationImage": null
+    },
+    {
+      "id": 33,
+      "questionText": "What does SVD stand for?",
+      "questionImage": null,
+      "options": [
+        "Spontaneous Vaginal Delivery",
+        "Sterile Vaginal Dilation",
+        "Standard Vaginal Delivery"
+      ],
+      "correctAnswer": "Spontaneous Vaginal Delivery",
+      "explanationText": "SVD means Spontaneous Vaginal Delivery.",
+      "explanationImage": null
+    },
+    {
+      "id": 34,
+      "questionText": "What does SVE stand for?",
+      "questionImage": null,
+      "options": [
+        "Sterile Vaginal Exam",
+        "Standard Vaginal Evaluation",
+        "Spontaneous Vaginal Effacement"
+      ],
+      "correctAnswer": "Sterile Vaginal Exam",
+      "explanationText": "SVE stands for Sterile Vaginal Exam.",
+      "explanationImage": null
+    },
+    {
+      "id": 35,
+      "questionText": "What does TOLAC stand for?",
+      "questionImage": null,
+      "options": [
+        "Trial of Labor after Cesarean",
+        "Timing of Labor and Contractions",
+        "Transfer of Labor Assessment Care"
+      ],
+      "correctAnswer": "Trial of Labor after Cesarean",
+      "explanationText": "TOLAC means Trial of Labor after Cesarean.",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "What does VBAC stand for?",
+      "questionImage": null,
+      "options": [
+        "Vaginal Birth after Cesarean",
+        "Vaginal Bleeding after Contractions",
+        "Variable Baseline Assessment of Cervix"
+      ],
+      "correctAnswer": "Vaginal Birth after Cesarean",
+      "explanationText": "VBAC stands for Vaginal Birth after Cesarean.",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "What does VTX stand for?",
+      "questionImage": null,
+      "options": [
+        "Vertex",
+        "Vertical Transition",
+        "Vaginal Tissue Examination"
+      ],
+      "correctAnswer": "Vertex",
+      "explanationText": "VTX stands for Vertex.",
+      "explanationImage": null
+    }
+  ]
+}

@@ -2,8 +2,9 @@ import { useState } from "react";
 import Quiz from "./components/Quiz";
 import Result from "./components/Result";
 import type { ResultItem } from "./types";
-import Notes from "./components/Notes";
-import AudioPlayer from "./components/AudioPlayer";
+import Notes_MedSurg from "./components/Notes_MedSurg";
+import Notes_FamiliesAndPopulations from "./components/Notes_FamiliesAndPopulations";
+// import AudioPlayer from "./components/AudioPlayer";
 
 export default function App() {
   const [quizFile, setQuizFile] = useState<string | null>(null);
@@ -31,6 +32,10 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familiesAndPopulations")}>
+            Families and Populations
+          </button>
+
           <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewborn")}>
             Maternal Newborn
           </button>
@@ -53,8 +58,9 @@ export default function App() {
         </div>
 
         <div className="w-full max-w-2xl">
-          <Notes />
-          <AudioPlayer />
+          <Notes_MedSurg />
+          <Notes_FamiliesAndPopulations />
+          {/* <AudioPlayer /> */}
 
         </div>
 

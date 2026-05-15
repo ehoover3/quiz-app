@@ -137,6 +137,88 @@
       "correctAnswer": "Irrigate tube with normal saline solution",
       "explanationText": "Determine tube patency - if it isn't patent, gastric pressure can increase which causes nausea.  Increased suction can be ineffective or increase risk of injury.",
       "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "A defect in which BP-regulating mechanisms can result in the development of hypertension? (Select all that apply)",
+      "questionImage": null,
+      "options": [
+        "Release of norepinephrine; Stimulation of the sympathetic nervous system; Activation of the renin-angiotensin-aldosterone system"
+      ],
+      "correctAnswer": [
+        "Release of norepinephrine; Stimulation of the sympathetic nervous system; Activation of the renin-angiotensin-aldosterone system"
+      ],
+      "explanationText": "Increased norepinephrine, sympathetic nervous system stimulation, and activation of the renin-angiotensin-aldosterone system can contribute to hypertension.",
+      "explanationImage": null
+    },
+    {
+      "id": 13,
+      "questionText": "Which item in a patient history would the nurse recognize as a modifiable risk factor for the development of hypertension?",
+      "questionImage": null,
+      "options": [
+        "Low-calcium diet",
+        "Excess alcohol use",
+        "Family history of hypertension",
+        "Consumption of a high-protein diet"
+      ],
+      "correctAnswer": "Excess alcohol use",
+      "explanationText": "Excess alcohol use is a modifiable risk factor for hypertension.",
+      "explanationImage": null
+    },
+    {
+      "id": 14,
+      "questionText": "Which information would the nurse apply to a teaching plan for a patient with hypertension?",
+      "questionImage": null,
+      "options": [
+        "All patients with elevated BP need drug therapy",
+        "Obese persons must achieve a normal weight to lower BP.",
+        "It is not necessary to limit salt in the diet if taking a diuretic.",
+        "Lifestyle modifications are needed for persons with elevated BP."
+      ],
+      "correctAnswer": "Lifestyle modifications are needed for persons with elevated BP.",
+      "explanationText": "Lifestyle modifications such as diet, exercise, weight management, and reducing sodium intake are recommended for patients with elevated BP.",
+      "explanationImage": null
+    },
+    {
+      "id": 15,
+      "questionText": "Which consideration would the nurse include in the management of the older adult with hypertension?",
+      "questionImage": null,
+      "options": [
+        "Preventing primary hypertension from converting to secondary hypertension",
+        "Recognizing that the older adult is less likely to adhere to the drug therapy regimen than a younger adult",
+        "Ensuring that the patient receives larger initial doses of antihypertensive drugs because of impaired absorption",
+        "Using a precise technique in assessing the BP of the patient because of the possible presence of orthostatic hypertension"
+      ],
+      "correctAnswer": "Using a precise technique in assessing the BP of the patient because of the possible presence of orthostatic hypertension",
+      "explanationText": "Older adults are at risk for orthostatic hypotension, so accurate BP assessment technique is important.",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "A patient with newly discovered high BP has an average reading of 158/98 mm Hg after 3 months of exercise and diet modifications. Which management strategy would the nurse expect?",
+      "questionImage": null,
+      "options": [
+        "Drug therapy will be needed because the BP has not reached the goal.",
+        "BP monitoring should continue for 3 months to confirm a diagnosis of hypertension.",
+        "Lifestyle changes are less important since they were not effective, and drugs will be started.",
+        "More changes in the patient’s lifestyle are needed for a longer time before starting drug therapy."
+      ],
+      "correctAnswer": "Drug therapy will be needed because the BP has not reached the goal.",
+      "explanationText": "If lifestyle modifications are insufficient to control BP after several months, antihypertensive medication is typically initiated.",
+      "explanationImage": null
+    },
+    {
+      "id": 17,
+      "questionText": "A patient is admitted to the hospital in a hypertensive emergency (BP 244/142 mm Hg). Sodium nitroprusside is started to treat the elevated BP. Which management strategies would the nurse anticipate? (Select all that apply)",
+      "questionImage": null,
+      "options": [
+        "Measuring hourly urine output; Continuous BP monitoring with an arterial line; Assessing the patient for signs of heart failure and changes in mental status"
+      ],
+      "correctAnswer": [
+        "Measuring hourly urine output; Continuous BP monitoring with an arterial line; Assessing the patient for signs of heart failure and changes in mental status"
+      ],
+      "explanationText": "In hypertensive emergency, monitor urine output, continuously monitor BP, and assess for end-organ damage such as heart failure or neurologic changes. MAP should not be reduced too rapidly.",
+      "explanationImage": null
     }
   ]
 }
