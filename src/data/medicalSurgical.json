@@ -277,6 +277,62 @@
       "correctAnswer": "Convening a family meeting",
       "explanationText": "An open family structure is loose and flexible. Convening a family meeting allows all family members to provide input and express their feelings during the crisis.",
       "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "A nurse is discussing restorative health care with a newly licensed nurse. Which of the following examples should the nurse include in the teaching?",
+      "questionImage": null,
+      "options": [
+        "Home health care, Rehabilitation facilities, Skilled nursing facilities",
+        "Oncology centers",
+        "Diagnostic centers"
+      ],
+      "correctAnswer": "Home health care, Rehabilitation facilities, Skilled nursing facilities",
+      "explanationText": "Restorative health care involves intermediate follow-up care for restoring health and promoting self-care. Home health care, rehabilitation facilities, and skilled nursing facilities are examples of restorative health care services.",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "A nurse manager is developing strategies to care for the increasing number of clients who have obesity. Which of the following actions should the nurse include as a primary health care strategy?",
+      "questionImage": null,
+      "options": [
+        "Collaborating with providers to perform obesity screenings during routine office visits.",
+        "Providing specialized intraoperative training in surgical treatments for obesity.",
+        "Ensuring the availability of specialized beds in rehabilitation centers for clients who have obesity.",
+        "Educating acute care nurses about postoperative complications related to obesity."
+      ],
+      "correctAnswer": "Collaborating with providers to perform obesity screenings during routine office visits.",
+      "explanationText": "Obesity screening is an example of primary health care because it focuses on health promotion and disease prevention. Primary care commonly includes screenings performed during routine office visits.",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "A nurse is discussing the purpose of regulatory agencies during a staff meeting. Which of the following tasks should the nurse identify as the responsibility of state licensing boards?",
+      "questionImage": null,
+      "options": [
+        "Ensuring that health care providers comply with regulations.",
+        "Determining whether medications are safe for administration to clients.",
+        "Setting quality standards for accreditation of health care facilities.",
+        "Monitoring evidence-based practice for clients who have a specific diagnosis."
+      ],
+      "correctAnswer": "Ensuring that health care providers comply with regulations.",
+      "explanationText": "State licensing boards are responsible for ensuring that health care providers comply with state regulations. The Joint Commission is responsible for setting quality standards for accreditation.",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "A nurse is explaining the various levels of health care services to a group of newly licensed nurses. Which of the following examples of care or care settings should the nurse classify as tertiary care? (Select all that apply.)",
+      "questionImage": null,
+      "options": [
+        "Intensive care unit",
+        "Oncology treatment center",
+        "Burn center",
+        "Cardiac rehabilitation",
+        "Home health care"
+      ],
+      "correctAnswer": "Intensive care unit; Oncology treatment center; Burn center",
+      "explanationText": "Tertiary care involves specialized and highly technical care, such as services provided in intensive care units, oncology treatment centers, and burn centers. Cardiac rehabilitation and home health care are examples of restorative care.",
+      "explanationImage": null
     }
   ]
 }
