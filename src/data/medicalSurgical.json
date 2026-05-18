@@ -333,6 +333,91 @@
       "correctAnswer": "Intensive care unit; Oncology treatment center; Burn center",
       "explanationText": "Tertiary care involves specialized and highly technical care, such as services provided in intensive care units, oncology treatment centers, and burn centers. Cardiac rehabilitation and home health care are examples of restorative care.",
       "explanationImage": null
-    }
+    },
+     {
+    "id": 27,
+    "questionText": "A nurse on a medical-surgical unit has received change of shift report and will care for four clients. Which of the following tasks should the nurse assign to the assistive personnel (AP)?",
+    "questionImage": null,
+    "options": [
+      "Reapplying a condom catheter for a client who has urinary incontinence.",
+      "Reinforcing teaching with a client who is learning to walk using a quad cane."
+    ],
+    "correctAnswer": "Reapplying a condom catheter for a client who has urinary incontinence.",
+    "explanationText": "Assistive personnel (AP) can perform routine, noninvasive tasks such as reapplying a condom catheter. Reinforcing or providing client teaching requires nursing knowledge and judgment and should not be delegated to AP.",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "A nurse is delegating the ambulation of a client who had knee arthroplasty 5 days ago to an AP. Which of the following information should the nurse share with the AP? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "The client uses a front-wheeled walker when ambulating.",
+      "The client had pain medication 30 min. ago.",
+      "The client ambulates wearing slippers over anti-embolic stockings.",
+      "The client ate 50% of breakfast this morning."
+    ],
+    "correctAnswer": "The client uses a front-wheeled walker when ambulating.; The client had pain medication 30 min. ago.; The client ambulates wearing slippers over anti-embolic stockings.",
+    "explanationText": "When delegating ambulation, the nurse should communicate relevant safety and mobility information, including the assistive device used, recent pain medication administration, and proper footwear or safety equipment. Breakfast intake is not directly relevant to safe ambulation.",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "A charge nurse is assigning client care for four clients. Which of the following tasks should the nurse assign to a PN?",
+    "questionImage": null,
+    "options": [
+      "Providing nasopharyngeal suctioning for a client who has pneumonia.",
+      "Assessing a pressure injury on a client who is on bed rest.",
+      "Teaching a client who has asthma to use a metered-dose inhaler.",
+      "Creating a plan of care for a client who is recovering following a stroke."
+    ],
+    "correctAnswer": "Providing nasopharyngeal suctioning for a client who has pneumonia.",
+    "explanationText": "Providing nasopharyngeal suctioning is within the scope of practice for a practical nurse (PN). Assessment, client teaching, and creating a plan of care require professional nursing judgment and are responsibilities of the RN.",
+    "explanationImage": null
+  },
+  {
+    "id": 30,
+    "questionText": "A nurse is preparing an in-service program about delegation. Which of the following are components of the five rights of delegation? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "Right supervision and evaluation",
+      "Right direction and communication",
+      "Right circumstances",
+      "Right documentation",
+      "Right route"
+    ],
+    "correctAnswer": "Right supervision and evaluation; Right direction and communication; Right circumstances",
+    "explanationText": "The five rights of delegation are right task, right circumstance, right person, right direction and communication, and right supervision and evaluation. Right documentation and right route are not components of the five rights of delegation.",
+    "explanationImage": null
+  },
+    {
+    "id": 31,
+    "questionText": "A nurse is caring for a group of clients on a medical-surgical unit. For which of the following client care needs should the nurse initiate a referral for a social worker? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "Requests an electric wheelchair for use after discharge.",
+      "Has terminal cancer and requests hospice care in the home.",
+      "Asks about community resources available for older adults.",
+      "\"I do not understand how to use a nebulizer.\"",
+      "\"I would like to have my child baptized before surgery.\""
+    ],
+    "correctAnswer": "Requests an electric wheelchair for use after discharge.; Has terminal cancer and requests hospice care in the home.; Asks about community resources available for older adults.",
+    "explanationText": "Social workers assist clients with discharge planning, hospice arrangements, equipment needs, and access to community resources. Teaching nebulizer use is the nurse’s responsibility, while arranging baptism would involve a chaplain or spiritual care services.",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "A nurse is acquainting a group of newly licensed nurses with the roles of the various members of the health care team they will encounter on a medical-surgical unit. When providing examples of the types of tasks certified nursing assistants (CNAs) can perform, which of the following client activities should the nurse include? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "Ambulating",
+      "Measuring vital signs",
+      "Bathing",
+      "Toileting",
+      "Determining pain level"
+    ],
+    "correctAnswer": "Ambulating; Measuring vital signs; Bathing; Toileting",
+    "explanationText": "Certified nursing assistants (CNAs) can perform routine, noninvasive tasks such as ambulating clients, measuring vital signs, bathing, and toileting. Determining pain level requires nursing assessment skills and must be performed by licensed nursing personnel.",
+    "explanationImage": null
+  }
   ]
 }
