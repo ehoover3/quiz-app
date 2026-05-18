@@ -444,6 +444,50 @@
       "correctAnswer": "Justice",
       "explanationText": "Justice refers to fairness in care delivery and equal treatment. Applying the same qualifications for all clients on a transplant list ensures fairness in resource allocation.",
       "explanationImage": null
+    },
+    {
+      "id": 35,
+      "questionText": "Client states, \"I have to check with my partner and see if they think I am ready to go home.\" Nurse replies, \"How do you feel about going home today?\" Which therapeutic communication technique is the nurse using?",
+      "questionImage": null,
+      "options": [
+        "Paraphrasing",
+        "Restating",
+        "Reflecting",
+        "Pacing"
+      ],
+      "correctAnswer": "Reflecting",
+      "explanationText": "Reflecting directs the focus of the conversation back to the client so they can explore their own feelings and thoughts. The nurse encourages the client to consider their own readiness rather than relying solely on others' opinions.",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "Which of the following actions should the nurse take when demonstrating an empathic presence to a client? (Select all that apply.)",
+      "questionImage": null,
+      "options": [
+        "Use an open posture.",
+        "Establish and maintain eye contact.",
+        "Sit facing the client.",
+        "Write down what the client says to avoid forgetting details.",
+        "Nod in agreement with the client throughout the conversation."
+      ],
+      "correctAnswer": "Use an open posture; Establish and maintain eye contact; Sit facing the client.",
+      "explanationText": "Empathic presence includes nonverbal behaviors that show attentiveness, such as open posture, eye contact, and facing the client. Excessive note-taking or continuous nodding can be distracting or misinterpreted as agreement rather than understanding.",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "A nurse is caring for a client who is concerned about being discharged to home with a new colostomy because of being an avid swimmer. Which of the following statements should the nurse make? (Select all that apply.)",
+      "questionImage": null,
+      "options": [
+        "\"Tell me about the support system you'll have after you leave the hospital.\"",
+        "\"Your daily routines will be different when you get home.\"",
+        "\"It sounds like you are not sure how having a colostomy will affect swimming.\"",
+        "\"Why are you worried about going home?\"",
+        "\"You will do great! You just have to get used to it.\""
+      ],
+      "correctAnswer": "\"Tell me about the support system you'll have after you leave the hospital.\"; \"Your daily routines will be different when you get home.\"; \"It sounds like you are not sure how having a colostomy will affect swimming.\"",
+      "explanationText": "These statements use therapeutic communication techniques such as focusing and reflection to explore the client's concerns and provide support. Non-therapeutic responses include asking 'why' questions and giving false reassurance.",
+      "explanationImage": null
     }
   ]
 }
