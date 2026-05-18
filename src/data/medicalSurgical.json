@@ -19,10 +19,10 @@
       "questionImage": null,
       "options": [
         "I will wait about 3 weeks before returning to my usual activities.",
-        "I'll use my heateing pad if I feel back muscle spasms.",
+        "I'll use my heating pad if I feel back muscle spasms.",
         "I can drive in about 2 weeks."
       ],
-      "correctAnswer": "I'll use my heateing pad if I feel back muscle spasms.",
+      "correctAnswer": "I'll use my heating pad if I feel back muscle spasms.",
       "explanationText": "Apply heat to relax paraspinal muscles.  6 weeks to heal after laminectomy.  Driving strains the back, so wait 6 weeks.",
       "explanationImage": null
     },
@@ -117,7 +117,7 @@
     },
     {
       "id": 10,
-      "questionText": "Client has cerebral lesion and develops hyperthermia.  Which area of hte client's brain is affected?",
+      "questionText": "Client has cerebral lesion and develops hyperthermia.  Which area of the client's brain is affected?",
       "questionImage": null,
       "options": [
         "Hypothalamus"
@@ -140,14 +140,12 @@
     },
     {
       "id": 12,
-      "questionText": "A defect in which BP-regulating mechanisms can result in the development of hypertension? (Select all that apply)",
+      "questionText": "Which can result in hypertension?",
       "questionImage": null,
       "options": [
-        "Release of norepinephrine; Stimulation of the sympathetic nervous system; Activation of the renin-angiotensin-aldosterone system"
+        "Release of norepinephrine; Stimulation of sympathetic nervous system; Activation of renin-angiotensin-aldosterone system"
       ],
-      "correctAnswer": [
-        "Release of norepinephrine; Stimulation of the sympathetic nervous system; Activation of the renin-angiotensin-aldosterone system"
-      ],
+      "correctAnswer": "Release of norepinephrine; Stimulation of the sympathetic nervous system; Activation of the renin-angiotensin-aldosterone system",
       "explanationText": "Increased norepinephrine, sympathetic nervous system stimulation, and activation of the renin-angiotensin-aldosterone system can contribute to hypertension.",
       "explanationImage": null
     },
@@ -170,9 +168,7 @@
       "questionText": "Which information would the nurse apply to a teaching plan for a patient with hypertension?",
       "questionImage": null,
       "options": [
-        "All patients with elevated BP need drug therapy",
         "Obese persons must achieve a normal weight to lower BP.",
-        "It is not necessary to limit salt in the diet if taking a diuretic.",
         "Lifestyle modifications are needed for persons with elevated BP."
       ],
       "correctAnswer": "Lifestyle modifications are needed for persons with elevated BP.",
@@ -181,12 +177,9 @@
     },
     {
       "id": 15,
-      "questionText": "Which consideration would the nurse include in the management of the older adult with hypertension?",
+      "questionText": "Include which in managing an older adult with hypertension?",
       "questionImage": null,
       "options": [
-        "Preventing primary hypertension from converting to secondary hypertension",
-        "Recognizing that the older adult is less likely to adhere to the drug therapy regimen than a younger adult",
-        "Ensuring that the patient receives larger initial doses of antihypertensive drugs because of impaired absorption",
         "Using a precise technique in assessing the BP of the patient because of the possible presence of orthostatic hypertension"
       ],
       "correctAnswer": "Using a precise technique in assessing the BP of the patient because of the possible presence of orthostatic hypertension",
@@ -195,12 +188,10 @@
     },
     {
       "id": 16,
-      "questionText": "A patient with newly discovered high BP has an average reading of 158/98 mm Hg after 3 months of exercise and diet modifications. Which management strategy would the nurse expect?",
+      "questionText": "A patient with newly discovered high BP has average reading of 158/98 mm Hg after 3 months of exercise and diet modifications. Which would nurse expect?",
       "questionImage": null,
       "options": [
         "Drug therapy will be needed because the BP has not reached the goal.",
-        "BP monitoring should continue for 3 months to confirm a diagnosis of hypertension.",
-        "Lifestyle changes are less important since they were not effective, and drugs will be started.",
         "More changes in the patient’s lifestyle are needed for a longer time before starting drug therapy."
       ],
       "correctAnswer": "Drug therapy will be needed because the BP has not reached the goal.",
@@ -209,15 +200,82 @@
     },
     {
       "id": 17,
-      "questionText": "A patient is admitted to the hospital in a hypertensive emergency (BP 244/142 mm Hg). Sodium nitroprusside is started to treat the elevated BP. Which management strategies would the nurse anticipate? (Select all that apply)",
+      "questionText": "Client in hypertensive emergency (BP 244/142 mm Hg). Sodium nitroprusside is started to treat elevated BP. Which is anticipated?",
       "questionImage": null,
       "options": [
-        "Measuring hourly urine output; Continuous BP monitoring with an arterial line; Assessing the patient for signs of heart failure and changes in mental status"
+        "Measure hourly urine output; Continuous BP monitoring with arterial line; Assess patient for signs of heart failure and changes in mental status"
       ],
-      "correctAnswer": [
-        "Measuring hourly urine output; Continuous BP monitoring with an arterial line; Assessing the patient for signs of heart failure and changes in mental status"
-      ],
+      "correctAnswer": "Measure hourly urine output; Continuous BP monitoring with arterial line; Assess patient for signs of heart failure and changes in mental status",
       "explanationText": "In hypertensive emergency, monitor urine output, continuously monitor BP, and assess for end-organ damage such as heart failure or neurologic changes. MAP should not be reduced too rapidly.",
+      "explanationImage": null
+    },
+    {
+      "id": 18,
+      "questionText": "A nurse caring for a client whose partner passed away 4 months ago. The client has a recent diagnosis of diabetes mellitus. The client is tearful and states, \"How could you possibly understand what I am going through?\" Which of the following responses should the nurse make?",
+      "questionImage": null,
+      "options": [
+        "\"I might not share your exact situation, but I do know what people go through when they deal with a loss.\"",
+        "\"It takes time to get over the loss of a loved one.\"",
+        "\"Why don't you try something to take your mind off your troubles, like watching a funny movie.\"",
+        "\"You are right. I cannot really understand. Perhaps you'd like to tell me more about what you're feeling.\""
+      ],
+      "correctAnswer": "\"You are right. I cannot really understand. Perhaps you'd like to tell me more about what you're feeling.\"",
+      "explanationText": "By stating there is a lack of understanding, the nurse is using the therapeutic communication technique of validation, whereby a person shows sensitivity to the meaning behind a behavior. The nurse is also creating a supportive and nonjudgemental environment, and inviting the client to express frustrations.",
+      "explanationImage": null
+    },
+    {
+      "id": 19,
+      "questionText": "A nurse is caring for a client awaiting transport to the surgical suite for a coronary artery bypass graft. Just as the transport team arrives, the nurse takes the client's vital signs and notes an elevation in blood pressure and heart rate. The nurse should recognize this response as which part of the general adaptation syndrome (GAS)?",
+      "questionImage": null,
+      "options": [
+        "Exhaustion stage",
+        "Recovery stage",
+        "Resistance stage",
+        "Alarm stage"
+      ],
+      "correctAnswer": "Alarm stage",
+      "explanationText": "In the alarm stage of GAS, body functions such as blood pressure and heart rate are heightened in order to respond to stressors.",
+      "explanationImage": null
+    },
+    {
+      "id": 20,
+      "questionText": "A nurse is caring for a client who has left-sided hemiplegia resulting from a cerebrovascular accident. The client works as a carpenter and is now experiencing a situational role change based on physical limitations. The client is the primary wage earner in the family. Which of the following describes the client's role problem?",
+      "questionImage": null,
+      "options": [
+        "Role strain",
+        "Role overload",
+        "Role conflict",
+        "Role ambiguity"
+      ],
+      "correctAnswer": "Role conflict",
+      "explanationText": "The client is experiencing role conflict because the career is extremely physical, and the client can no longer perform the job duties while still being the primary wage earner in the family.",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "A nurse is caring for a client who has a new diagnosis of type 2 diabetes mellitus. Which of the following nursing interventions for stress, coping, and adherence to the treatment plan should the nurse initiate at this time?",
+      "questionImage": null,
+      "options": [
+        "Provide extensive instructions on the client's treatment regimen.",
+        "Suggest coping skills for the client to use in this situation.",
+        "Allow the client to provide input in the treatment plan, encourage the client in the expression of feelings and concerns, assist the client with time management, and address the client's priorities."
+      ],
+      "correctAnswer": "Allow the client to provide input in the treatment plan, encourage the client in the expression of feelings and concerns, assist the client with time management, and address the client's priorities.",
+      "explanationText": "By using effective communication techniques and encouraging the client to verbalize feelings, the nurse helps reduce stress, validate emotions, and begin planning for valid concerns. This promotes coping and adherence to the treatment plan.",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "A nurse is caring for a family who is experiencing a crisis. Which of the following approaches should the nurse use when working with a family using an open structure for coping with crisis?",
+      "questionImage": null,
+      "options": [
+        "Prescribing tasks unilaterally",
+        "Speaking to the primary client privately",
+        "Convening a family meeting",
+        "Delegating care to one member"
+      ],
+      "correctAnswer": "Convening a family meeting",
+      "explanationText": "An open family structure is loose and flexible. Convening a family meeting allows all family members to provide input and express their feelings during the crisis.",
       "explanationImage": null
     }
   ]
