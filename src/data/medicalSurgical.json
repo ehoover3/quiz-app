@@ -557,6 +557,63 @@
       "correctAnswer": "\"You sound angry. Anger is a normal feeling associated with loss.\"",
       "explanationText": "This response uses therapeutic communication by acknowledging the client's feelings without minimizing them or shifting focus to the nurse's personal experience.",
       "explanationImage": null
-    }
+    },
+     {
+    "id": 43,
+    "questionText": "A nurse is caring for a client who is 24 hr postoperative following an inguinal hernia repair. The client is tolerating clear liquids well, has active bowel sounds, and is expressing a desire for \"real food.\" The nurse tells the client, \"I will call the surgeon and ask for a change in diet.\" The surgeon hears the nurse's report and prescribes a full liquid diet. The nurse used which of the following levels of critical thinking?",
+    "questionImage": null,
+    "options": [
+      "Integrity",
+      "Complex",
+      "Basic",
+      "Commitment"
+    ],
+    "correctAnswer": "Basic",
+    "explanationText": "Basic critical thinking is characterized by reliance on a trusted authority and following established rules or protocols. In this situation, the nurse collects assessment data and refers the decision to the provider for a diet change, demonstrating basic-level critical thinking.",
+    "explanationImage": null
+  },
+  {
+    "id": 44,
+    "questionText": "A nurse receives a prescription for an antibiotic for a client who has cellulitis. The nurse checks the client's medical record, discovers that the client is allergic to the antibiotic, and calls the provider to request a prescription for a different antibiotic. Which of the following critical thinking attitudes did the nurse demonstrate?",
+    "questionImage": null,
+    "options": [
+      "Responsibility",
+      "Fairness",
+      "Risk-taking",
+      "Creativity"
+    ],
+    "correctAnswer": "Responsibility",
+    "explanationText": "Responsibility in critical thinking involves accountability for client safety and taking appropriate action when a potential harm is identified. The nurse recognized a contraindication and acted to prevent harm by contacting the provider.",
+    "explanationImage": null
+  },
+  {
+    "id": 45,
+    "questionText": "A newly licensed nurse is considering strategies to improve critical thinking. Which of the following actions should the nurse take? (Select all that apply.)",
+    "questionImage": null,
+    "options": [
+      "Review articles about evidence-based practice.",
+      "Find a mentor.",
+      "Use a journal to write about the outcomes of clinical judgments.",
+      "Make quick decisions when unsure about a client's needs.",
+      "Limit consultations with other professionals involved in a client's care."
+    ],
+    "correctAnswer": "Review articles about evidence-based practice; Find a mentor; Use a journal to write about the outcomes of clinical judgments.",
+    "explanationText": "Improving critical thinking involves reflection, mentorship, and using evidence-based practice. Journaling supports reflection on clinical decisions. Making quick decisions without sufficient information and limiting collaboration are not effective strategies.",
+    "explanationImage": null
+  },
+  {
+    "id": 46,
+    "questionText": "A nurse uses a head-to-toe approach to conduct a physical assessment of a client who will undergo surgery the following week. Which of the following critical thinking attitudes did the nurse demonstrate?",
+    "questionImage": null,
+    "options": [
+      "Confidence",
+      "Integrity",
+      "Discipline",
+      "Perseverance"
+    ],
+    "correctAnswer": "Discipline",
+    "explanationText": "Discipline in critical thinking involves using a systematic and organized approach to assessment and decision-making. A head-to-toe assessment demonstrates a structured method of data collection.",
+    "explanationImage": null
+  }
   ]
 }
