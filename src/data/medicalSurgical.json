@@ -488,6 +488,75 @@
       "correctAnswer": "\"Tell me about the support system you'll have after you leave the hospital.\"; \"Your daily routines will be different when you get home.\"; \"It sounds like you are not sure how having a colostomy will affect swimming.\"",
       "explanationText": "These statements use therapeutic communication techniques such as focusing and reflection to explore the client's concerns and provide support. Non-therapeutic responses include asking 'why' questions and giving false reassurance.",
       "explanationImage": null
+    },
+    {
+      "id": 38,
+      "questionText": "A nurse is caring for a client following the loss of a partner due to a terminal illness. Identify the sequence of Engel's five stages of grief that the nurse should expect the client to experience. (Match the stages of grief to a number, in order of occurrence. All steps must be used.)",
+      "questionImage": null,
+      "options": [
+        "Step 1 Shock and disbelief",
+        "Step 2 Developing awareness",
+        "Step 3 Restitution",
+        "Step 4 Resolution of the loss",
+        "Step 5 Recovery"
+      ],
+      "correctAnswer": "Step 1 Shock and disbelief; Step 2 Developing awareness; Step 3 Restitution; Step 4 Resolution of the loss; Step 5 Recovery",
+      "explanationText": "Engel's stages of grief progress in a predictable sequence beginning with shock and disbelief, followed by developing awareness, restitution, resolution of the loss, and finally recovery.",
+      "explanationImage": null
+    },
+    {
+      "id": 39,
+      "questionText": "A charge nurse is reviewing Kübler-Ross: Five Stages of Grief with a group of newly licensed nurses. Which of the following stages should the charge nurse include in the teaching? (Select all that apply.)",
+      "questionImage": null,
+      "options": [
+        "Bargaining",
+        "Denial",
+        "Anger",
+        "Depression"
+      ],
+      "correctAnswer": "Bargaining; Denial; Anger; Depression",
+      "explanationText": "Kübler-Ross identified five stages of grief: denial, anger, bargaining, depression, and acceptance. The options listed include four of these stages.",
+      "explanationImage": null
+    },
+    {
+      "id": 40,
+      "questionText": "A nurse is working with a client who has recently lost a guardian. The nurse recognizes that which of the following factors influence a client's grief and coping ability?",
+      "questionImage": null,
+      "options": [
+        "Prior experience with loss",
+        "Religious beliefs",
+        "Interpersonal relationships",
+        "Culture"
+      ],
+      "correctAnswer": "Prior experience with loss; Religious beliefs; Interpersonal relationships; Culture",
+      "explanationText": "A client's grief response is influenced by multiple factors including prior experiences with loss, cultural background, religious beliefs, and the quality of interpersonal relationships.",
+      "explanationImage": null
+    },
+    {
+      "id": 41,
+      "questionText": "A nurse is discussing normal grief with a client who recently lost a child. Which of the following statements made by the client indicates understanding?",
+      "questionImage": null,
+      "options": [
+        "\"I may experience feelings of resentment.\"",
+        "\"I can expect to experience changes in sleep.\"",
+        "\"I will probably withdraw from others.\"",
+        "\"It is possible that I will experience suicidal thoughts.\""
+      ],
+      "correctAnswer": "\"I may experience feelings of resentment.\"; \"I can expect to experience changes in sleep.\"; \"I will probably withdraw from others.\"",
+      "explanationText": "Normal grief reactions include anger or resentment, sleep disturbances, and social withdrawal. Suicidal ideation is associated with complicated or abnormal grief and requires immediate assessment.",
+      "explanationImage": null
+    },
+    {
+      "id": 42,
+      "questionText": "A nurse is caring for a client who lost a guardian to cancer last month. The client states, \"I'd still have my guardian if the doctor would have made a diagnosis sooner.\" Which of the following responses should the nurse make?",
+      "questionImage": null,
+      "options": [
+        "\"You sound angry. Anger is a normal feeling associated with loss.\"",
+        "\"I understand just how you feel. I felt the same when my guardian died.\""
+      ],
+      "correctAnswer": "\"You sound angry. Anger is a normal feeling associated with loss.\"",
+      "explanationText": "This response uses therapeutic communication by acknowledging the client's feelings without minimizing them or shifting focus to the nurse's personal experience.",
+      "explanationImage": null
     }
   ]
 }
