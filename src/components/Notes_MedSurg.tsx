@@ -21,6 +21,43 @@ export default function Notes_MedSurg() {
           <p className="text-sm">Gastric peptic ulcers characteristics:  Pain aggravated by food consumption, more common in older women, associated with lifestyle choices (alcohol, smoking, diet), associated with Aspirin and NSAID use.</p>
           <p className="text-sm">What can cause a high BUN count (Blood Urea Nitrogen)? Dehydration</p>
           <img src="./images/GI_Surgeries.png" />
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+
         </div>
       </div>
     </div>

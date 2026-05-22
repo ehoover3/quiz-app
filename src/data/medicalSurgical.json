@@ -654,6 +654,119 @@
       "correctAnswer": "Have another nurse listen to the telephone prescription.; Repeat the details of the prescription back to the provider.; Obtain the provider's signature on the prescription within 24 hr.",
       "explanationText": "Appropriate actions for telephone prescriptions include having another nurse listen when possible, reading back the prescription to verify accuracy, and obtaining the provider's signature within the required time frame. Managing severe pain can justify a telephone prescription.",
       "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "When would you monitor for low blood glucose?",
+      "questionImage": null,
+      "options": [
+        "When the insulin is at its peak"
+      ],
+      "correctAnswer": "When the insulin is at its peak",
+      "explanationText": "Glucose should be 70 to 110",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "A nurse is caring for a client who has diabetes and plans to administer his regular insulin subcutaneously before he eats breakfast at 0800. After checking the client’s morning glucose level, which of the following actions should the nurse take?",
+      "questionImage": null,
+      "options": [
+        "Give the insulin at 0730."
+      ],
+      "correctAnswer": "Give the insulin at 0730.",
+      "explanationText": "Regular insulin has an onset of 30 to 60 minutes and should be given about 30 minutes before meals. The nurse should also verify blood glucose prior to administration.",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "A nurse is teaching a client who has a new diagnosis of type 2 diabetes mellitus about metformin. The nurse should explain that this type of medication works by which of the following mechanisms?",
+      "questionImage": null,
+      "options": [
+        "Reducing hepatic glucose production"
+      ],
+      "correctAnswer": "Reducing hepatic glucose production",
+      "explanationText": "Metformin is a biguanide that lowers blood glucose primarily by reducing hepatic glucose production and improving insulin sensitivity in peripheral tissues.",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "A nurse is teaching a client who has diabetes mellitus and receives 25 units of NPH insulin every morning if her blood glucose level is above 200 mg/dL. Which of the following information should the nurse include?",
+      "questionImage": null,
+      "options": [
+        "Expect the NPH insulin to peak in 6 to 14 hr."
+
+      ],
+      "correctAnswer": "Expect the NPH insulin to peak in 6 to 14 hr.",
+      "explanationText": "NPH insulin is intermediate-acting with a peak of 6 to 14 hours, which increases the risk of hypoglycemia during that time.",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "A nurse is teaching a client who has type 2 diabetes about the new prescription of a GLP-1 receptor agonist. Which of the following should the nurse include when explaining how this medication helps manage blood glucose levels?",
+      "questionImage": null,
+      "options": [
+        "GLP-1 receptor agonists help to reduce your appetite and slow down gastric emptying, which aids in lowering your blood glucose levels."
+      ],
+      "correctAnswer": "GLP-1 receptor agonists help to reduce your appetite and slow down gastric emptying, which aids in lowering your blood glucose levels.",
+      "explanationText": "GLP-1 receptor agonists increase insulin secretion, decrease glucagon release, slow gastric emptying, and reduce appetite, helping to lower blood glucose levels.",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "A nurse is caring for an adolescent client who has a long history of diabetes mellitus and is being admitted to the emergency department confused, flushed, and with an acetone odor on the breath. Diabetic ketoacidosis is suspected. The nurse should anticipate using which of the following types of insulin to treat this client?",
+      "questionImage": null,
+      "options": [
+        "Regular insulin"
+      ],
+      "correctAnswer": "Regular insulin",
+      "explanationText": "Regular insulin is short-acting and can be given IV for rapid control of severe hyperglycemia and diabetic ketoacidosis.",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "A nurse is preparing to administer lisper insulin to a client who has type 1 diabetes mellitus. Which of the following actions should the nurse take?",
+      "questionImage": null,
+      "options": [
+        "Inject the insulin 15 min before a meal",
+        "Monitor for polyuria",
+        "Administer with short-acting insulin"
+      ],
+      "correctAnswer": "Inject the insulin 15 min before a meal",
+      "explanationText": "Lispro insulin is rapid-acting and should be administered within 15 minutes before meals to match postprandial glucose rise.",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "A nurse is caring for a client with diabetes mellitus who is prescribed regular insulin via a sliding scale. After administering the correct dose at 0715, the nurse should ensure the client receives breakfast at which of the following times?",
+      "questionImage": null,
+      "options": [
+        "0745"
+      ],
+      "correctAnswer": "0745",
+      "explanationText": "Regular insulin should be given approximately 20 to 30 minutes before meals to match its onset of action.",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "A nurse is providing teaching for a client who is newly diagnosed with type 2 diabetes mellitus and has a prescription for glipizide. Which best describes the action of glipizide?",
+      "questionImage": null,
+      "options": [
+        "Glipizide stimulates your pancreas to release insulin."
+      ],
+      "correctAnswer": "Glipizide stimulates your pancreas to release insulin.",
+      "explanationText": "Glipizide is a sulfonylurea that lowers blood glucose by stimulating pancreatic beta cells to release insulin.",
+      "explanationImage": null
+    },
+    {
+      "id": 59,
+      "questionText": "A nurse is teaching a client, newly diagnosed with type 1 diabetes mellitus, about insulin safety. Which statement is appropriate?",
+      "questionImage": null,
+      "options": [
+        "Insulin is stable at room temperature for one month."
+      ],
+      "correctAnswer": "Insulin is stable at room temperature for one month.",
+      "explanationText": "Unopened insulin can typically be stored at room temperature for about one month after opening, depending on the type, while proper storage is essential for maintaining potency.",
+      "explanationImage": null
     }
   ]
 }
