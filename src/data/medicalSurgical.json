@@ -694,7 +694,6 @@
       "questionImage": null,
       "options": [
         "Expect the NPH insulin to peak in 6 to 14 hr."
-
       ],
       "correctAnswer": "Expect the NPH insulin to peak in 6 to 14 hr.",
       "explanationText": "NPH insulin is intermediate-acting with a peak of 6 to 14 hours, which increases the risk of hypoglycemia during that time.",
@@ -766,6 +765,146 @@
       ],
       "correctAnswer": "Insulin is stable at room temperature for one month.",
       "explanationText": "Unopened insulin can typically be stored at room temperature for about one month after opening, depending on the type, while proper storage is essential for maintaining potency.",
+      "explanationImage": null
+    },
+    {
+      "id": 60,
+      "questionText": "A nurse is teaching a client taking lisinopril. Which finding is the priority to report immediately?",
+      "questionImage": null,
+      "options": [
+        "Dry cough",
+        "Swelling of the tongue",
+        "Nausea",
+        "Nasal congestion"
+      ],
+      "correctAnswer": "Swelling of the tongue",
+      "explanationText": "Swelling of the tongue may indicate angioedema, a life-threatening adverse effect of ACE inhibitors like lisinopril that requires immediate intervention due to risk of airway obstruction.",
+      "explanationImage": null
+    },
+    {
+      "id": 61,
+      "questionText": "A client with hypertension is prescribed atenolol. Which finding is an expected adverse effect of this medication?",
+      "questionImage": null,
+      "options": [
+        "Bradycardia",
+        "Tremor",
+        "Cough",
+        "Constipation"
+      ],
+      "correctAnswer": "Bradycardia",
+      "explanationText": "Atenolol is a beta-blocker that decreases heart rate and contractility. Bradycardia is a common and expected adverse effect and should be monitored.",
+      "explanationImage": null
+    },
+    {
+      "id": 62,
+      "questionText": "A client is prescribed hydrochlorothiazide for hypertension. What instruction should the nurse include in teaching?",
+      "questionImage": null,
+      "options": [
+        "Take the medication before bedtime",
+        "Monitor for leg cramps",
+        "Avoid grapefruit juice",
+        "Reduce intake of potassium-rich foods"
+      ],
+      "correctAnswer": "Monitor for leg cramps",
+      "explanationText": "Hydrochlorothiazide is a thiazide diuretic that can cause electrolyte imbalances, particularly hypokalemia, which may result in muscle cramps.",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "A nurse is preparing to administer a client’s antihypertensive medication. Which assessment finding should cause the nurse to hold the medication and further assess the client?",
+      "questionImage": null,
+      "options": [
+        "Urine output of 400 mL in the past 8 hours",
+        "Reports dizziness when ambulating to the bathroom",
+        "Ate 60% of breakfast",
+        "Reports difficulty sleeping last night"
+      ],
+      "correctAnswer": "Reports dizziness when ambulating to the bathroom",
+      "explanationText": "Dizziness when ambulating suggests orthostatic hypotension, which can be worsened by antihypertensive medications and increases fall risk. Further assessment is needed before administration.",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "A child with Addison’s disease is being cared for by the nurse. Which action should the nurse include in the plan of care?",
+      "questionImage": null,
+      "options": [
+        "Teach parents about cortisol replacement therapy",
+        "Place the child on a low sodium diet",
+        "Monitor for fluid volume excess",
+        "Restrict fluid intake"
+      ],
+      "correctAnswer": "Teach parents about cortisol replacement therapy",
+      "explanationText": "Addison’s disease involves adrenal insufficiency requiring lifelong corticosteroid (cortisol) replacement therapy to maintain hormone balance and prevent adrenal crisis.",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "A nurse is assessing a client with Addison’s disease prior to surgery. Which finding should the nurse expect?",
+      "questionImage": null,
+      "options": [
+        "Hyperpigmentation",
+        "Intention tremors",
+        "Hirsutism",
+        "Purple striations"
+      ],
+      "correctAnswer": "Hyperpigmentation",
+      "explanationText": "Addison’s disease causes increased ACTH production, which can lead to hyperpigmentation, especially in skin folds and pressure areas.",
+      "explanationImage": null
+    },
+    {
+      "id": 66,
+      "questionText": "A nurse is teaching a client about Cushing’s syndrome. Which statement by the client indicates understanding?",
+      "questionImage": null,
+      "options": [
+        "It is caused by too much cortisol made by my adrenal glands",
+        "It is caused by too little insulin in my body",
+        "It is caused by low thyroid hormone levels",
+        "It is caused by too much aldosterone only"
+      ],
+      "correctAnswer": "It is caused by too much cortisol made by my adrenal glands",
+      "explanationText": "Cushing’s syndrome results from excess cortisol production, either from endogenous overproduction or exogenous corticosteroid use.",
+      "explanationImage": null
+    },
+    {
+      "id": 67,
+      "questionText": "A nurse is assessing a client newly diagnosed with peripheral neuropathy. Which manifestation should the nurse expect?",
+      "questionImage": null,
+      "options": [
+        "Muscle hypertrophy",
+        "Intense burning sensations",
+        "Increased skin temperature over joints",
+        "Hyperpigmentation of skin"
+      ],
+      "correctAnswer": "Intense burning sensations",
+      "explanationText": "Peripheral neuropathy commonly causes burning, tingling, or shooting pain due to nerve damage.",
+      "explanationImage": null
+    },
+    {
+      "id": 68,
+      "questionText": "A nurse is teaching an older adult client with diabetes mellitus about preventing long-term complications. Which instruction is most important?",
+      "questionImage": null,
+      "options": [
+        "Maintain stable blood glucose levels",
+        "Increase protein intake significantly",
+        "Avoid all carbohydrates",
+        "Limit fluid intake daily"
+      ],
+      "correctAnswer": "Maintain stable blood glucose levels",
+      "explanationText": "Consistently controlled blood glucose levels are the most important factor in preventing long-term complications such as neuropathy, nephropathy, and retinopathy.",
+      "explanationImage": null
+    },
+    {
+      "id": 69,
+      "questionText": "A nurse is assessing a client for diabetic ketoacidosis (DKA). Which respiratory pattern should the nurse recognize as a compensatory response to metabolic acidosis?",
+      "questionImage": null,
+      "options": [
+        "Deep, rapid respirations",
+        "Slow respirations with prolonged pauses",
+        "Wheezing with prolonged expiration",
+        "Shallow respirations that improve after coughing"
+      ],
+      "correctAnswer": "Deep, rapid respirations",
+      "explanationText": "Kussmaul respirations (deep, rapid breathing) are a compensatory mechanism to blow off carbon dioxide and reduce acidosis in DKA.",
       "explanationImage": null
     }
   ]
