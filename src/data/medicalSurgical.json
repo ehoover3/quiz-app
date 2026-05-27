@@ -917,6 +917,112 @@
       "correctAnswer": "4 starburst",
       "explanationText": "This is a quick simple carb.",
       "explanationImage": null
+    },
+    {
+      "id": 71,
+      "questionText": "A client's blood pressure reading is 189/110 mmHg during a community screening. They ask if they should be concerned. How should the student nurse respond?",
+      "questionImage": null,
+      "options": [
+        "Your blood pressure is very high. You need to see your healthcare provider today.",
+        "You have hypertension. You need to start making some lifestyle changes.",
+        "Please sit here quietly for a few minutes. I need to recheck your blood pressure.",
+        "I need you to remain seated. I am going to call 911/EMS."
+      ],
+      "correctAnswer": "Please sit here quietly for a few minutes. I need to recheck your blood pressure.",
+      "explanationText": "Blood pressure should be rechecked after the client has rested quietly before making recommendations or diagnosing hypertension.",
+      "explanationImage": null
+    },
+    {
+      "id": 72,
+      "questionText": "Which significant risk factors for hypertension does the student nurse identify from the client's health history? (Select all that apply.)",
+      "questionImage": null,
+      "options": [
+        "Family history of diabetes",
+        "Alcohol consumption",
+        "Smoking",
+        "Stress",
+        "Caffeine intake"
+      ],
+      "correctAnswer": [
+        "Alcohol consumption",
+        "Smoking",
+        "Stress"
+      ],
+      "explanationText": "Alcohol use, smoking, and chronic stress are all significant modifiable risk factors for hypertension.",
+      "explanationImage": null
+    },
+    {
+      "id": 73,
+      "questionText": "The client's repeat blood pressure is 180/106 mmHg after sitting quietly. What is the most important recommendation for the student nurse to provide?",
+      "questionImage": null,
+      "options": [
+        "See their healthcare provider as soon as possible within the next week for a blood pressure recheck.",
+        "Limit salt intake and start a weight loss program.",
+        "Attend a stress reduction seminar offered in the community.",
+        "Learn about high fiber foods and add more fiber to the diet."
+      ],
+      "correctAnswer": "See their healthcare provider as soon as possible within the next week for a blood pressure recheck.",
+      "explanationText": "Hypertension diagnosis requires elevated blood pressure readings on multiple occasions. Follow-up with a healthcare provider is the priority.",
+      "explanationImage": null
+    },
+    {
+      "id": 74,
+      "questionText": "A healthcare provider diagnoses a client with stage 2 primary (essential) hypertension. What does this mean?",
+      "questionImage": null,
+      "options": [
+        "The client has hypertension that will need to be managed with medications.",
+        "This form of hypertension has been caused by another medical issue that needs to be addressed.",
+        "The client requires immediate hospitalization to treat their hypertension.",
+        "The client's blood pressure can be managed by lifestyle changes only; no medications are necessary."
+      ],
+      "correctAnswer": "The client has hypertension that will need to be managed with medications.",
+      "explanationText": "Stage 2 primary hypertension typically requires medication management in addition to lifestyle modifications.",
+      "explanationImage": null
+    },
+    {
+      "id": 75,
+      "questionText": "Which statements indicate the client understands teaching about chlorothiazide and atenolol? (Select all that apply.)",
+      "questionImage": null,
+      "options": [
+        "I should take chlorothiazide early in the morning and early evening.",
+        "I may initially experience hypotension when starting atenolol.",
+        "I should avoid drinking alcohol.",
+        "I should stop taking the medication once my blood pressure improves.",
+        "I should double my dose if I miss a dose."
+      ],
+      "correctAnswer": [
+        "I should take chlorothiazide early in the morning and early evening.",
+        "I may initially experience hypotension when starting atenolol.",
+        "I should avoid drinking alcohol."
+      ],
+      "explanationText": "Diuretics should be taken earlier in the day to reduce nocturia. Atenolol may initially cause hypotension. Alcohol can worsen hypotension and interfere with treatment.",
+      "explanationImage": null
+    },
+    {
+      "id": 76,
+      "questionText": "Which action by the client's spouse demonstrates understanding of a 2 gram sodium diet?",
+      "questionImage": null,
+      "options": [
+        "Preparing a variety of fresh vegetables and avoiding processed foods.",
+        "Measuring out 2 teaspoons of salt each morning for cooking."
+      ],
+      "correctAnswer": "Preparing a variety of fresh vegetables and avoiding processed foods.",
+      "explanationText": "Processed foods are often high in sodium. A low sodium diet focuses on fresh foods and minimizing processed items.",
+      "explanationImage": null
+    },
+    {
+      "id": 77,
+      "questionText": "A client in hypertensive crisis is started on a nitroprusside infusion. What is the appropriate blood pressure management goal?",
+      "questionImage": null,
+      "options": [
+        "Decrease the blood pressure as quickly as possible.",
+        "Reduce the MAP by 25% in the next 24 hours.",
+        "Lower the MAP to 120 in the next hour.",
+        "Lower the systolic blood pressure to 120 mmHg in the next 24 hours."
+      ],
+      "correctAnswer": "Reduce the MAP by 25% in the next 24 hours.",
+      "explanationText": "Blood pressure should be lowered gradually in hypertensive emergencies to avoid organ hypoperfusion and ischemia.",
+      "explanationImage": null
     }
   ]
 }
