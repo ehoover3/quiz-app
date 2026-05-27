@@ -1023,6 +1023,154 @@
       "correctAnswer": "Reduce the MAP by 25% in the next 24 hours.",
       "explanationText": "Blood pressure should be lowered gradually in hypertensive emergencies to avoid organ hypoperfusion and ischemia.",
       "explanationImage": null
+    },
+    {
+      "id": 78,
+      "questionText": "What is the DASH diet?",
+      "questionImage": null,
+      "options": [
+        "A dietary pattern high in fruits, vegetables, whole grains, and low-fat dairy with reduced sodium to help lower blood pressure.",
+        "A high-protein diet focused on increasing muscle mass and metabolic rate.",
+        "A low-carbohydrate, high-fat diet used primarily for weight loss and seizure control.",
+        "A diet high in sodium and processed foods designed to maintain fluid balance and blood pressure."
+      ],
+      "correctAnswer": "A dietary pattern high in fruits, vegetables, whole grains, and low-fat dairy with reduced sodium to help lower blood pressure.",
+      "explanationText": "The DASH diet (Dietary Approaches to Stop Hypertension) is designed to lower blood pressure by reducing sodium intake and emphasizing nutrient-rich foods such as fruits, vegetables, whole grains, lean proteins, and low-fat dairy. It helps improve vascular health and reduce hypertension risk.",
+      "explanationImage": null
+    },
+    {
+      "id": 79,
+      "questionText": "A nurse reviews a patient's medication list and notes that they takes Metoprolol 25 mg PO daily and Metformin 600 mg PO BID. The patient's current vital signs and labs are as follows: Temp 37C (98.6F), Pulse 52 bpm, BP 120/84 mmHg, Resp Rate 18, O2 Sat 100% on room air, Hemoglobin A1C 8%, Glucose 180 mg/dL, Potassium 4.5 mEq/dL, Sodium 140 mEq/dL. Based on this data, what is the most appropriate nursing interpretation?",
+      "options": [
+        "The patient may be experiencing an adverse effect of Metoprolol related to bradycardia.",
+        "The patient's blood glucose and A1C indicate well-controlled diabetes with Metformin therapy.",
+        "Metformin is causing electrolyte imbalances resulting in normal potassium and sodium levels.",
+        "Metoprolol is effectively improving the patient's glycemic control."
+      ],
+      "correctAnswer": "The patient may be experiencing an adverse effect of Metoprolol related to bradycardia.",
+      "explanationText": "The patient's pulse of 52 bpm indicates bradycardia, which is a known adverse effect of beta-blockers such as Metoprolol. The elevated glucose (180 mg/dL) and A1C (8%) indicate poor glycemic control. Metformin does not typically affect electrolytes, and beta-blockers do not improve glucose control.",
+      "explanationImage": null
+    },
+    {
+      "id": 80,
+      "questionText": "Which item in a patient's history would the nurse recognize as a modifiable risk factor for the development of hypertension?",
+      "options": [
+        "Consumption of a high-protein diet",
+        "Excess alcohol use",
+        "Low-calcium diet",
+        "Family history of hypertension"
+      ],
+      "correctAnswer": "Excess alcohol use",
+      "explanationText": "Excess alcohol intake is a modifiable risk factor for hypertension because patients can reduce or eliminate alcohol consumption to lower blood pressure. Family history is nonmodifiable, and the other options are not primary established risk factors.",
+      "explanationImage": null
+    },
+    {
+      "id": 81,
+      "questionText": "What early manifestation is the client with primary hypertension likely to report?",
+      "options": [
+        "Dizziness and vertigo",
+        "Cardiac palpitations",
+        "Nothing/no symptoms",
+        "Dyspnea on exertion"
+      ],
+      "correctAnswer": "Nothing/no symptoms",
+      "explanationText": "Primary hypertension is often asymptomatic in its early stages, which is why it is called the 'silent killer.' Symptoms typically appear only after complications develop.",
+      "explanationImage": null
+    },
+    {
+      "id": 82,
+      "questionText": "Which manifestation is an indication that a client is having hypertensive emergency?",
+      "options": [
+        "A severe elevation of BP that occurs over several days or weeks",
+        "The client's hypertension is caused by another disease process",
+        "A sudden rise in BP accompanied with noted organ damage",
+        "A systolic BP 170 mm Hg and a diastolic BP 90 mm Hg"
+      ],
+      "correctAnswer": "A sudden rise in BP accompanied with noted organ damage",
+      "explanationText": "A hypertensive emergency is defined by severely elevated BP with acute target-organ damage such as neurologic, cardiac, or renal injury.",
+      "explanationImage": null
+    },
+    {
+      "id": 83,
+      "questionText": "A client has a BP of 222/148 mmHg and confusion, nausea, and vomiting. Which goal should the nurse try to achieve by titrating medications?",
+      "options": [
+        "Reduce the SBP to 138 mmHg and the DBP to 80 mmHg within the first 2 hours",
+        "Lower the BP to the patient's normal within two hours",
+        "Decrease the mean arterial pressure (MAP) gradually by 25% over the next 2–4 hours",
+        "Decrease the SBP to 160 mmHg and the DBP to 100 mmHg as quickly as possible"
+      ],
+      "correctAnswer": "Decrease the mean arterial pressure (MAP) gradually by 25% over the next 2–4 hours",
+      "explanationText": "In hypertensive emergency, BP must be reduced gradually to prevent hypoperfusion of vital organs. The goal is typically a controlled reduction in MAP of about 25% within the first few hours.",
+      "explanationImage": null
+    },
+    {
+      "id": 84,
+      "questionText": "What does the nursing responsibility in the management of the patient with hypertensive urgency include?",
+      "options": [
+        "Providing continuous ECG monitoring to detect side effects of the drugs",
+        "Monitoring hourly urine output for drug effectiveness",
+        "Instructing the patient to follow up with a health care provider within 24 hours after outpatient treatment",
+        "Titrating IV drug dosages based on BP and pulse measurements every 2 to 3 minutes"
+      ],
+      "correctAnswer": "Instructing the patient to follow up with a health care provider within 24 hours after outpatient treatment",
+      "explanationText": "Hypertensive urgency is managed with oral medications and close outpatient follow-up, not ICU-level interventions or IV titration.",
+      "explanationImage": null
+    },
+    {
+      "id": 85,
+      "questionText": "The nurse is preparing a Nitroprusside infusion for a client in Hypertensive Emergency. The nurse knows that this medication is categorized as a _____ and a side effect may include _____.",
+      "options": [
+        "Vasodilator; Headache",
+        "Beta blocker; Bradycardia",
+        "Diuretic; Increased urine output",
+        "Calcium channel blocker; Constipation"
+      ],
+      "correctAnswer": "Vasodilator; Headache",
+      "explanationText": "Nitroprusside is a potent IV vasodilator used in hypertensive emergencies. Common side effects include headache, dizziness, and hypotension due to rapid vasodilation.",
+      "explanationImage": null
+    },
+    {
+      "id": 86,
+      "questionText": "A patient is admitted to the hospital in a hypertensive emergency (BP 244/142 mm Hg). Sodium nitroprusside is started to treat the elevated BP. Which management strategies would the nurse anticipate?",
+      "options": [
+        "Maintaining bed rest and giving tranquilizers to lower the BP",
+        "Assessing the patient for signs of heart failure and changes in mental status",
+        "Measuring hourly urine output",
+        "Continuous BP monitoring with an arterial line"
+      ],
+      "correctAnswer": [
+        "Assessing the patient for signs of heart failure and changes in mental status",
+        "Measuring hourly urine output",
+        "Continuous BP monitoring with an arterial line"
+      ],
+      "explanationText": "Hypertensive emergency requires ICU-level care with continuous BP monitoring, frequent assessment of organ perfusion, and monitoring for neurologic and renal changes. Tranquilizers are not standard treatment.",
+      "explanationImage": null
+    },
+    {
+      "id": 87,
+      "questionText": "A nurse reviews a patient's medication list and notes that they takes Metoprolol 25 mg PO daily and Metformin 600 mg PO BID. The patient's current vital signs and labs are as follows: Temp 37C (98.6F), Pulse 52 bpm, BP 120/84 mmHg, Resp Rate 18, O2 Sat 100% on room air, Hemoglobin A1C 8%, Glucose 180 mg/dL, Potassium 4.5 mEq/dL, Sodium 140 mEq/dL. Based on this data, what is the most appropriate nursing interpretation?",
+      "options": [
+        "The patient may be experiencing an adverse effect of Metoprolol related to bradycardia",
+        "The patient's blood glucose and A1C indicate well-controlled diabetes with Metformin therapy",
+        "Metformin is causing electrolyte imbalances resulting in normal potassium and sodium levels",
+        "Metoprolol is effectively improving the patient's glycemic control"
+      ],
+      "correctAnswer": "The patient may be experiencing an adverse effect of Metoprolol related to bradycardia",
+      "explanationText": "A pulse of 52 bpm indicates bradycardia, which is a known adverse effect of beta-blockers such as Metoprolol. The elevated glucose and A1C indicate poor glycemic control. Metformin does not affect electrolytes, and Metoprolol does not improve glucose control.",
+      "explanationImage": null
+    },
+    {
+      "id": 88,
+      "questionText": "What is the DASH diet?",
+      "options": [
+        "A dietary pattern high in fruits, vegetables, whole grains, and low-fat dairy with reduced sodium to help lower blood pressure",
+        "A high-protein diet focused on increasing muscle mass and metabolic rate",
+        "A low-carbohydrate, high-fat diet used primarily for weight loss and seizure control",
+        "A diet high in sodium and processed foods designed to maintain fluid balance and blood pressure"
+      ],
+      "correctAnswer": "A dietary pattern high in fruits, vegetables, whole grains, and low-fat dairy with reduced sodium to help lower blood pressure",
+      "explanationText": "The DASH diet (Dietary Approaches to Stop Hypertension) is designed to reduce blood pressure by lowering sodium intake and increasing nutrients such as potassium, calcium, and magnesium through whole, nutrient-dense foods.",
+      "explanationImage": null
     }
   ]
 }
