@@ -906,6 +906,17 @@
       "correctAnswer": "Deep, rapid respirations",
       "explanationText": "Kussmaul respirations (deep, rapid breathing) are a compensatory mechanism to blow off carbon dioxide and reduce acidosis in DKA.",
       "explanationImage": null
+    },
+    {
+      "id": 70,
+      "questionText": "Type 1 DM, feels shaky, hungry, and weak.  His blood sugar is 52 mg/dL",
+      "questionImage": null,
+      "options": [
+        "4 starburst"
+      ],
+      "correctAnswer": "4 starburst",
+      "explanationText": "This is a quick simple carb.",
+      "explanationImage": null
     }
   ]
 }
