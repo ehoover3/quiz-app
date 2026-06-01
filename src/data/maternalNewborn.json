@@ -248,6 +248,79 @@
       "correctAnswer": "Indicates the presence of infection",
       "explanationText": "",
       "explanationImage": null
+    },
+    {
+      "id": 20,
+      "questionText": "Which are a risk factor for postpartum hemorrhage",
+      "questionImage": null,
+      "options": [
+        "Twins; Fourth Pregnancy; Previous cesarean section"
+      ],
+      "correctAnswer": "Twins; Fourth Pregnancy; Previous cesarean section",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "The nurse is assessing the incision of a postpartum patient who had a cesarean section. Which of the following would the nurse assess? ",
+      "questionImage": null,
+      "options": [
+        "Redness; Edema; Ecchymosis; Drainage; Approximation"
+      ],
+      "correctAnswer": "Redness; Edema; Ecchymosis; Drainage; Approximation",
+      "explanationText": "Know REEDA!!!",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "Nurse caring for postpartum client understands that breast engorgement is caused by  ",
+      "questionImage": null,
+      "options": [
+        "Increased blood supply to the breasts"
+      ],
+      "correctAnswer": "Increased blood supply to the breasts",
+      "explanationText": "primary engorgement is increased blood supply",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "Which of the following statements indicate that the postpartum client understands the baby blues?",
+      "questionImage": null,
+      "options": [
+        "I may experience detachment and lack of bonding with the baby",
+        "Excessive crying and anxiety are signs of the baby blues",
+        "The baby blues can last up to six weeks"
+      ],
+      "correctAnswer": "Excessive crying and anxiety are signs of the baby blues",
+      "explanationText": "Baby blues lasts 2 weeks.  Detachment/lack of bonding is ALWAYS a red flag",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "What is the priority nursing intervention when a postpartum client has excessive vaginal bleeding?",
+      "questionImage": null,
+      "options": [
+        "Perform fundal massage",
+        "Call blood bank for products",
+        "Administer IV fluids"
+      ],
+      "correctAnswer": "Perform fundal massage",
+      "explanationText": "Fundal massage stimulates the uterus to contract",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "A steady trickle of bright red blood from the vagina in the presence of a firm uterine fundus suggests",
+      "questionImage": null,
+      "options": [
+        "uterine atony",
+        "lacerations of the genital tract",
+        "a perineal hematoma",
+        "infection of the uterus"
+      ],
+      "correctAnswer": "lacerations of the genital tract",
+      "explanationText": "Know the 4 T's of bleeding.  Tone, Tissue, Trauma, Thrombin.  If it is firm, it is not uterine actony (non contracted uterus), so it is then lacerations of genital tract",
+      "explanationImage": null
     }
   ]
 }

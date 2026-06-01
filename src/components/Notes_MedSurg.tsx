@@ -131,12 +131,24 @@ export default function Notes_MedSurg() {
           <p className="text-sm">Calcium Channel Blockers (Verapamil):  Blocks BP by preventing calcium from entering cells of the heart and arteries. Side effects: peripheral edema</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">MUST KNOW BUBBLE HEN ASSESSMENT!!!</p>
+          <p className="text-sm">Breasts: Filling; no redness</p>
+          <p className="text-sm">Uterus: Firm at umbilicus</p>
+          <p className="text-sm">Bowel: Passing flatus</p>
+          <p className="text-sm">Bladder: Emptied; no dysuria</p>
+          <p className="text-sm">Locohia (vaginal bleeding): Rubra; moderate (know color and amount)</p>
+          <p className="text-sm">Episiotomy/Laceration (are edges are close to together): Approximated; no edema</p>
+          <p className="text-sm">Homans Sign (DVT assessment): No warmth or edema bilaterally</p>
+          <p className="text-sm">Emotions:  Bonding appropriately</p>
+          <p className="text-sm">Nutrition: Increased fiber and fluid intake</p>
+
+          <br />
+          <p className="text-sm">FOUR T'S OF POST PARTUM HEMORAGGE !!!</p>
+          <p className="text-sm">Tone: if lack of tone (uterus not contracting), do fundal massage</p>
+          <p className="text-sm">Tissue: retained placental that should have been delivered whole</p>
+          <p className="text-sm">Trauma (lacerations / hematoma (trapped blood)): Might see bright red bleeding</p>
+          <p className="text-sm">Thrombin (clotting factor issue)</p>
+          <p className="text-sm">Think what is the root cause of this.  Did the uterus not contract (atony)?  Do a fundal massage to stimulate uterus contraction.</p>
 
           <br />
           <p className="text-sm"></p>
