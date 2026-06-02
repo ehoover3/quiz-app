@@ -520,23 +520,201 @@ export default function Notes_FamiliesAndPopulations() {
 
           <br />
           <p className="text-sm"><strong>Postpartum Anxiety Disorders</strong></p>
-        <p className="text-sm"></p>
-
-          <br />
-          <p className="text-sm"><strong></strong></p>
           <p className="text-sm"></p>
 
           <br />
-          <p className="text-sm"><strong></strong></p>
+          <p className="text-sm">MUST KNOW BUBBLE HEN ASSESSMENT (assess mom is doing well after delivery)!!!</p>
+          <p className="text-sm">Breasts: Filling; no redness</p>
+          <p className="text-sm">Uterus: Firm at umbilicus</p>
+          <p className="text-sm">Bowel: Passing flatus</p>
+          <p className="text-sm">Bladder: Emptied; no dysuria</p>
+          <p className="text-sm">Locohia (vaginal bleeding): Rubra; moderate (know color and amount)</p>
+          <p className="text-sm">Episiotomy/Laceration (are edges are close to together): Approximated; no edema</p>
+          <p className="text-sm">Homans Sign (DVT assessment): No warmth or edema bilaterally</p>
+          <p className="text-sm">Emotions:  Bonding appropriately</p>
+          <p className="text-sm">Nutrition: Increased fiber and fluid intake</p>
+
+          <br />
+          <p className="text-sm">FOUR T'S OF POST PARTUM HEMORAGGE !!!</p>
+          <p className="text-sm">Tone: if lack of tone (uterus not contracting), do fundal massage</p>
+          <p className="text-sm">Tissue: retained placental that should have been delivered whole</p>
+          <p className="text-sm">Trauma (lacerations / hematoma (trapped blood)): Might see bright red bleeding</p>
+          <p className="text-sm">Thrombin (clotting factor issue)</p>
+          <p className="text-sm">Think what is the root cause of this.  Did the uterus not contract (atony)?  Do a fundal massage to stimulate uterus contraction.</p>
+
+          <br />
+          <p className="text-sm">INTRAPARTUM FETAL MONITORING</p>
+          <p className="text-sm">Support maternal coping and labor progress</p>
+          <p className="text-sm">Maximize uterine blood flow</p>
+          <p className="text-sm">Maximize umbilical circulation</p>
+          <p className="text-sm">Maximize oxygenation</p>
+
+          <br />
+          <p className="text-sm">WHY OXYGEN DECREASES DURING LABOR</p>
+          <p className="text-sm">During contraction, no blood flow goes to baby</p>
+          <p className="text-sm">Fetal oxygen supply can decrease due to:  </p>
+          <p className="text-sm">Reduction of blood flow:  poor maternal circulation, poor placental perfusion</p>
+          <p className="text-sm">Reduction of oxygen content: Maternal hemorrhage, severe anemia</p>
+          <p className="text-sm">Alterations in fetal circulation: Cord compression, head compression, placental abruption</p>
+
+          <br />
+          <p className="text-sm">MONITORING TECHNIQUES</p>
+          <p className="text-sm">Intermittent Auscultation (w/ doppler)</p>
+          <p className="text-sm">Electronic Monitoring: External - intermittent or continuous</p>
+          <p className="text-sm">Electronic Monitoring: Internal invasive</p>
+          <p className="text-sm">Leopold's Maneuvers - Palpate to feel for baby's position</p>
+          <p className="text-sm">Internal electronic fetal monitoring:  Fetal scalp electrode (direct ECG fetal heart monitoring) - contraindicated for infection risk</p>
+          <p className="text-sm">Intrauterine Pressure Catheter (IUPC) - direct measurement of uterine pressure (could rupture placenta causing hemorrage). Membranes must be ruptured.  This will tell when, and how strong contractions are.</p>
+
+          <br />
+          <p className="text-sm">FETAL HR MONITORING CHARACTERISTICS</p>
+          <p className="text-sm">Assess fetal HR baseline, then accelerations / deccelerations</p>
+          <p className="text-sm">Assess variablility, frequency, durations, intensity, resting tone, adequacy</p>
+          <p className="text-sm">Fetal Bradycardia is baseline less than 110 for 10 min (interrupted oxygen, medications, post-maturity)</p>
+          <p className="text-sm">Fetal Tachycardia is baseline more than 160 for 10 min (maternal fever, prematurity, medications, abnormal fetal cardiac rhythm)</p>
+
+          <br />
+          <p className="text-sm">FETAL HEART RATE VARIABILITY</p>
+          <p className="text-sm">Absent (undetectable): Ominous, fetal hypoxia or metabolic acidosis, CNS Depression</p>
+          <p className="text-sm">Minimal (1-5): Sleep cycle, sedation, sick, hypoxemia, congenital abnormality</p>
+          <p className="text-sm">Normal (6-25): represents intact CNS nad good fetal oxygenation</p>
+          <p className="text-sm">Marked (more than 25): unclear significance</p>
+          <p className="text-sm">Measurement is counted as peak to trough</p>
+
+          <br />
+          <p className="text-sm">FETAL HEART RATE ACCELERATIONS</p>
+          <p className="text-sm">Incresae in fetal heart rate of at least 15 bpm above baseline for at least 15 seconds</p>
+          <p className="text-sm">This is a good sign of fetal oxygenation and intact CNS</p>
+
+          <br />
+          <p className="text-sm">FETAL HEART RATE DECELERATIONS</p>
+          <p className="text-sm">Early: benign (head compression)</p>
+          <p className="text-sm">Late: uteroplacental insufficiency </p>
+          <p className="text-sm">Variable: repsonse to cord compression</p>
+          <p className="text-sm">NOTE: Variable deceleration is not fetal heart rate variations (2 separate concepts - poorly named)</p>
+          <p className="text-sm">Prolonged: oxygenation issue</p>
+
+          <br />
+          <p className="text-sm">VEAL CHOP (heart rate decelerations)- MUST KNOW !</p>
+          <p className="text-sm">Variable = Cord Compression</p>
+          <p className="text-sm">Early = Head Compression</p>
+          <p className="text-sm">Acceleration = Okay</p>
+          <p className="text-sm">Late = Placental Insufficiency</p>
+
+          <br />
+          <p className="text-sm">FETAL CATEGORIES</p>
+          <p className="text-sm">Category 1: Moderate variability, baseline rate 110-160, no late or variable deceleration, early decelerations present or absnet, accelerations present or absent</p>
+          <p className="text-sm">Category 2: Anything in-between category 1 or 3</p>
+          <p className="text-sm">Category 3: Absenet baseline variability + any of the following: recurrent late decelerations, recurrent variable decelerations, bradycardia, or sinusodial pattern</p>
+
+          <br />
+          <p className="text-sm">UTERINE ACTIVITY</p>
+          <p className="text-sm">Frequency: measure shortest and longest interval between contractions (minutes)</p>
+          <p className="text-sm">Duration: measure shortest and longest contraction (seconds)</p>
+          <p className="text-sm">Intensity: strength of contraction</p>
+          <p className="text-sm">Resting Tone: tone of uterus between contraction (to ensure baby is getting oxygen)</p>
+
+          <br />
+          <p className="text-sm">UTERINE TACHYSYSTOLE</p>
+          <p className="text-sm">is more than 5 contractions in 10 minutes</p>
+          <p className="text-sm">is caused by spontaneous or stimulated contractions</p>
+          <p className="text-sm">Problem is not enough resting tone & oxygenation to baby</p>
+
+          <br />
+          <p className="text-sm">4 MAIN INTERVENTIONS</p>
+          <p className="text-sm">Increase fluid volume (lactated ringers) (more blood flow to uterus & placenta)</p>
+          <p className="text-sm">Increase uterine / umbilical perfusion (reposition to left or right side)</p>
+          <p className="text-sm">Increase oxygenation (8 to 10 L per non-rebreather facemask) - check pulse ox.  Mom is mouth breathing, so don't use nasal cannula.  Take mask off when fetal heart rate is better.</p>
+          <p className="text-sm">Increase uterine resting tone (discontinue oxytocin (if infusing), administer terbutaline 0.25 mg subQ)</p>
+          <img src="images/IntrauterineResuscitation.png" />
+
+          <br />
+          <p className="text-sm">NEWBORN NUTRITION</p>
+          <p className="text-sm">American Academy of Pediatrics recommends breastfeeding exclusively for 6 months</p>
+          <p className="text-sm">World Health Organization recommends 6 months exlusive breastfeeding, 2 years of breastfeeding</p>
+
+          <br />
+          <p className="text-sm">BREASTFEEDING BENEFITS</p>
+          <p className="text-sm">Decresaed otitis media, UTIs, URIs</p>
+          <p className="text-sm">Decreased rates of infant mortality, SUIDS, diabetes, obesity, asthma, allergies</p>
+          <p className="text-sm">Analgesic effect</p>
+          <p className="text-sm">Enhanced cognitive development</p>
+          <p className="text-sm">FOR MOTHER:  decreased postpartum bleeding, decreased rates of ovarian and breast cancer, HTN, heart disease, osteoprosis</p>
+
+          <br />
+          <p className="text-sm">BREASTFEEDING CONTRAINDICATIONS</p>
+          <p className="text-sm">newborns with galacteosemia (cannot digest lactose)</p>
+          <p className="text-sm">motheres with HIV, illicit drug use, ebola</p>
+          <p className="text-sm">active HSV lesion on breast</p>
+          <p className="text-sm">EXPRESSED MILK ONLY: active TB, active varicella (chickenpox)</p>
+
+          <br />
+          <p className="text-sm">MONTGOMERY GLANDS</p>
+          <p className="text-sm">glands inside the nipple, around the nipple</p>
+          <p className="text-sm">has an antibacterial effect</p>
+
+          <br />
+          <p className="text-sm">STAGES OF LACTATION</p>
+          <p className="text-sm"><strong>Lactogenesis stage 1</strong></p>
+          <p className="text-sm">begins 16-18 weeks of pregnancy</p>
+          <p className="text-sm">Colostrum in first few feeds</p>
+          <p className="text-sm"><strong>Lactogenesis stage 2</strong></p>
+          <p className="text-sm">Begins at birth</p>
+          <p className="text-sm">Lactogenesis stage 3</p>
+          <p className="text-sm">Begins day 10 and beyond</p>
+          <p className="text-sm"><strong>Colostrum (liquid gold)</strong></p>
+          <p className="text-sm">Supply meets demand</p>
+          <p className="text-sm">Foremilk</p>
+          <p className="text-sm">Hindmilk</p>
+
+          <br />
+          <p className="text-sm">BREASTFEEDING CUES</p>
+          <p className="text-sm">Hand-to-mouth</p>
+          <p className="text-sm">Sucking motions</p>
+          <p className="text-sm">Rooting reflex</p>
+          <p className="text-sm">Mouthing</p>
+          <p className="text-sm">Crying & deep sleep are late signs of hunger</p>
+
+          <br />
+          <p className="text-sm">4 BREASTFEEDING POSITIONING</p>
+          <p className="text-sm">Football / Clutch (recommended for early feeding and C-section)</p>
+          <p className="text-sm">Cross-Cradle</p>
+          <p className="text-sm">Cradle</p>
+          <p className="text-sm">Side-lying (recommended for perineal pain or swelling)</p>
+          <p className="text-sm">We don't want baby to only latch on the nipple.  We want lots of areola.</p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
           <p className="text-sm"></p>
 
           <br />
-          <p className="text-sm"><strong></strong></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
           <p className="text-sm"></p>
 
           <br />
-          <p className="text-sm"><strong></strong></p>
           <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
         </div>
       </div>
     </div>

@@ -321,6 +321,39 @@
       "correctAnswer": "lacerations of the genital tract",
       "explanationText": "Know the 4 T's of bleeding.  Tone, Tissue, Trauma, Thrombin.  If it is firm, it is not uterine actony (non contracted uterus), so it is then lacerations of genital tract",
       "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "a",
+      "questionImage": null,
+      "options": [
+        "a"
+      ],
+      "correctAnswer": "a",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "a",
+      "questionImage": null,
+      "options": [
+        "a"
+      ],
+      "correctAnswer": "a",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "a",
+      "questionImage": null,
+      "options": [
+        "a"
+      ],
+      "correctAnswer": "a",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }

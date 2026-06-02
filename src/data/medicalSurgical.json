@@ -1171,6 +1171,258 @@
       "correctAnswer": "A dietary pattern high in fruits, vegetables, whole grains, and low-fat dairy with reduced sodium to help lower blood pressure",
       "explanationText": "The DASH diet (Dietary Approaches to Stop Hypertension) is designed to reduce blood pressure by lowering sodium intake and increasing nutrients such as potassium, calcium, and magnesium through whole, nutrient-dense foods.",
       "explanationImage": null
+    },
+    {
+      "id": 89,
+      "questionText": "A client has an uncorrected fluid volume deficit. Which conditions is the client at risk for?",
+      "options": [
+        "Multiorgan failure; Cerebral hypoperfusion; Cardiac damage",
+        "Heart failure; End-stage kidney disease; Cirrhosis of the liver"
+      ],
+      "correctAnswer": "Multiorgan failure; Cerebral hypoperfusion; Cardiac damage",
+      "explanationText": "Severe fluid volume deficit decreases tissue perfusion and oxygen delivery, placing the client at risk for cerebral hypoperfusion, cardiac damage, and multiorgan failure if untreated.",
+      "explanationImage": null
+    },
+    {
+      "id": 90,
+      "questionText": "A nurse is caring for a 69-year-old client with fluid overload secondary to heart failure. Which assessment finding is the priority?",
+      "options": [
+        "3+ edema of lower extremities",
+        "Skin cool to palpation",
+        "Heart rate of 103/min",
+        "Crackles auscultated in all lung fields"
+      ],
+      "correctAnswer": "Crackles auscultated in all lung fields",
+      "explanationText": "Crackles throughout the lungs indicate pulmonary edema and impaired gas exchange, making this the priority assessment finding.",
+      "explanationImage": null
+    },
+    {
+      "id": 91,
+      "questionText": "A client with a history of heart failure has increased difficulty breathing, tachycardia, BP 166/90 mm Hg, RR 28/min, SpO2 89%, bilateral lower lung crackles, and +2 pitting edema. Which interventions should the nurse anticipate?",
+      "options": [
+        "Elevate client's head of bed to 30 degrees; request provider for diuretic; request provider oxygen order",
+        "Place client flat in bed; encourage oral fluids; request provider for beta blocker"
+      ],
+      "correctAnswer": "Elevate client's head of bed to 30 degrees; request provider for diuretic; request provider oxygen order",
+      "explanationText": "The client is showing signs of fluid overload and impaired oxygenation. Elevating the head of the bed improves breathing, oxygen supports oxygenation, and diuretics help remove excess fluid.",
+      "explanationImage": null
+    },
+    {
+      "id": 92,
+      "questionText": "A client's serum sodium level is 151 mEq/L. Which finding should the nurse recognize as a possible reason for this sodium level?",
+      "options": [
+        "Client ate a hamburger",
+        "Client has a history of hypothyroidism",
+        "Client is a landscaper",
+        "Client drank four cups of coffee for breakfast"
+      ],
+      "correctAnswer": "Client is a landscaper",
+      "explanationText": "Normal sodium levels range from 135 to 145 mEq/L. Outdoor work can cause excessive sweating and fluid loss, leading to hypernatremia. Other causes include vomiting, burns, and diaphoresis.",
+      "explanationImage": null
+    },
+    {
+      "id": 93,
+      "questionText": "A client has a sodium level of 165 mEq/L. Which manifestations should the nurse expect?",
+      "options": [
+        "Hypertension; Decreased urinary output",
+        "Increased thirst; Restlessness and irritability"
+      ],
+      "correctAnswer": "Increased thirst; Restlessness and irritability",
+      "explanationText": "Hypernatremia causes cellular dehydration, especially in brain cells, leading to thirst, restlessness, irritability, and neurologic changes.",
+      "explanationImage": null
+    },
+    {
+      "id": 94,
+      "questionText": "A client has vomiting, thirst, lethargy, and a serum sodium level of 128 mEq/L. The client works construction outdoors and has a history of hypertension and type 2 diabetes mellitus. Which factor is a likely cause of hypovolemic hyponatremia?",
+      "options": [
+        "Excessive sweating",
+        "Type 2 diabetes mellitus",
+        "Hypertension",
+        "Age-related changes"
+      ],
+      "correctAnswer": "Excessive sweating",
+      "explanationText": "Excessive sweating causes both sodium and fluid loss. If sodium losses exceed replacement, hypovolemic hyponatremia can occur.",
+      "explanationImage": null
+    },
+    {
+      "id": 95,
+      "questionText": "A client has severe hyponatremia. Which nursing interventions are appropriate?",
+      "options": [
+        "Ask client about medication use; Implement fall precautions; Measure intake and output",
+        "Request lactated Ringer's solution; Encourage client to drink more fluids"
+      ],
+      "correctAnswer": "Ask client about medication use; Implement fall precautions; Measure intake and output",
+      "explanationText": "Hyponatremia increases the risk of neurologic symptoms and falls. Monitoring medications, implementing safety precautions, and measuring fluid balance are important nursing interventions.",
+      "explanationImage": null
+    },
+    {
+      "id": 96,
+      "questionText": "A nurse is caring for a client with SIADH who receives an order for 3% sodium chloride. Which action is the nurse's priority?",
+      "options": [
+        "Verify infusion rate",
+        "Review current serum sodium level",
+        "Obtain temperature",
+        "Document urine output"
+      ],
+      "correctAnswer": "Verify infusion rate",
+      "explanationText": "Hypertonic saline (3% sodium chloride) must be administered carefully because rapid correction of hyponatremia can cause serious neurologic complications. Verifying the infusion rate is the priority.",
+      "explanationImage": null
+    },
+    {
+      "id": 97,
+      "questionText": "A client has hypokalemia, diabetes mellitus, and heart failure. Home medications include a diuretic, digoxin, and insulin. Potassium level is 2.4 mEq/L. Which actions should the nurse take?",
+      "options": [
+        "Request prescription for oral potassium",
+        "Request prescription for digoxin level; Monitor continuous ECG activity; Monitor blood glucose levels",
+        "Obtain potassium levels every 6 to 8 hours",
+        "Discontinue insulin administration"
+      ],
+      "correctAnswer": "Request prescription for digoxin level; Monitor continuous ECG activity; Monitor blood glucose levels",
+      "explanationText": "Severe hypokalemia increases the risk of cardiac dysrhythmias and digoxin toxicity. Insulin also shifts potassium into cells, requiring close monitoring of glucose and potassium-related complications.",
+      "explanationImage": null
+    },
+    {
+      "id": 98,
+      "questionText": "A client's serum magnesium level is 1.0 mg/dL. Which finding is a risk factor for hypomagnesemia?",
+      "options": [
+        "Takes a diuretic every morning",
+        "Uses alcohol in moderation"
+      ],
+      "correctAnswer": "Takes a diuretic every morning",
+      "explanationText": "Diuretics can increase magnesium excretion by the kidneys, increasing the risk of hypomagnesemia.",
+      "explanationImage": null
+    },
+    {
+      "id": 99,
+      "questionText": "A client has a magnesium level of 0.9 mg/dL. Which complications should the nurse monitor for?",
+      "options": [
+        "Facial muscle twitching; Ventricular dysrhythmia",
+        "Decreased deep tendon reflexes",
+        "Headache",
+        "Muscle paralysis"
+      ],
+      "correctAnswer": "Facial muscle twitching; Ventricular dysrhythmia",
+      "explanationText": "Hypomagnesemia can cause neuromuscular excitability, including Chvostek's sign and muscle twitching, as well as potentially life-threatening ventricular dysrhythmias.",
+      "explanationImage": null
+    },
+    {
+      "id": 100,
+      "questionText": "Which client is at increased risk for hypermagnesemia?",
+      "options": [
+        "Client with diabetes mellitus",
+        "Client who had a thyroidectomy",
+        "Client receiving hemodialysis",
+        "Client with carbon monoxide poisoning"
+      ],
+      "correctAnswer": "Client receiving hemodialysis",
+      "explanationText": "Clients with impaired kidney function are at increased risk for hypermagnesemia because the kidneys are responsible for magnesium excretion.",
+      "explanationImage": null
+    },
+    {
+      "id": 101,
+      "questionText": "A client with renal failure is developing early hypermagnesemia. Which statement indicates understanding of expected manifestations?",
+      "options": [
+        "Be aware of muscle weakness and watch for dizziness",
+        "Check my blood pressure to make sure it is not too low"
+      ],
+      "correctAnswer": "Be aware of muscle weakness and watch for dizziness",
+      "explanationText": "Early hypermagnesemia commonly causes muscle weakness, lethargy, and dizziness. Severe hypermagnesemia may cause hypotension and respiratory depression.",
+      "explanationImage": null
+    },
+    {
+      "id": 102,
+      "questionText": "A nurse is caring for a client with a serum calcium level of 8.4 mg/dL. Tapping the client's face causes facial muscle twitching. Which finding does the nurse recognize?",
+      "options": [
+        "Positive Chvostek's sign",
+        "Positive Trousseau's sign"
+      ],
+      "correctAnswer": "Positive Chvostek's sign",
+      "explanationText": "Chvostek's sign is facial muscle twitching in response to tapping the facial nerve and is associated with hypocalcemia.",
+      "explanationImage": null
+    },
+    {
+      "id": 103,
+      "questionText": "A client had a parathyroidectomy. Which interventions help prevent hypocalcemia?",
+      "options": [
+        "Encourage taking calcium carbonate; Encourage taking vitamin D; Encourage magnesium supplementation",
+        "Receive IV calcium gluconate",
+        "Receive subcutaneous calcitonin"
+      ],
+      "correctAnswer": "Encourage taking calcium carbonate; Encourage taking vitamin D; Encourage magnesium supplementation",
+      "explanationText": "Calcium and vitamin D support calcium maintenance, while adequate magnesium levels help regulate calcium balance. IV calcium is reserved for severe hypocalcemia.",
+      "explanationImage": null
+    },
+    {
+      "id": 104,
+      "questionText": "Which client has an increased risk of hypercalcemia?",
+      "options": [
+        "Malignant cancer; Hyperparathyroidism",
+        "Parathyroidectomy"
+      ],
+      "correctAnswer": "Malignant cancer; Hyperparathyroidism",
+      "explanationText": "Hyperparathyroidism increases calcium release into the bloodstream. Certain cancers can also increase serum calcium levels through bone breakdown or hormone-like substances.",
+      "explanationImage": null
+    },
+    {
+      "id": 105,
+      "questionText": "A client has a calcium level of 11.5 mg/dL. Which complications should the nurse expect?",
+      "options": [
+        "Bone pain; Constipation",
+        "Seizures; Prolonged QT interval"
+      ],
+      "correctAnswer": "Bone pain; Constipation",
+      "explanationText": "Hypercalcemia can cause bone pain, constipation, weakness, kidney stones, and altered mental status. Seizures and prolonged QT interval are more commonly associated with hypocalcemia.",
+      "explanationImage": null
+    },
+    {
+      "id": 106,
+      "questionText": "Which condition is characterized by weight gain, pitting edema, hypertension, and lung crackles?",
+      "options": [
+        "Fluid Volume Excess"
+      ],
+      "correctAnswer": "Fluid Volume Excess",
+      "explanationText": "Fluid volume excess causes fluid accumulation in the vascular and interstitial spaces, leading to weight gain, edema, hypertension, and lung crackles.",
+      "explanationImage": null
+    },
+    {
+      "id": 107,
+      "questionText": "Which condition is characterized by dry oral mucous membranes, thirst, and decreased skin turgor?",
+      "options": [
+        "Fluid Volume Deficit"
+      ],
+      "correctAnswer": "Fluid Volume Deficit",
+      "explanationText": "Fluid volume deficit (dehydration) leads to decreased circulating volume, causing thirst, dry mucous membranes, and poor skin turgor.",
+      "explanationImage": null
+    },
+    {
+      "id": 108,
+      "questionText": "Which condition is characterized by confusion, agitation, chest pain, and cold, clammy, cyanotic skin?",
+      "options": [
+        "Hypovolemic shock"
+      ],
+      "correctAnswer": "Hypovolemic shock",
+      "explanationText": "Hypovolemic shock results from severe fluid loss causing poor perfusion, leading to altered mental status, chest pain, and cool, clammy skin.",
+      "explanationImage": null
+    },
+    {
+      "id": 109,
+      "questionText": "Which condition is characterized by tachypnea, pink frothy sputum, and hypoxia?",
+      "options": [
+        "Pulmonary edema"
+      ],
+      "correctAnswer": "Pulmonary edema",
+      "explanationText": "Pulmonary edema occurs when fluid accumulates in the alveoli, impairing oxygen exchange and causing pink frothy sputum and respiratory distress.",
+      "explanationImage": null
+    },
+    {
+      "id": 110,
+      "questionText": "Which condition is characterized by a blood pressure drop with position changes?",
+      "options": [
+        "Orthostatic hypotension"
+      ],
+      "correctAnswer": "Orthostatic hypotension",
+      "explanationText": "Orthostatic hypotension is a drop in blood pressure when moving from lying or sitting to standing due to impaired autonomic response or volume depletion.",
+      "explanationImage": null
     }
   ]
 }
