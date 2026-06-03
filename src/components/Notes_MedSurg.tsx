@@ -148,104 +148,111 @@ export default function Notes_MedSurg() {
           <p className="text-sm">hormone changes lead to increase risk of fluid and electrolyte imbalance</p>
 
           <br />
-          <p className="text-sm">Furosemide (Lasix)</p>
+          <p className="text-sm">FUROSEMIDE (Lasix)</p>
           <p className="text-sm">Can cause hypokalemia</p>
           <p className="text-sm">given 10 mg / mL</p>
           <p className="text-sm">can cause otoxic if pushed too fast (hearing damage)</p>
           <p className="text-sm">pushed 10 mg per minute (a.k.a. 1 mL per minute)</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">ELECTROLYTE BALANCE</p>
+          <p className="text-sm">focus on sodium and potassium for this class (also magnesium and calcium for other classes)</p>
+          <p className="text-sm">Most potassium should be in the cell</p>
+          <p className="text-sm">Na is 135-145 in plasma.</p>
+          <p className="text-sm">K is 3.5 to 5 in plasma.</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">SODIUM IMBALANCE</p>
+          <p className="text-sm">causes</p>
+          <p className="text-sm">HYPONATREMIA: GI Loss, diuretics, burns, fasting diet, excessive hypotonic IV, polydipsia (drinking lots of water)</p>
+          <p className="text-sm">HYPERNATREMIA: Hypertonic IV fluid, excessive isotonic IV, tube feeds without enough water supplementation, near drowning salt water, insufficient water intake, loss of pure water such as high fever, heatstroke, prolonged hyperventilation, Cushing Syndrome, hyperaldosteronism, diabetes insipidus (body cannot regulate water balance for exessive thirst and urine)</p>
+          <p className="text-sm">assessment</p>
+          <p className="text-sm">Hyponatremia:  confusion, fatigue, convulsion, weakness, loss of consciousness, low BP</p>
+          <p className="text-sm">Hypernatremia:  F.R.I.E.D.  flushed skin, restless, increased BP, edema, decreased urine output</p>
+          <p className="text-sm">treatment</p>
+          <p className="text-sm">Hyponatremia: fluid restriction, isotonic, sodium containing IV solutions, encourage oral intake of Na</p>
+          <p className="text-sm">Hypernatremia: if mild, isotonic IV solution, if severe, hypotonic IV solution, restrict Na in diet, diuretics (if fluid overload)</p>
+          <p className="text-sm">!!! Na must be corrected SLOWLY to prevent neurological damage !!!</p>
 
           <br />
+          <p className="text-sm">POTASSIUM IMBALANCE</p>
+          <p className="text-sm">greatly impacts muscles</p>
+          <p className="text-sm">causes</p>
+          <p className="text-sm">hypokalemia: GI loss, renal loss/urination, dialysis, inadequate diet, medications like diuretics (furosemide) or insulin</p>
+          <p className="text-sm">hyperkalemia: Kidney failure, excessive K+ intake, renal/kidney disease</p>
+          <p className="text-sm">assessment</p>
+          <p className="text-sm">hypokalemia: fatigue, irritable, confusion, EKG changes, irregular pulse, decreased muscle tone</p>
+          <p className="text-sm">hyperkalemia: M.U.R.D.E.R.  muscle cramps, urine abnormal, respiratory distress, decrased cardiac contraction, EKG changes (tall T wave, wide QRS), reflexes (hyper or hypo-reflexive)</p>
+          <p className="text-sm">treatment</p>
+          <p className="text-sm">hypokalemia: K+ pills/liquid, higher K+ diet, IV K+ infusion</p>
+          <p className="text-sm">hyperkalemia: diuretics (furosemide), sodium polystyrene (kaexylate), dialysis, low K+ diet, insulin, calcium gluconate (protects cardiac cells), beta agonists (albuterol) helps bring K+ into cell</p>
           <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">QRS wave is like the mountain and T is like the hill.  If the T is also a mountain, then it might be hyperkalemia.</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">HYPERTONIC SOLUTIONS</p>
+          <p className="text-sm">3% sodium chloride give slowly.</p>
+          <p className="text-sm">Vessicant (irritates and feels like burning)</p>
+          <p className="text-sm">can cause pulmonary edema - watch respiratory status</p>
+          <p className="text-sm">listen for crackles</p>
+          <p className="text-sm">Hypertonic solutions for head injuries is good to shrink swelling in head</p>
+          <p className="text-sm">Dextrose 10% in water.</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">BIOLOGICAL VARIANCES</p>
+          <p className="text-sm">babies do not produce tears until 6 weeks of age</p>
+          <p className="text-sm">infant fontanel: sunken or bulging (assess when baby is calm)</p>
+          <p className="text-sm">infant dependent on others to meet fluid needs</p>
+          <p className="text-sm">infant has limited ability to dilute and concentrate urine</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">CALCULATE FLUID REQUIREMENTS</p>
+          <p className="text-sm">1 to 10 kg (100 mL/kg)</p>
+          <p className="text-sm">11 to 20 kg (1000 mlL + 50 mL/kg)</p>
+          <p className="text-sm">More than 20 kg (1500 + 20 mL/kg)</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">Output</p>
+          <p className="text-sm">Urine output decreases as we get older</p>
+          <p className="text-sm">Infant: 1-2 mL / kg / hr</p>
+          <p className="text-sm">Child: 1 mL / kg / hr</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">DEHYDRATION SEVERITY</p>
+          <p className="text-sm">Mild: Oral rehydration</p>
+          <p className="text-sm">Moderate: Oral rehydration</p>
+          <p className="text-sm">Severe (based on body weight loss): IV</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">VIRUSES</p>
+          <p className="text-sm">Rotovirus: most common cause of diarrhea in children</p>
+          <p className="text-sm">Norovirus: more common in cruises (common in shellfish)</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">MANAGING GASTROENTERITIS</p>
+          <p className="text-sm">avoid anti-diarrheals (diarrhea helps gets disease out)</p>
+          <p className="text-sm">assess dehydration</p>
+          <p className="text-sm">oral rehydration</p>
+          <p className="text-sm">IV therapy as needed</p>
+          <p className="text-sm">enteric precautions until stool culture diagnosis is resolved</p>
+          <p className="text-sm">!!! Potassium is added to IV fluids only after child has voided !!!</p>
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">ANEMIA</p>
+          <p className="text-sm">!!! Pernicious Anemia !!!</p>
+          <p className="text-sm">Insufficient absorption of vitamin 12</p>
+          <p className="text-sm">Pernicious is megaloblastic - big RBCs</p>
+          <p className="text-sm">This happens because we need our stomach's acid secretion of intrinsic factor to absorb B12.</p>
+          <p className="text-sm">BASICALLY, stomach changes (surgery) can lead to not absorbing vitamin B12.</p>
+          <p className="text-sm">i.e. autoimmune disease, gastic bypass, ileum resection, etc.</p>
+          <p className="text-sm">Pernicious Anemia signs + symptoms</p>
+          <p className="text-sm">normal anemia signs + numbness/tingling, muscle ataxia (muscle weakness)</p>
+
 
           <br />
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
-          <p className="text-sm"></p>
+          <p className="text-sm">IRON DEFICIENCY</p>
+          <p className="text-sm">!!! treatment: take iron on empty stomach !!!</p>
+          <p className="text-sm">vitamin C is to help absorb iron.</p>
           <p className="text-sm"></p>
           <p className="text-sm"></p>
           <p className="text-sm"></p>

@@ -1438,9 +1438,9 @@
       "id": 112,
       "questionText": "Good source of potassium",
       "options": [
-        "Bananas"
+        "1. Potato 2. Broccoli.  3. Banana.  4. Tomato (also oranges, spinach)"
       ],
-      "correctAnswer": "Bananas",
+      "correctAnswer": "1. Potato 2. Broccoli.  3. Banana.  4. Tomato (also oranges, spinach)",
       "explanationText": "",
       "explanationImage": null
     },
@@ -1533,6 +1533,66 @@
     },
     {
       "id": 121,
+      "questionText": "Which indicates dehydration?",
+      "options": [
+        "Tachycardia"
+      ],
+      "correctAnswer": "Tachycardia",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 122,
+      "questionText": "Which is infant fluid deficit",
+      "options": [
+        "Sunken fontanel; increased urine specific gravity"
+      ],
+      "correctAnswer": "Sunken fontanel; increased urine specific gravity",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 123,
+      "questionText": "Which lab measures size of RBC?",
+      "options": [
+        "Mean Corpuscular Volume"
+      ],
+      "correctAnswer": "Mean Corpuscular Volume",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 124,
+      "questionText": "Are oral supplemnets the best treamtment for client with pernicious anemia",
+      "options": [
+        "Yes", "No"
+      ],
+      "correctAnswer": "No",
+      "explanationText": "Pernicious anemia is from not absorbing from the stomach acid altered and not absopbing B12.  So this is needed IV",
+      "explanationImage": null
+    },
+    {
+      "id": 125,
+      "questionText": "Folic acid is needed for RBC formation + formation of neural tube in fetus",
+      "options": [
+        "True"
+      ],
+      "correctAnswer": "True",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 126,
+      "questionText": "Folic Acid Foods",
+      "options": [
+        "Green leafy, liver"
+      ],
+      "correctAnswer": "Green leafy, liver",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 127,
       "questionText": "?",
       "options": [
         "?"
@@ -1542,7 +1602,27 @@
       "explanationImage": null
     },
     {
-      "id": 122,
+      "id": 128,
+      "questionText": "?",
+      "options": [
+        "?"
+      ],
+      "correctAnswer": "?",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 129,
+      "questionText": "?",
+      "options": [
+        "?"
+      ],
+      "correctAnswer": "?",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 130,
       "questionText": "?",
       "options": [
         "?"
