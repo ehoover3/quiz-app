@@ -1423,6 +1423,133 @@
       "correctAnswer": "Orthostatic hypotension",
       "explanationText": "Orthostatic hypotension is a drop in blood pressure when moving from lying or sitting to standing due to impaired autonomic response or volume depletion.",
       "explanationImage": null
+    },
+    {
+      "id": 111,
+      "questionText": "Infant vomits for 2 days.  What is most reliable indicator of fluid loss?",
+      "options": [
+        "Body Weight"
+      ],
+      "correctAnswer": "Infant vomits for 2 days.  What is most reliable indicator of fluid loss?",
+      "explanationText": "Body Weight",
+      "explanationImage": null
+    },
+    {
+      "id": 112,
+      "questionText": "Good source of potassium",
+      "options": [
+        "Bananas"
+      ],
+      "correctAnswer": "Bananas",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 113,
+      "questionText": "Kid has gastroenteritis and is able to tolerate oral fluids.  Which is best",
+      "options": [
+        "Broth",
+        "Water",
+        "Diluted Appple Juice",
+        "Oral Rehydration Solution"
+      ],
+      "correctAnswer": "Oral Rehydration Solution",
+      "explanationText": "Broth could be too much sodium.  Diluted apple juice has too much sugar (causes more diarrhea).  Oral Rehydration Solution is like pedialyte.",
+      "explanationImage": null
+    },
+    {
+      "id": 114,
+      "questionText": "Client has SOB, swelling in lower extremities, lung crackles, and increased BP",
+      "options": [
+        "Hypervolemia"
+      ],
+      "correctAnswer": "Hypervolemia",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 115,
+      "questionText": "Client has inappropriate antidiuretic hormone and a sodium level of 123 mEq/L.",
+      "options": [
+        "Maintain IV of 0.45% sodium chloride",
+        "Restrict fluid intake to 1,000 mL per day",
+        "Provide diet containing 2 g of sodium per day",
+        "Administer desmopressin acetate 0.2 mg orally"
+      ],
+      "correctAnswer": "Restrict fluid intake to 1,000 mL per day",
+      "explanationText": "Antidiuretic hormone indicates they are retaining water.  Too low of sodium (135-145 mEq/L).",
+      "explanationImage": null
+    },
+    {
+      "id": 116,
+      "questionText": "Dehydration and hypotension.",
+      "options": [
+        "Increase fluid intake"
+      ],
+      "correctAnswer": "Increase fluid intake",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 117,
+      "questionText": "Hypernatremia and receiving IV hypotonic fluid replacement.  Which is an adverse effect of administration of hypotonic fluid",
+      "options": [
+        "Client develops confusion"
+      ],
+      "correctAnswer": "Client develops confusion",
+      "explanationText": "Sodium imbalances can manifest in neurological imbalances",
+      "explanationImage": null
+    },
+    {
+      "id": 118,
+      "questionText": "Good dietary source of iron",
+      "options": [
+        "Red meat and organ meat"
+      ],
+      "correctAnswer": "Red meat and organ meat",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 119,
+      "questionText": "Anemia due to blood loss - expected finding?",
+      "options": [
+        "Fatigue",
+        "Bradycardia"
+      ],
+      "correctAnswer": "Fatigue",
+      "explanationText": "Expect tachycardia",
+      "explanationImage": null
+    },
+    {
+      "id": 120,
+      "questionText": "What has folic acid?",
+      "options": [
+        "Asparagus and leafy greens"
+      ],
+      "correctAnswer": "Asparagus and leafy greens",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 121,
+      "questionText": "?",
+      "options": [
+        "?"
+      ],
+      "correctAnswer": "?",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 122,
+      "questionText": "?",
+      "options": [
+        "?"
+      ],
+      "correctAnswer": "?",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }

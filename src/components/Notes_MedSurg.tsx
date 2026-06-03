@@ -131,6 +131,118 @@ export default function Notes_MedSurg() {
           <p className="text-sm">Calcium Channel Blockers (Verapamil):  Blocks BP by preventing calcium from entering cells of the heart and arteries. Side effects: peripheral edema</p>
 
           <br />
+          <p className="text-sm">WHERE SHOULD FLUID BE?</p>
+          <p className="text-sm">28 L of Intracellular (within cells)</p>
+          <p className="text-sm">10 L of Interstitial Fluid (space between cells)</p>
+          <p className="text-sm">3 L of Plasma</p>
+
+          <br />
+          <p className="text-sm">SPACING</p>
+          <p className="text-sm">1st spacing is where fluid should be</p>
+          <p className="text-sm">2nd spacing is edema (edema does not always mean fluid overload)</p>
+          <p className="text-sm">3rd spacing is fluid in a body cavity (very difficult to get out)</p>
+
+          <br />
+          <p className="text-sm">FLUID BALANCE PROBLEMS</p>
+          <p className="text-sm">structure changes in kidneys decrease ability to conserve water</p>
+          <p className="text-sm">hormone changes lead to increase risk of fluid and electrolyte imbalance</p>
+
+          <br />
+          <p className="text-sm">Furosemide (Lasix)</p>
+          <p className="text-sm">Can cause hypokalemia</p>
+          <p className="text-sm">given 10 mg / mL</p>
+          <p className="text-sm">can cause otoxic if pushed too fast (hearing damage)</p>
+          <p className="text-sm">pushed 10 mg per minute (a.k.a. 1 mL per minute)</p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+          <p className="text-sm"></p>
+
+          <br />
           <p className="text-sm"></p>
           <p className="text-sm"></p>
           <p className="text-sm"></p>
