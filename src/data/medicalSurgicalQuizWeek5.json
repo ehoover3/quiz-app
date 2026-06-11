@@ -1,0 +1,145 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Infant cleft lip repaired.  Postop care includes",
+      "questionImage": null,
+      "options": [
+        "Clean suture line, supine position, and arm restraints"
+      ],
+      "correctAnswer": "Clean suture line, supine position, and arm restraints",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 2,
+      "questionText": "What is celiac disease",
+      "questionImage": null,
+      "options": [
+        "Gluten induced entropathy"
+      ],
+      "correctAnswer": "Gluten induced entropathy",
+      "explanationText": "Autoimmune response to a protein in gluten",
+      "explanationImage": null
+    },
+    {
+      "id": 3,
+      "questionText": "What foods are not allowed because of gluten?",
+      "questionImage": null,
+      "options": [
+        "oats, wheat, barley, rye",
+        "rice, corn, soy, potato, eggs, millet, buckwheat, nut flours"
+      ],
+      "correctAnswer": "oats, wheat, barley, rye",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 4,
+      "questionText": "What is celiac crisis?",
+      "questionImage": null,
+      "options": [
+        "Severe abdominal distension, diarrhea, eletrolyte imbalance, lethargy, hypovolemic"
+      ],
+      "correctAnswer": "Severe abdominal distension, diarrhea, eletrolyte imbalance, lethargy, hypovolemic",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 5,
+      "questionText": "What is cholecystitis?",
+      "questionImage": null,
+      "options": [
+        "Inflammation of gallbladder",
+        "Inflammation of intestines",
+        "Inflammation of spleen"
+      ],
+      "correctAnswer": "Inflammation of gallbladder",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 6,
+      "questionText": "Which diet recommendation is most appropriate for IBD patient during flare-up?",
+      "questionImage": null,
+      "options": [
+        "Low-reside diet with easily digestible foods",
+        "Gluten-free diet to reduce inflammation",
+        "High-fiber diet with raw vegetables"
+      ],
+      "correctAnswer": "Low-residue diet with easily digestible foods",
+      "explanationText": "low residue = low fiber, low bulk, easy to digest.  Examples: eggs, cooked meat, clear soup, broth.",
+      "explanationImage": null
+    },
+    {
+      "id": 7,
+      "questionText": "Celiac disease primary intervention is...",
+      "questionImage": null,
+      "options": [
+        "Gluten-free diet"
+      ],
+      "correctAnswer": "Gluten-free diet",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 8,
+      "questionText": "Cleft lip baby recommendation is...",
+      "questionImage": null,
+      "options": [
+        "Specialized feeding bottles with modified nipples"
+      ],
+      "correctAnswer": "Specialized feeding bottles with modified nipples",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 9,
+      "questionText": "Key nutrition concern for patient with bowel obstruction",
+      "questionImage": null,
+      "options": [
+        "NPO and IV Fluids",
+        "Encourage high-fiber intake"
+      ],
+      "correctAnswer": "NPO and IV Fluids",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 10,
+      "questionText": "Most appropriate nutrition support for complete bowel obstruction patient?",
+      "questionImage": null,
+      "options": [
+        "Parenteral nutrition",
+        "Jejunostomy tube feeding"
+      ],
+      "correctAnswer": "Parenteral nutrition",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    }
+  ]
+}
