@@ -1,0 +1,326 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "What are the leading causes of maternal mortality in the US?",
+      "questionImage": null,
+      "options": [
+        "mental health conditionas, hemorrage, cardiac conditions"
+      ],
+      "correctAnswer": "mental health conditionas, hemorrage, cardiac conditions",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 2,
+      "questionText": "What parameters define infant mortality?",
+      "questionImage": null,
+      "options": [
+        "birth to 1 year"
+      ],
+      "correctAnswer": "birth to 1 year",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 3,
+      "questionText": "Which of the following places the patient at higher risk of postpartum hemorrhage?",
+      "questionImage": null,
+      "options": [
+        "Labor lasted more than 24 hours"
+      ],
+      "correctAnswer": "Labor lasted more than 24 hours",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 4,
+      "questionText": "Postpartum clinet staurates peri-pad within 15 minutes.  What is the priority nurse intervention?",
+      "questionImage": null,
+      "options": [
+        "Fundal massage"
+      ],
+      "correctAnswer": "Fundal massage",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 5,
+      "questionText": "This tool is used prior to discharge to assess their emotional state",
+      "questionImage": null,
+      "options": [
+        "Edingburgh postnatal depression scale"
+      ],
+      "correctAnswer": "Edingburgh postnatal depression scale",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 6,
+      "questionText": "Most common postpartum infection seen with cesarean delivery, prolonged labor, or prolonged ROM",
+      "questionImage": null,
+      "options": [
+        "Group Beta Strep (GBS)",
+        "Endometritis",
+        "Chorioamnionitis"
+      ],
+      "correctAnswer": "Endometritis",
+      "explanationText": "Endometritis is an infection of the endometrium, the inner lining of the uterus. It most commonly occurs after childbirth, especially following a cesarean section.  Chorioamnionitis is an infection of the amniotic fluid, placenta, and fetal membranes (chorion and amnion) during pregnancy.  Group B Streptococcus (GBS) is a type of bacteria commonly found in the vagina and rectum of healthy adults.",
+      "explanationImage": ""
+    },
+    {
+      "id": 7,
+      "questionText": "What are the four T's of postpartum hemorrhage",
+      "questionImage": null,
+      "options": [
+        "Tone, Trauma, Tissue, Thrombin"
+      ],
+      "correctAnswer": "Tone, Trauma, Tissue, Thrombin",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 8,
+      "questionText": "Decrease in fetal heart rate caused by cord compression",
+      "questionImage": null,
+      "options": [
+        "late",
+        "prolonged",
+        "variable",
+        "early"
+      ],
+      "correctAnswer": "variable",
+      "explanationText": "Variable decelerations = umbilical cord compression + appear as 'V' shape on monitor. Early decelerations = fetal head compression (benign). Late decelerations = uteroplacental insufficiency. Prolonged decelerations = various causes (prolonged cord compression, maternal hypotension, uterine hyperstimulation).",
+      "explanationImage": ""
+    },
+    {
+      "id": 9,
+      "questionText": "More than 5 contractions in 10 minutes",
+      "questionImage": null,
+      "options": [
+        "Tachysystole",
+        "Tachyarrhythmia"
+      ],
+      "correctAnswer": "Tachysystole",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 10,
+      "questionText": "A reassuring sign of fetal well-being",
+      "questionImage": null,
+      "options": [
+        "Acceleration"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 11,
+      "questionText": "Amplitude range between 6-25 bpm and reflects intact fetal CNS functioning",
+      "questionImage": null,
+      "options": [
+        "Moderate variability",
+        "Minimal variability",
+        "Absent variability",
+        "Marked variability"
+      ],
+      "correctAnswer": "Moderate variability",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 12,
+      "questionText": "What is the contraction frequency?",
+      "questionImage": "images/Contractions.png",
+      "options": [
+        "4 to 5.5 minutes",
+        "3 to 4 minutes",
+        "60 to 70 seconds"
+      ],
+      "correctAnswer": "4 to 5.5 minutes",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 13,
+      "questionText": "Most common cuase of sore nipples in breastfeeding client",
+      "questionImage": null,
+      "options": [
+        "Poor latch",
+        "Mastitis",
+        "Inverted nipples"
+      ],
+      "correctAnswer": "Poor latch",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 14,
+      "questionText": "What is the benefit of breastfeeding?",
+      "questionImage": null,
+      "options": [
+        "Cost-effectiveness",
+        "Subinvolution",
+        "Decreased postpartum depression"
+      ],
+      "correctAnswer": "Cost-effectiveness",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 15,
+      "questionText": "Discharge planning should include ___ because breastfeeding does not delay ovulation",
+      "questionImage": null,
+      "options": [
+        "Birth control measures"
+      ],
+      "correctAnswer": "Birth control measures",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 16,
+      "questionText": "These include rooting and hand-to-mouthu motions",
+      "questionImage": null,
+      "options": [
+        "Feeding cues"
+      ],
+      "correctAnswer": "Feeding cues",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 17,
+      "questionText": "This breastfeeding hold is best for immediate postoperative clients, avoiding weight on the incision",
+      "questionImage": null,
+      "options": [
+        "cross-cradle",
+        "football (or cradle)",
+        "football",
+        "side-lying"
+      ],
+      "correctAnswer": "football (or cradle)",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 18,
+      "questionText": "Which is secondary prevention?",
+      "questionImage": null,
+      "options": [
+        "immunizations",
+        "handwashing",
+        "diabetic education",
+        "mammogram"
+      ],
+      "correctAnswer": "mammogram",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 19,
+      "questionText": "A public health nurse's focus is on which group of people?",
+      "questionImage": null,
+      "options": [
+        "individuals and families",
+        "the whole population",
+        "a group with specific needs"
+      ],
+      "correctAnswer": "the whole population",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 20,
+      "questionText": "this concept focuses on sociental issues to implement systemic change rather than on the individual",
+      "questionImage": null,
+      "options": [
+        "health belief model",
+        "upstream thinking",
+        "transtheoretical model",
+        "health promotion model"
+      ],
+      "correctAnswer": "upstream thinking",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 21,
+      "questionText": "Which is NOT a current global ehalth concern",
+      "questionImage": null,
+      "options": [
+        "telehealth",
+        "food insecurity",
+        "human trafficking",
+        "climate change"
+      ],
+      "correctAnswer": "telehealth",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 22,
+      "questionText": "the public health nurse can foster partnerships to promote health programs through...",
+      "questionImage": null,
+      "options": [
+        "collaboration"
+      ],
+      "correctAnswer": "collaboration",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 23,
+      "questionText": "Which is an example of a community gatekeeper",
+      "questionImage": null,
+      "options": [
+        "teachers, police, neighborhood leaders, church leader"
+      ],
+      "correctAnswer": "teachers, police, neighborhood leaders, church leader",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 24,
+      "questionText": "The built environment can be assessed through which of the following",
+      "questionImage": null,
+      "options": [
+        "key informant interview",
+        "windshield survey",
+        "literature review"
+      ],
+      "correctAnswer": "windshield survey",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 25,
+      "questionText": "capacity to obtain, interpret, and use basic health info and services",
+      "questionImage": null,
+      "options": [
+        "health literacy", "health promotion", "heatlh education"
+      ],
+      "correctAnswer": "health literacy",
+      "explanationText": "",
+      "explanationImage": ""
+    },
+    {
+      "id": 26,
+      "questionText": "learning theory based on observation of others",
+      "questionImage": null,
+      "options": [
+        "cognitive learning theory",
+        "humanistic learning theory",
+        "social learning theory",
+        "experiential learning theory"
+      ],
+      "correctAnswer": "social learning theory",
+      "explanationText": "Cognitive learning theory: Learning occurs through mental processes like thinking, memory, and problem-solving, where learners actively organize and store information. Humanistic learning theory: Learning is driven by personal growth and self-actualization, emphasizing emotions, motivation, and the learner’s individual needs. Social learning theory: People learn by observing others, imitating behaviors, and modeling actions they see reinforced in their environment. Experiential learning theory: Learning happens through direct experience, reflection, and applying what is learned to real-world situations.",
+      "explanationImage": ""
+    }
+  ]
+}

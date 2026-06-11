@@ -40,6 +40,10 @@ export default function App() {
             Maternal Newborn
           </button>
 
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1")}>
+            Maternal Newborn Exam 1
+          </button>
+
           <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalQuizWeek5")}>
             Medical Surgical Quiz Week 5
           </button>
