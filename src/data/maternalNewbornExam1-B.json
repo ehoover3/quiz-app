@@ -1,0 +1,574 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 27,
+      "questionText": "Client is 5 hr postpartum after vaginal birth. Newborn weighs 9 lb 6 oz. Client is at risk for which postpartum complication?",
+      "questionImage": null,
+      "options": [
+        "Puerperal infection",
+        "Retained placental fragments",
+        "Thrombophlebitis",
+        "Uterine atony"
+      ],
+      "correctAnswer": "Uterine atony",
+      "explanationText": "A large newborn can cause overdistention of the uterus, making it difficult for the uterus to contract effectively after birth. Poor uterine contraction (uterine atony) is the leading cause of postpartum hemorrhage.",
+      "explanationImage": ""
+    },
+    {
+      "id": 28,
+      "questionText": "A nurse is completing discharge instructions for a new mother and her 2-day-old newborn. The mother asks, 'How will I know if my baby gets enough breast milk?'",
+      "questionImage": null,
+      "options": [
+        "Your baby should have a wake cycle of 30 to 60 minutes after each feeding",
+        "Your baby should wet 6 to 8 diapers per day"
+      ],
+      "correctAnswer": "Your baby should wet 6 to 8 diapers per day",
+      "explanationText": "Adequate urine output is one of the best indicators that a newborn is receiving enough breast milk. By about 5 days of age, infants should have at least 6 to 8 wet diapers each day.",
+      "explanationImage": ""
+    },
+    {
+      "id": 29,
+      "questionText": "A nurse is caring for a client who is postpartum and received methylergonovine. Which finding indicates that the medication was effective?",
+      "questionImage": null,
+      "options": [
+        "Fundus firm to palpation",
+        "Increase in blood pressure",
+        "Report of absent breast pain"
+      ],
+      "correctAnswer": "Fundus firm to palpation",
+      "explanationText": "Methylergonovine stimulates uterine contractions to prevent or treat postpartum hemorrhage. A firm, contracted fundus indicates the medication is working effectively.",
+      "explanationImage": ""
+    },
+    {
+      "id": 30,
+      "questionText": "Client is in labor with an external fetal monitor. Late decelerations are noted on the monitor. What caused this?",
+      "questionImage": null,
+      "options": [
+        "Uteroplacental insufficiency",
+        "Fetal head compression",
+        "Umbilical cord compression"
+      ],
+      "correctAnswer": "Uteroplacental insufficiency",
+      "explanationText": "Late decelerations occur when the fetus does not receive enough oxygen during contractions due to decreased placental perfusion. This is known as uteroplacental insufficiency.",
+      "explanationImage": ""
+    },
+    {
+      "id": 31,
+      "questionText": "A nurse helps a special needs student with tube feedings during the lunch hour. Which level of prevention is this?",
+      "questionImage": null,
+      "options": [
+        "Tertiary",
+        "Secondary",
+        "Primary",
+        "Quaternary"
+      ],
+      "correctAnswer": "Tertiary",
+      "explanationText": "Tertiary prevention focuses on reducing complications and improving quality of life for individuals with existing conditions or disabilities. Assisting with tube feedings supports ongoing management of a chronic condition.",
+      "explanationImage": ""
+    },
+    {
+      "id": 32,
+      "questionText": "A nurse is planning care for a client who is 2 hours postpartum following a cesarean birth. The client has a history of thromboembolic disease. Which intervention should be included?",
+      "questionImage": null,
+      "options": [
+        "Apply warm, moist heat to client's lower extremities",
+        "Massage the client's posterior lower legs",
+        "Place pillows under the client's knees when resting in bed",
+        "Have the client ambulate"
+      ],
+      "correctAnswer": "Have the client ambulate",
+      "explanationText": "Early ambulation promotes venous return and helps prevent thrombus formation. Clients with a history of thromboembolic disease are at increased risk for postpartum blood clots.",
+      "explanationImage": ""
+    },
+    {
+      "id": 33,
+      "questionText": "A public health nurse and a community team are beginning to evaluate a community program. Which describes when the evaluation of a community program should be done?",
+      "questionImage": null,
+      "options": [
+        "Before the program is implemented",
+        "Only after completion of the program",
+        "During the planning phase",
+        "Continually throughout the implementation process"
+      ],
+      "correctAnswer": "Continually throughout the implementation process",
+      "explanationText": "Program evaluation should occur throughout implementation to determine effectiveness, identify needed changes, and ensure goals are being met.",
+      "explanationImage": ""
+    },
+    {
+      "id": 34,
+      "questionText": "Which is an example of secondary data?",
+      "questionImage": null,
+      "options": [
+        "Community informant interviews",
+        "Direct observation",
+        "Crime statistics",
+        "Windshield survey"
+      ],
+      "correctAnswer": "Crime statistics",
+      "explanationText": "Secondary data are information that have already been collected by another source. Crime statistics are existing records, whereas interviews, observations, and windshield surveys are primary data sources.",
+      "explanationImage": ""
+    },
+    {
+      "id": 35,
+      "questionText": "A nurse is teaching a postpartum client who has a new prescription for an injection of Rho(D) immunoglobulin. Which information should be included?",
+      "questionImage": null,
+      "options": [
+        "It prevents formation of Rh antibodies in mothers who are Rh negative.",
+        "It destroys Rh antibodies in mothers who are Rh negative."
+      ],
+      "correctAnswer": "It prevents formation of Rh antibodies in mothers who are Rh negative.",
+      "explanationText": "Rho(D) immunoglobulin prevents sensitization in Rh-negative mothers by preventing the formation of antibodies against Rh-positive blood cells.",
+      "explanationImage": ""
+    },
+    {
+      "id": 36,
+      "questionText": "A woman is 38 weeks gestation and in early labor with ruptured membranes. The client's oral temperature is 102°F (38.9°C). Besides notifying the provider, which action is the priority?",
+      "questionImage": null,
+      "options": [
+        "Recheck client's temperature in 4 hours",
+        "Administer glucocorticoids intramuscularly",
+        "Assess the odor of the amniotic fluid",
+        "Prepare client for emergency cesarean section"
+      ],
+      "correctAnswer": "Assess the odor of the amniotic fluid",
+      "explanationText": "A temperature of 102°F after rupture of membranes suggests possible intra-amniotic infection (chorioamnionitis). Assessing the amniotic fluid for a foul odor helps evaluate for infection and guides treatment.",
+      "explanationImage": ""
+    },
+    {
+      "id": 37,
+      "questionText": "A patient is having induction of labor with oxytocin administered through a secondary IV line. Uterine contractions occur every 2 min, last 90 sec, and are strong to palpation. The baseline fetal heart rate is 150/min, with uniform decelerations beginning at the peak of the contraction and a return to baseline after the contraction is over. Which action should the nurse take?",
+      "questionImage": null,
+      "options": [
+        "Decrease rate of infusion of maintenance IV solution",
+        "Discontinue infusion of IV oxytocin",
+        "Increase rate of infusion of IV oxytocin",
+        "Slow client's rate of breathing"
+      ],
+      "correctAnswer": "Discontinue infusion of IV oxytocin",
+      "explanationText": "The client is experiencing uterine tachysystole with late decelerations, which indicate uteroplacental insufficiency. The priority intervention is to stop the oxytocin infusion to reduce uterine stimulation and improve fetal oxygenation.",
+      "explanationImage": ""
+    },
+    {
+      "id": 38,
+      "questionText": "A community health nurse is preparing an educational activity that addresses the domains of learning. The nurse should know that the psychomotor domain involves which of the following? Select all that apply.",
+      "questionImage": null,
+      "options": [
+"Gross motor skills; Autonomic reflexes; Fine motor skills",
+        "Prioritizing value",
+        "Thought processes"
+      ],
+      "correctAnswer": [
+"Gross motor skills; Autonomic reflexes; Fine motor skills"
+      ],
+      "explanationText": "The psychomotor domain focuses on physical movement and motor skills. Gross motor skills, fine motor skills, and autonomic reflexes are psychomotor functions. Prioritizing values is affective, and thought processes are cognitive.",
+      "explanationImage": ""
+    },
+    {
+      "id": 39,
+      "questionText": "A nurse is caring for a client who is 3 days postpartum and is attempting to breastfeed. Which of the following findings indicate mastitis?",
+      "questionImage": null,
+      "options": [
+        "Swelling in both breasts",
+        "Cracked and bleeding nipples",
+        "Red and painful area in one breast",
+        "A white patch on a nipple"
+      ],
+      "correctAnswer": "Red and painful area in one breast",
+      "explanationText": "Mastitis commonly presents with a localized area of redness, warmth, pain, and swelling in one breast, often accompanied by flu-like symptoms.",
+      "explanationImage": ""
+    },
+    {
+      "id": 40,
+      "questionText": "A nurse is assessing a client for postpartum infection. Which of the following findings should indicate to the nurse that the client requires further evaluation for endometritis?",
+      "questionImage": null,
+      "options": [
+        "Moderate amount of dark red lochia with a bloody odor",
+        "A localized area of breast tenderness",
+        "Pelvic pain",
+        "Hematuria"
+      ],
+      "correctAnswer": "Pelvic pain",
+      "explanationText": "Endometritis is an infection of the uterine lining. Common manifestations include pelvic or uterine pain, uterine tenderness, fever, and foul-smelling lochia.",
+      "explanationImage": ""
+    },
+    {
+      "id": 41,
+      "questionText": "A nurse is assisting a client with breastfeeding. The nurse explains that which of the following reflexes will promote the newborn to latch?",
+      "questionImage": null,
+      "options": [
+        "Babinski",
+        "Rooting",
+        "Moro",
+        "Stepping"
+      ],
+      "correctAnswer": "Rooting",
+      "explanationText": "The rooting reflex causes the newborn to turn toward a touch on the cheek and open the mouth in search of a nipple, helping the infant latch during feeding.",
+      "explanationImage": ""
+    },
+    {
+      "id": 42,
+      "questionText": "A nurse is caring for a client who is postpartum and finds the fundus slightly boggy and displaced to the right. Based on these findings, which of the following actions should the nurse take?",
+      "questionImage": null,
+      "options": [
+        "Encourage the client to perform Kegel exercises",
+        "Encourage the client to move to the left lateral position",
+        "Ask the client to rate her pain",
+        "Assist the client to the bathroom to void"
+      ],
+      "correctAnswer": "Assist the client to the bathroom to void",
+      "explanationText": "A boggy fundus displaced to the right commonly indicates a distended bladder. Emptying the bladder allows the uterus to return to midline and contract effectively.",
+      "explanationImage": ""
+    },
+    {
+      "id": 43,
+      "questionText": "A nurse is caring for a client who is 6 hours postpartum and asks the nurse to feed her newborn. Which of the following responses should the nurse provide?",
+      "questionImage": null,
+      "options": [
+        "I'll feed him today. Maybe tomorrow you can try it.",
+        "You can learn to feed him; I wasn't comfortable the first time I fed a baby either.",
+        "Feeding an infant can feel a little intimidating at first, but I'll stay and help you."
+      ],
+      "correctAnswer": "Feeding an infant can feel a little intimidating at first, but I'll stay and help you.",
+      "explanationText": "This response acknowledges the client's feelings while offering support and teaching. It promotes confidence and independence through therapeutic communication.",
+      "explanationImage": ""
+    },
+    {
+      "id": 44,
+      "questionText": "A nurse is observing the electronic fetal heart rate monitor tracing for a client who is at 40 weeks gestation and is in labor. The nurse should suspect a problem with the umbilical cord when she observes which of the following patterns?",
+      "questionImage": null,
+      "options": [
+        "Early decelerations",
+        "Accelerations",
+        "Late decelerations",
+        "Variable decelerations"
+      ],
+      "correctAnswer": "Variable decelerations",
+      "explanationText": "Variable decelerations are abrupt decreases in fetal heart rate caused by umbilical cord compression and are the hallmark sign of cord-related problems.",
+      "explanationImage": ""
+    },
+    {
+      "id": 45,
+      "questionText": "A community health nurse is working with a client to make long-standing, health-related changes using the transtheoretical model. Which of the following actions by the client indicates that they are in the preparation stage? Select all that apply.",
+      "questionImage": null,
+      "options": [
+        "Stocking their refrigerator and pantry with healthy foods",
+        "Reading about daily nutritional requirements",
+        "Considering signing up for the gym next week",
+        "Purchasing running shoes",
+        "Signing up for a local smoking cessation program"
+      ],
+      "correctAnswer": [
+        "Stocking their refrigerator and pantry with healthy foods",
+        "Purchasing running shoes",
+        "Signing up for a local smoking cessation program"
+      ],
+      "explanationText": "The preparation stage involves planning and taking small steps toward behavior change. Purchasing equipment, obtaining resources, and enrolling in programs demonstrate readiness to act.",
+      "explanationImage": ""
+    },
+    {
+      "id": 46,
+      "questionText": "A community health nurse wants to create an educational activity that will change the way clients think about their current eating habits. The nurse should know that which of the following learning theories focuses on reflection and evaluation of perspective?",
+      "questionImage": null,
+      "options": [
+        "Experiential",
+        "Behavioral",
+        "Humanistic",
+        "Transformative"
+      ],
+      "correctAnswer": "Transformative",
+      "explanationText": "Transformative learning theory focuses on critical reflection and reassessment of existing beliefs and perspectives, leading to meaningful changes in thinking and behavior.",
+      "explanationImage": ""
+    },
+    {
+      "id": 57,
+      "questionText": "A nurse is teaching the parent of a newborn about bottle feeding. Which of the following statements by the parent indicates a need for further instruction?",
+      "questionImage": null,
+      "options": [
+        "I will tip the nipple so air is present as my baby sucks",
+        "My baby will have soft, formed yellow stools"
+      ],
+      "correctAnswer": "I will tip the nipple so air is present as my baby sucks",
+      "explanationText": "The bottle should be tilted so the nipple remains completely filled with formula. Allowing air into the nipple increases air swallowing and can lead to excessive gas and discomfort.",
+      "explanationImage": ""
+    },
+    {
+      "id": 58,
+      "questionText": "A nurse is discussing ethical issues associated with telehealth with a group of newly licensed nurses. Which of the following statements should the nurse include in the discussion as an ethical concern related to telehealth?",
+      "questionImage": null,
+      "options": [
+        "Telehealth will worsen health inequities.",
+        "Telehealth can compromise client confidentiality.",
+        "Telehealth may disadvantage those without access to a computer.",
+        "Telehealth encounters are expensive."
+      ],
+      "correctAnswer": "Telehealth can compromise client confidentiality.",
+      "explanationText": "Protecting privacy and confidentiality is a primary ethical concern with telehealth because electronic communication increases the risk of unauthorized access to health information.",
+      "explanationImage": ""
+    },
+    {
+      "id": 59,
+      "questionText": "A nurse is caring for a client who is postpartum and has a prescription for Rho(D) immunoglobulin. The nurse should verify which of the following prior to administration?",
+      "questionImage": null,
+      "options": [
+        "Client is Rh positive and newborn is Rh positive",
+        "Client is Rh negative and newborn is Rh negative",
+        "Client is Rh negative and newborn is Rh positive",
+        "Client is Rh positive and newborn is Rh negative"
+      ],
+      "correctAnswer": "Client is Rh negative and newborn is Rh positive",
+      "explanationText": "Rho(D) immunoglobulin is administered to an Rh-negative mother who has delivered an Rh-positive infant to prevent the formation of Rh antibodies.",
+      "explanationImage": ""
+    },
+    {
+      "id": 60,
+      "questionText": "A nurse is caring for a client who is 7 days postpartum and calls the clinic to report pain and redness of her left calf. Besides seeing her provider, which of the following interventions should the nurse suggest?",
+      "questionImage": null,
+      "options": [
+        "Flex her knee while resting",
+        "Massage the area",
+        "Elevate her leg",
+        "Apply cold compress"
+      ],
+      "correctAnswer": "Elevate her leg",
+      "explanationText": "Pain and redness in the calf may indicate thrombophlebitis. Elevating the affected leg promotes venous return and reduces swelling. The client should avoid massaging the area because it could dislodge a clot.",
+      "explanationImage": ""
+    },
+    {
+      "id": 61,
+      "questionText": "A nurse is assisting a client who is postpartum with her first breastfeeding experience. When the client asks how much of the nipple she should put into the newborn's mouth, which response should the nurse make?",
+      "questionImage": null,
+      "options": [
+        "You should place your nipple and some of the areola into her mouth",
+        "Babies know instinctively how much of the nipple to take into their mouth",
+        "Your baby's mouth is rather small so she will only take part of the nipple",
+        "Try to place the nipple, the areola, and some breast tissue beyond the areola into her mouth"
+      ],
+      "correctAnswer": "Try to place the nipple, the areola, and some breast tissue beyond the areola into her mouth",
+      "explanationText": "An effective latch includes the nipple, most of the areola, and some breast tissue beyond the areola. This promotes milk transfer and helps prevent nipple trauma.",
+      "explanationImage": ""
+    },
+    {
+      "id": 62,
+      "questionText": "A community health nurse is organizing an event and is looking for community members to partner with. The nurse should understand that it is important to partner with community members for which of the following reasons?",
+      "questionImage": null,
+      "options": [
+        "Community members will be less likely to give a negative critique about the event.",
+        "It will help ensure that community members' concerns are heard and their ideas are incorporated into the planning of the event.",
+        "The nurse can change the community members' perspective by working closely with them.",
+        "Partnering with community members will allow the nurse time to work on more important tasks."
+      ],
+      "correctAnswer": "It will help ensure that community members' concerns are heard and their ideas are incorporated into the planning of the event.",
+      "explanationText": "Community partnerships promote engagement, trust, and collaboration while ensuring programs reflect the needs and priorities of the population being served.",
+      "explanationImage": ""
+    },
+    {
+      "id": 63,
+      "questionText": "Which of the following is a function of a population health nurse?",
+      "questionImage": null,
+      "options": [
+        "Giving health education to congregants of a place of worship",
+        "Overseeing the health promotion of the pediatric population in an academic setting",
+        "Disseminating assessment findings to the community that was assessed",
+        "Supporting clients in managing their own health conditions"
+      ],
+      "correctAnswer": "Overseeing the health promotion of the pediatric population in an academic setting",
+      "explanationText": "Population health nursing focuses on improving health outcomes for specific populations. Coordinating health promotion activities for a pediatric population is an example of this role.",
+      "explanationImage": ""
+    },
+    {
+      "id": 64,
+      "questionText": "An occupational health nurse is implementing some tertiary levels of prevention in the workplace. Which of the following interventions are tertiary interventions?",
+      "questionImage": null,
+      "options": [
+        "Working with the floor manager to decide on some light duty work for a nurse aid who is recovering from a broken ankle",
+        "Conducting an in-service on using the new patient lift device to prevent back injuries in the nursing staff",
+        "Screening the staff for Tuberculosis (TB) exposure",
+        "Administering the annual flu vaccine to the employees"
+      ],
+      "correctAnswer": "Working with the floor manager to decide on some light duty work for a nurse aid who is recovering from a broken ankle",
+      "explanationText": "Tertiary prevention focuses on rehabilitation and minimizing disability after illness or injury. Modified work duties help an employee recover while returning to work safely.",
+      "explanationImage": ""
+    },
+    {
+      "id": 65,
+      "questionText": "A community health nurse is researching information related to the Healthy People 2030 goals. The nurse should identify that which of the following agencies sets and supports the Healthy People objectives?",
+      "questionImage": null,
+      "options": [
+        "National Institutes of Health (NIH)",
+        "World Health Organization (WHO)",
+        "Office of Disease Prevention and Health Promotion (ODPHP)",
+        "Centers for Disease Control and Prevention (CDC)"
+      ],
+      "correctAnswer": "Office of Disease Prevention and Health Promotion (ODPHP)",
+      "explanationText": "The Office of Disease Prevention and Health Promotion (ODPHP) leads the Healthy People initiative and establishes national health objectives for the United States.",
+      "explanationImage": ""
+    },
+    {
+      "id": 66,
+      "questionText": "A nurse is caring for a client who is in the active phase of the first stage of labor. When monitoring the uterine contractions, which of the following findings should the nurse report to the provider?",
+      "questionImage": null,
+      "options": [
+        "Contractions lasting longer than 90 seconds",
+        "Contractions occurring every 3 to 5 minutes",
+        "Contractions are strong in intensity",
+        "Client reports feeling contractions in lower back"
+      ],
+      "correctAnswer": "Contractions lasting longer than 90 seconds",
+      "explanationText": "Contractions lasting longer than 90 seconds may reduce uteroplacental blood flow and fetal oxygenation. This finding should be reported because it can indicate uterine tachysystole.",
+      "explanationImage": ""
+    },
+
+    {
+      "id": 68,
+      "questionText": "A nurse is performing a physical examination of a client who is 1 day postpartum. Which of the following findings require immediate intervention?",
+      "questionImage": null,
+      "options": [
+        "Decreased urge to void",
+        "Increased urine output",
+        "Displaced fundus from the midline",
+        "Fundal height below the umbilicus"
+      ],
+      "correctAnswer": "Displaced fundus from the midline",
+      "explanationText": "A fundus that is displaced from the midline usually indicates bladder distention, which can prevent uterine contraction and increase the risk of postpartum hemorrhage. This requires prompt intervention.",
+      "explanationImage": ""
+    },
+    {
+      "id": 69,
+      "questionText": "A nurse is caring for a client who is 12 hours postpartum following a vaginal delivery. Which of the following findings should the nurse expect?",
+      "questionImage": null,
+      "options": [
+        "Fundus soft, 1 cm to the right of the umbilicus",
+        "Fundus firm, at the level of the umbilicus",
+        "Fundus present, to the left of the umbilicus",
+        "Fundus soft, 2 cm above the umbilicus"
+      ],
+      "correctAnswer": "Fundus firm, at the level of the umbilicus",
+      "explanationText": "During the first 12 hours postpartum, the fundus is normally firm and located at or near the level of the umbilicus. A soft or displaced fundus is abnormal.",
+      "explanationImage": ""
+    },
+    {
+      "id": 70,
+      "questionText": "A school nurse is partnering with the local hospital system's tobacco cessation program to give a presentation focused on discouraging tobacco use in high school students. According to the Health Belief Model, which of the following might be included in the presentation?",
+      "questionImage": null,
+      "options": [
+        "The local town ordinance regarding smoking bans in certain public spaces",
+        "The school's no smoking policy",
+        "The benefits to not smoking when engaging in sports and other activities",
+        "The need for social support to abstain from smoking"
+      ],
+      "correctAnswer": "The benefits to not smoking when engaging in sports and other activities",
+      "explanationText": "The Health Belief Model focuses on perceived benefits, perceived risks, and motivation to change behavior. Emphasizing the benefits of avoiding tobacco use aligns with this model.",
+      "explanationImage": ""
+    },
+    {
+      "id": 71,
+      "questionText": "A nurse is caring for a client who is 1 hour postpartum and observes a large amount of lochia rubra and several small clots on the client's perineal pad. The fundus is midline and firm at the umbilicus. Which of the following actions should the nurse take?",
+      "questionImage": null,
+      "options": [
+        "Document the findings and continue to monitor the client",
+        "Notify the client's provider",
+        "Increase the frequency of fundal massage",
+        "Encourage the client to empty her bladder"
+      ],
+      "correctAnswer": "Document the findings and continue to monitor the client",
+      "explanationText": "During the early postpartum period, lochia rubra and small clots are expected findings. Because the fundus is firm and midline, no additional intervention is needed at this time.",
+      "explanationImage": ""
+    },
+    {
+      "id": 72,
+      "questionText": "A nurse is completing a home visit to a mother who is 3 days postpartum and breastfeeding her newborn. The mother expresses concern about the amount of weight the newborn has lost since birth. Which of the following is a response the nurse should make?",
+      "questionImage": null,
+      "options": [
+        "You might want to offer water supplements between feedings",
+        "It is due to the newborn's loss of the influence of the maternal hormones",
+        "This might be related to your baby having 3 stools a day",
+        "The cause might be too short or infrequent feedings"
+      ],
+      "correctAnswer": "The cause might be too short or infrequent feedings",
+      "explanationText": "Excessive weight loss in a breastfed newborn can result from inadequate intake due to feedings that are too short or not occurring often enough. Newborns should feed frequently to establish milk supply and maintain weight.",
+      "explanationImage": ""
+    },
+    {
+      "id": 73,
+      "questionText": "A nurse is caring for a client who experienced a vaginal delivery 12 hours ago. When palpating the client's abdomen, at which of the following positions should the nurse expect to find the uterine fundus?",
+      "questionImage": null,
+      "options": [
+        "At the level of the umbilicus",
+        "2 cm above the umbilicus",
+        "One finger breadth above the symphysis pubis",
+        "To the right of the umbilicus"
+      ],
+      "correctAnswer": "At the level of the umbilicus",
+      "explanationText": "For approximately the first 12 hours postpartum, the fundus is expected to be firm and located at the level of the umbilicus.",
+      "explanationImage": ""
+    },
+    {
+      "id": 74,
+      "questionText": "A public health nurse is coordinating with a community health team. Which of the following statements by the nurse indicates that they understand their role and the nature of collaboration?",
+      "questionImage": null,
+      "options": [
+        "For best results, collaboration in the community should be limited to a smaller number of groups sharing common backgrounds and interests.",
+        "I will encourage subpopulations to develop unique goals to meet their unique needs.",
+        "Collaboration allows key stakeholders to share differing viewpoints.",
+        "I will act only in a subservient role, taking direction from community leaders in collaborative efforts."
+      ],
+      "correctAnswer": "Collaboration allows key stakeholders to share differing viewpoints.",
+      "explanationText": "Effective collaboration brings together stakeholders with diverse experiences and perspectives to improve decision-making and community outcomes.",
+      "explanationImage": ""
+    },
+    {
+      "id": 75,
+      "questionText": "A nurse is caring for a client who is 4 hours postpartum following a vaginal birth. The client has saturated a perineal pad within 10 minutes. Which of the following actions should the nurse take first?",
+      "questionImage": null,
+      "options": [
+        "Assess the client's blood pressure",
+        "Assess the bladder for distention",
+        "Massage the client's fundus",
+        "Prepare to administer a prescribed oxytocin preparation"
+      ],
+      "correctAnswer": "Massage the client's fundus",
+      "explanationText": "Rapid saturation of a perineal pad suggests postpartum hemorrhage. The nurse should first assess and massage the fundus because uterine atony is the most common cause of postpartum hemorrhage.",
+      "explanationImage": ""
+    },
+    {
+      "id": 76,
+      "questionText": "A nurse is assessing a client who is 3 days postpartum and is breastfeeding. The nurse notes that the fundus is three finger breadths below the umbilicus, lochia rubra is moderate, and the breasts are hard and warm to palpation. Which of the following interpretations of these findings should the nurse make?",
+      "questionImage": null,
+      "options": [
+        "Additional interventions are not indicated at this time"
+      ],
+      "correctAnswer": "Additional interventions are not indicated at this time",
+      "explanationText": "Three days postpartum, a fundus below the umbilicus, moderate lochia rubra, and breasts that are warm and firm due to milk coming in are expected findings.",
+      "explanationImage": ""
+    },
+    {
+      "id": 77,
+      "questionText": "A nurse is assessing a client who is 8 hours postpartum and multiparous. Which of the following findings should alert the nurse to the client's need to urinate?",
+      "questionImage": null,
+      "options": [
+        "Moderate lochia rubra",
+        "Fundus three finger breadths above the umbilicus",
+        "Moderate swelling of the labia",
+        "Blood pressure 130/84 mm Hg"
+      ],
+      "correctAnswer": "Fundus three finger breadths above the umbilicus",
+      "explanationText": "A full bladder can displace the uterus upward and interfere with uterine contraction. A fundus elevated above the expected level postpartum suggests urinary retention and the need to void.",
+      "explanationImage": ""
+    },
+    {
+      "id": 78,
+      "questionText": "A community health nurse is researching social determinants of health in the differing populations they serve.  The nurse should identify that which of the following factors place populations at the highest risk for negative health outcomes?",
+      "questionImage": null,
+      "options": [
+        "Poverty",
+        "Transportation Access",
+        "Genetics",
+        "Language Barriers"
+      ],
+      "correctAnswer": "Poverty",
+"explanationText": "Poverty is the primary driver of poor health outcomes across populations because it creates a compounding, cascading effect across almost all other social determinants of health (SDOH). Economic instability directly limits a person's ability to afford safe housing, nutritious food, life-saving medications, health insurance, and consistent medical care. While transportation and language are significant obstacles, they are often exacerbated by or secondary to underlying economic constraints. Genetics is an intrinsic biological factor rather than an external social determinant.",      "explanationImage": ""
+    }
+  ]
+}
