@@ -88,3 +88,8 @@ export default function App() {
 
   return <Quiz quizFile={quizFile} onFinish={handleFinish} />;
 }
+
+
+
+
+ 
