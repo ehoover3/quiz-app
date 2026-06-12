@@ -7,9 +7,9 @@
       "questionText": "What are the leading causes of maternal mortality in the US?",
       "questionImage": null,
       "options": [
-        "mental health conditionas, hemorrage, cardiac conditions"
+        "mental health conditions, hemorrhage, cardiac conditions"
       ],
-      "correctAnswer": "mental health conditionas, hemorrage, cardiac conditions",
+      "correctAnswer": "mental health conditions, hemorrhage, cardiac conditions",
       "explanationText": "",
       "explanationImage": ""
     },
@@ -37,7 +37,7 @@
     },
     {
       "id": 4,
-      "questionText": "Postpartum clinet staurates peri-pad within 15 minutes.  What is the priority nurse intervention?",
+      "questionText": "Postpartum client saturates peri-pad within 15 minutes.  What is the priority nurse intervention?",
       "questionImage": null,
       "options": [
         "Fundal massage"
@@ -147,7 +147,7 @@
     },
     {
       "id": 13,
-      "questionText": "Most common cuase of sore nipples in breastfeeding client",
+      "questionText": "Most common cause of sore nipples in breastfeeding client",
       "questionImage": null,
       "options": [
         "Poor latch",
@@ -184,7 +184,7 @@
     },
     {
       "id": 16,
-      "questionText": "These include rooting and hand-to-mouthu motions",
+      "questionText": "These include rooting and hand-to-mouth motions",
       "questionImage": null,
       "options": [
         "Feeding cues"
@@ -236,7 +236,7 @@
     },
     {
       "id": 20,
-      "questionText": "this concept focuses on sociental issues to implement systemic change rather than on the individual",
+      "questionText": "this concept focuses on societal issues to implement systemic change rather than on the individual",
       "questionImage": null,
       "options": [
         "health belief model",
@@ -250,7 +250,7 @@
     },
     {
       "id": 21,
-      "questionText": "Which is NOT a current global ehalth concern",
+      "questionText": "Which is NOT a current global health concern",
       "questionImage": null,
       "options": [
         "telehealth",
@@ -302,7 +302,7 @@
       "questionText": "capacity to obtain, interpret, and use basic health info and services",
       "questionImage": null,
       "options": [
-        "health literacy", "health promotion", "heatlh education"
+        "health literacy", "health promotion", "health education"
       ],
       "correctAnswer": "health literacy",
       "explanationText": "",
