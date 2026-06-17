@@ -1,0 +1,139 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "Infants cleft lip was repaired.  Postoperative care includes",
+      "questionImage": null,
+      "options": [
+        "Arm restraints, suctioning of drainage, and mouth irrigations",
+        "Cleansing of suture line, supine position, and arm restraints",
+        "Cleansing of suture line, prone position, and mouth irrigations",
+        "Supine and side-lying positions, suctioning of drainage, and arm restraints"
+      ],
+      "correctAnswer": "Cleansing of suture line, supine position, and arm restraints",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 2,
+      "questionText": "Long-term effects of childhood obesity",
+      "questionImage": null,
+      "options": [
+        "Diabetes mellitus",
+        "Rheumatoid arthritis"
+      ],
+      "correctAnswer": "Diabetes mellitus",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 3,
+      "questionText": "Metabolic syndrome.  Which is appropriate to teach?",
+      "questionImage": null,
+      "options": [
+        "Treatment will focus on lowering your blood pressure, cholesterol, and blood sugar"
+      ],
+      "correctAnswer": "Treatment will focus on lowering your blood pressure, cholesterol, and blood sugar",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 4,
+      "questionText": "Client has decreased LOC.  Client is receiving continuous enteral feedings via a gastronomy tube due to inability to swallow.  Which is a priority action?",
+      "questionImage": null,
+      "options": [
+        "Elevate client's bed to 30 to 45 degrees",
+        "Observe client's respiratory status",
+        "Check residual volume every 4 to 6 hours"
+      ],
+      "correctAnswer": "Elevate client's bed to 30 to 45 degrees",
+      "explanationText": "Residual volume is pulling back on tube feed from stomach",
+      "explanationImage": null
+    },
+    {
+      "id": 5,
+      "questionText": "Which is available as an injection to treat obesity",
+      "questionImage": null,
+      "options": [
+        "Simaglutide (Wegovy)",
+        "Orlistat (Ali)",
+        "Droabinol (Marinol)",
+        "Metformin"
+      ],
+      "correctAnswer": "Simaglutide (Wegovy)",
+      "explanationText": "Semaglutide (Wegovy) reduces appetite, increases fullness, and slows gastric emptying, which leads to weight loss. Orlistat (Alli), oral med, blocks fat absorption in the intestines, causing some dietary fat to pass through undigested. Dronabinol (Marinol), oral med, stimulates appetite, often in patients with AIDS or cancer-related weight loss. Metformin, oral diabetes med, improves insulin sensitivity and reduces liver glucose production.",
+      "explanationImage": null
+    },
+    {
+      "id": 6,
+      "questionText": "Which is a risk for getting a peptic ulcer",
+      "questionImage": null,
+      "options": [
+        "history of bulimia",
+        "history of NSAID use",
+        "drinks green tea",
+        "has a glass of wine with dinner each day"
+      ],
+      "correctAnswer": "history of NSAID use",
+      "explanationText": "Peptic ulcer are ulcers of stomach or small intestine.  Bulimia would have ulcers in mouth or esophagus.",
+      "explanationImage": null
+    },
+    {
+      "id": 7,
+      "questionText": "Teaching a client's adult son about how to position client when administering enteral feedings.",
+      "questionImage": null,
+      "options": [
+        "I will have him sit in his chair during feeding"
+      ],
+      "correctAnswer": "I will have him sit in his chair during feeding",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 8,
+      "questionText": "Which patient requires enteral tube feeding?",
+      "questionImage": null,
+      "options": [
+        "Client with paralytic ileus",
+        "Client experienced facial trauma",
+        "Client with dysphagia"
+      ],
+      "correctAnswer": "Client with dysphagia",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 9,
+      "questionText": "Client receiving intermittent enteral nutrition through nasograstric tube.  Which assessment is priority?",
+      "questionImage": null,
+      "options": [
+        "Client regurgitating enteral formula"
+      ],
+      "correctAnswer": "Client regurgitating enteral formula",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 10,
+      "questionText": "Ulcerative colitus and crohn's are both...",
+      "questionImage": null,
+      "options": ["Both are inflammatory"],
+      "correctAnswer": "Both are inflammatory",
+      "explanationText": "Both are inflammatory bowel diseases.  IMPORTANT: Both are not irritable bowel syndrome (catch all phrase for problems with diarrhea, constipation, etc.)",
+      "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "Difference between ulcerative colitus and chron's",
+      "questionImage": null,
+      "options": [
+        "Ulcerative colitis (UC) affects only the colon, starting at the rectum and spreading continuously, while Crohn’s disease can affect any part of the GI tract and has “skip lesions.” UC inflammation is limited to the inner lining and usually causes bloody diarrhea and urgency, whereas Crohn’s is transmural (all bowel layers) and often causes abdominal pain, diarrhea, weight loss, and malnutrition. UC can be cured by removing the colon, but Crohn’s cannot be cured with surgery and tends to recur."
+      ],
+      "correctAnswer": "Ulcerative colitis (UC) affects only the colon, starting at the rectum and spreading continuously, while Crohn’s disease can affect any part of the GI tract and has “skip lesions.” UC inflammation is limited to the inner lining and usually causes bloody diarrhea and urgency, whereas Crohn’s is transmural (all bowel layers) and often causes abdominal pain, diarrhea, weight loss, and malnutrition. UC can be cured by removing the colon, but Crohn’s cannot be cured with surgery and tends to recur.",
+      "explanationText": "",
+      "explanationImage": null
+    }
+  ]
+}

@@ -32,31 +32,36 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familiesAndPopulations")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalExam2")}>
+            Medical Surgical Exam 2
+          </button>
+
+
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familiesAndPopulations")}>
             Families and Populations
-          </button>
+          </button> */}
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewborn")}>
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewborn")}>
             Maternal Newborn
-          </button>
+          </button> */}
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1")}>
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1")}>
             Maternal Newborn Exam 1
-          </button>
+          </button> */}
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1-B")}>
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1-B")}>
             Maternal Newborn Exam 1 ATI 
-          </button>
+          </button> */}
 
 
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalQuizWeek5")}>
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalQuizWeek5")}>
             Medical Surgical Quiz Week 5
-          </button>
+          </button> */}
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgical")}>
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgical")}>
             Medical Surgical
-          </button>
+          </button> */}
 
           <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("cardiacRhythms")}>
             Cardiac Rhythms
