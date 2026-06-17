@@ -119,7 +119,9 @@
       "id": 10,
       "questionText": "Ulcerative colitus and crohn's are both...",
       "questionImage": null,
-      "options": ["Both are inflammatory"],
+      "options": [
+        "Both are inflammatory"
+      ],
       "correctAnswer": "Both are inflammatory",
       "explanationText": "Both are inflammatory bowel diseases.  IMPORTANT: Both are not irritable bowel syndrome (catch all phrase for problems with diarrhea, constipation, etc.)",
       "explanationImage": null
@@ -132,6 +134,452 @@
         "Ulcerative colitis (UC) affects only the colon, starting at the rectum and spreading continuously, while Crohn’s disease can affect any part of the GI tract and has “skip lesions.” UC inflammation is limited to the inner lining and usually causes bloody diarrhea and urgency, whereas Crohn’s is transmural (all bowel layers) and often causes abdominal pain, diarrhea, weight loss, and malnutrition. UC can be cured by removing the colon, but Crohn’s cannot be cured with surgery and tends to recur."
       ],
       "correctAnswer": "Ulcerative colitis (UC) affects only the colon, starting at the rectum and spreading continuously, while Crohn’s disease can affect any part of the GI tract and has “skip lesions.” UC inflammation is limited to the inner lining and usually causes bloody diarrhea and urgency, whereas Crohn’s is transmural (all bowel layers) and often causes abdominal pain, diarrhea, weight loss, and malnutrition. UC can be cured by removing the colon, but Crohn’s cannot be cured with surgery and tends to recur.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "Criteria for metabolic syndrome includes",
+      "questionImage": null,
+      "options": [
+        "Waist circumference, Triglycerides, HDL cholesterol (low “good” cholesterol), Blood pressure, Fasting glucose"
+      ],
+      "correctAnswer": "Waist circumference, Triglycerides, HDL cholesterol (low “good” cholesterol), Blood pressure, Fasting glucose",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 13,
+      "questionText": "What is primary obesity?",
+      "questionImage": null,
+      "options": [
+        "Excess calories over metabolic demand",
+        "Due to medical problem, i.e. congenital, etc."
+      ],
+      "correctAnswer": "Excess calories over metabolic demand",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 14,
+      "questionText": "What is secondary obesity?",
+      "questionImage": null,
+      "options": [
+        "Excess calories over metabolic demand",
+        "Due to medical problem, i.e. congenital, etc."
+      ],
+      "correctAnswer": "Due to medical problem, i.e. congenital, etc.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 15,
+      "questionText": "Obesity contributors",
+      "questionImage": null,
+      "options": [
+        "Hypothalamuus imablance, leptin (what tells you've had enough), ghrelin (inhibits leptin to eat more)"
+      ],
+      "correctAnswer": "Hypothalamuus imablance, leptin (what tells you've had enough), ghrelin (inhibits leptin to eat more)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "Which is obese?",
+      "questionImage": null,
+      "options": [
+        "BMI > 30"
+      ],
+      "correctAnswer": "BMI > 30",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 17,
+      "questionText": "Top 2 cause of liver disease",
+      "questionImage": null,
+      "options": [
+        "Alcohol + Obesity"
+      ],
+      "correctAnswer": "Alcohol + Obesity",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 18,
+      "questionText": "What is Orlistat?",
+      "questionImage": null,
+      "options": [
+        "Medication that is a nutrient absorption blocker, especially fat - client may have diarrhea + undigested food in stool"
+      ],
+      "correctAnswer": "Medication that is a nutrient absorption blocker, especially fat - client may have diarrhea + undigested food in stool",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 19,
+      "questionText": "What is Bupropion?",
+      "questionImage": null,
+      "options": [
+        "Antidepressant / opioid antagonist to decrease food cravings"
+      ],
+      "correctAnswer": "Antidepressant medication / opioid antagonist to decrease food cravings",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 20,
+      "questionText": "What is Qsymia?",
+      "questionImage": null,
+      "options": [
+        "Sympathomimetic (increases metabolism) and anti-seizure/migraine drug (decreases appetite)"
+      ],
+      "correctAnswer": "Sympathomimetic (increases metabolism) and anti-seizure/migraine drug (decreases appetite)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "What is Semaglutide (Wegovy)",
+      "questionImage": null,
+      "options": [
+        "Medication slows GI motility, weekly injection, risk of hypoglycemia if used with other diabetes meds, can cause pancreatitis"
+      ],
+      "correctAnswer": "Medication slows GI motility, weekly injection, risk of hypoglycemia if used with other diabetes meds, can cause pancreatitis",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "What is the criteria for bariatric surgery?",
+      "questionImage": null,
+      "options": [
+        "BMI >= 40, or BMI >= 35 w/ obesity related complications, psychologicla screening to commit to lifelong behavioral change, no advanced cancers, liver, kidney, or cardiovascular disease"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "What is lap band technique?",
+      "questionImage": null,
+      "options": [
+        "Band surgically placed on top part of stomach so patient feels full faster"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "What is gastric sleeve technique?",
+      "questionImage": null,
+      "options": [
+        "3/4 or so of stomach is cutout, so patient will lose weight"
+      ],
+      "correctAnswer": "3/4 or so of stomach is cutout, so patient will lose weight",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "What is the post-gastric bypass dietary guidelines?",
+      "questionImage": null,
+      "options": [
+        "Day 0-1: 15 mL protein rich clear liquid every 10-15 min.  Up to Day 7-10: liquid diet.  Day 10-14: Pureed diet.  Day 15-30: soft food (ground meat, rice, eggs). Weeks 4-6: regular diet."
+      ],
+      "correctAnswer": "Day 0-1: 15 mL protein rich clear liquid every 10-15 min.  Up to Day 7-10: liquid diet.  Day 10-14: Pureed diet.  Day 15-30: soft food (ground meat, rice, eggs). Weeks 4-6: regular diet.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "Metabolic syndrome treatment",
+      "questionImage": null,
+      "options": [
+        "Lifestyle Modification, Medications, Surgery"
+      ],
+      "correctAnswer": "Lifestyle Modification, Medications, Surgery",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "Macronutrients",
+      "questionImage": null,
+      "options": [
+        "Calorie=energy.  Carbs=main energy course.  Fats=satiety.  Proteins=tissue grown, repair, maintenance."
+      ],
+      "correctAnswer": "Calorie=energy.  Carbs=main energy course.  Fats=satiety.  Proteins=tissue grown, repair, maintenance.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "Micronutrients",
+      "questionImage": null,
+      "options": [
+        "Minerals (some are also electrolytes): Ca, Cl, Mg, Ph, K, Na, S  (Zinc, Iron and others, as well).  Vitamins =  Water soluble (C, B) Fat Soluble (A,D,E,K)"
+      ],
+      "correctAnswer": "Minerals (some are also electrolytes): Ca, Cl, Mg, Ph, K, Na, S  (Zinc, Iron and others, as well).  Vitamins =  Water soluble (C, B) Fat Soluble (A,D,E,K)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 29,
+      "questionText": "What is primary starvation?",
+      "questionImage": null,
+      "options": [
+        "Primary/Starvation-Related PCM:  Chronic starvation, no inflammation (anorexia nervosa)"
+      ],
+      "correctAnswer": "Primary/Starvation-Related PCM:  Chronic starvation, no inflammation (anorexia nervosa)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 30,
+      "questionText": "Secondary/chronic disease-related PCM",
+      "questionImage": null,
+      "options": [
+        "Secondary/chronic disease-related PCM: Caloric intake should be sufficient, but tissue needs aren’t met due to disease process (Cancers, RA, etc.)"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 31,
+      "questionText": "Acute disease/injury-related malnutrition",
+      "questionImage": null,
+      "options": [
+        "Burns, traumas, major infections"
+      ],
+      "correctAnswer": "Burns, traumas, major infections",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 32,
+      "questionText": "Causes of undernutrition",
+      "questionImage": null,
+      "options": [
+        "Inadequate food sources , Acute Illness (Burns, Fevers, Hospitalization), Chronic Illness (Diabetes), Mechanical issues (chewing/swallowing), Residents of Nursing homes/rehabs, Malabsorption due to Decreased digestive enzymes, Drug side effects, Decreased bowel surface area"
+      ],
+      "correctAnswer": "Inadequate food sources , Acute Illness (Burns, Fevers, Hospitalization), Chronic Illness (Diabetes), Mechanical issues (chewing/swallowing), Residents of Nursing homes/rehabs, Malabsorption due to Decreased digestive enzymes, Drug side effects, Decreased bowel surface area",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 33,
+      "questionText": "When starving, core temperature goes up and or down",
+      "questionImage": null,
+      "options": [
+        "When starving, temperature goes low",
+        "When starving, temperature goes high"
+      ],
+      "correctAnswer": "When starving, temperature goes low",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 34,
+      "questionText": "Nutrition lab values",
+      "questionImage": null,
+      "options": [
+        "Iron, Red blood cells, Albumin/pre-albumin, Electrolytes, Blood Urea Nitrogen (BUN) and Creatinine (Cr), Fat & Water soluble vitamins, Liver enzymes, White blood cells"
+      ],
+      "correctAnswer": "Iron, Red blood cells, Albumin/pre-albumin, Electrolytes, Blood Urea Nitrogen (BUN) and Creatinine (Cr), Fat & Water soluble vitamins, Liver enzymes, White blood cells",
+      "explanationText": "IF BUN or Creatinine are low, it is most likely from malnutrition.  When high, they are likely a kidney problem.",
+      "explanationImage": null
+    },
+    {
+      "id": 35,
+      "questionText": "What is enteral nutrition?",
+      "questionImage": null,
+      "options": [
+        "stomach and intestines"
+      ],
+      "correctAnswer": "stomach and intestines",
+      "explanationText": "i.e. G-Tube, NG-Tube",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "What is parenteral nutrition?",
+      "questionImage": null,
+      "options": [
+        "GI tract cannot be used, so this is in the bloodstream."
+      ],
+      "correctAnswer": "GI tract cannot be used, so this is in the bloodstream.",
+      "explanationText": "i.e. IV infusions",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "What is nasogastric tube (CORPACK)?",
+      "questionImage": null,
+      "options": [
+        "Nose-to-stomach"
+      ],
+      "correctAnswer": "Nose-to-stomach",
+      "explanationText": "NG tubes are great for suctioning, i.e. blood in stomach",
+      "explanationImage": null
+    },
+    {
+      "id": 38,
+      "questionText": "Naso-duodenal / jejunal tube",
+      "questionImage": null,
+      "options": [
+        "Nose to duodenum or nose to jejunum"
+      ],
+      "correctAnswer": "Nose to duodenum or nose to jejunum",
+      "explanationText": "NJ has less risk of aspritation comprared to NG tube.  NJ cannot be used for suctioning.",
+      "explanationImage": null
+    },
+    {
+      "id": 39,
+      "questionText": "Gastrostomy Tube",
+      "questionImage": null,
+      "options": [
+        "long term nutrition support"
+      ],
+      "correctAnswer": "long term nutrition support",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 40,
+      "questionText": "Jejunostomy Tube",
+      "questionImage": null,
+      "options": [
+        "long term nutrition support when stomach cannot be used"
+      ],
+      "correctAnswer": "long term nutrition support when stomach cannot be used",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 41,
+      "questionText": "What monitoring needs to occur for client on TPN?",
+      "questionImage": null,
+      "options": [
+        "AM labs, weight, Is & Os, vitals, assessmnets;  Q6 accucheck;  clean IV tubing;  sterile dressing changes;  bag and tubes changed every 24 hours to prevent infection;  nothing else in same line as TPN;  if you run out of TPN, run dextrose 10-20% to avoid hypoglycemia"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 42,
+      "questionText": "What happens if you stop TPN unexpectedly?",
+      "questionImage": null,
+      "options": [
+        "Risk of hypoglycemia"
+      ],
+      "correctAnswer": "Risk of hypoglycemia",
+      "explanationText": "If out of TPN formula, hang dextrose 10-20% until TPN can be resumed",
+      "explanationImage": null
+    },
+    {
+      "id": 43,
+      "questionText": "Enteral / Parenteral complications",
+      "questionImage": null,
+      "options": [
+        "BOTH:  Refeeding syndrome, hyper/hypoglycemia, electrolyte imablance, hyperlipidemia, fluid overload/deficit.  PARENTAERAL ONLY:  line infection/sepsis"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 44,
+      "questionText": "What is refeeding syndrome?",
+      "questionImage": null,
+      "options": [
+        "Refeeding syndrome - when body rapidly changes from catbolic state (starvation) to anabolic (building) - cannot absorb properly.  Drastic electrolyte imbalance can cause death."
+      ],
+      "correctAnswer": "Refeeding syndrome - when body rapidly changes from catbolic state (starvation) to anabolic (building) - cannot absorb properly.  Drastic electrolyte imbalance can cause death.",
+      "explanationText": "We must start slow to refeed to not overwhelm the body",
+      "explanationImage": null
+    },
+    {
+      "id": 45,
+      "questionText": "What is Metoclopramide?",
+      "questionImage": null,
+      "options": [
+        "Prokinetic.  Helps stomach empty faster and blocks nausea signals."
+      ],
+      "correctAnswer": "Prokinetic.  Helps stomach empty faster and blocks nausea signals.",
+      "explanationText": "This is the one med for GERD that has nothing to do with acid.",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "Crohn's Disease and ulcerative colitis are two forms of IBS (irritable bowel syndrome).",
+      "questionImage": null,
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "There is an immune component to ulcerative colitis and chrohn's disease",
+      "questionImage": null,
+      "options": [
+        "True"
+      ],
+      "correctAnswer": "True",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "Expected ulcerative colitis assessment",
+      "questionImage": null,
+      "options": [
+        "Abdominal Pain/Cramping (LLQ), Anorexia / weight loss, Fever, Diarrhea (15-20/day), Stools may contain blood, mucous, or pus, Abdominal distention w/ firmness and/or tenderness upon palpation, High-pitched bowel sounds, Rectal bleeding",
+        "Abdominal Pain/Cramping (RLQ), Anorexia / weight loss, Diarrhea (~5/day w/ mucus or pus), Abdominal distention w/ firmness, and/or tenderness upon palpation, High-pitched bowel sounds, steatorrhea"
+      ],
+      "correctAnswer": "Abdominal Pain/Cramping (LLQ), Anorexia / weight loss, Fever, Diarrhea (15-20/day), Stools may contain blood, mucous, or pus, Abdominal distention w/ firmness and/or tenderness upon palpation, High-pitched bowel sounds, Rectal bleeding",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "Expected crohn's disease assessment",
+      "questionImage": null,
+      "options": [
+        "Abdominal Pain/Cramping (LLQ), Anorexia / weight loss, Fever, Diarrhea (15-20/day), Stools may contain blood, mucous, or pus, Abdominal distention w/ firmness and/or tenderness upon palpation, High-pitched bowel sounds, Rectal bleeding",
+        "Abdominal Pain/Cramping (RLQ), Anorexia / weight loss, Diarrhea (~5/day w/ mucus or pus), Abdominal distention w/ firmness, and/or tenderness upon palpation, High-pitched bowel sounds, steatorrhea (excess fat in the stool)"
+      ],
+      "correctAnswer": "Abdominal Pain/Cramping (RLQ), Anorexia / weight loss, Diarrhea (~5/day w/ mucus or pus), Abdominal distention w/ firmness, and/or tenderness upon palpation, High-pitched bowel sounds, steatorrhea",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "What is the first line treatment for ulcerative colitis and crohn's disease?",
+      "questionImage": null,
+      "options": [
+        "Prednisone"
+      ],
+      "correctAnswer": "UC and CD are autoimmune issues. Prednisone suppresses the immune system.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "Surgery for colitis is the J-Pouch",
+      "questionImage": null,
+      "options": [
+        "An anus is made out of small intestine instead of colon.  Client poops out of anus."
+      ],
+      "correctAnswer": "An anus is made out of small intestine instead of colon.  Client poops out of anus.",
       "explanationText": "",
       "explanationImage": null
     }
