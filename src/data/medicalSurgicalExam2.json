@@ -582,6 +582,188 @@
       "correctAnswer": "An anus is made out of small intestine instead of colon.  Client poops out of anus.",
       "explanationText": "",
       "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "Which are ulcerative colitis?",
+      "questionImage": null,
+      "options": [
+        "Symptoms localized to the colon and rectum, Diarrhea about 15/day, Diarrhea has significant blood, ABD pain and cramping usually found in the LLQ",
+        "ABD pain and cramping usually found in the RLQ, May have symptoms anywhere in the GI tract from mouth to anus, Steatorrhea (floaty fatty stools), Diarrhea about 5/day"
+      ],
+      "correctAnswer": "Symptoms localized to the colon and rectum, Diarrhea about 15/day, Diarrhea has significant blood, ABD pain and cramping usually found in the LLQ",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "Which are crohn's disease?",
+      "questionImage": null,
+      "options": [
+        "Symptoms localized to the colon and rectum, Diarrhea about 15/day, Diarrhea has significant blood, ABD pain and cramping usually found in the LLQ",
+        "ABD pain and cramping usually found in the RLQ, May have symptoms anywhere in the GI tract from mouth to anus, Steatorrhea (floaty fatty stools), Diarrhea about 5/day"
+      ],
+      "correctAnswer": "ABD pain and cramping usually found in the RLQ, May have symptoms anywhere in the GI tract from mouth to anus, Steatorrhea (floaty fatty stools), Diarrhea about 5/day",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "What would you do for malabsorption?",
+      "questionImage": null,
+      "options": [
+        "Observe stool for undigested food or undissolved medication"
+      ],
+      "correctAnswer": "Observe stool for undigested food or undissolved medication",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "What would you do for lower GI bleeding?",
+      "questionImage": null,
+      "options": [
+        "Administer blood or blood products via a large bore IV"
+      ],
+      "correctAnswer": "Administer blood or blood products via a large bore IV",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "What would you do for small bowel obstruction?",
+      "questionImage": null,
+      "options": [
+        "Insert a nasogastric trube and connect to suction"
+      ],
+      "correctAnswer": "Insert a nasogastric trube and connect to suction",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "What would you do for Enteroenteric Fistula?",
+      "questionImage": null,
+      "options": [
+        "Administer antibiotic therapy"
+      ],
+      "correctAnswer": "Administer antibiotic therapy",
+      "explanationText": "An enteroenteric fistula (an opening between two or more portions of the small bowel) is a common complication of Crohn's and can cause infection. Antibiotics will be prescribed to treat and prevent peritonitis. A small bowel obs. can cause serious complications, including ABD distention, fluid and electrolyte imbalance and severe pain. The nurse would insert an NG tube to SX (e.g. Salem Sump) to help remove excessive secretions that tend to accumulate during a bowel obs and to rest the GI tract. Lower GI bleeding due to severe inflammation from Crohn's will often end in blood administration. Inflammation can also cause malabsorption of vital nutrients and with Wednesday's history of Celiac, absorption is already an issue. The presence of undigested food or medicine indicates that nutrients and medications are not being absorbed in the small bowel. Severe malabsorption can cause weight loss requiring nutritional interventions, including enteral supplements or parenteral nutrients.",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "The patient complains of frequent diarrhea, severe abdominal pain, and a low-grade fever. Which would be elevated?",
+      "questionImage": null,
+      "options": [
+        "B12",
+        "Hematocrit",
+        "Erythrocyte sedimentation rate (ESR)",
+        "Albumin."
+      ],
+      "correctAnswer": "Erythrocyte sedimentation rate (ESR)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 59,
+      "questionText": "Which is aminosalicilates?",
+      "questionImage": null,
+      "options": [
+        "Prednisone, Reduces inflammation and pain",
+        "Mesalamine (Pentasa), Reduces inflammation in the intestinal mucosa",
+        "Remicade, Regulate inflammatory and anti-inflammatory cytokines (suppresses immune response)",
+        "Methotrexate, Patients who are steroid resistant",
+        "Vancomycin, Manages infection"
+      ],
+      "correctAnswer": "Mesalamine (Pentasa), Reduces inflammation in the intestinal mucosa",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 60,
+      "questionText": "Which is corticosteroids?",
+      "questionImage": null,
+      "options": [
+        "Prednisone, Reduces inflammation and pain",
+        "Mesalamine (Pentasa), Reduces inflammation in the intestinal mucosa",
+        "Remicade, Regulate inflammatory and anti-inflammatory cytokines (suppresses immune response)",
+        "Methotrexate, Patients who are steroid resistant",
+        "Vancomycin, Manages infection"
+      ],
+      "correctAnswer": "Prednisone, Reduces inflammation and pain",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 61,
+      "questionText": "Which is Biologic Therapies?",
+      "questionImage": null,
+      "options": [
+        "Prednisone, Reduces inflammation and pain",
+        "Mesalamine (Pentasa), Reduces inflammation in the intestinal mucosa",
+        "Remicade, Regulate inflammatory and anti-inflammatory cytokines (suppresses immune response)",
+        "Methotrexate, Patients who are steroid resistant",
+        "Vancomycin, Manages infection"
+      ],
+      "correctAnswer": "Remicade, Regulate inflammatory and anti-inflammatory cytokines (suppresses immune response)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 62,
+      "questionText": "Which is Immunosuppressants?",
+      "questionImage": null,
+      "options": [
+        "Prednisone, Reduces inflammation and pain",
+        "Mesalamine (Pentasa), Reduces inflammation in the intestinal mucosa",
+        "Remicade, Regulate inflammatory and anti-inflammatory cytokines (suppresses immune response)",
+        "Methotrexate, Patients who are steroid resistant",
+        "Vancomycin, Manages infection"
+      ],
+      "correctAnswer": "Methotrexate, Patients who are steroid resistant",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "Which is Antibiotics?",
+      "questionImage": null,
+      "options": [
+        "Prednisone, Reduces inflammation and pain",
+        "Mesalamine (Pentasa), Reduces inflammation in the intestinal mucosa",
+        "Remicade, Regulate inflammatory and anti-inflammatory cytokines (suppresses immune response)",
+        "Methotrexate, Patients who are steroid resistant",
+        "Vancomycin, Manages infection"
+      ],
+      "correctAnswer": "Vancomycin, Manages infection",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "The nurse on the unit is also caring for a 17-year old patient with Crohn's.  The nurse finds foul smelling drainage coming from an open area on the patient's abdomen.  The nurse notifies the provider that the patient has developed an enterocutaneous fistula.  Which nursing actions are appropriate for this patient?",
+      "questionImage": null,
+      "options": [
+        "Monitor the patient for signs of sepsis to prevent septic shock; Apply a skin barrier and pouch to collect drainage and protect the surrounding skin; Administer IV antibiotic therapy as prescribed; Monitor fluid and electrolyte balance to identify dehydration or electrolyte imbalances."
+      ],
+      "correctAnswer": "Monitor the patient for signs of sepsis to prevent septic shock; Apply a skin barrier and pouch to collect drainage and protect the surrounding skin; Administer IV antibiotic therapy as prescribed; Monitor fluid and electrolyte balance to identify dehydration or electrolyte imbalances.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "Another patient on this unit has Ulcerative Colitis.  After frequent admissions for bleeding, they have decided to have surgery.  Which of the following is surgical treatment for Colitis?",
+      "questionImage": null,
+      "options": [
+        "Gastric bypass",
+        "Bilroth 1",
+        "Lap band",
+        "J-pouch"
+      ],
+      "correctAnswer": "J-pouch",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }
