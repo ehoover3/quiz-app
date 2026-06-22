@@ -32,11 +32,6 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalExam2")}>
-            Medical Surgical Exam 2
-          </button>
-
-
           {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familiesAndPopulations")}>
             Families and Populations
           </button> */}
@@ -45,23 +40,28 @@ export default function App() {
             Maternal Newborn
           </button> */}
 
-          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1")}>
-            Maternal Newborn Exam 1
-          </button> */}
-
-          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1-B")}>
-            Maternal Newborn Exam 1 ATI 
-          </button> */}
-
 
 
           {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalQuizWeek5")}>
             Medical Surgical Quiz Week 5
           </button> */}
 
-          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgical")}>
-            Medical Surgical
-          </button> */}
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1")}>
+            Maternal Newborn Exam 1
+          </button>
+
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam2")}>
+            Maternal Newborn Exam 2
+          </button>
+
+
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalExam1")}>
+            Medical Surgical Exam 1
+          </button>
+
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalExam2")}>
+            Medical Surgical Exam 2
+          </button>
 
           <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("cardiacRhythms")}>
             Cardiac Rhythms
@@ -97,4 +97,3 @@ export default function App() {
 
 
 
- 

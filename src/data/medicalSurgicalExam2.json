@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "questionText": "Client has decreased LOC.  Client is receiving continuous enteral feedings via a gastronomy tube due to inability to swallow.  Which is a priority action?",
+      "questionText": "Client has decreased LOC.  Client is receiving continuous enteral feedings via a gastrostomy tube due to inability to swallow.  Which is a priority action?",
       "questionImage": null,
       "options": [
         "Elevate client's bed to 30 to 45 degrees",
@@ -57,12 +57,12 @@
       "questionText": "Which is available as an injection to treat obesity",
       "questionImage": null,
       "options": [
-        "Simaglutide (Wegovy)",
+        "Semaglutide (Wegovy)",
         "Orlistat (Ali)",
-        "Droabinol (Marinol)",
+        "Dronabinol (Marinol)",
         "Metformin"
       ],
-      "correctAnswer": "Simaglutide (Wegovy)",
+      "correctAnswer": "Semaglutide (Wegovy)",
       "explanationText": "Semaglutide (Wegovy) reduces appetite, increases fullness, and slows gastric emptying, which leads to weight loss. Orlistat (Alli), oral med, blocks fat absorption in the intestines, causing some dietary fat to pass through undigested. Dronabinol (Marinol), oral med, stimulates appetite, often in patients with AIDS or cancer-related weight loss. Metformin, oral diabetes med, improves insulin sensitivity and reduces liver glucose production.",
       "explanationImage": null
     },
@@ -106,7 +106,7 @@
     },
     {
       "id": 9,
-      "questionText": "Client receiving intermittent enteral nutrition through nasograstric tube.  Which assessment is priority?",
+      "questionText": "Client receiving intermittent enteral nutrition through nasogastric tube.  Which assessment is priority?",
       "questionImage": null,
       "options": [
         "Client regurgitating enteral formula"
@@ -117,7 +117,7 @@
     },
     {
       "id": 10,
-      "questionText": "Ulcerative colitus and crohn's are both...",
+      "questionText": "Ulcerative colitis and crohn's are both...",
       "questionImage": null,
       "options": [
         "Both are inflammatory"
@@ -128,7 +128,7 @@
     },
     {
       "id": 11,
-      "questionText": "Difference between ulcerative colitus and chron's",
+      "questionText": "Difference between ulcerative colitis and Crohn's",
       "questionImage": null,
       "options": [
         "Ulcerative colitis (UC) affects only the colon, starting at the rectum and spreading continuously, while Crohn’s disease can affect any part of the GI tract and has “skip lesions.” UC inflammation is limited to the inner lining and usually causes bloody diarrhea and urgency, whereas Crohn’s is transmural (all bowel layers) and often causes abdominal pain, diarrhea, weight loss, and malnutrition. UC can be cured by removing the colon, but Crohn’s cannot be cured with surgery and tends to recur."
@@ -177,9 +177,9 @@
       "questionText": "Obesity contributors",
       "questionImage": null,
       "options": [
-        "Hypothalamuus imablance, leptin (what tells you've had enough), ghrelin (inhibits leptin to eat more)"
+        "Hypothalamus imbalance, leptin (what tells you you've had enough), ghrelin (inhibits leptin to eat more)"
       ],
-      "correctAnswer": "Hypothalamuus imablance, leptin (what tells you've had enough), ghrelin (inhibits leptin to eat more)",
+      "correctAnswer": "Hypothalamus imbalance, leptin (what tells you you've had enough), ghrelin (inhibits leptin to eat more)",
       "explanationText": "",
       "explanationImage": null
     },
@@ -223,7 +223,7 @@
       "options": [
         "Antidepressant / opioid antagonist to decrease food cravings"
       ],
-      "correctAnswer": "Antidepressant medication / opioid antagonist to decrease food cravings",
+      "correctAnswer": "Antidepressant / opioid antagonist to decrease food cravings",
       "explanationText": "",
       "explanationImage": null
     },
@@ -254,9 +254,9 @@
       "questionText": "What is the criteria for bariatric surgery?",
       "questionImage": null,
       "options": [
-        "BMI >= 40, or BMI >= 35 w/ obesity related complications, psychologicla screening to commit to lifelong behavioral change, no advanced cancers, liver, kidney, or cardiovascular disease"
+        "BMI >= 40, or BMI >= 35 w/ obesity related complications, psychological screening to commit to lifelong behavioral change, no advanced cancers, liver, kidney, or cardiovascular disease"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "BMI >= 40, or BMI >= 35 w/ obesity related complications, psychological screening to commit to lifelong behavioral change, no advanced cancers, liver, kidney, or cardiovascular disease",
       "explanationText": "",
       "explanationImage": null
     },
@@ -267,7 +267,7 @@
       "options": [
         "Band surgically placed on top part of stomach so patient feels full faster"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Band surgically placed on top part of stomach so patient feels full faster",
       "explanationText": "",
       "explanationImage": null
     },
@@ -309,9 +309,9 @@
       "questionText": "Macronutrients",
       "questionImage": null,
       "options": [
-        "Calorie=energy.  Carbs=main energy course.  Fats=satiety.  Proteins=tissue grown, repair, maintenance."
+        "Calorie=energy.  Carbs=main energy source.  Fats=satiety.  Proteins=tissue grown, repair, maintenance."
       ],
-      "correctAnswer": "Calorie=energy.  Carbs=main energy course.  Fats=satiety.  Proteins=tissue grown, repair, maintenance.",
+      "correctAnswer": "Calorie=energy.  Carbs=main energy source.  Fats=satiety.  Proteins=tissue grown, repair, maintenance.",
       "explanationText": "",
       "explanationImage": null
     },
@@ -344,7 +344,7 @@
       "options": [
         "Secondary/chronic disease-related PCM: Caloric intake should be sufficient, but tissue needs aren’t met due to disease process (Cancers, RA, etc.)"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Secondary/chronic disease-related PCM: Caloric intake should be sufficient, but tissue needs aren’t met due to disease process (Cancers, RA, etc.)",
       "explanationText": "",
       "explanationImage": null
     },
@@ -434,7 +434,7 @@
         "Nose to duodenum or nose to jejunum"
       ],
       "correctAnswer": "Nose to duodenum or nose to jejunum",
-      "explanationText": "NJ has less risk of aspritation comprared to NG tube.  NJ cannot be used for suctioning.",
+      "explanationText": "NJ has less risk of aspiration compared to NG tube.  NJ cannot be used for suctioning.",
       "explanationImage": null
     },
     {
@@ -464,9 +464,9 @@
       "questionText": "What monitoring needs to occur for client on TPN?",
       "questionImage": null,
       "options": [
-        "AM labs, weight, Is & Os, vitals, assessmnets;  Q6 accucheck;  clean IV tubing;  sterile dressing changes;  bag and tubes changed every 24 hours to prevent infection;  nothing else in same line as TPN;  if you run out of TPN, run dextrose 10-20% to avoid hypoglycemia"
+        "AM labs, weight, Is & Os, vitals, assessments;  Q6 accucheck;  clean IV tubing;  sterile dressing changes;  bag and tubes changed every 24 hours to prevent infection;  nothing else in same line as TPN;  if you run out of TPN, run dextrose 10-20% to avoid hypoglycemia"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "AM labs, weight, Is & Os, vitals, assessments;  Q6 accucheck;  clean IV tubing;  sterile dressing changes;  bag and tubes changed every 24 hours to prevent infection;  nothing else in same line as TPN;  if you run out of TPN, run dextrose 10-20% to avoid hypoglycemia",
       "explanationText": "",
       "explanationImage": null
     },
@@ -486,9 +486,9 @@
       "questionText": "Enteral / Parenteral complications",
       "questionImage": null,
       "options": [
-        "BOTH:  Refeeding syndrome, hyper/hypoglycemia, electrolyte imablance, hyperlipidemia, fluid overload/deficit.  PARENTAERAL ONLY:  line infection/sepsis"
+        "BOTH:  Refeeding syndrome, hyper/hypoglycemia, electrolyte imbalance, hyperlipidemia, fluid overload/deficit.  PARENTERAL ONLY:  line infection/sepsis"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "BOTH:  Refeeding syndrome, hyper/hypoglycemia, electrolyte imbalance, hyperlipidemia, fluid overload/deficit.  PARENTERAL ONLY:  line infection/sepsis",
       "explanationText": "",
       "explanationImage": null
     },
@@ -497,9 +497,9 @@
       "questionText": "What is refeeding syndrome?",
       "questionImage": null,
       "options": [
-        "Refeeding syndrome - when body rapidly changes from catbolic state (starvation) to anabolic (building) - cannot absorb properly.  Drastic electrolyte imbalance can cause death."
+        "Refeeding syndrome - when body rapidly changes from catabolic state (starvation) to anabolic (building) - cannot absorb properly.  Drastic electrolyte imbalance can cause death."
       ],
-      "correctAnswer": "Refeeding syndrome - when body rapidly changes from catbolic state (starvation) to anabolic (building) - cannot absorb properly.  Drastic electrolyte imbalance can cause death.",
+      "correctAnswer": "Refeeding syndrome - when body rapidly changes from catabolic state (starvation) to anabolic (building) - cannot absorb properly.  Drastic electrolyte imbalance can cause death.",
       "explanationText": "We must start slow to refeed to not overwhelm the body",
       "explanationImage": null
     },
@@ -557,7 +557,7 @@
         "Abdominal Pain/Cramping (LLQ), Anorexia / weight loss, Fever, Diarrhea (15-20/day), Stools may contain blood, mucous, or pus, Abdominal distention w/ firmness and/or tenderness upon palpation, High-pitched bowel sounds, Rectal bleeding",
         "Abdominal Pain/Cramping (RLQ), Anorexia / weight loss, Diarrhea (~5/day w/ mucus or pus), Abdominal distention w/ firmness, and/or tenderness upon palpation, High-pitched bowel sounds, steatorrhea (excess fat in the stool)"
       ],
-      "correctAnswer": "Abdominal Pain/Cramping (RLQ), Anorexia / weight loss, Diarrhea (~5/day w/ mucus or pus), Abdominal distention w/ firmness, and/or tenderness upon palpation, High-pitched bowel sounds, steatorrhea",
+      "correctAnswer": "Abdominal Pain/Cramping (RLQ), Anorexia / weight loss, Diarrhea (~5/day w/ mucus or pus), Abdominal distention w/ firmness, and/or tenderness upon palpation, High-pitched bowel sounds, steatorrhea (excess fat in the stool)",
       "explanationText": "",
       "explanationImage": null
     },
@@ -568,8 +568,8 @@
       "options": [
         "Prednisone"
       ],
-      "correctAnswer": "UC and CD are autoimmune issues. Prednisone suppresses the immune system.",
-      "explanationText": "",
+      "correctAnswer": "Prednisone",
+      "explanationText": "UC and CD are autoimmune issues. Prednisone suppresses the immune system.",
       "explanationImage": null
     },
     {
@@ -634,9 +634,9 @@
       "questionText": "What would you do for small bowel obstruction?",
       "questionImage": null,
       "options": [
-        "Insert a nasogastric trube and connect to suction"
+        "Insert a nasogastric tube and connect to suction"
       ],
-      "correctAnswer": "Insert a nasogastric trube and connect to suction",
+      "correctAnswer": "Insert a nasogastric tube and connect to suction",
       "explanationText": "",
       "explanationImage": null
     },
@@ -667,7 +667,7 @@
     },
     {
       "id": 59,
-      "questionText": "Which is aminosalicilates?",
+      "questionText": "Which is aminosalicylates?",
       "questionImage": null,
       "options": [
         "Prednisone, Reduces inflammation and pain",
