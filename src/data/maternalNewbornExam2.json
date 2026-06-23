@@ -1137,6 +1137,334 @@
       "correctAnswer": "Blood pressure 160/110 mm Hg, Visual disturbances, Severe headache, Right upper quadrant pain",
       "explanationText": "Severe features include severe hypertension, persistent headache, visual disturbances, and right upper quadrant or epigastric pain indicating possible liver involvement.",
       "explanationImage": null
+    },
+    {
+      "id": 85,
+      "questionText": "Client is to undergo a biophysical profile.  What is being evaluated?",
+      "questionImage": null,
+      "options": [
+        "Fetal breathing, fetal motion, amniotic fluid volume"
+      ],
+      "correctAnswer": "Fetal breathing, fetal motion, amniotic fluid volume",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 86,
+      "questionText": "Client is in labor and has epidural anesthesia block.   Client BP is 80/40 mm Hg and fetal heart rate is 140/min.  Which is priority?",
+      "questionImage": null,
+      "options": [
+        "Notify provider",
+        "Elevate client's legs",
+        "Place client in lateral position"
+      ],
+      "correctAnswer": "Place client in lateral position",
+      "explanationText": "Based on Maslow’s hierarchy of needs, the client should be moved to a lateral position or a pillow placed under one of the client’s hips to relieve pressure on the inferior vena cava and improve the blood pressure.",
+      "explanationImage": null
+    },
+    {
+      "id": 87,
+      "questionText": "Nurse in prenatal clinic is teaching amniocentesis, scheduled at 15 weeks of gestation.  Which should be taught?",
+      "questionImage": null,
+      "options": [
+        "This test requires the presence fo amniotic fluid"
+      ],
+      "correctAnswer": "This test requires the presence fo amniotic fluid",
+      "explanationText": "Amniocentesis requires adequate amniotic fluid for testing, which is not available until after 14 weeks of gestation. Amniocentesis is a prenatal diagnostic test in which a healthcare provider inserts a thin needle through the mother's abdomen into the uterus and removes a small sample of amniotic fluid (the fluid surrounding the baby).  The amniotic fluid contains fetal cells and chemicals that can be analyzed to: Diagnose chromosomal abnormalities such as Down syndrome, Detect genetic disorders (such as cystic fibrosis or sickle cell disease), Identify certain neural tube defects, such as Spina bifida, Assess fetal lung maturity in some late-pregnancy situations, Detect fetal infections in special circumstances",
+      "explanationImage": null
+    },
+    {
+      "id": 88,
+      "questionText": "Client is having nonstress test perfomed.  Fetal heart rate is 130 to 150/min, but. there has been no fetal movement for 15 minutes.  Which should the nurse do?",
+      "questionImage": null,
+      "options": [
+        "Immediately report situation to client provider and prepare for labor induction",
+        "Encourage client to walk around without the monitoring unit for 10 minutes, then resume monitoring",
+        "Offer client a snack of orange juice and crackers",
+        "Turn clinet onto her left side"
+      ],
+      "correctAnswer": "Offer client a snack of orange juice and crackers",
+      "explanationText": "A nonstress test depends upon fetal movement, and this fetus is most likely asleep. Most fetuses are more active after meals due to the increase in the mother's blood sugar. Giving the mother a snack will promote fetal movement.",
+      "explanationImage": null
+    },
+    {
+      "id": 89,
+      "questionText": "Type 1 and type 2 pregestational diabetes mellitus (PDM).  Which is true?",
+      "questionImage": null,
+      "options": [
+        "Fetus is at risk of birth defects and congenital malformations"
+      ],
+      "correctAnswer": "The fetus will be at risk of birth defects and congenital malformations",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 90,
+      "questionText": "Client at 28 weeks gestation has gestational diabetes mellitus (GDM).  Which is true?",
+      "questionImage": null,
+      "options": [
+        "I should include high fiber foods in my diet to stabilize my blood glucose; I will exercise moderately for 30 minutes a day, five days each week; If diet and exercise do not stabilize my blood glucose, I may need medication."
+      ],
+      "correctAnswer": "I should include high fiber foods in my diet to stabilize my blood glucose; I will exercise moderately for 30 minutes a day, five days each week; If diet and exercise do not stabilize my blood glucose, I may need medication.",
+      "explanationText": "Carbohydrate intake should not be greater than 40% of daily calories; clients should monitor their blood glucose level 4 times per day",
+      "explanationImage": null
+    },
+    {
+      "id": 91,
+      "questionText": "Client at 30 weeks has BP 160/116 and 4 hours previously 164/114.  Client reportrs blurred vision and persistent frontal headache.  Which complication of gestation is suspected?",
+      "questionImage": null,
+      "options": [
+        "Preeclampsia with severe features",
+        "Preeclampsia without severe features",
+        "Gestational hypertension"
+      ],
+      "correctAnswer": "Preeclampsia with severe features",
+      "explanationText": "Clients will present with a blood pressure of greater than or equal to 160 mm Hg systolic and greater than or equal to 110 mm Hg diastolic at least 4 hr apart after 20 weeks of gestation unless antihypertensive therapy has been initiated. The client's blood pressure and presenting manifestations meet the criteria for preeclampsia with severe features.;  Clients at greater than or equal to 20 weeks of gestation with blood pressure readings greater than or equal to 140/90 mm Hg on two occasions at least 4 hr apart with no other manifestations of disease will be diagnosed with preeclampsia without severe features.;  Clients with gestational hypertension do not present with the manifestations of worsening disease, such as unresolved headache ",
+      "explanationImage": null
+    },
+    {
+      "id": 92,
+      "questionText": "Client in labor with oxytocin administrered.  Contractions occur every 2 min, last 90 sec, strong to palpation.  Baseline fetal heart rate 150/min, with uniform decelerations beginning at the peak of ocntraction and return to baseline after contraction is over.  Which action should nurse take?",
+      "questionImage": null,
+      "options": [
+        "Discontinue infusion of IV oxytocin"
+      ],
+      "correctAnswer": "Discontinue the oxytocin infusion immediately if a client is experiencing late decelerations due to uterine hyperstimulation.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 93,
+      "questionText": "Client is 12 hours postpartuma nd received spinal anesthesia for cesarean birth.  Which requires immediate intervention by nurse?",
+      "questionImage": null,
+      "options": [
+        "Respiratory rate 10/min"
+      ],
+      "correctAnswer": "Respiratory rate 10/min",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 94,
+      "questionText": "Nurse reviews obstetric and medical records of clients attending prenatal appointments.  Which should nurse identify as at risk for eclampsia",
+      "questionImage": null,
+      "options": [
+        "Client is 42 years old; Twin pregnancy; client has multiple sclerosis; became pregant using in vitro fertilization"
+      ],
+      "correctAnswer": "Client is 42 years old; Twin pregnancy; client has multiple sclerosis; became pregant using in vitro fertilization",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 95,
+      "questionText": "Clinet in labor.  Which reflects application of gate control theory of pain?",
+      "questionImage": null,
+      "options": [
+        "Massage client's back",
+        "Turn client onto her left side",
+        "Encourage client to rest between contractions",
+        "Administer prescribed analgesic medication"
+      ],
+      "correctAnswer": "Massage client's back",
+      "explanationText": "The gate control theory of pain is based on the concept of blocking or preventing the transmission of pain signals to the brain by using distraction techniques such as massage. Massaging the client’s back focuses on neuromuscular and cognitive changes.",
+      "explanationImage": null
+    },
+    {
+      "id": 96,
+      "questionText": "Nurse in ER admits client at 40 weeks gestation, has ruptured membranes, and nurse observes newborn's head is crowning.  Client tells nurse she wants to push.  What should nurse say?",
+      "questionImage": null,
+      "options": [
+        "You should go ahead nad push to assist the delivery",
+        "You should try to pant as delivery proceeds",
+        "You should try to perform slow-paced breathing",
+        "You should take a deep, cleansing breath and breathe naturally"
+      ],
+      "correctAnswer": "You should try to pant as delivery proceeds",
+      "explanationText": "Panting allows uterine forces to expel the fetus and permits controlled muscle expansion to avoid rapid expulsion of the fetal head.",
+      "explanationImage": null
+    },
+    {
+      "id": 97,
+      "questionText": "Nurse is teaching client at 15 weeks gestation and is to undergo amniocentesis.  Nurse explains the purpose of this test is to identify which conditions?",
+      "questionImage": null,
+      "options": [
+        "Anomalies in fetal chromosomes; Neural tube defects; Fetal gender",
+        "Rh incompatibility is incorrect.",
+        "Cephalopelvic disproportion is incorrect."
+      ],
+      "correctAnswer": "Anomalies in fetal chromosomes; Neural tube defects; Fetal gender",
+      "explanationText": "An indirect Coombs test is a screening tool for Rh incompatibility.;  Abdominal ultrasonography is used to identify cephalopelvic disproportion later in pregnancy.;  Examination of amniotic fluid yields data about genetic anomalies, such as hemophilia and inborn metabolic disorders. Examination of alpha fetoprotein levels in amniotic fluid confirms the presence of a neural tube defect, such as spina bifida. Karyotyping of fetal cells obtained from amniotic fluid  permits the identification of fetal gender, which is important if an X-linked disorder is suspected in a male fetus.",
+      "explanationImage": null
+    },
+    {
+      "id": 98,
+      "questionText": "Client is in labor and prescribed oxytocin.  What should nurse teach?",
+      "questionImage": null,
+      "options": [
+        "Your contractions will become stronger and more frequent"
+      ],
+      "correctAnswer": "Your contractions will become stronger and more frequent",
+      "explanationText": "Oxytocin is diluted with sodium chloride and administered IV via an infusion pump device to induce or strengthen uterine contractions during labor. The client who is receiving an oxytocin drip is closely monitored to promote a safe delivery and prevent maternal and/or fetal complications. The desired concentration of oxytocin medication is determined by the desired labor contraction pattern that should increase in frequency, duration, and intensity. The nurse closely monitors risks of continuous IV infusion of oxytocin to determine when to discontinue the medication. Risks include fetal distress (fetal bradycardia) caused by hyper-stimulation of the uterus compromising blood flow to the fetus.  Uterine contractions lasting longer than 90 seconds should prompt the nurse to discontinue the medication.",
+      "explanationImage": null
+    },
+    {
+      "id": 99,
+      "questionText": "A nurse is assessing a client who has preeclampsia with severe features and is receiving intravenous magnesium sulfate. The nurse notes a respiratory rate of 8/min with absent deep tendon reflexes. Which of the following actions is the nurse's priority?",
+      "questionImage": null,
+      "options": [
+        "Administer calcium gluconate",
+        "Stop magnesium sulfate infusion",
+        "Obtain a magnesium level"
+      ],
+      "correctAnswer": "Stop magnesium sulfate infusion",
+      "explanationText": "Client is showing signs of magnesium toxicity.  Stopping infusion is first priority.",
+      "explanationImage": null
+    },
+    {
+      "id": 100,
+      "questionText": "Client 28 weeks gestations, has preeclampsia with severe features, receiving IV magnesium sulfate.  Which are indications for this medication?",
+      "questionImage": null,
+      "options": [
+        "Seizure prophylaxis; Eclampsia risk"
+      ],
+      "correctAnswer": "Seizure prophylaxis; Eclampsia risk",
+      "explanationText": "Eclampsia is a severe, life-threatening complication of pregnancy characterized by the sudden onset of seizures (convulsions) or coma in a woman.",
+      "explanationImage": null
+    },
+    {
+      "id": 101,
+      "questionText": "A nurse is assisting in the care of a client at 26 weeks of gestation who has just experienced an eclamptic seizure. Which of the following interventions should the nurse expect at this time?",
+      "questionImage": null,
+      "options": [
+        "Continuous fetal monitoring"
+      ],
+      "correctAnswer": "Continuous fetal monitoring",
+      "explanationText": "Once the client is stabilized, assessment of fetal status is warranted via continuous fetal monitoring. An eclamptic seizure is an obstetrical emergency, expectant management and antenatal steroid administration are not considered post-seizure despite gestational age, and the infant may be born preterm.",
+      "explanationImage": null
+    },
+    {
+      "id": 102,
+      "questionText": "A nurse is caring for a client who is to undergo an amniotomy.  Which is priority?",
+      "questionImage": null,
+      "options": [
+        "Assess fetal heart rate pattern."
+      ],
+      "correctAnswer": "Assess fetal heart rate pattern.",
+      "explanationText": "Variable fetal heart rate decelerations and bradycardia can occur with an amniotomy as a result of umbilical cord prolapse or compression.  Cord prolapse necessitates an emergent delivery.",
+      "explanationImage": null
+    },
+    {
+      "id": 103,
+      "questionText": "Nurse in prenatal clinic is teaching clinet in second trimester and has new diagnosis of gestational diabetes.  Which indicates need for further teaching?",
+      "questionImage": null,
+      "options": [
+        "I will reduce my exercise schedule to 3 days a week."
+      ],
+      "correctAnswer": "I will reduce my exercise schedule to 3 days a week.",
+      "explanationText": "Increased exercise benefits the client and can result in improved management of gestational diabetes.",
+      "explanationImage": null
+    },
+    {
+      "id": 104,
+      "questionText": "Nurse is caring for clinet scheduled for maternal serum alpha-fetoprotein test at 15 weeks gestation.",
+      "questionImage": null,
+      "options": [
+        "This test assesses fetal lung maturity.",
+        "It assesses various markers of fetal well-being.",
+        "This test identifies an Rh incompatibility between the mother and fetus.",
+        "It is a screening test for spinal defects in the fetus."
+      ],
+      "correctAnswer": "It is a screening test for spinal defects in the fetus.",
+      "explanationText": "The maternal serum alpha-fetoprotein (MSAFP) screening test is used to identify suspected neural tube defects (NTDs) and abdominal wall defects. These include spina bifida, microcephaly, and anencephaly.    This tool is the basis for further testing, such as amniocentesis and specialized ultrasounds.",
+      "explanationImage": null
+    },
+    {
+      "id": 105,
+      "questionText": "The maternal serum alpha-fetoprotein (MSAFP) screening test is used to identify suspected neural tube defects (NTDs) and abdominal wall defects. These include spina bifida, microcephaly, and anencephaly.    This tool is the basis for further testing, such as amniocentesis and specialized ultrasounds.",
+      "questionImage": null,
+      "options": [
+        "Transverse palmar creases; Protruding tongue"
+      ],
+      "correctAnswer": "Transverse palmar creases; Protruding tongue",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 106,
+      "questionText": "A nurse is creating a plan of care for a 39 weeks gestation client and in active labor.",
+      "questionImage": null,
+      "options": [
+        "Monitor fetal heart rate every hour",
+        "Check cervix prior to analgesic administration"
+      ],
+      "correctAnswer": "Check cervix prior to analgesic administration",
+      "explanationText": "Prior to administering an analgesic during active labor, the nurse must know how many centimeters the cervix has dilated. Administration too close to the time of delivery could cause respiratory depression in the newborn. Monitoring the FHR every hour is not frequent enough. Even for low-risk clients, most facilities’ protocols require monitoring the FHR every 15 to 30 min while the client is in the first stage of labor and every 5 to 15 min in the second stage (as long as the FHR has reassuring characteristics). High-risk clients require more frequent monitoring.",
+      "explanationImage": null
+    },
+    {
+      "id": 107,
+      "questionText": "Nurse in prenatal clinic is teaching clinet who has a new prescription for dinoprostone gel.  Which statement should nurse include in teaching?",
+      "questionImage": null,
+      "options": [
+        "This medication promotes softening of the cervix.",
+        "This medication is used to treat preeclampsia."
+      ],
+      "correctAnswer": "This medication promotes softening of the cervix.",
+      "explanationText": "Dinoprostone is used to prepare (or ripen) the cervix for the induction of labor in clients who are at term. Dinoprostone stimulates uterine contractions.",
+      "explanationImage": null
+    },
+    {
+      "id": 108,
+      "questionText": "Client is getting a nonstress test (NST).  At end of 30 min period of observation, nurse notes the following findings:  fetal heart rate baseline is 120/min with minimal variability and no accelerations.  There are two decelerations of 15/min in the fetal heart rate during a period of fetal movement, each lasting 20 seconds.  The result of the test is...",
+      "questionImage": null,
+      "options": [
+        "Negative test",
+        "Nonreactive test",
+        "Positive test",
+        "Reactive test"
+      ],
+      "correctAnswer": "Nonreactive test",
+      "explanationText": "An NST that does not produce two or more qualifying accelerations within a 20-min period is interpreted as nonreactive.  Qualifying accelerations peak at least 15 /min above the FHR baseline and last at least 15 seconds.  An NST is interpreted as reactive if the fetus has a minimum of two accelerations in a 20-min period, each lasting at least 15 seconds and peaking at least 15/min above the FHR baseline. A positive test is one of the findings for a client having a contraction stress test (CST).  This result indicates that late decelerations occurred with 50% or more of the contractions, even if fewer than three contractions occurred in a 10-min period.  A negative test is one of the findings for a client having a contraction stress test (CST).   This result indicates that at least three uterine contractions occurred in a 10-min period with no late or significant variable decelerations.",
+      "explanationImage": null
+    },
+    {
+      "id": 109,
+      "questionText": "A nurse is reviewing the medical record of a client who has endometriosis. Which of the following findings supports this diagnosis?",
+      "questionImage": null,
+      "options": [
+        "Infertility",
+        "Fibroids",
+        "Mastalgia",
+        "Ovarian cysts"
+      ],
+      "correctAnswer": "Infertility",
+      "explanationText": "Endometriosis is a chronic condition where tissue similar to the lining of the uterus grows outside the uterus, typically on the ovaries, fallopian tubes, and pelvic lining.  Infertility is a significant manifestation of endometriosis. Some clients may coincidentally discover they have endometriosis while seeking treatment for infertility.",
+      "explanationImage": null
+    },
+    {
+      "id": 110,
+      "questionText": "Client is in first stage of labor and using pattern-paced breathing.  Client says she feels lightheadeed and her fingers are tingling.  Which action should the nurse take?",
+      "questionImage": null,
+      "options": [
+        "Assist client to breathe into paper bag",
+        "Have client tuck her chin to her chest"
+      ],
+      "correctAnswer": "Assist client to breathe into paper bag",
+      "explanationText": "This client is experiencing respiratory alkalosis due to hyperventilation. The client should be assisted to breathe into a paper bag or to cup her hands over her mouth to increase the carbon dioxide level, which replaces the bicarbonate ion.",
+      "explanationImage": null
+    },
+    {
+      "id": 111,
+      "questionText": "A nurse is assessing a client in labor who had epidural anesthesia for pain relief.  Which of the following findings should the nurse identify as a complication from epidural block?",
+      "questionImage": null,
+      "options": [
+        "Hypotension",
+        "Respiratory depression",
+        "Vomiting"
+      ],
+      "correctAnswer": "Hypotension",
+      "explanationText": "Maternal hypotension is an adverse effect of epidural anesthesia. The nurse should administer an IV fluid bolus prior to the placement of the epidural catheter to decrease the likelihood of this complication.",
+      "explanationImage": null
     }
   ]
 }
