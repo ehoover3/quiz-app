@@ -1465,6 +1465,124 @@
       "correctAnswer": "Hypotension",
       "explanationText": "Maternal hypotension is an adverse effect of epidural anesthesia. The nurse should administer an IV fluid bolus prior to the placement of the epidural catheter to decrease the likelihood of this complication.",
       "explanationImage": null
+    },
+    {
+      "id": 112,
+      "questionText": "Client has paralytic ileum following appendectomy. Which should nurse do?",
+      "questionImage": null,
+      "options": [
+        "Insert nasogastric tube"
+      ],
+      "correctAnswer": "Insert nasogastric tube",
+      "explanationText": "A nasogastric tube helps decompress the stomach and bowel in paralytic ileus to relieve distention and prevent complications.",
+      "explanationImage": null
+    },
+    {
+      "id": 113,
+      "questionText": "Dietary teaching to client with history of recurring calcium oxalate kidney stones",
+      "questionImage": null,
+      "options": [
+        "Drink 3 L of fluid every day",
+        "Take 3,000 mg of vitamin C daily",
+        "Restrict calcium intake to one serving per day",
+        "Eat 12 oz of animal protein daily"
+      ],
+      "correctAnswer": "Drink 3 L of fluid every day",
+      "explanationText": "Most kidney stones form from dehydration. High fluid intake helps dilute urine and reduce stone formation.",
+      "explanationImage": null
+    },
+    {
+      "id": 114,
+      "questionText": "Client with abdominal distention has NG tube with low gastric suction. What is nurse priority?",
+      "questionImage": null,
+      "options": [
+        "Check to see if suction equipment is working"
+      ],
+      "correctAnswer": "Check to see if suction equipment is working",
+      "explanationText": "Priority is assessment. The nurse should first ensure equipment is functioning before implementing further interventions.",
+      "explanationImage": null
+    },
+    {
+      "id": 115,
+      "questionText": "Nurse is preparing NG tube for gastric suctioning. Put these in order.",
+      "questionImage": null,
+      "options": [
+        "prepare equipment at bedside, measure NG tube, instruct client to flex head forward, instruct client to swallow, obtain x-ray, connect to suction"
+      ],
+      "correctAnswer": "prepare equipment at bedside, measure NG tube, instruct client to flex head forward, instruct client to swallow, obtain x-ray, connect to suction",
+      "explanationText": "Correct NG tube insertion sequence includes preparation, measurement, insertion with swallowing, confirmation by x-ray, then connecting to suction.",
+      "explanationImage": null
+    },
+    {
+      "id": 116,
+      "questionText": "For peptic ulcer disease (PUD), which makes a protective barrier over the surface of an ulcer?",
+      "questionImage": null,
+      "options": [
+        "Calcium carbonate",
+        "Famotidine",
+        "Pantoprazole",
+        "Sucralfate"
+      ],
+      "correctAnswer": "Sucralfate",
+      "explanationText": "Sucralfate is the only medication listed that coats and protects the ulcer surface, forming a barrier against acid.",
+      "explanationImage": null
+    },
+    {
+      "id": 117,
+      "questionText": "Client has peptic ulcer, which is teaching?",
+      "questionImage": null,
+      "options": [
+        "Monitor for changes in color in stool such as dark or black-colored stool"
+      ],
+      "correctAnswer": "Monitor for changes in color in stool such as dark or black-colored stool",
+      "explanationText": "Melena or black tarry stools can indicate GI bleeding, a complication of peptic ulcer disease.",
+      "explanationImage": null
+    },
+    {
+      "id": 118,
+      "questionText": "Client has peptic ulcer. Which is a risk factor?",
+      "questionImage": null,
+      "options": [
+        "History of NSAID use"
+      ],
+      "correctAnswer": "History of NSAID use",
+      "explanationText": "NSAIDs decrease protective gastric mucosa, increasing risk for ulcer formation.",
+      "explanationImage": null
+    },
+    {
+      "id": 119,
+      "questionText": "Which is a sign of GI perforation?",
+      "questionImage": null,
+      "options": [
+        "Sudden abdominal pain; rigid abdomen",
+        "Increased blood pressure"
+      ],
+      "correctAnswer": "Sudden abdominal pain; rigid abdomen",
+      "explanationText": "A perforated ulcer causes sudden severe pain and a rigid, board-like abdomen due to peritonitis.",
+      "explanationImage": null
+    },
+    {
+      "id": 120,
+      "questionText": "Client needs cholecystectomy due to build-up of calculi or gallstones",
+      "questionImage": null,
+      "options": [
+        "Gallbladder became inflamed due to build-up of gallstones that are blocking common bile duct"
+      ],
+      "correctAnswer": "Gallbladder became inflamed due to build-up of gallstones that are blocking common bile duct",
+      "explanationText": "Gallstones can obstruct bile flow, leading to inflammation and symptoms such as jaundice and pale stools.",
+      "explanationImage": null
+    },
+    {
+      "id": 121,
+      "questionText": "Client has cholelithiasis. Which should nurse expect?",
+      "questionImage": null,
+      "options": [
+        "Left upper quadrant pain radiating to left shoulder",
+        "Right upper quadrant pain after high-fat meal"
+      ],
+      "correctAnswer": "Right upper quadrant pain after high-fat meal",
+      "explanationText": "Gallbladder pain typically occurs in the right upper quadrant after fatty meals due to increased bile demand.",
+      "explanationImage": null
     }
   ]
 }
