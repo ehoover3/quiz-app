@@ -1903,6 +1903,160 @@
       "correctAnswer": "Allopurinol decreases uric acid levels in the body to prevent formation of uric acid crystals and stones.",
       "explanationText": "Allopurinol reduces uric acid production, helping prevent gout flare-ups and uric acid kidney stone formation. Tamsulosin helps relax the ureter, and naproxen is an NSAID that can increase bleeding risk or affect kidney function.",
       "explanationImage": null
+    },
+    {
+      "id": 149,
+      "questionText": "What are risk factors for cholecystitis (inflamed gallbladder / potential infection)?",
+      "questionImage": null,
+      "options": [
+        "Forty, fat, fertile, female"
+      ],
+      "correctAnswer": "Forty, fat, fertile, female",
+      "explanationText": "This classic risk profile describes common risk factors for gallbladder disease: being female, around age 40, overweight, and of childbearing age or having multiple pregnancies. These factors increase estrogen levels and cholesterol saturation in bile, promoting gallstone formation and inflammation.",
+      "explanationImage": null
+    },
+    {
+      "id": 150,
+      "questionText": "What is cholelithiasis?",
+      "questionImage": null,
+      "options": [
+        "Bile stones"
+      ],
+      "correctAnswer": "Bile stones",
+      "explanationText": "Cholelithiasis refers to the presence of gallstones (bile stones) that form in the gallbladder due to imbalance in bile components such as cholesterol, bile salts, and bilirubin.",
+      "explanationImage": null
+    },
+    {
+      "id": 151,
+      "questionText": "What is a T-tube?",
+      "questionImage": null,
+      "options": [
+        "A gallbladder bile drain"
+      ],
+      "correctAnswer": "A gallbladder bile drain",
+      "explanationText": "A T-tube is a surgical drain placed in the common bile duct after gallbladder or biliary surgery. It allows bile to drain externally while the duct heals and helps prevent obstruction or buildup of bile.",
+      "explanationImage": null
+    },
+    {
+      "id": 152,
+      "questionText": "Which statement indicates the patient may have GERD?",
+      "questionImage": null,
+      "options": [
+        "I take antacid tablets everywhere I go."
+      ],
+      "correctAnswer": "I take antacid tablets everywhere I go.",
+      "explanationText": "Frequent need for antacids suggests recurring acid reflux symptoms. GERD often presents as chronic heartburn requiring ongoing symptom relief.",
+      "explanationImage": null
+    },
+    {
+      "id": 153,
+      "questionText": "A patient is started on a proton pump inhibitor. This medication will...",
+      "questionImage": null,
+      "options": [
+        "Reduce the amount of acid produced by parietal cells."
+      ],
+      "correctAnswer": "Reduce the amount of acid produced by parietal cells.",
+      "explanationText": "Proton pump inhibitors block the hydrogen-potassium ATPase pump in gastric parietal cells, significantly decreasing gastric acid secretion. Antacids neutralize existing acid rather than reducing production.",
+      "explanationImage": null
+    },
+    {
+      "id": 154,
+      "questionText": "Which condition is more associated with H. pylori infection?",
+      "questionImage": null,
+      "options": [
+        "Gastric ulcer",
+        "Duodenal ulcer"
+      ],
+      "correctAnswer": "Duodenal ulcer",
+      "explanationText": "H. pylori infection is strongly associated with duodenal ulcers, whereas gastric ulcers are more commonly linked to NSAID use.",
+      "explanationImage": null
+    },
+    {
+      "id": 155,
+      "questionText": "Which assessment indicates a client's gastric ulcer has perforated?",
+      "questionImage": null,
+      "options": [
+        "Sudden, sharp, substernal pain",
+        "Rigid, boardlike abdomen with rebound tenderness"
+      ],
+      "correctAnswer": "Rigid, boardlike abdomen with rebound tenderness",
+      "explanationText": "A perforated ulcer causes leakage of gastric contents into the peritoneal cavity, leading to peritonitis. This presents with a rigid, boardlike abdomen and rebound tenderness, which is a medical emergency.",
+      "explanationImage": null
+    },
+    {
+      "id": 156,
+      "questionText": "Is medication the first-line treatment for obesity?",
+      "questionImage": null,
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanationText": "First-line treatment for obesity is lifestyle modification including diet and exercise. Medications such as orlistat or semaglutide may be used if lifestyle changes are insufficient.",
+      "explanationImage": null
+    },
+    {
+      "id": 157,
+      "questionText": "Which condition is more commonly associated with aspirin or NSAID use?",
+      "questionImage": null,
+      "options": [
+        "Gastric ulcer",
+        "Duodenal ulcer"
+      ],
+      "correctAnswer": "Gastric ulcer",
+      "explanationText": "NSAIDs such as aspirin damage the gastric mucosal lining, making gastric ulcers more common in patients who use these medications.",
+      "explanationImage": null
+    },
+    {
+      "id": 158,
+      "questionText": "What is the most important determinant of whether a patient is a good candidate for gastric bypass surgery?",
+      "questionImage": null,
+      "options": [
+        "Body mass index",
+        "Readiness to comply with diet modifications",
+        "Obesity-related co-morbidities"
+      ],
+      "correctAnswer": "Readiness to comply with diet modifications",
+      "explanationText": "Long-term success after gastric bypass depends heavily on the patient's willingness and ability to follow strict lifelong dietary and lifestyle changes.",
+      "explanationImage": null
+    },
+    {
+      "id": 159,
+      "questionText": "Which surgical treatment is used for GERD?",
+      "questionImage": null,
+      "options": [
+        "Billroth I",
+        "Billroth II",
+        "Roux-en-Y",
+        "Nissen fundoplication"
+      ],
+      "correctAnswer": "Nissen fundoplication",
+      "explanationText": "Nissen fundoplication wraps the stomach around the lower esophagus to strengthen the lower esophageal sphincter and prevent reflux. Roux-en-Y is used for bariatric surgery, and Billroth procedures are used for gastric ulcer disease.",
+      "explanationImage": null
+    },
+    {
+      "id": 160,
+      "questionText": "To reduce risk of aspiration, enteral feeding should be delivered to the...",
+      "questionImage": null,
+      "options": [
+        "Stomach",
+        "Small intestine"
+      ],
+      "correctAnswer": "Small intestine",
+      "explanationText": "Post-pyloric feeding (into the small intestine) reduces aspiration risk because it bypasses the stomach and reduces the chance of gastric contents refluxing into the esophagus.",
+      "explanationImage": null
+    },
+    {
+      "id": 161,
+      "questionText": "Which symptoms are most consistent with GERD?",
+      "questionImage": null,
+      "options": [
+        "Cough, chest pain, early satiety",
+        "Abdominal pain"
+      ],
+      "correctAnswer": "Cough, chest pain, early satiety",
+      "explanationText": "GERD commonly presents with reflux-related chest discomfort, chronic cough due to irritation of the airway, and early satiety from gastric discomfort and delayed gastric emptying.",
+      "explanationImage": null
     }
   ]
 }
