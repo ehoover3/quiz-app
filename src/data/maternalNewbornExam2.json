@@ -1583,6 +1583,326 @@
       "correctAnswer": "Right upper quadrant pain after high-fat meal",
       "explanationText": "Gallbladder pain typically occurs in the right upper quadrant after fatty meals due to increased bile demand.",
       "explanationImage": null
+    },
+    {
+      "id": 122,
+      "questionText": "A nurse is assessing a client with suspected non-mechanical bowel obstruction (paralytic ileus). Which assessment finding should the nurse expect?",
+      "questionImage": null,
+      "options": [
+        "Hyperactive bowel sounds in all quadrants",
+        "Absent bowel sounds",
+        "Severe cramping abdominal pain with diarrhea",
+        "High-pitched bowel sounds with visible peristalsis"
+      ],
+      "correctAnswer": "Absent bowel sounds",
+      "explanationText": "A non-mechanical bowel obstruction such as paralytic ileus or spinal cord injury results in loss of peristalsis due to impaired neural stimulation of the GI tract. This leads to absent bowel sounds and abdominal distention rather than the hyperactive or high-pitched sounds seen in mechanical obstruction.",
+      "explanationImage": null
+    },
+    {
+      "id": 123,
+      "questionText": "A nurse is teaching a parent about intussusception. Which statement best describes this condition?",
+      "questionImage": null,
+      "options": [
+        "A section of the intestine telescopes into an adjacent section, causing obstruction",
+        "The intestine loses all nerve stimulation, causing complete paralysis of bowel movement",
+        "Inflammation of the appendix causes localized infection in the lower right abdomen",
+        "The colon becomes narrowed due to chronic inflammatory bowel disease"
+      ],
+      "correctAnswer": "A section of the intestine telescopes into an adjacent section, causing obstruction",
+      "explanationText": "Intussusception occurs when one segment of the intestine slides or 'telescopes' into another segment, usually the small intestine into the large intestine. This leads to obstruction, swelling, decreased blood flow, and can result in bowel ischemia if not treated promptly.",
+      "explanationImage": null
+    },
+    {
+      "id": 125,
+      "questionText": "A 2-year-old child diagnosed with intussusception has a hydrostatic reduction (water-soluble enema) performed. Which finding should the nurse report immediately before surgery proceeds?",
+      "questionImage": null,
+      "options": [
+        "Palpable sausage-shaped abdominal mass",
+        "Passage of normal brown stool",
+        "Passage of currant jelly-like stools",
+        "Frequent nausea and vomiting"
+      ],
+      "correctAnswer": "Passage of normal brown stool",
+      "explanationText": "Passage of normal brown stool indicates that the bowel obstruction has been successfully reduced by the hydrostatic enema. This finding suggests resolution of the intussusception and may eliminate the need for surgical intervention.",
+      "explanationImage": null
+    },
+    {
+      "id": 126,
+      "questionText": "An older adult patient is taking methylcellulose (Citrucel), a bulk-forming laxative, for chronic constipation. Which behavior is most concerning?",
+      "questionImage": null,
+      "options": [
+        "Patient primarily eats white bread and drinks low-fat milk.",
+        "Patient takes the methylcellulose three or four times a day.",
+        "Patient takes the medication with a few sips of water.",
+        "Patient does not promptly act on the urge to defecate."
+      ],
+      "correctAnswer": "Patient takes the medication with a few sips of water.",
+      "explanationText": "Bulk-forming laxatives such as methylcellulose require adequate fluid intake to prevent intestinal obstruction and ensure proper expansion of fiber in the stool. Taking it with minimal water increases the risk of impaction or worsening constipation.",
+      "explanationImage": null
+    },
+    {
+      "id": 127,
+      "questionText": "A patient with a history of multiple abdominal surgeries and an ileostomy is admitted with sudden onset abdominal pain, nausea, and vomiting. Which type of bowel obstruction does the nurse suspect?",
+      "questionImage": null,
+      "options": [
+        "Paralytic ileus",
+        "Small/high bowel obstruction",
+        "Large/low bowel obstruction",
+        "Intussusception"
+      ],
+      "correctAnswer": "Small/high bowel obstruction",
+      "explanationText": "Sudden onset of symptoms is most consistent with a mechanical small bowel obstruction. Paralytic ileus is more associated with recent surgery or immobility and presents with absent bowel motility rather than acute colicky pain.",
+      "explanationImage": null
+    },
+    {
+      "id": 128,
+      "questionText": "For a patient with small bowel obstruction, which order should the nurse anticipate?",
+      "questionImage": null,
+      "options": [
+        "Nasogastric (NG) tube to suction",
+        "Naso-jejunal tube to suction",
+        "Gastrostomy tube for intermittent tube feeding",
+        "Jejunostomy tube for continuous tube feeding"
+      ],
+      "correctAnswer": "Nasogastric (NG) tube to suction",
+      "explanationText": "An NG tube is used for gastric decompression in small bowel obstruction to remove fluid and gas, reduce distention, and prevent vomiting and aspiration.",
+      "explanationImage": null
+    },
+    {
+      "id": 129,
+      "questionText": "The RN is supervising a nursing student performing an abdominal assessment on a patient with bowel obstruction. For which actions should the nurse intervene? (Select all that apply)",
+      "questionImage": null,
+      "options": [
+        "Palpate for abdominal distention using the index fingertip",
+        "Auscultate bowel sounds with NG tube connected to low wall suction",
+        "Perform physical assessment before asking about pain",
+        "Check skin turgor over the lower abdomen"
+      ],
+      "correctAnswer": "Palpate for abdominal distention using the index fingertip; Auscultate bowel sounds with NG tube connected to low wall suction; Perform physical assessment before asking about pain; Check skin turgor over the lower abdomen",
+      "explanationText": "The nurse should use fingertips or hands (not a single finger) for palpation, turn off NG suction before auscultation, assess pain before physical examination, and assess skin turgor at more appropriate sites such as the forearm or chest rather than the abdomen.",
+      "explanationImage": null
+    },
+    {
+      "id": 130,
+      "questionText": "After 3 days of gastric decompression and IV fluids for a bowel obstruction, which findings are concerning? (Select all that apply)",
+      "questionImage": null,
+      "options": [
+        "Potassium 2.8 mEq/L",
+        "No ileostomy output for 2 days",
+        "Urine output 150 mL in 4 hours",
+        "Blood pressure 136/78 mmHg"
+      ],
+      "correctAnswer": "Potassium 2.8 mEq/L; No ileostomy output for 2 days",
+      "explanationText": "Hypokalemia is dangerous and can worsen ileus and cardiac function. Lack of ileostomy output suggests ongoing obstruction or bowel dysfunction. Adequate urine output and stable blood pressure are not concerning in this context.",
+      "explanationImage": null
+    },
+    {
+      "id": 131,
+      "questionText": "The patient with worsening bowel obstruction is not improving after gastric decompression. Which order does the nurse anticipate?",
+      "questionImage": null,
+      "options": [
+        "Gastrostomy tube placement for feeding",
+        "Jejunostomy tube placement for feeding",
+        "Total parenteral nutrition and NG tube to suction"
+      ],
+      "correctAnswer": "Total parenteral nutrition and NG tube to suction",
+      "explanationText": "When the GI tract cannot be used due to obstruction, the patient requires bowel rest with NG decompression and nutritional support via TPN.",
+      "explanationImage": null
+    },
+    {
+      "id": 132,
+      "questionText": "A patient is ordered potassium infusion (20 mEq in 50 mL over 2 hours). Which additional information should the nurse provide to the provider before administration?",
+      "questionImage": null,
+      "options": [
+        "Latest blood pressure",
+        "Urinary output per hour",
+        "Total NG tube drainage",
+        "Abdominal assessment findings"
+      ],
+      "correctAnswer": "Urinary output per hour",
+      "explanationText": "Potassium is excreted by the kidneys, so adequate urine output is essential before and during infusion to prevent hyperkalemia and toxicity.",
+      "explanationImage": null
+    },
+    {
+      "id": 133,
+      "questionText": "Which medication order for a patient with bowel obstruction should the nurse question?",
+      "questionImage": null,
+      "options": [
+        "Bisacodyl for small bowel obstruction",
+        "Psyllium for constipation",
+        "Omeprazole for GERD",
+        "Polyethylene glycol-electrolyte solution for bowel prep"
+      ],
+      "correctAnswer": "Bisacodyl for small bowel obstruction",
+      "explanationText": "Laxatives are contraindicated in bowel obstruction because they stimulate bowel activity and can worsen perforation risk.",
+      "explanationImage": null
+    },
+    {
+      "id": 134,
+      "questionText": "What is the most common cause of peptic ulcer disease?",
+      "questionImage": null,
+      "options": [
+        "Helicobacter pylori infection"
+      ],
+      "correctAnswer": "Helicobacter pylori infection",
+      "explanationText": "H. pylori infection damages the gastric mucosa and is the most common cause of peptic ulcer disease.",
+      "explanationImage": null
+    },
+    {
+      "id": 135,
+      "questionText": "What are the major complications of peptic ulcer disease?",
+      "questionImage": null,
+      "options": [
+        "Hemorrhage, perforation, gastric outlet obstruction"
+      ],
+      "correctAnswer": "Hemorrhage, perforation, gastric outlet obstruction",
+      "explanationText": "These are the three major life-threatening complications of peptic ulcer disease.",
+      "explanationImage": null
+    },
+    {
+      "id": 136,
+      "questionText": "When a peptic ulcer perforates, which cavity does gastric contents enter?",
+      "questionImage": null,
+      "options": [
+        "Peritoneal cavity"
+      ],
+      "correctAnswer": "Peritoneal cavity",
+      "explanationText": "Perforation allows gastric contents to spill into the sterile peritoneal cavity, causing peritonitis.",
+      "explanationImage": null
+    },
+    {
+      "id": 137,
+      "questionText": "If a patient is NPO and on gastric suction, what must always be included in their care?",
+      "questionImage": null,
+      "options": [
+        "IV fluids"
+      ],
+      "correctAnswer": "IV fluids",
+      "explanationText": "Patients on NPO status with NG suction require IV fluids to maintain hydration and electrolyte balance.",
+      "explanationImage": null
+    },
+    {
+      "id": 138,
+      "questionText": "What is the action of sucralfate in peptic ulcer disease?",
+      "questionImage": null,
+      "options": [
+        "Provides a physical protective coating for peptic ulcers"
+      ],
+      "correctAnswer": "Provides a physical protective coating for peptic ulcers",
+      "explanationText": "Sucralfate forms a protective barrier over ulcer sites to protect them from acid and promote healing.",
+      "explanationImage": null
+    },
+    {
+      "id": 139,
+      "questionText": "What is the action of misoprostol (Cytotec) in peptic ulcer disease?",
+      "questionImage": null,
+      "options": [
+        "Decreases acid secretion and provides mucosal protection; contraindicated in pregnancy"
+      ],
+      "correctAnswer": "Decreases acid secretion and provides mucosal protection; contraindicated in pregnancy",
+      "explanationText": "Misoprostol is a prostaglandin analog that reduces gastric acid secretion and protects the mucosa but can cause uterine contractions.",
+      "explanationImage": null
+    },
+    {
+      "id": 140,
+      "questionText": "In peptic ulcer surgery, what is the difference between Billroth I and Billroth II procedures?",
+      "questionImage": null,
+      "options": [
+        "Billroth I connects stomach to duodenum; Billroth II connects stomach to jejunum"
+      ],
+      "correctAnswer": "Billroth I connects stomach to duodenum; Billroth II connects stomach to jejunum",
+      "explanationText": "Billroth I involves partial gastrectomy with connection to the duodenum. Billroth II connects the stomach to the jejunum.",
+      "explanationImage": null
+    },
+    {
+      "id": 141,
+      "questionText": "Which nursing assessment findings support the patient’s probable diagnosis of cholecystitis?",
+      "questionImage": null,
+      "options": [
+        "Jaundice; Pain is worse after meals and when lying down; Patient reports indigestion; WBC count 12000/mm3; Intermittent right shoulder pain."
+      ],
+      "correctAnswer": "Jaundice; Pain is worse after meals and when lying down; Patient reports indigestion; WBC count 12000/mm3; Intermittent right shoulder pain.",
+      "explanationText": "Jaundice can occur when bile flow is obstructed due to gallbladder inflammation or a blocked bile duct, leading to accumulation of bilirubin in the blood.",
+      "explanationImage": null
+    },
+    {
+      "id": 142,
+      "questionText": "What is contraindicated for a client after a cholecystectomy?",
+      "questionImage": null,
+      "options": [
+        "Clamp T-tube to prevent loss of bile. Maintain patient in bedrest in supine position."
+      ],
+      "correctAnswer": "Clamp T-tube to prevent loss of bile. Maintain patient in bedrest in supine position.",
+      "explanationText": "Clamping a T-tube too early or maintaining unnecessary strict supine bedrest can interfere with bile drainage and increase the risk of complications such as bile backup.",
+      "explanationImage": null
+    },
+    {
+      "id": 143,
+      "questionText": "A client has nephrolithiasis (kidney stones). What chronic condition is most significant to his acute condition?",
+      "questionImage": null,
+      "options": [
+        "Gouty arthritis"
+      ],
+      "correctAnswer": "Gouty arthritis",
+      "explanationText": "Gouty arthritis is associated with elevated uric acid levels, which can contribute to the formation of uric acid kidney stones.",
+      "explanationImage": null
+    },
+    {
+      "id": 144,
+      "questionText": "Which discharge instructions should the nurse anticipate for a client undergoing lithotripsy?",
+      "questionImage": null,
+      "options": [
+        "Increase fluid intake. Follow up with a nephrologist. Use a urine strainer. Medication instructions.",
+        "Dietary changes. Avoid sexual intercourse."
+      ],
+      "correctAnswer": "Increase fluid intake. Follow up with a nephrologist. Use a urine strainer. Medication instructions.",
+      "explanationText": "After lithotripsy, clients are encouraged to increase fluids to flush stone fragments, use a urine strainer to monitor passage, and follow up for ongoing management. Dietary changes are typically not the immediate priority until stone analysis is completed.",
+      "explanationImage": null
+    },
+    {
+      "id": 145,
+      "questionText": "Gout and kidney stones are both caused by...",
+      "questionImage": null,
+      "options": [
+        "Uric acid crystallization"
+      ],
+      "correctAnswer": "Uric acid crystallization",
+      "explanationText": "Both gout and certain types of kidney stones are caused by the crystallization of uric acid in tissues or the urinary tract.",
+      "explanationImage": null
+    },
+    {
+      "id": 146,
+      "questionText": "What dietary substance should the nurse instruct the client to reduce or eliminate as much as possible for kidney stone prevention?",
+      "questionImage": null,
+      "options": [
+        "Purine",
+        "Tyrosine"
+      ],
+      "correctAnswer": "Purine",
+      "explanationText": "Purines break down into uric acid in the body, increasing the risk of both gout and uric acid kidney stones.",
+      "explanationImage": null
+    },
+    {
+      "id": 147,
+      "questionText": "Which statement best describes lithotripsy?",
+      "questionImage": null,
+      "options": [
+        "Lithotripsy is a non-invasive procedure that breaks up kidney stones for easier passage."
+      ],
+      "correctAnswer": "Lithotripsy is a non-invasive procedure that breaks up kidney stones for easier passage.",
+      "explanationText": "Lithotripsy uses sound waves to break kidney stones into smaller fragments so they can pass more easily through the urinary tract.",
+      "explanationImage": null
+    },
+    {
+      "id": 148,
+      "questionText": "Which statement by the client taking allopurinol indicates correct understanding of the medication?",
+      "questionImage": null,
+      "options": [
+        "Allopurinol decreases uric acid levels in the body to prevent formation of uric acid crystals and stones."
+      ],
+      "correctAnswer": "Allopurinol decreases uric acid levels in the body to prevent formation of uric acid crystals and stones.",
+      "explanationText": "Allopurinol reduces uric acid production, helping prevent gout flare-ups and uric acid kidney stone formation. Tamsulosin helps relax the ureter, and naproxen is an NSAID that can increase bleeding risk or affect kidney function.",
+      "explanationImage": null
     }
   ]
 }
