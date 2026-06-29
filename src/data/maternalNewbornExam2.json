@@ -2057,6 +2057,516 @@
       "correctAnswer": "Cough, chest pain, early satiety",
       "explanationText": "GERD commonly presents with reflux-related chest discomfort, chronic cough due to irritation of the airway, and early satiety from gastric discomfort and delayed gastric emptying.",
       "explanationImage": null
+    },
+    {
+      "id": 162,
+      "questionText": "When should I start fetal kick counts?",
+      "questionImage": null,
+      "options": [
+        "Daily at 28 weeks"
+      ],
+      "correctAnswer": "Daily at 28 weeks",
+      "explanationText": "Begin daily fetal kick counts at 28 weeks; expect about 10 movements within 2 hours."
+    },
+    {
+      "id": 163,
+      "questionText": "When can I do a non-stress test?",
+      "questionImage": null,
+      "options": [
+        "can be done at 28 weeks"
+      ],
+      "correctAnswer": "can be done at 28 weeks",
+      "explanationText": "NST can be performed starting around 28 weeks; a reactive test shows at least 2 accelerations in 20 minutes."
+    },
+    {
+      "id": 164,
+      "questionText": "When can I do a biophysical profile?",
+      "questionImage": null,
+      "options": [
+        "can be done at 28 weeks"
+      ],
+      "correctAnswer": "can be done at 28 weeks",
+      "explanationText": "BPP assesses fetal well-being: breathing, movements, tone, amniotic fluid, and NST (each scored 0 or 2)."
+    },
+    {
+      "id": 165,
+      "questionText": "When can I do a contraction stress test?",
+      "questionImage": null,
+      "options": [
+        "at 34 weeks"
+      ],
+      "correctAnswer": "at 34 weeks",
+      "explanationText": "CST is typically done in the third trimester; it evaluates fetal response to uterine contractions (often 3 contractions in 10 minutes) for late decelerations."
+    },
+    {
+      "id": 166,
+      "questionText": "When can I do ultrasound?",
+      "questionImage": null,
+      "options": [
+        "used throughout all trimesters"
+      ],
+      "correctAnswer": "used throughout all trimesters",
+      "explanationText": "Ultrasound is used throughout pregnancy to confirm viability, assess anatomy (around 20 weeks), placenta, and amniotic fluid."
+    },
+    {
+      "id": 167,
+      "questionText": "How many chromosomes are there?",
+      "questionImage": null,
+      "options": [
+        "23 pairs"
+      ],
+      "correctAnswer": "23 pairs",
+      "explanationText": "Humans have 46 chromosomes total: 22 pairs of autosomes and 1 pair of sex chromosomes."
+    },
+    {
+      "id": 168,
+      "questionText": "What are Down syndrome characteristics and complications?",
+      "questionImage": null,
+      "options": [
+        "Trisomy 21 characteristics"
+      ],
+      "correctAnswer": "Flat facial profile, epicanthal folds, hypotonia, single palmar crease, congenital heart defects, intellectual disability",
+      "explanationText": "Down syndrome (Trisomy 21) presents with characteristic facial features, hypotonia, developmental delay, and increased risk of congenital heart defects."
+    },
+    {
+      "id": 169,
+      "questionText": "What are autosomal dominant diseases?",
+      "questionImage": null,
+      "options": [
+        "Huntington Disease and Marfan Syndrome"
+      ],
+      "correctAnswer": "Huntington Disease and Marfan Syndrome",
+      "explanationText": "Autosomal dominant diseases require only one affected gene copy. Huntington disease causes progressive neurodegeneration, and Marfan syndrome affects connective tissue and increases aortic aneurysm risk."
+    },
+    {
+      "id": 170,
+      "questionText": "What are autosomal recessive diseases?",
+      "questionImage": null,
+      "options": [
+        "Cystic Fibrosis, Tay-Sachs Disease, and Sickle Cell Anemia"
+      ],
+      "correctAnswer": "Cystic Fibrosis, Tay-Sachs Disease, and Sickle Cell Anemia",
+      "explanationText": "Autosomal recessive diseases require two carrier parents. There is a 25% chance of disease expression and a 50% chance of being a carrier."
+    },
+    {
+      "id": 171,
+      "questionText": "What screenings should be done in pregnancy?",
+      "questionImage": null,
+      "options": [
+        "First, second, and third trimester genetic and fetal testing"
+      ],
+      "correctAnswer": "First trimester: Cell-free DNA, nuchal translucency, CVS (10–13 weeks); Second trimester: quad screen, amniocentesis (14–18 weeks); Third trimester: amniocentesis for lung maturity if needed",
+      "explanationText": "Pregnancy screening includes early genetic screening (cfDNA, NT), diagnostic testing (CVS, amniocentesis), and later fetal lung maturity assessment if indicated."
+    },
+    {
+      "id": 172,
+      "questionText": "If mom is Rh negative, what drug do we give her?",
+      "questionImage": null,
+      "options": [
+        "Rhogam"
+      ],
+      "correctAnswer": "Rhogam",
+      "explanationText": "Rho(D) immune globulin (RhoGAM) is given to Rh-negative mothers to prevent antibody formation against Rh-positive fetal blood cells."
+    },
+    {
+      "id": 173,
+      "questionText": "What is amniocentesis?",
+      "questionImage": null,
+      "options": [
+        "Withdraw amniotic fluid from uterus with needle"
+      ],
+      "correctAnswer": "Withdraw amniotic fluid from uterus with needle",
+      "explanationText": "Amniocentesis is an invasive diagnostic procedure used to assess fetal genetics, lung maturity, and infections by sampling amniotic fluid."
+    },
+    {
+      "id": 174,
+      "questionText": "What does Nuchal Translucency screen for?",
+      "questionImage": null,
+      "options": [
+        "Screens for chromosomal abnormalities like Down syndrome"
+      ],
+      "correctAnswer": "Screens for chromosomal abnormalities like Down syndrome",
+      "explanationText": "Nuchal translucency ultrasound (11–14 weeks) measures fetal neck fluid to screen for chromosomal abnormalities such as Trisomy 21, 18, and 13."
+    },
+    {
+      "id": 175,
+      "questionText": "What is chronic hypertension?",
+      "questionImage": null,
+      "options": [
+        "SBP >= 140 and/or DBP >= 90 and occurs before 20 weeks of pregnancy"
+      ],
+      "correctAnswer": "SBP >= 140 and/or DBP >= 90 and occurs BEFORE 20 weeks of pregnancy",
+      "explanationText": "Chronic hypertension is high blood pressure diagnosed before pregnancy or before 20 weeks gestation."
+    },
+    {
+      "id": 176,
+      "questionText": "What is gestational hypertension?",
+      "questionImage": null,
+      "options": [
+        "SBP >= 140 and/or DBP >= 90 and occurs AFTER 20 weeks of pregnancy"
+      ],
+      "correctAnswer": "SBP >= 140 and/or DBP >= 90 and occurs AFTER 20 weeks of pregnancy",
+      "explanationText": "Gestational hypertension develops after 20 weeks without proteinuria or end-organ damage."
+    },
+    {
+      "id": 177,
+      "questionText": "What is preeclampsia?",
+      "questionImage": null,
+      "options": [
+        "SBP >= 140 and/or DBP >= 90 and occurs AFTER 20 weeks AND proteinuria"
+      ],
+      "correctAnswer": "SBP >= 140 and/or DBP >= 90 after 20 weeks with proteinuria",
+      "explanationText": "Preeclampsia is hypertension after 20 weeks gestation with proteinuria and possible end-organ involvement."
+    },
+    {
+      "id": 178,
+      "questionText": "What is preeclampsia with severe features?",
+      "questionImage": null,
+      "options": [
+        "Severe hypertension with organ dysfunction"
+      ],
+      "correctAnswer": "SBP >= 160 and/or DBP >= 110 after 20 weeks with thrombocytopenia, liver dysfunction, pulmonary edema, or neurologic symptoms",
+      "explanationText": "Severe preeclampsia includes very high BP and evidence of end-organ damage such as low platelets, liver injury, pulmonary edema, or CNS changes."
+    },
+    {
+      "id": 179,
+      "questionText": "What is eclampsia?",
+      "questionImage": null,
+      "options": [
+        "Seizures in pregnancy without prior seizure disorder"
+      ],
+      "correctAnswer": "Seizure in a pregnant patient with preeclampsia and no prior seizure disorder",
+      "explanationText": "Eclampsia is the onset of seizures in a patient with preeclampsia, indicating severe disease progression."
+    },
+    {
+      "id": 180,
+      "questionText": "What is HELLP syndrome?",
+      "questionImage": null,
+      "options": [
+        "Hemolysis, Elevated Liver enzymes, Low Platelets"
+      ],
+      "correctAnswer": "Hemolysis, Elevated Liver enzymes, Low Platelets",
+      "explanationText": "HELLP syndrome is a severe form of preeclampsia involving hemolysis, liver injury, and thrombocytopenia."
+    },
+    {
+      "id": 181,
+      "questionText": "What is clonus?",
+      "questionImage": null,
+      "options": [
+        "Repetitive bouncing muscle movement after stretch"
+      ],
+      "correctAnswer": "Repetitive, involuntary rhythmic muscle contractions after a stretch",
+      "explanationText": "Clonus is tested by dorsiflexing the foot; a positive finding is repetitive jerking movements and indicates neurologic hyperexcitability."
+    },
+    {
+      "id": 182,
+      "questionText": "What is magnesium toxicity?",
+      "questionImage": null,
+      "options": [
+        "Magnesium sulfate toxicity treated with calcium gluconate"
+      ],
+      "correctAnswer": "Magnesium sulfate toxicity treated with calcium gluconate",
+      "explanationText": "Magnesium toxicity causes loss of deep tendon reflexes, respiratory depression, and hypotension. Antidote is calcium gluconate."
+    },
+    {
+      "id": 183,
+      "questionText": "What is the difference between pregestational diabetes and gestational diabetes?",
+      "questionImage": null,
+      "options": [
+        "Diabetes before pregnancy vs during pregnancy"
+      ],
+      "correctAnswer": "Pregestational diabetes starts before pregnancy; gestational diabetes develops during pregnancy",
+      "explanationText": "Pregnancy increases insulin resistance, so glucose control is essential to reduce maternal and fetal complications."
+    },
+    {
+      "id": 184,
+      "questionText": "Preconception care for pregestational diabetes",
+      "questionImage": null,
+      "options": [
+        "Good glucose control for 3 months"
+      ],
+      "correctAnswer": "Tight glycemic control with HbA1c ideally <6.5% for at least 3 months before conception",
+      "explanationText": "Good preconception glucose control reduces risk of congenital anomalies and pregnancy complications."
+    },
+    {
+      "id": 185,
+      "questionText": "What does glucola testing screen for?",
+      "questionImage": null,
+      "options": [
+        "Gestational diabetes screening test"
+      ],
+      "correctAnswer": "1-hour 50g glucose challenge test; if elevated, follow with 3-hour oral glucose tolerance test",
+      "explanationText": "Glucola testing is a non-fasting screening test for gestational diabetes. If abnormal, a diagnostic 3-hour OGTT is performed."
+    },
+    {
+      "id": 186,
+      "questionText": "How do you treat gestational diabetes?",
+      "questionImage": null,
+      "options": [
+        "Modify diet and exercise"
+      ],
+      "correctAnswer": "Modify diet and exercise",
+      "explanationText": "First-line treatment is diet and exercise; insulin is added if blood glucose remains uncontrolled."
+    },
+    {
+      "id": 187,
+      "questionText": "Why are we not concerned about fetal heart defects in gestational diabetes, but we are in pregestational diabetes?",
+      "questionImage": null,
+      "options": [
+        "Critical fetal heart development occurs early in pregnancy"
+      ],
+      "correctAnswer": "Critical fetal heart development occurs early in pregnancy",
+      "explanationText": "Pregestational diabetes exposes the embryo to abnormal glucose during early organogenesis, increasing congenital heart defect risk. Gestational diabetes develops later, after major organ formation."
+    },
+    {
+      "id": 188,
+      "questionText": "What is induction of labor?",
+      "questionImage": null,
+      "options": [
+        "Chemical or mechanical induction of labor before spontaneous onset"
+      ],
+      "correctAnswer": "Chemical or mechanical stimulation of uterine contractions to initiate labor before spontaneous onset",
+      "explanationText": "Induction of labor uses medications or mechanical methods to start uterine contractions when continuing pregnancy poses risk."
+    },
+    {
+      "id": 189,
+      "questionText": "What are medical indicators for induction of labor?",
+      "questionImage": null,
+      "options": [
+        "Maternal and fetal indications such as hypertension, IUFD, chorioamnionitis, diabetes, PPROM"
+      ],
+      "correctAnswer": "Maternal indications include hypertension, intrauterine fetal demise (IUFD), and chorioamnionitis. Fetal indications include diabetes, fetal postmaturity, hypertension-related complications, isoimmunization, and preterm premature rupture of membranes (PPROM).",
+      "explanationText": "Induction is performed when maternal or fetal conditions make continuation of pregnancy unsafe."
+    },
+    {
+      "id": 190,
+      "questionText": "What are contraindications for induction of labor (instead require C-section)?",
+      "questionImage": null,
+      "options": [
+        "Placenta previa, transverse fetal lie, fetal distress, prior uterine rupture risk, active HSV"
+      ],
+      "correctAnswer": "Acute severe fetal distress, transverse fetal presentation, uncontrolled hemorrhage, placenta previa, previous uterine incision with high rupture risk, active genital HSV",
+      "explanationText": "Induction is avoided when vaginal delivery is unsafe or impossible."
+    },
+    {
+      "id": 191,
+      "questionText": "What is placenta previa?",
+      "questionImage": null,
+      "options": [
+        "Placenta implants low in uterus covering cervix"
+      ],
+      "correctAnswer": "Placenta implants low in the uterus and partially or completely covers the cervix",
+      "explanationText": "Placenta previa causes painless vaginal bleeding and requires C-section delivery."
+    },
+    {
+      "id": 192,
+      "questionText": "What is the Bishop score?",
+      "questionImage": null,
+      "options": [
+        "Cervical readiness scoring system"
+      ],
+      "correctAnswer": "Rating system used to evaluate cervical readiness for labor induction (13-point scale)",
+      "explanationText": "A score ≥8 suggests favorable cervix for induction; <8 indicates need for cervical ripening."
+    },
+    {
+      "id": 193,
+      "questionText": "What is the Bishop score for 2 cm / 50% / -3 station / soft cervix / midposition?",
+      "questionImage": null,
+      "options": [
+        "5 points"
+      ],
+      "correctAnswer": "5 points",
+      "explanationText": "2 cm (1), 50% effaced (1), -3 station (0), soft cervix (2), midposition (1) = total 5."
+    },
+    {
+      "id": 194,
+      "questionText": "What is Cytotec (Misoprostol)?",
+      "questionImage": null,
+      "options": [
+        "Uterotonic medication"
+      ],
+      "correctAnswer": "Stimulates uterine contractions",
+      "explanationText": "Cytotec is used for cervical ripening and induction but is contraindicated in VBAC due to uterine rupture risk."
+    },
+    {
+      "id": 195,
+      "questionText": "What is Cervidil (Dinoprostone)?",
+      "questionImage": null,
+      "options": [
+        "Prostaglandin for cervical ripening"
+      ],
+      "correctAnswer": "Stimulate uterine contractions",
+      "explanationText": "Dinoprostone is used for cervical ripening; can cause uterine tachysystole (≥5 contractions in 10 minutes)."
+    },
+    {
+      "id": 196,
+      "questionText": "What is amniotomy?",
+      "questionImage": null,
+      "options": [
+        "Artificial rupture of membranes"
+      ],
+      "correctAnswer": "Artificial rupture of membranes to induce or augment labor",
+      "explanationText": "Fluid should be clear; presence of blood or meconium may indicate complications."
+    },
+    {
+      "id": 197,
+      "questionText": "What is oxytocin (Pitocin)?",
+      "questionImage": null,
+      "options": [
+        "Uterotonic hormone"
+      ],
+      "correctAnswer": "Hormone that stimulates uterine contractions",
+      "explanationText": "High-alert medication that can cause uterine rupture, fetal hypoxia, and postpartum hemorrhage if misused."
+    },
+    {
+      "id": 198,
+      "questionText": "What are oxytocin safeguards?",
+      "questionImage": null,
+      "options": [
+        "Infusion pump, dual nurse verification, frequent monitoring"
+      ],
+      "correctAnswer": "Always on infusion pump, use port closest to patient, dual nurse verification, assess every 15 minutes",
+      "explanationText": "Oxytocin is high-alert and requires close monitoring for maternal and fetal safety."
+    },
+    {
+      "id": 199,
+      "questionText": "If mother has uterine tachysystole with late fetal decelerations and is on oxytocin, what do you do?",
+      "questionImage": null,
+      "options": [
+        "Stop oxytocin, reposition, fluids, oxygen"
+      ],
+      "correctAnswer": "Stop oxytocin, reposition mother, give IV fluids, apply oxygen if needed",
+      "explanationText": "These interventions improve uteroplacental perfusion and reduce fetal hypoxia."
+    },
+    {
+      "id": 200,
+      "questionText": "What is magnesium sulfate?",
+      "questionImage": null,
+      "options": [
+        "Seizure prevention medication in pregnancy"
+      ],
+      "correctAnswer": "A CNS depressant used to prevent seizures in preeclampsia",
+      "explanationText": "Monitor respiratory rate (>12), urine output (>30 mL/hr), and deep tendon reflexes; calcium gluconate is antidote."
+    },
+    {
+      "id": 201,
+      "questionText": "What is Gate-Control Theory?",
+      "questionImage": null,
+      "options": [
+        "Pain modulation theory"
+      ],
+      "correctAnswer": "Limited sensory pathways to brain allow pain to be reduced by competing stimuli",
+      "explanationText": "Techniques include massage, heat, cold, breathing, meditation, and distraction."
+    },
+    {
+      "id": 202,
+      "questionText": "What is Lamaze?",
+      "questionImage": null,
+      "options": [
+        "Natural childbirth technique"
+      ],
+      "correctAnswer": "Natural labor technique using breathing, relaxation, and support techniques",
+      "explanationText": "Focuses on controlled breathing, movement, relaxation, and partner support."
+    },
+    {
+      "id": 203,
+      "questionText": "What is analgesia vs anesthesia?",
+      "questionImage": null,
+      "options": [
+        "Pain relief vs loss of sensation"
+      ],
+      "correctAnswer": "Analgesia raises pain threshold; anesthesia blocks sensation",
+      "explanationText": "Analgesia reduces pain perception, while anesthesia blocks all sensation."
+    },
+    {
+      "id": 204,
+      "questionText": "What is nalbuphine (Nubain)?",
+      "questionImage": null,
+      "options": [
+        "Opioid agonist-antagonist"
+      ],
+      "correctAnswer": "Opioid agonist-antagonist used for labor pain relief",
+      "explanationText": "Give IV during peak contraction; can cause neonatal respiratory depression if given too close to delivery."
+    },
+    {
+      "id": 205,
+      "questionText": "What opioid antagonist do we give to a newborn with respiratory depression?",
+      "questionImage": null,
+      "options": [
+        "Narcan"
+      ],
+      "correctAnswer": "Narcan (naloxone)",
+      "explanationText": "Used to reverse opioid-induced respiratory depression in newborns."
+    },
+    {
+      "id": 206,
+      "questionText": "What considerations are there before giving opioids to the mother?",
+      "questionImage": null,
+      "options": [
+        "Labor stage, fetal heart rate, maternal history"
+      ],
+      "correctAnswer": "Stage of labor, fetal heart rate, mother's medical history (opioid dependence, allergies)",
+      "explanationText": "Assess timing and fetal status to reduce risk of neonatal respiratory depression and maternal complications."
+    },
+    {
+      "id": 207,
+      "questionText": "What is nitrous oxide (laughing gas)?",
+      "questionImage": null,
+      "options": [
+        "Inhaled analgesic gas used during labor"
+      ],
+      "correctAnswer": "Inhaled analgesic gas used during labor",
+      "explanationText": "Nitrous oxide is a self-administered inhaled analgesic used during labor that reduces pain and anxiety while allowing the patient to remain awake and mobile."
+    },
+    {
+      "id": 208,
+      "questionText": "What is a pudendal nerve block?",
+      "questionImage": null,
+      "options": [
+        "Injection of anesthetic in pudendal nerve, such as lidocaine"
+      ],
+      "correctAnswer": "Injection of anesthetic in pudendal nerve, such as lidocaine",
+      "explanationText": "A pudendal nerve block provides local anesthesia to the perineum and lower vagina during late labor or delivery, commonly using lidocaine."
+    },
+    {
+      "id": 209,
+      "questionText": "What are epidural anesthesia advantages and disadvantages?",
+      "questionImage": null,
+      "options": [
+        "Pros and cons of epidural anesthesia"
+      ],
+      "correctAnswer": "PROS: Airway intact, patient alert, partial motor block, effective pain relief. CONS: decreased mobility, urinary retention, hypotension, fever, increased assisted delivery, spinal headache risk",
+      "explanationText": "Epidurals provide excellent pain relief while maintaining consciousness, but may cause hypotension, reduced mobility, urinary retention, fever, and increased likelihood of assisted vaginal delivery or headache."
+    },
+    {
+      "id": 210,
+      "questionText": "What is spinal anesthesia used for?",
+      "questionImage": null,
+      "options": [
+        "C-Section"
+      ],
+      "correctAnswer": "C-Section",
+      "explanationText": "Spinal anesthesia is commonly used for cesarean sections and provides rapid onset of complete regional anesthesia below the waist. A common side effect is maternal hypotension."
+    },
+    {
+      "id": 211,
+      "questionText": "What is general anesthesia in labor?",
+      "questionImage": null,
+      "options": [
+        "IV meds (propofol, ketamine) to render patient unconscious and inhaled gas (succinylcholine) as muscle relaxation."
+      ],
+      "correctAnswer": "IV meds (propofol, ketamine) to render patient unconscious and inhaled gas (succinylcholine) as muscle relaxation.",
+      "explanationText": "General anesthesia is used for emergency situations requiring immediate delivery. It involves IV induction agents and inhaled anesthetics with rapid intubation and muscle relaxation. Nursing considerations include NPO status ideally for 8 hours, IV access, premedication with oral antacid, left uterine displacement (wedge under left hip), and cricoid pressure during intubation to reduce aspiration risk."
+    },
+    {
+      "id": 212,
+      "questionText": "Labor Pain Management",
+      "questionImage": null,
+      "options": [
+        "Patient Goals, Understand preparation of patient, Non-pharmacologic conduction with medications, informed consent, safety considerations"
+      ],
+      "correctAnswer": "Patient Goals, Understand preparation of patient, Non-pharmacologic conduction with medications, informed consent, safety considerations",
+      "explanationText": "Labor pain management includes identifying patient goals, preparing the patient for labor, combining non-pharmacologic and pharmacologic methods, ensuring informed consent, and prioritizing safety considerations throughout labor."
     }
   ]
 }
