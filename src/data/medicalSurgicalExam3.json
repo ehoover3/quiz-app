@@ -144,910 +144,285 @@
     },
     {
       "id": 11,
-      "questionText": "",
+      "questionText": "What is prerenal kidney injury?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+        "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
+      ],
+      "correctAnswer": "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 12,
-      "questionText": "",
+      "questionText": "What is intrarenal kidney injury?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+        "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
+      ],
+      "correctAnswer": "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 13,
-      "questionText": "",
+      "questionText": "What is postrenal kidney injury?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+        "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
+      ],
+      "correctAnswer": "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 14,
-      "questionText": "",
+      "questionText": "What type of AKI is this? Man fell off roof, severe lacerations and blood loss",
       "questionImage": null,
-      "options": [],
+      "options": [
+        "Pre-renal",
+        "Intra-renal",
+        "Post-renal"
+      ],
       "correctAnswer": "",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 15,
-      "questionText": "",
+      "questionText": "What are the 4 phases of acute kidney injury?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Initiating, Oliguric, Diuretic, Recovery"
+      ],
+      "correctAnswer": "Initiating, Oliguric, Diuretic, Recovery",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 16,
-      "questionText": "",
+      "questionText": "What happens in oliguric phase of AKI?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
+        "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop"
+      ],
+      "correctAnswer": "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 17,
-      "questionText": "",
+      "questionText": "What happens in diuretic phase of AKI?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
+        "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop"
+      ],
+      "correctAnswer": "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 18,
-      "questionText": "",
+      "questionText": "What happens in recovery phase of AKI?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
+        "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop"
+      ],
+      "correctAnswer": "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 19,
-      "questionText": "",
+      "questionText": "Which TYPE if kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day.  J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high. Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Pre-renal",
+        "Intra-renal",
+        "Post-renal"
+      ],
+      "correctAnswer": "Intra-renal",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 20,
-      "questionText": "",
+      "questionText": "Which PHASE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day.  J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high. Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 21,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
+      "options": [
+        "Initiating",
+        "Oliguric",
+        "Diuretic",
+        "Recovery"
+      ],
+      "correctAnswer": "Oliguric",
+      "explanationText": "Low urine output, BUN and Creatinine trending up.  Also, metabolic acidosis, hyperkalemia, hyponatremia, fatigue, malaise",
       "explanationImage": null
     },
     {
       "id": 22,
-      "questionText": "",
+      "questionText": "What TREATMENT do you anticipate? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day.  J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high. Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop"
+      ],
+      "correctAnswer": "hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 23,
-      "questionText": "",
+      "questionText": "When do we do dialysis",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 24,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level > 120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac-tamponade, Clinical status of patient"
+      ],
+      "correctAnswer": "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level > 120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac-tamponade, Clinical status of patient",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 25,
-      "questionText": "",
+      "questionText": "A client on a medical unit has a K+ level of 6.8 mEq/L. What is the priority action that the nurse should take?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Place the client on a cardiac monitor.",
+        "Check the client’s BP.",
+        "Teach the client to avoid high-potassium foods.",
+        "Call the lab and request a redraw of lab to verify the results."
+      ],
+      "correctAnswer": "Place the client on a cardiac monitor.",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 26,
-      "questionText": "",
+      "questionText": "Top causes of AKI (acute kidney injury)",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Dehyration, Nephrotoxic Drugs",
+        "Diabetic Nephropathy, Hypertension"
+      ],
+      "correctAnswer": "Dehyration, Nephrotoxic Drugs",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 27,
-      "questionText": "",
+      "questionText": "Top causes of CKD (chronic kidney disease)",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Dehyration, Nephrotoxic Drugs",
+        "Diabetic Nephropathy, Hypertension"
+      ],
+      "correctAnswer": "Diabetic Nephropathy, Hypertension",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 28,
-      "questionText": "",
+      "questionText": "Vitals for a CKD (chronic kidney disease) Patient",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
+      "options": [
+        "BP is Hypertensive, SpO2 is lower, RR is higher, HR is normal or increased, Temp is normal"
+      ],
+      "correctAnswer": "BP is Hypertensive, SpO2 is lower, RR is higher, HR is normal or increased, Temp is normal",
+      "explanationText": "Hypervolemia could lead to high BP, pulmonary edema (fluid in lungs), ",
       "explanationImage": null
     },
     {
       "id": 29,
-      "questionText": "",
+      "questionText": "Biggest difference between AKI and CKD (chronic kidney disease)",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "CKD is irreversable.  NOTE: GFR is gold standard lab."
+      ],
+      "correctAnswer": "CKD is irreversable.  NOTE: GFR is gold standard lab.",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 30,
-      "questionText": "",
+      "questionText": "Uremia, Oliguria, Anuria",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Uremia=waste buildup in blood, Oliguria=low urine output, Anuria=no urine output"
+      ],
+      "correctAnswer": "Uremia=waste buildup in blood, Oliguria=low urine output, Anuria=no urine output",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 31,
-      "questionText": "",
+      "questionText": "Which serum laboratory value indicates to the nurse that the client’s CKD is getting worse?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Decreased BUN.",
+        "Decreased sodium.",
+        "Decreased creatinine.",
+        "Decreased calculated glomerular filtration rate (GFR)"
+      ],
+      "correctAnswer": "Decreased calculated glomerular filtration rate (GFR)",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 32,
-      "questionText": "",
+      "questionText": "During the nursing assessment of the patient with renal insufficiency, the nurse asks the patient specifically about a history of?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Angina.",
+        "Asthma",
+        "Hypertension.",
+        "Rheumatoid arthritis."
+      ],
+      "correctAnswer": "Hypertension.",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 33,
-      "questionText": "",
+      "questionText": "The nurse teaches a patient with chronic kidney disease about prevention of complications. What should the nurse include in the teaching plan?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "options": [
+        "Monitor for proteinuria daily with a urine dipstick.",
+        "Perform self-catheterization every 4 hours to measure urine.",
+        "Take calcium-based phosphate binders on an empty stomach.",
+        "Check weight daily and report a gain of greater than 4 pounds"
+      ],
+      "correctAnswer": "Check weight daily and report a gain of greater than 4 pounds",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 34,
-      "questionText": "",
+      "questionText": "What are the methods of dialysis?",
       "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
+      "options": ["Peritoneal, Hemodialysis"],
+      "correctAnswer": "Peritoneal, Hemodialysis",
+      "explanationText": "Peritoneal cavity is space in abdomen located between peritoneum's parietal and visceral layers (membrane that lines the abdominal cavity and covers many abdominal organs).  Hemodialysis via AV fistula (forearm area), AV graft (forearm area), central venous cath",
       "explanationImage": null
     },
     {
       "id": 35,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 36,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 37,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 38,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 39,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 40,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 41,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 42,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 43,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 44,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 45,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 46,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 47,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 48,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 49,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 50,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 51,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 52,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 53,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 54,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 55,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 56,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 57,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 58,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 59,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 60,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 61,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 62,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 63,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 64,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 65,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 66,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 67,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 68,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 69,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 70,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 71,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 72,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 73,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 74,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 75,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 76,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 77,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 78,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 79,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 80,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 81,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 82,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 83,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 84,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 85,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 86,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 87,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 88,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 89,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 90,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 91,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 92,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 93,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 94,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 95,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 96,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 97,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 98,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 99,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 100,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 101,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 102,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 103,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 104,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 105,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 106,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 107,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 108,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 109,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 110,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 111,
-      "questionText": "",
-      "questionImage": null,
-      "options": [],
-      "correctAnswer": "",
+      "questionText": "Hemodialysis Complications",
+      "questionImage": null,
+      "options": [
+        "Assess for hypotension (hypovolemia)"
+      ],
+      "correctAnswer": "Assess for hypotension (hypovolemia)",
       "explanationText": "",
       "explanationImage": null
     }
