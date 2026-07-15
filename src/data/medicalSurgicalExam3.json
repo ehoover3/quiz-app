@@ -5,7 +5,6 @@
     {
       "id": 1,
       "questionText": "A nurse is caring for a client who has end-stage kidney disease (ESKD) and reports having shortness of breath and swelling in his lower extremities. Upon assessment, the nurse notes the client has crackles in his lungs and an elevated blood pressure. The nurse should suspect which of the following based on the client's manifestations?",
-      "questionImage": null,
       "options": [
         "Hypovolemia",
         "Hypervolemia",
@@ -13,13 +12,11 @@
         "Hyponatremia"
       ],
       "correctAnswer": "Hypervolemia",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Clients with ESKD have decreased kidney function and cannot effectively remove excess fluid. Fluid accumulation causes peripheral edema, pulmonary edema (crackles and shortness of breath), and hypertension due to increased circulating volume. Hypovolemia causes dehydration and low blood pressure, hyperkalemia is a potassium imbalance, and hyponatremia is a sodium imbalance."
     },
     {
       "id": 2,
       "questionText": "A nurse is caring for a client who has a new arteriovenous (AV) graft in his left forearm. Which of the following techniques should the nurse use to assess the patency of this graft?",
-      "questionImage": null,
       "options": [
         "Measure the client's blood pressure to ensure it is higher in the left arm than the right.",
         "Check the brachial and radial pulses of the left arm simultaneously.",
@@ -27,13 +24,11 @@
         "Auscultate the antecubital fossa using a Doppler stethoscope."
       ],
       "correctAnswer": "Auscultate the site for a bruit.",
-      "explanationText": "Auscultate the site for a bruit, then palpate for a thrill.",
-      "explanationImage": null
+      "explanationText": "The nurse should assess AV graft patency by auscultating for a bruit (a whooshing sound caused by blood flow) and palpating for a thrill (a vibration). Blood pressure and venipuncture should be avoided on the access arm because they can damage the graft."
     },
     {
       "id": 3,
       "questionText": "A nurse is caring for a client who is undergoing initial peritoneal dialysis. Which of the following should the nurse report immediately to the provider?",
-      "questionImage": null,
       "options": [
         "Report of discomfort during dialysate inflow",
         "Dialysate fluid is slow to drain out.",
@@ -41,13 +36,11 @@
         "Purulent dialysate outflow"
       ],
       "correctAnswer": "Purulent dialysate outflow",
-      "explanationText": "Peritonitis infection risk leading to sepsis risk (a life-threatening body-wide response to infection that causes organ dysfunction.)",
-      "explanationImage": null
+      "explanationText": "Purulent or cloudy dialysate indicates peritonitis, an infection of the peritoneal cavity. Peritonitis can progress to sepsis and requires immediate treatment. Other findings may require evaluation but are less urgent than signs of infection."
     },
     {
       "id": 4,
-      "questionText": "A nurse is reviewing the medication record for a client who has chronic kidney disease. Which has potential to cause nephrotoxicity?",
-      "questionImage": null,
+      "questionText": "A nurse is reviewing the medication record for a client who has chronic kidney disease. Which medication has potential to cause nephrotoxicity?",
       "options": [
         "Omeprazole.",
         "Vancomycin.",
@@ -55,13 +48,11 @@
         "Ondansetron."
       ],
       "correctAnswer": "Vancomycin.",
-      "explanationText": "Vancomycin and Metformin are major concerns",
-      "explanationImage": null
+      "explanationText": "Vancomycin can cause nephrotoxicity, especially when blood levels become elevated. The nurse should monitor kidney function labs such as BUN and creatinine and monitor vancomycin levels. Other nephrotoxic medications include aminoglycosides, NSAIDs, and IV contrast."
     },
     {
       "id": 5,
-      "questionText": "A nurse is caring for a client who is receiving peritoneal dialysis. The nurse should monitor the client for which of the following manifestations of peritonitis?",
-      "questionImage": null,
+      "questionText": "A nurse is caring for a client who is receiving peritoneal dialysis. The nurse should monitor the client for which manifestation of peritonitis?",
       "options": [
         "Hyperactive bowel sounds.",
         "Increased urinary output",
@@ -69,13 +60,11 @@
         "Nausea and vomiting."
       ],
       "correctAnswer": "Nausea and vomiting.",
-      "explanationText": "Peritonitis Signs: ✅ Nausea and vomiting ✅ Abdominal pain/tenderness ✅ Fever ✅ Malaise ✅ Cloudy or purulent dialysate outflow (most important finding) ✅ Hypoactive bowel sounds",
-      "explanationImage": null
+      "explanationText": "Peritonitis causes inflammation of the abdominal lining. Expected findings include nausea, vomiting, abdominal pain, fever, malaise, hypoactive bowel sounds, and cloudy or purulent dialysate outflow. Cloudy dialysate is the most important finding."
     },
     {
       "id": 6,
-      "questionText": "A nurse is teaching a client who has pre-dialysis end-stage kidney disease about diet. Which of the following instructions should the nurse include?",
-      "questionImage": null,
+      "questionText": "A nurse is teaching a client who has pre-dialysis end-stage kidney disease about diet. Which instruction should the nurse include?",
       "options": [
         "Increase intake of dietary phosphorous.",
         "Eliminate foods high in protein from your diet.",
@@ -83,13 +72,11 @@
         "Increase intake of sodium-containing food."
       ],
       "correctAnswer": "Reduce intake of foods high in potassium.",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Kidney disease decreases potassium excretion, increasing the risk for hyperkalemia and cardiac dysrhythmias. Clients should limit high-potassium foods such as bananas, oranges, tomatoes, potatoes, and avocados. Sodium and phosphorus are also commonly restricted."
     },
     {
       "id": 7,
-      "questionText": "A nurse is assessing a child who has nephrotic syndrome. Which of the following findings should the nurse expect?",
-      "questionImage": null,
+      "questionText": "A nurse is assessing a child who has nephrotic syndrome. Which finding should the nurse expect?",
       "options": [
         "Polyuria.",
         "Facial edema.",
@@ -97,13 +84,11 @@
         "Smokey brown urine."
       ],
       "correctAnswer": "Facial edema.",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Nephrotic syndrome causes protein loss through the kidneys, resulting in low serum albumin and fluid shifting into tissues. This causes edema, especially around the eyes and face. Smoky brown urine and hypertension are more consistent with nephritic syndrome."
     },
     {
       "id": 8,
-      "questionText": "A nurse is reviewing the laboratory test results from a client who has prerenal acute kidney injury (AKI). Which of the following electrolyte imbalances should the nurse expect?",
-      "questionImage": null,
+      "questionText": "A nurse is reviewing laboratory results from a client who has prerenal acute kidney injury (AKI). Which electrolyte imbalance should the nurse expect?",
       "options": [
         "Hyperkalemia.",
         "Hypernatremia.",
@@ -111,13 +96,11 @@
         "Hypophosphatemia."
       ],
       "correctAnswer": "Hyperkalemia.",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "AKI decreases the kidneys' ability to remove potassium, causing potassium retention. Hyperkalemia can lead to dangerous cardiac dysrhythmias and requires close monitoring."
     },
     {
       "id": 9,
       "questionText": "Client has acute kidney injury. Teach the oliguric phase.",
-      "questionImage": null,
       "options": [
         "Renal function is reestablished.",
         "BUN and creatinine levels decrease.",
@@ -125,13 +108,11 @@
         "The glomerular filtration rate (GFR) recovers."
       ],
       "correctAnswer": "Urine output is less than 400 mL per 24 hr.",
-      "explanationText": "Oliguria is low urine output",
-      "explanationImage": null
+      "explanationText": "The oliguric phase is characterized by decreased urine output, usually less than 400 mL/day. During this phase, BUN and creatinine rise, fluid retention occurs, and electrolyte abnormalities such as hyperkalemia may develop."
     },
     {
       "id": 10,
-      "questionText": "6-year-old client has nephrotic syndrome. Which adverse effects of corticosteroids has potential to impact child's psychosocial development?",
-      "questionImage": null,
+      "questionText": "A 6-year-old client has nephrotic syndrome. Which adverse effects of corticosteroids have potential to impact the child's psychosocial development?",
       "options": [
         "Weight gain, Irritability.",
         "Hypertension.",
@@ -139,128 +120,108 @@
         "Osteoporosis."
       ],
       "correctAnswer": "Weight gain, Irritability.",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Corticosteroids can cause weight gain, increased appetite, mood changes, and irritability. These effects may impact a child's self-esteem, body image, and interactions with peers."
     },
     {
       "id": 11,
       "questionText": "What is prerenal kidney injury?",
-      "questionImage": null,
       "options": [
         "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
-        "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
         "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
       ],
       "correctAnswer": "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Prerenal AKI occurs before the kidney is damaged and is caused by decreased blood flow to the kidneys. Common causes include hemorrhage, dehydration, hypotension, shock, and sepsis. The kidneys are not receiving enough perfusion to properly filter blood."
     },
     {
       "id": 12,
       "questionText": "What is intrarenal kidney injury?",
-      "questionImage": null,
       "options": [
         "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
-        "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
         "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
       ],
-      "correctAnswer": "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+      "explanationText": "Intrarenal AKI occurs when the kidney tissue itself is damaged. Causes include nephrotoxic medications (such as vancomycin), prolonged ischemia, acute tubular necrosis, severe infections, and inflammatory kidney diseases."
     },
     {
       "id": 13,
       "questionText": "What is postrenal kidney injury?",
-      "questionImage": null,
       "options": [
         "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
-        "Direct damage to  renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
         "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
       ],
       "correctAnswer": "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Postrenal AKI occurs after the kidneys when urine flow is blocked. The obstruction causes urine to back up into the kidneys, increasing pressure and reducing kidney function. Causes include enlarged prostate, kidney stones, tumors, and urinary tract obstruction."
     },
     {
       "id": 14,
       "questionText": "What type of AKI is this? Man fell off roof, severe lacerations and blood loss",
-      "questionImage": null,
       "options": [
         "Pre-renal",
         "Intra-renal",
         "Post-renal"
       ],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Pre-renal",
+      "explanationText": "Severe blood loss decreases circulating blood volume and reduces kidney perfusion. This causes prerenal AKI because the kidneys are not receiving enough blood flow."
     },
     {
       "id": 15,
       "questionText": "What are the 4 phases of acute kidney injury?",
-      "questionImage": null,
       "options": [
         "Initiating, Oliguric, Diuretic, Recovery"
       ],
       "correctAnswer": "Initiating, Oliguric, Diuretic, Recovery",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "AKI progresses through four phases. The initiating phase begins with the kidney insult, the oliguric phase involves decreased urine output and rising waste products, the diuretic phase involves increased urine output, and the recovery phase involves gradual improvement of kidney function."
     },
     {
       "id": 16,
       "questionText": "What happens in oliguric phase of AKI?",
-      "questionImage": null,
       "options": [
-        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
-        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
-        "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop"
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+        "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop"
       ],
-      "correctAnswer": "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+      "explanationText": "During the oliguric phase, kidney filtration is decreased. Urine output drops below 400 mL/day, causing fluid retention, increased BUN and creatinine, metabolic acidosis, and electrolyte imbalances such as hyperkalemia."
     },
     {
       "id": 17,
       "questionText": "What happens in diuretic phase of AKI?",
-      "questionImage": null,
       "options": [
-        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
-        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
-        "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop"
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+        "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop"
       ],
-      "correctAnswer": "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+      "explanationText": "During the diuretic phase, the kidneys begin producing more urine, but they may not yet be able to concentrate urine effectively. Large urine losses can cause dehydration, hypotension, and electrolyte imbalances."
     },
     {
       "id": 18,
       "questionText": "What happens in recovery phase of AKI?",
-      "questionImage": null,
       "options": [
-        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinie, fatigue, malaise",
-        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatine Levels beigin to normalize",
-        "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop"
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+        "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop"
       ],
-      "correctAnswer": "Begins when GFR increases, BUN and Creatine Levels Plateau, then drop",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop",
+      "explanationText": "The recovery phase occurs when kidney function begins improving. GFR increases, and BUN and creatinine levels gradually decrease as filtration improves."
     },
     {
       "id": 19,
-      "questionText": "Which TYPE if kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day.  J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high. Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
-      "questionImage": null,
+      "questionText": "Which TYPE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
       "options": [
         "Pre-renal",
         "Intra-renal",
         "Post-renal"
       ],
       "correctAnswer": "Intra-renal",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "The elevated vancomycin level indicates nephrotoxicity, meaning the medication has caused direct kidney tissue damage. This is classified as intrarenal AKI."
     },
     {
       "id": 20,
-      "questionText": "Which PHASE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day.  J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high. Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
-      "questionImage": null,
+      "questionText": "Which PHASE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
       "options": [
         "Initiating",
         "Oliguric",
@@ -268,35 +229,29 @@
         "Recovery"
       ],
       "correctAnswer": "Oliguric",
-      "explanationText": "Low urine output, BUN and Creatinine trending up.  Also, metabolic acidosis, hyperkalemia, hyponatremia, fatigue, malaise",
-      "explanationImage": null
+      "explanationText": "J.K. is in the oliguric phase because urine output is below 400 mL/day. During this phase, BUN and creatinine increase, fluid retention occurs, and complications such as hypertension and electrolyte abnormalities may develop."
     },
     {
       "id": 22,
-      "questionText": "What TREATMENT do you anticipate? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day.  J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high. Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
-      "questionImage": null,
+      "questionText": "What TREATMENT do you anticipate? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
       "options": [
-        "hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop"
+        "Hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop"
       ],
-      "correctAnswer": "hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop",
+      "explanationText": "Treatment focuses on removing the cause of kidney injury, preventing complications, and supporting kidney recovery. Vancomycin should be held because the elevated level may be causing nephrotoxicity. The nurse should monitor renal function, electrolytes, fluid status, and urine output. Dialysis may be required for severe complications such as refractory hyperkalemia, severe acidosis, fluid overload, or uremic symptoms."
     },
     {
       "id": 23,
-      "questionText": "When do we do dialysis",
-      "questionImage": null,
+      "questionText": "When do we do dialysis?",
       "options": [
-        "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level > 120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac-tamponade, Clinical status of patient"
+        "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level >120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac tamponade, Clinical status of patient"
       ],
-      "correctAnswer": "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level > 120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac-tamponade, Clinical status of patient",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level >120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac tamponade, Clinical status of patient",
+      "explanationText": "Dialysis is initiated when the kidneys cannot maintain homeostasis and complications become severe. Indications include fluid overload that does not respond to treatment, dangerous hyperkalemia, metabolic acidosis, severe uremia, altered mental status, and pericarditis related to kidney failure."
     },
     {
       "id": 25,
       "questionText": "A client on a medical unit has a K+ level of 6.8 mEq/L. What is the priority action that the nurse should take?",
-      "questionImage": null,
       "options": [
         "Place the client on a cardiac monitor.",
         "Check the client’s BP.",
@@ -304,70 +259,58 @@
         "Call the lab and request a redraw of lab to verify the results."
       ],
       "correctAnswer": "Place the client on a cardiac monitor.",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "A potassium level of 6.8 mEq/L indicates severe hyperkalemia, which can cause life-threatening cardiac dysrhythmias. The priority action is placing the client on a cardiac monitor to detect ECG changes while additional treatment is initiated."
     },
     {
       "id": 26,
       "questionText": "Top causes of AKI (acute kidney injury)",
-      "questionImage": null,
       "options": [
-        "Dehyration, Nephrotoxic Drugs",
+        "Dehydration, Nephrotoxic Drugs",
         "Diabetic Nephropathy, Hypertension"
       ],
-      "correctAnswer": "Dehyration, Nephrotoxic Drugs",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "Dehydration, Nephrotoxic Drugs",
+      "explanationText": "Common causes of AKI include decreased kidney perfusion from dehydration, blood loss, and shock, as well as direct kidney injury from nephrotoxic medications such as vancomycin, aminoglycosides, NSAIDs, and contrast dye."
     },
     {
       "id": 27,
       "questionText": "Top causes of CKD (chronic kidney disease)",
-      "questionImage": null,
       "options": [
-        "Dehyration, Nephrotoxic Drugs",
+        "Dehydration, Nephrotoxic Drugs",
         "Diabetic Nephropathy, Hypertension"
       ],
       "correctAnswer": "Diabetic Nephropathy, Hypertension",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "The leading causes of CKD are diabetes and hypertension. High blood glucose damages kidney blood vessels over time, while chronic high blood pressure damages the renal filtration system."
     },
     {
       "id": 28,
       "questionText": "Vitals for a CKD (chronic kidney disease) Patient",
-      "questionImage": null,
       "options": [
         "BP is Hypertensive, SpO2 is lower, RR is higher, HR is normal or increased, Temp is normal"
       ],
       "correctAnswer": "BP is Hypertensive, SpO2 is lower, RR is higher, HR is normal or increased, Temp is normal",
-      "explanationText": "Hypervolemia could lead to high BP, pulmonary edema (fluid in lungs), ",
-      "explanationImage": null
+      "explanationText": "CKD commonly causes fluid retention because the kidneys cannot remove excess fluid. Hypervolemia can lead to hypertension and pulmonary edema, which decreases oxygen saturation and increases respiratory rate. Temperature is usually normal unless infection is present."
     },
     {
       "id": 29,
       "questionText": "Biggest difference between AKI and CKD (chronic kidney disease)",
-      "questionImage": null,
       "options": [
-        "CKD is irreversable.  NOTE: GFR is gold standard lab."
+        "CKD is irreversible. NOTE: GFR is gold standard lab."
       ],
-      "correctAnswer": "CKD is irreversable.  NOTE: GFR is gold standard lab.",
-      "explanationText": "",
-      "explanationImage": null
+      "correctAnswer": "CKD is irreversible. NOTE: GFR is gold standard lab.",
+      "explanationText": "AKI is a sudden decrease in kidney function that may be reversible if treated quickly. CKD is a progressive, long-term loss of kidney function that is usually irreversible. Glomerular filtration rate (GFR) is the primary measurement used to evaluate kidney function."
     },
     {
       "id": 30,
       "questionText": "Uremia, Oliguria, Anuria",
-      "questionImage": null,
       "options": [
         "Uremia=waste buildup in blood, Oliguria=low urine output, Anuria=no urine output"
       ],
       "correctAnswer": "Uremia=waste buildup in blood, Oliguria=low urine output, Anuria=no urine output",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Uremia occurs when kidneys cannot remove nitrogenous waste products, causing toxin buildup in the blood. Oliguria means decreased urine production, usually less than 400 mL/day. Anuria means almost complete absence of urine production, typically less than 100 mL/day."
     },
     {
       "id": 31,
       "questionText": "Which serum laboratory value indicates to the nurse that the client’s CKD is getting worse?",
-      "questionImage": null,
       "options": [
         "Decreased BUN.",
         "Decreased sodium.",
@@ -375,13 +318,11 @@
         "Decreased calculated glomerular filtration rate (GFR)"
       ],
       "correctAnswer": "Decreased calculated glomerular filtration rate (GFR)",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "A decreasing GFR indicates worsening kidney function because the kidneys are becoming less effective at filtering blood. As CKD progresses, creatinine and BUN typically increase while GFR decreases."
     },
     {
       "id": 32,
       "questionText": "During the nursing assessment of the patient with renal insufficiency, the nurse asks the patient specifically about a history of?",
-      "questionImage": null,
       "options": [
         "Angina.",
         "Asthma",
@@ -389,13 +330,11 @@
         "Rheumatoid arthritis."
       ],
       "correctAnswer": "Hypertension.",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Hypertension is both a major cause and complication of kidney disease. Long-term high blood pressure damages renal blood vessels, and kidney dysfunction can worsen hypertension through fluid retention and hormonal changes."
     },
     {
       "id": 33,
       "questionText": "The nurse teaches a patient with chronic kidney disease about prevention of complications. What should the nurse include in the teaching plan?",
-      "questionImage": null,
       "options": [
         "Monitor for proteinuria daily with a urine dipstick.",
         "Perform self-catheterization every 4 hours to measure urine.",
@@ -403,28 +342,133 @@
         "Check weight daily and report a gain of greater than 4 pounds"
       ],
       "correctAnswer": "Check weight daily and report a gain of greater than 4 pounds",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "Daily weights help detect fluid retention, a common complication of CKD. A rapid weight gain indicates fluid accumulation and should be reported. CKD patients should monitor fluid balance closely."
     },
     {
       "id": 34,
       "questionText": "What are the methods of dialysis?",
-      "questionImage": null,
-      "options": ["Peritoneal, Hemodialysis"],
+      "options": [
+        "Peritoneal, Hemodialysis"
+      ],
       "correctAnswer": "Peritoneal, Hemodialysis",
-      "explanationText": "Peritoneal cavity is space in abdomen located between peritoneum's parietal and visceral layers (membrane that lines the abdominal cavity and covers many abdominal organs).  Hemodialysis via AV fistula (forearm area), AV graft (forearm area), central venous cath",
-      "explanationImage": null
+      "explanationText": "The two major types of dialysis are peritoneal dialysis and hemodialysis. Peritoneal dialysis uses the peritoneal membrane in the abdomen as a filter. Hemodialysis removes waste and fluid through a vascular access such as an AV fistula, AV graft, or central venous catheter."
     },
     {
       "id": 35,
       "questionText": "Hemodialysis Complications",
-      "questionImage": null,
       "options": [
         "Assess for hypotension (hypovolemia)"
       ],
       "correctAnswer": "Assess for hypotension (hypovolemia)",
-      "explanationText": "",
-      "explanationImage": null
+      "explanationText": "During hemodialysis, fluid is removed from the bloodstream. Rapid fluid removal can cause hypovolemia and hypotension. The nurse should monitor blood pressure, dizziness, weakness, and signs of decreased perfusion."
+    },
+    {
+      "id": 36,
+      "questionText": "What is Immunoglobulin E (IgE)?",
+      "options": [
+        "Seasonal allergies",
+        "A blood protein that causes immune suppression",
+        "A hormone responsible for fluid regulation",
+        "A type of white blood cell that fights bacteria"
+      ],
+      "correctAnswer": "Seasonal allergies",
+      "explanationText": "Immunoglobulin E (IgE) is an antibody involved in allergic reactions. When a person is exposed to an allergen, IgE triggers mast cells to release histamine, causing symptoms such as itching, hives, swelling, sneezing, and seasonal allergies."
+    },
+    {
+      "id": 37,
+      "questionText": "A patient has received epinephrine for an anaphylactic reaction. Which finding indicates the treatment was therapeutic?",
+      "options": [
+        "Respirations are unlabored",
+        "The patient reports increased itching",
+        "Blood pressure remains decreased",
+        "Wheezing becomes more severe"
+      ],
+      "correctAnswer": "Respirations are unlabored",
+      "explanationText": "Epinephrine is the first-line treatment for anaphylaxis because it reverses airway swelling, bronchoconstriction, and hypotension. Unlabored respirations indicate improved airway function and oxygenation."
+    },
+    {
+      "id": 38,
+      "questionText": "A nurse is caring for a patient with sepsis. Which statement best explains what sepsis is?",
+      "options": [
+        "Your body had a severe reaction to an infection",
+        "Your body is unable to fight any type of infection",
+        "Your immune system has completely stopped working",
+        "A localized infection that remains in one area"
+      ],
+      "correctAnswer": "Your body had a severe reaction to an infection",
+      "explanationText": "Sepsis occurs when the body's immune response to an infection becomes excessive and causes widespread inflammation, leading to tissue damage, organ dysfunction, and potentially life-threatening complications."
+    },
+    {
+      "id": 39,
+      "questionText": "A patient has an ulcer and osteomyelitis. Which finding indicates the patient is developing sepsis?",
+      "options": [
+        "BP 80/40",
+        "Afebrile",
+        "HR 102",
+        "SpO2 94%"
+      ],
+      "correctAnswer": "BP 80/40",
+      "explanationText": "A blood pressure of 80/40 indicates severe hypotension, which is a sign of septic shock. Sepsis can cause widespread vasodilation and fluid shifts, resulting in decreased blood pressure and poor organ perfusion."
+    },
+    {
+      "id": 40,
+      "questionText": "What should a client with sepsis receive during the first hour of treatment?",
+      "options": [
+        "Get complete blood count, rapid administration of 0.9% normal saline, obtain blood cultures, and administer broad-spectrum antibiotics",
+        "Type and cross-match for 2 units of packed RBCs",
+        "Administer corticosteroids before antibiotics",
+        "Wait for culture results before beginning treatment"
+      ],
+      "correctAnswer": "Get complete blood count, rapid administration of 0.9% normal saline, obtain blood cultures, and administer broad-spectrum antibiotics",
+      "explanationText": "The first hour of sepsis treatment focuses on identifying the infection, restoring circulation, and treating the cause. A CBC evaluates white blood cell count, blood cultures identify the organism, broad-spectrum antibiotics treat infection, and 0.9% normal saline helps restore blood pressure and perfusion."
+    },
+    {
+      "id": 41,
+      "questionText": "A client develops wheezing, swollen tongue, and hives. What is the priority action?",
+      "options": [
+        "Administer epinephrine",
+        "Administer an antihistamine only",
+        "Place the client in a sitting position",
+        "Obtain a complete blood count"
+      ],
+      "correctAnswer": "Administer epinephrine",
+      "explanationText": "Wheezing, tongue swelling, and hives are signs of anaphylaxis. Epinephrine is the priority treatment because it rapidly improves airway swelling, bronchoconstriction, and hypotension. Delaying epinephrine can lead to respiratory failure or shock."
+    },
+    {
+      "id": 42,
+      "questionText": "Which cell type is primarily impacted by HIV?",
+      "options": [
+        "CD4 cells",
+        "Red blood cells",
+        "Platelets",
+        "Neutrophils"
+      ],
+      "correctAnswer": "CD4 cells",
+      "explanationText": "HIV primarily attacks CD4 T-helper lymphocytes, which coordinate immune responses. As CD4 levels decrease, the patient becomes increasingly vulnerable to opportunistic infections."
+    },
+    {
+      "id": 43,
+      "questionText": "A patient with HIV starts taking Zidovudine (Retrovir). Which statement indicates understanding of the medication?",
+      "options": [
+        "You need to take this medication as prescribed every day",
+        "You can stop taking this medication when you feel better",
+        "You only need to take this medication when symptoms appear",
+        "You should double the dose if you miss a dose"
+      ],
+      "correctAnswer": "You need to take this medication as prescribed every day",
+      "explanationText": "Zidovudine is an antiretroviral medication that suppresses HIV replication. It must be taken consistently as prescribed to maintain viral suppression and reduce the risk of medication resistance."
+    },
+    {
+      "id": 44,
+      "questionText": "Who is at greatest risk of developing sepsis?",
+      "options": [
+        "Client with AIDS",
+        "55-year-old client",
+        "3-year-old client",
+        "Healthy adult with no medical conditions"
+      ],
+      "correctAnswer": "Client with AIDS",
+      "explanationText": "Patients with AIDS have weakened immune systems due to decreased CD4 cells, making them more vulnerable to severe infections and complications such as sepsis. Immunocompromised patients have a higher risk because their bodies cannot effectively control infections."
     }
   ]
 }
