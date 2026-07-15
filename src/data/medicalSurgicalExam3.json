@@ -469,6 +469,332 @@
       ],
       "correctAnswer": "Client with AIDS",
       "explanationText": "Patients with AIDS have weakened immune systems due to decreased CD4 cells, making them more vulnerable to severe infections and complications such as sepsis. Immunocompromised patients have a higher risk because their bodies cannot effectively control infections."
+    },
+    {
+      "id": 45,
+      "questionText": "What is sepsis?",
+      "questionImage": null,
+      "options": [
+        "Systemic inflammatory response to infection"
+      ],
+      "correctAnswer": "Systemic inflammatory response to infection",
+      "explanationText": "Body's exaggerated response such as vasodilation, capillary permeability, and decreased perfusion.  Coagulation increases.  Caused by infection - pneumonia, peritonitis, UTI, procedures, indwelling devices (PIC line, urinary cath).",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "What is a huge indicator of how bad sepsis is?",
+      "questionImage": null,
+      "options": [
+        "lactic acid levels"
+      ],
+      "correctAnswer": "lactic acid levels",
+      "explanationText": "lactate is a common lab that is from lack of 02 perfusion -> anaerobic state -> lactic acid byproduct",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "What should mean arterial pressure be?",
+      "questionImage": null,
+      "options": [
+        "Marian says at least 65.  Online says 70-100."
+      ],
+      "correctAnswer": "Marian says at least 65.  Online says 70-100.",
+      "explanationText": "Under 60 and the brain isn't getting enough blood pressure to it",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "Sepsis patient, which requires immediate intervention?",
+      "questionImage": null,
+      "options": [
+        "Temp 100.4 F",
+        "18,000 WBC",
+        "90 mL urine output in 4 hours"
+      ],
+      "correctAnswer": "90 mL urine output in 4 hours",
+      "explanationText": "Not enough blood pressure to kidneys, results in low urine output, can result in pre-renal acute kidney injury (AKI)",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "How much fluid do you need for sepsis treatment?",
+      "questionImage": null,
+      "options": [
+        "30 mL / kg"
+      ],
+      "correctAnswer": "30 mL / kg",
+      "explanationText": "IV 0.9% Normal Saline or Lactated Ringer.  Get them above 65 MAP.  When fluids don't work, use norepinephrine (levophed).  Use corticosteriods (decrease inflammation, suppress over-reactive immune system).  Use albumin (most abundant protein in blood) to help shift fluid.",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "To prevent gastric ulcers in sepsis, what would you give?",
+      "questionImage": null,
+      "options": [
+        "Pantoprazole",
+        "Solumedrol",
+        "Vancomycin",
+        "Metoprolol"
+      ],
+      "correctAnswer": "Pantoprazole",
+      "explanationText": "Pantoprazole is a proton pump inhibitor (PPI) that reduces gastric acid production and helps prevent stress ulcers. Solumedrol is a corticosteroid to reduce inflammation and immune responses but does not prevent gastric ulcers and may actually increase ulcer risk. Vancomycin is incorrect because it is an antibiotic used to treat certain bacterial infections, including resistant organisms like MRSA, but it does not protect the stomach lining. Metoprolol is incorrect because it is a beta-blocker used to lower heart rate and blood pressure and has no role in preventing stress-related gastric ulcers.",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "Signs of anaphylaxis",
+      "questionImage": null,
+      "options": [
+        "wheezing from inflammation, itching, BP drops from vasodilation"
+      ],
+      "correctAnswer": "",
+      "explanationText": "Epinephrine (bronchodilates + vasoconstricts) via IM or IV, Benadryl (antihistamine - blocks effects of histamine which vasodilates and more), atropine to get heart rate up",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "Allergies to focus on",
+      "questionImage": null,
+      "options": [
+        "Nuts, eggs, legumes (peanuts), fish, shellfish, soy"
+      ],
+      "correctAnswer": "Nuts, eggs, legumes (peanuts), fish, shellfish, soy",
+      "explanationText": "Breastfeeding is recommended exclusively 4 to 6 months to infants to prevent allergies",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "If allergic to eggs, do not take flu vaccine",
+      "questionImage": null,
+      "options": [
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "What is urticaria?",
+      "questionImage": null,
+      "options": [
+        "hives"
+      ],
+      "correctAnswer": "hives",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "Allergy diagnostic testing",
+      "questionImage": null,
+      "options": [
+        "controlled food challenges in medical office, trial elimination diet, skin prick test + serum measurements"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "Anaphylaxis therapeutic management",
+      "questionImage": null,
+      "options": [
+        "If mild (runny nose, etc.), benadryl (antihistamine).  If respiratory distress, epinephrine + fluids."
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "Anaphylaxis prevention",
+      "questionImage": null,
+      "options": [
+        "wear wristband with allergy and epi pen alert"
+      ],
+      "correctAnswer": "wear wristband with allergy and epi pen alert",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "The faster the onset of anaphylaxis symptoms the more severe",
+      "questionImage": null,
+      "options": [
+        "false"
+      ],
+      "correctAnswer": "false",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 59,
+      "questionText": "Food allergies",
+      "questionImage": null,
+      "options": [
+        "most likely onset after several exposures"
+      ],
+      "correctAnswer": "most likely onset after several exposures",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 60,
+      "questionText": "What is primary reason HIV?",
+      "questionImage": null,
+      "options": [
+        "CD4 + T cells get destroyed most"
+      ],
+      "correctAnswer": "CD4 + T cells get destroyed most",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 61,
+      "questionText": "CD4 under 200 is...",
+      "questionImage": null,
+      "options": [
+        "Acquired Immunodeficiency Syndrome (AIDS)"
+      ],
+      "correctAnswer": "Acquired Immunodeficiency Syndrome (AIDS)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 62,
+      "questionText": "why do diseases such as Pneumocystis jiroveci pneumonia, oral candidiasis develop in AIDS patients, but not so much in HIV patients",
+      "questionImage": null,
+      "options": [
+        "These infections or tumors occur in a person with an incompetent immune system"
+      ],
+      "correctAnswer": "These infections or tumors occur in a person with an incompetent immune system",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "What are precautions for HIV patients",
+      "questionImage": null,
+      "options": [
+        "Standard precautions"
+      ],
+      "correctAnswer": "Standard precautions",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "List interventions for HIV",
+      "questionImage": null,
+      "options": [
+        "Monitor I&O, cleanse mouth with soft bristle toothbrush 3 to 4 times a day, use protective skin cream around perirectal area, assess lungs skin and abdomen every 4 hours and prn, encourage oral fluids",
+        "Mouth rinse with listerine (drys out more)",
+        "Restrict access from visitors (allowed, but cannot bring in fresh flowers or produce. Must hand hygiene. Cannot be sick and enter.)"
+      ],
+      "correctAnswer": "Monitor I&O, cleanse mouth with soft bristle toothbrush 3 to 4 times a day, use protective skin cream around perirectal area, assess lungs skin and abdomen every 4 hours and prn, encourage oral fluids",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "Combinations of antiretroviral drugs inhibit viral replicationn in different ways and decrease potential for development of anti-retroviral resistant HIV",
+      "questionImage": null,
+      "options": [
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "prevent resistant strains of HIV",
+      "explanationImage": null
+    },
+    {
+      "id": 66,
+      "questionText": "HIV does not live for a long time outside of human body, maybe a minute",
+      "questionImage": null,
+      "options": [
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 67,
+      "questionText": "Tenofovir combined with Truvada can reduce risk of spreading HIV",
+      "questionImage": null,
+      "options": [
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 68,
+      "questionText": "What is normal CD4 levels",
+      "questionImage": null,
+      "options": [
+        "800 to 1200"
+      ],
+      "correctAnswer": "800 to 1200",
+      "explanationText": "Less than 500 is symptomatic.  Less than 200 is AIDS.",
+      "explanationImage": null
+    },
+    {
+      "id": 69,
+      "questionText": "Which is most likely to cause HIV",
+      "questionImage": null,
+      "options": [
+        "Hollow bore needle.  1st six months."
+      ],
+      "correctAnswer": "Hollow bore needle.  1st six months.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 70,
+      "questionText": "Acute HIV infection",
+      "questionImage": null,
+      "options": [
+        "feels like the flu"
+      ],
+      "correctAnswer": "feels like the flu",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 71,
+      "questionText": "asymptomic chronic infection",
+      "questionImage": null,
+      "options": [
+        "CD4 account above 500, viral load rate is low"
+      ],
+      "correctAnswer": "CD4 account above 500, viral load rate is low",
+      "explanationText": "this is the goal for people with HIV",
+      "explanationImage": null
+    },
+    {
+      "id": 72,
+      "questionText": "Kaposi scarcome - a skin cancer that can happen in HIV",
+      "questionImage": null,
+      "options": [
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 73,
+      "questionText": "Which needs further teaching?",
+      "questionImage": null,
+      "options": [
+        "If my viral load becomes undetectable, I will not be able to transmit HIV to others"
+      ],
+      "correctAnswer": "If my viral load becomes undetectable, I will not be able to transmit HIV to others",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }
