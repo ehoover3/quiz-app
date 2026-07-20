@@ -171,56 +171,133 @@
     },
     {
       "id": 16,
-      "questionText": "",
+      "questionText": "What are 5 P's of labor?",
       "questionImage": null,
       "options": [
-        ""
+        "Power, Passage, Passenger, Position, Psyche"
       ],
-      "correctAnswer": "",
-      "explanationText": "",
+      "correctAnswer": "Power, Passage, Passenger, Position, Psyche",
+      "explanationText": "contraction, maternal pelvis, fetus",
       "explanationImage": null
     },
     {
       "id": 17,
-      "questionText": "",
+      "questionText": "Vaginal Birth - Forceps Assisted or Vaccuum Assisted.",
       "questionImage": null,
       "options": [
-        ""
+        "Forceps Assisted is like salad tongs. Vaccuum Assisted is like a suction cup that goes on baby's head."
       ],
-      "correctAnswer": "",
-      "explanationText": "",
+      "correctAnswer": "Forceps Assisted is like salad tongs. Vaccuum Assisted is like a suction cup that goes on baby's head.",
+      "explanationText": "Vaccuum Assisted can damage baby.",
       "explanationImage": null
     },
     {
       "id": 18,
-      "questionText": "",
+      "questionText": "Nursing considerations for operative vaginal birth (forceps or vacuum assisted)",
       "questionImage": null,
       "options": [
-        ""
+        "Bladder empty, cervix completely dilated, membranes ruptured, fetal head engaged in pelvis, vertex presentation, maternal assessment (lacerations, hematomas), fetal assessment, DOCUMENT!"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Bladder empty, cervix completely dilated, membranes ruptured, fetal head engaged in pelvis, vertex presentation, maternal assessment (lacerations, hematomas), fetal assessment, DOCUMENT!",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 19,
-      "questionText": "",
+      "questionText": "Cesarean Birth Indications:",
       "questionImage": null,
       "options": [
-        ""
+        "Malpresentations (Breech), Placental abnormalities, dysfunctional labor pattern, umbilical cord prolapse, fetal distress, congential anomalies, multiple gestation, hyperative disorders in mom, active genital herpes, positive HIV in mother"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Malpresentations (Breech), Placental abnormalities, dysfunctional labor pattern, umbilical cord prolapse, fetal distress, congential anomalies, multiple gestation, hyperative disorders in mom, active genital herpes, positive HIV in mother",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 20,
-      "questionText": "",
+      "questionText": "Cesarean Section Complications:",
       "questionImage": null,
       "options": [
-        ""
+        "Infection, Endometritis (lining of uterus inflammation), Wound Dehiscence, Aspiration, DVT & Pulmonary Embolism, Atelectasis, Hemorrhage (Blood Transfusion), Bowel/Bladder Injury, Anesthesia Complications, Fetal injury, Uterine rupture"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Infection, Endometritis (lining of uterus inflammation), Wound Dehiscence, Aspiration, DVT & Pulmonary Embolism, Atelectasis, Hemorrhage (Blood Transfusion), Bowel/Bladder Injury, Anesthesia Complications, Fetal injury, Uterine rupture",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "What type of anesthesia is common in cesarean section?",
+      "questionImage": null,
+      "options": [
+        "Spinal block or epidural"
+      ],
+      "correctAnswer": "Spinal block or epidural",
+      "explanationText": "Mother is likely to not be very mobile afterwards",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "What is shoulder dystocia?",
+      "questionImage": null,
+      "options": [
+        "Baby's head is breached, but shoulders are stuck."
+      ],
+      "correctAnswer": "Baby's head is breached, but shoulders are stuck.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "What are interventions for Shoulder Dystocia?",
+      "questionImage": null,
+      "options": [
+        "McRoberts Maneuever (push woman's knees to ears).  Suprapubic pressure."
+      ],
+      "correctAnswer": "McRoberts Maneuever (push woman's knees to ears).  Suprapubic pressure.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "Prolapsed cord nurse interventions.",
+      "questionImage": null,
+      "options": [
+        "Call for help, relieve cord pressure by pushing hand into vagina, Provide O2, start IV fluids"
+      ],
+      "correctAnswer": "Call for help, relieve cord pressure by pushing hand into vagina, Provide O2, start IV fluids",
+      "explanationText": "Goal is releive pressure on the cord.",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "Uterine rupture.",
+      "questionImage": null,
+      "options": [
+        "Most frequently caused from previous cesarean birth. Signs & symptoms: Abdominal pain, hsock, cessation of contractions, loss of fetal station."
+      ],
+      "correctAnswer": "Most frequently caused from previous cesarean birth. Signs & symptoms: Abdominal pain, hsock, cessation of contractions, loss of fetal station.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "Uterine rupture interventions.",
+      "questionImage": null,
+      "options": [
+        "Start IVF, Administer O2, Blood Transfusions, Hysterectomy"
+      ],
+      "correctAnswer": "Start IVF, Administer O2, Blood Transfusions, Hysterectomy",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "Anaphylactoid Syndrome of Pregnancy",
+      "questionImage": null,
+      "options": [
+        "Fetal hair enters maternal bloodstream, resulting in maternal anaphylaxis"
+      ],
+      "correctAnswer": "Fetal hair enters maternal bloodstream, resulting in maternal anaphylaxis",
       "explanationText": "",
       "explanationImage": null
     }
