@@ -300,6 +300,116 @@
       "correctAnswer": "Fetal hair enters maternal bloodstream, resulting in maternal anaphylaxis",
       "explanationText": "",
       "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "What is lanugo?",
+      "questionImage": null,
+      "options": [
+        "Body hair."
+      ],
+      "correctAnswer": "Body hair.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 29,
+      "questionText": "Preterm characteristics",
+      "questionImage": null,
+      "options": [
+        "Minimal subcutaneous fat, large head relative to body, translucent skin, ears soft/pliable, hypotonic, underdeveloped reflexes"
+      ],
+      "correctAnswer": "Minimal subcutaneous fat, large head relative to body, translucent skin, ears soft/pliable, hypotonic, underdeveloped reflexes",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 30,
+      "questionText": "What is late preterm infant?",
+      "questionImage": null,
+      "options": [
+        "34 to 36 weeks"
+      ],
+      "correctAnswer": "34 to 36 weeks",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 31,
+      "questionText": "What is post term infant?",
+      "questionImage": null,
+      "options": [
+        "more than 42 weeks"
+      ],
+      "correctAnswer": "more than 42 weeks",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 32,
+      "questionText": "Respiratory distress syndrome (preterm baby).",
+      "questionImage": null,
+      "options": [
+        "Surfactant deficiency, immature lung development, hypoxemia/hypercpania (too much carbon dioxide)"
+      ],
+      "correctAnswer": "Surfactant deficiency, immature lung development, hypoxemia/hypercpania (too much carbon dioxide)",
+      "explanationText": "tachypnea is more than 60 RR (30 to 60 is normal)",
+      "explanationImage": null
+    },
+    {
+      "id": 33,
+      "questionText": "What is cold stress interventions in preterm newborn?",
+      "questionImage": null,
+      "options": [
+        "Neutral thermal environment, i.e. incubator, radiant heat warmer, open crib with clothing, skin-to-skin"
+      ],
+      "correctAnswer": "Neutral thermal environment, i.e. incubator, radiant heat warmer, open crib with clothing, skin-to-skin",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 34,
+      "questionText": "Preterm hypoglycemia",
+      "questionImage": null,
+      "options": [
+        "At-risk: IDDM, prolonged labor, respiratory distress, poor feeder"
+      ],
+      "correctAnswer": "At-risk: IDDM (Insulin-Dependent Diabetes Mellitus - type 1), prolonged labor, respiratory distress, poor feeder",
+      "explanationText": "Severe or prolonged hypoglycemia may result in long term neurologic damage or death",
+      "explanationImage": null
+    },
+    {
+      "id": 35,
+      "questionText": "Hyperbilirubinemia (jaundice) Interventions",
+      "questionImage": null,
+      "options": [
+        "Phototherapy, Feeding"
+      ],
+      "correctAnswer": "Phototherapy, Feeding",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "Infant sepsis.  Leading cause of morbidity / mortality.",
+      "questionImage": null,
+      "options": [
+        "Infection that occurs during first 28 days of life. Systemic bacterial, viral, or fungal infection."
+      ],
+      "correctAnswer": "Infection that occurs during first 28 days of life. Systemic bacterial, viral, or fungal infection.",
+      "explanationText": "Encourage breastfeeding, hand hygiene, skin care.",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "Necrotizing Enterocolitis (NEC) - intestines inflammation & dead",
+      "questionImage": null,
+      "options": [
+        "Incidence 10% premature infants. Correct with breastmilk. Surgery."
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }
