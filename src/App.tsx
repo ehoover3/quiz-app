@@ -46,14 +46,17 @@ export default function App() {
             Medical Surgical Quiz Week 5
           </button> */}
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam1")}>
-            Maternal Newborn Exam 1
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familyPopulationsExam1")}>
+            Family Populations Exam 1
           </button>
 
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewbornExam2")}>
-            Maternal Newborn Exam 2
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familyPopulationsExam2")}>
+            Family Populations Exam 2
           </button>
 
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familyPopulationsExam3")}>
+            Family Populations Exam 3
+          </button>
 
           <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalExam1")}>
             Medical Surgical Exam 1
