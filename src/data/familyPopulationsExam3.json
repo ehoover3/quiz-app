@@ -410,6 +410,366 @@
       "correctAnswer": "",
       "explanationText": "",
       "explanationImage": null
+    },
+    {
+      "id": 38,
+      "questionText": "Which would indicate need for prophylactic cerclage placement?",
+      "questionImage": null,
+      "options": [
+        "History of two late miscarriages at 14 and 18 weeks"
+      ],
+      "correctAnswer": "History of two late miscarriages at 14 and 18 weeks",
+      "explanationText": "A strong stitch (suture) is placed around the cervix done by usually 15 weeks of gestation",
+      "explanationImage": null
+    },
+    {
+      "id": 39,
+      "questionText": "A patient just arrived in triage to be evaluated. She is 32 weeks. Which of the following statements by the patient indicate that she may be in preterm labor?",
+      "questionImage": null,
+      "options": [
+        "It's painful when I urinate.",
+        "My belly tightens every 30 minutes.",
+        "I’ve been having low back pain for 2 hours.",
+        "The baby is not moving as much."
+      ],
+      "correctAnswer": "I’ve been having low back pain for 2 hours.",
+      "explanationText": "Call provider when contractions are 6 per hour",
+      "explanationImage": null
+    },
+    {
+      "id": 40,
+      "questionText": "A nurse is caring for a patient at 32 weeks gestation who is showing signs of preterm labor. Which of the following interventions is most appropriate to promote fetal lung maturity?",
+      "questionImage": null,
+      "options": [
+        "Administer corticosteroids"
+      ],
+      "correctAnswer": "Administer corticosteroids",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 41,
+      "questionText": "A pregnant woman’s amniotic membranes rupture. Prolapsed umbilical cord is suspected. What intervention would be the top priority?",
+      "questionImage": null,
+      "options": [
+        "Placing the woman in the knee-chest position.",
+        "Preparing the woman for a cesarean birth."
+      ],
+      "correctAnswer": "Placing the woman in the knee-chest position.",
+      "explanationText": "Releases pressure on cord",
+      "explanationImage": null
+    },
+    {
+      "id": 42,
+      "questionText": "Risks associated with cesarean birth include:",
+      "questionImage": null,
+      "options": [
+        "Infection, hemorrhage, DVT"
+      ],
+      "correctAnswer": "Infection, hemorrhage, DVT",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 43,
+      "questionText": "The nurse practicing in a labor setting knows that the woman most at risk for uterine rupture is:",
+      "questionImage": null,
+      "options": [
+        "a gravida 2 who had a previous classical (vertical) cesarean birth."
+      ],
+      "correctAnswer": "a gravida 2 who had a previous classical (vertical) cesarean birth.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 44,
+      "questionText": "A client has been admitted for an external cephalic version. External fetal monitors have been applied. The provider orders Terbutaline 0.25 mg SubQ to be given prior to the procedure. The nurse understands the purpose of this medication is to:",
+      "questionImage": null,
+      "options": [
+        "Relax the uterus"
+      ],
+      "correctAnswer": "Relax the uterus",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 45,
+      "questionText": "The most common indication for primary cesarean delivery is which of the following?",
+      "questionImage": null,
+      "options": [
+        "fetal distress",
+        "labor dystocia"
+      ],
+      "correctAnswer": "labor dystocia",
+      "explanationText": "labor is not progressing cervical dilation",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "Infant born between 34 0/7 and 36 6/7 weeks of gestation",
+      "questionImage": null,
+      "options": [
+        "Phototherapy",
+        "Hypoglycemia",
+        "Neutral thermal environment",
+        "Late preterm infant",
+        "Kangaroo care"
+      ],
+      "correctAnswer": "Late preterm infant",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "Environmental temperature at which oxygen consumption and metabolic rate are minimal but adequate to maintain body temperature",
+      "questionImage": null,
+      "options": [
+        "Phototherapy",
+        "Hypoglycemia",
+        "Neutral thermal environment",
+        "Late preterm infant",
+        "Kangaroo care"
+      ],
+      "correctAnswer": "Neutral thermal environment",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "Noninvasive method used to treat high levels of circulating bilirubin in newborn infant.",
+      "questionImage": null,
+      "options": [
+        "Phototherapy",
+        "Hypoglycemia",
+        "Neutral thermal environment",
+        "Late preterm infant",
+        "Kangaroo care"
+      ],
+      "correctAnswer": "Phototherapy",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "Common condition that occurs in infants of diabetic mothers within minutes to hours after birth",
+      "questionImage": null,
+      "options": [
+        "Phototherapy",
+        "Hypoglycemia",
+        "Neutral thermal environment",
+        "Late preterm infant",
+        "Kangaroo care"
+      ],
+      "correctAnswer": "Hypoglycemia",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "Method that can be used to provide maternal or paternal skin-to-skin contact with the newborn and to reduce stress in the infant",
+      "questionImage": null,
+      "options": [
+        "Phototherapy",
+        "Hypoglycemia",
+        "Neutral thermal environment",
+        "Late preterm infant",
+        "Kangaroo care"
+      ],
+      "correctAnswer": "Kangaroo care",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "When caring for a preterm infant born at 30 weeks of gestation, the nurse should recognize which of the following as the newborn's primary nursing diagnosis?",
+      "questionImage": null,
+      "options": [
+        "Risk for infection related to decreased immune response",
+        "Ineffective breathing pattern related to surfactant deficiency and weak respiratory muscle effort",
+        "Ineffective thermoregulation related to immature thermoregulation center",
+        "Imbalanced nutrition: less than body requirements related to ineffective suck and swallow"
+      ],
+      "correctAnswer": "Ineffective breathing pattern related to surfactant deficiency and weak respiratory muscle effort",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "The nurse is caring for a newborn whose mother had gestational diabetes. His estimated gestational age is 41 weeks and his birthweight is 4800g. When assessing this newborn, the nurse should be alert for which of the following?",
+      "questionImage": null,
+      "options": [
+        "Blood glucose level less than 40mg/dl"
+      ],
+      "correctAnswer": "Blood glucose level less than 40mg/dl",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "Preterm infants are at increased risk for developing respiratory distress. The nurse should assess for signs that would indicate the newborn is having difficulty breathing.",
+      "questionImage": null,
+      "options": [
+        "Use of abdominal muscles to breathe, Periodic breathing pattern, Acrocyanosis",
+        "Tachypnea, Suprasternal retractions, Nasal flaring, Grunting"
+      ],
+      "correctAnswer": "Tachypnea, Suprasternal retractions, Nasal flaring, Grunting",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "Identify common clinical manifestations of perinatal drug exposure in the neonate.",
+      "questionImage": null,
+      "options": [
+        "Lethargy, Constipation",
+        "Sneezing, High-pitch cry, Excoriated skin, Poor feeding"
+      ],
+      "correctAnswer":  "Sneezing, High-pitch cry, Excoriated skin, Poor feeding",
+      "explanationText": "Tend to have diarrhea more than constipation",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 59,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 60,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 61,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 62,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 66,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 67,
+      "questionText": "",
+      "questionImage": null,
+      "options": [
+        ""
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }
