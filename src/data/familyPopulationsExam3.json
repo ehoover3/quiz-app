@@ -483,7 +483,7 @@
     },
     {
       "id": 44,
-      "questionText": "A client has been admitted for an external cephalic version. External fetal monitors have been applied. The provider orders Terbutaline 0.25 mg SubQ to be given prior to the procedure. The nurse understands the purpose of this medication is to:",
+      "questionText": "Client admitted for external cephalic version. External fetal monitors applied. Provider orders Terbutaline 0.25 mg SubQ to be given prior to the procedure. The medication purpose is:",
       "questionImage": null,
       "options": [
         "Relax the uterus"
@@ -624,152 +624,100 @@
         "Lethargy, Constipation",
         "Sneezing, High-pitch cry, Excoriated skin, Poor feeding"
       ],
-      "correctAnswer":  "Sneezing, High-pitch cry, Excoriated skin, Poor feeding",
+      "correctAnswer": "Sneezing, High-pitch cry, Excoriated skin, Poor feeding",
       "explanationText": "Tend to have diarrhea more than constipation",
       "explanationImage": null
     },
     {
       "id": 55,
-      "questionText": "",
+      "questionText": "Natural Environment",
       "questionImage": null,
       "options": [
-        ""
+        "Soil, Water, Oceans, Atmosphere",
+        "Roads, Building, Transportation"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Soil, Water, Oceans, Atmosphere",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 56,
-      "questionText": "",
+      "questionText": "Built Environment",
       "questionImage": null,
       "options": [
-        ""
+        "Soil, Water, Oceans, Atmosphere",
+        "Roads, Building, Transportation"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Roads, Building, Transportation",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 57,
-      "questionText": "",
+      "questionText": "I-PREPARE Mnemonic",
       "questionImage": null,
       "options": [
-        ""
+        "I = Investigate potential exposure, P = Present work, R = Residence, E = Environmental concerns, P = Past work, A = Activities, R = Referrals and resources, E = Educate"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "I = Investigate potential exposure, P = Present work, R = Residence, E = Environmental concerns, P = Past work, A = Activities, R = Referrals and resources, E = Educate",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 58,
-      "questionText": "",
+      "questionText": "Epidemiological Triangle",
       "questionImage": null,
       "options": [
-        ""
+        "Host, Agent, Environment"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Host, Agent, Environment",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 59,
-      "questionText": "",
+      "questionText": "Epidemiological Models",
       "questionImage": null,
       "options": [
-        ""
+        "Exposure, Pathologic Changes, Symptoms Onset, Diagnosis"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Exposure, Pathologic Changes, Symptoms Onset, Diagnosis",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 60,
-      "questionText": "",
+      "questionText": "Incidence, Prevalence",
       "questionImage": null,
       "options": [
-        ""
+        "Inicidence = New cases during time period.  Prevalence = number of people with disease during time period."
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Inicidence = New cases during time period.  Prevalence = number of people with disease during time period.",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 61,
-      "questionText": "",
+      "questionText": "Endemic, Epidemic, Pandemic.",
       "questionImage": null,
       "options": [
-        ""
+        "Endemic = baseline.  Epidemic = above baseline.  Pandeomic = crosses geographic boundaries"
       ],
-      "correctAnswer": "",
+      "correctAnswer": "Endemic = baseline. Epidemic = above baseline. Pandeomic = crosses geographic boundaries",
       "explanationText": "",
       "explanationImage": null
     },
     {
       "id": 62,
-      "questionText": "",
+      "questionText": "Which is a component of disaster prevention?",
       "questionImage": null,
       "options": [
-        ""
+        "Identifying community vulnerabilities"
       ],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 63,
-      "questionText": "",
-      "questionImage": null,
-      "options": [
-        ""
-      ],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 64,
-      "questionText": "",
-      "questionImage": null,
-      "options": [
-        ""
-      ],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 65,
-      "questionText": "",
-      "questionImage": null,
-      "options": [
-        ""
-      ],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 66,
-      "questionText": "",
-      "questionImage": null,
-      "options": [
-        ""
-      ],
-      "correctAnswer": "",
-      "explanationText": "",
-      "explanationImage": null
-    },
-    {
-      "id": 67,
-      "questionText": "",
-      "questionImage": null,
-      "options": [
-        ""
-      ],
-      "correctAnswer": "",
-      "explanationText": "",
+      "correctAnswer": "Identifying community vulnerabilities",
+      "explanationText": "Assess potential problems and resources",
       "explanationImage": null
     }
+
   ]
 }
