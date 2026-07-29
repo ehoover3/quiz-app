@@ -717,7 +717,113 @@
       "correctAnswer": "Identifying community vulnerabilities",
       "explanationText": "Assess potential problems and resources",
       "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "Client immediately is postoperative following hip arthroplasty.  Which med is for DVT prophylaxis?",
+      "questionImage": null,
+      "options": [
+        "Aspirin PO",
+        "Enoxaparin Subcutaneous",
+        "Heparin Infusion",
+        "Warfarin PO"
+      ],
+      "correctAnswer": "Enoxaparin Subcutaneous",
+      "explanationText": "Heparin Infusion is for cardiac patients & confirmed DVT.  This prevents more clots and from clot getting bigger.",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "Client 2 days postop.  Auscultates bilateral breath sounds, but absent breath sounds in bases.  Nurse shoudl suspect which of the following postop complications?",
+      "questionImage": null,
+      "options": [
+        "Atelectasis",
+        "Pneumonia",
+        "Pulmonary embolism",
+        "Arterial thrombus"
+      ],
+      "correctAnswer": "Atelectasis",
+      "explanationText": "Atelectasis is aveoli collapsing.  Prevent with turn, cough, deep breath + movement + incentive spirometer.  Atelectasis can lead to pneumonia.",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "Nurse is doing preop teaching to clinet who is to undergo an open bowel resection at 1300 next week.  Which of the following statements by clinet indicates the need for further teaching?",
+      "questionImage": null,
+      "options": [
+        "I will be able to eat solid food when I wake up from anesthesia",
+        "I will have a glass of juice the morning of my surgery"
+      ],
+      "correctAnswer": "I will be able to eat solid food when I wake up from anesthesia",
+      "explanationText": "We start with clear liquids after anesthesia, then confirmed bowel sounds, then soft food.",
+      "explanationImage": null
+    },
+    {
+      "id": 66,
+      "questionText": "Client has pneumonia. Which of the following actions should the nurse take to promote thinning respiratory secretions",
+      "questionImage": null,
+      "options": [
+        "Encourage client to increase fluid intake"
+      ],
+      "correctAnswer": "Encourage client to increase fluid intake",
+      "explanationText": "Guaifenesin (such as Mucinex) can also thin mucus",
+      "explanationImage": null
+    },
+    {
+      "id": 67,
+      "questionText": "Client with pneumonia has 5 L/min via nasal cannula.  Which should nurse take?",
+      "questionImage": null,
+      "options": [
+        "Attach humidifier bottle to base of flow meter"
+      ],
+      "correctAnswer": "Attach humidifier bottle to base of flow meter",
+      "explanationText": "Petroleum jelly is contraindicated with oxygen, because it has oil in it which is a fire hazard.",
+      "explanationImage": null
+    },
+    {
+      "id": 68,
+      "questionText": "Client has pneumonia.  Which should nurse expect?",
+      "questionImage": null,
+      "options": [
+        "tachypnea"
+      ],
+      "correctAnswer": "tachypnea",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 69,
+      "questionText": "Client just returned from PACU with IV fluid infusion and NG tube in place following abdominal surgery.  Which is priority?",
+      "questionImage": null,
+      "options": [
+        "The surgical dressing",
+        "Patency of NG tube"
+      ],
+      "correctAnswer": "The surgical dressing",
+      "explanationText": "Bleeding risk",
+      "explanationImage": null
+    },
+    {
+      "id": 70,
+      "questionText": "Patient takes morphine PO for pain.  Clinet reports increasing dose for same effect.",
+      "questionImage": null,
+      "options": [
+        "Client developed tolerance to medication"
+      ],
+      "correctAnswer": "Client developed tolerance to medication",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 71,
+      "questionText": "Nurse assisting with anesthesia with admin of fentanyl.  Which ensures safety during administration?",
+      "questionImage": null,
+      "options": [
+        "Have naloxone and airway managemnet equipment readily available."
+      ],
+      "correctAnswer": "Have naloxone and airway managemnet equipment readily available.",
+      "explanationText": "",
+      "explanationImage": null
     }
-
   ]
 }
