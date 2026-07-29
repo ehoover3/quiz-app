@@ -729,7 +729,7 @@
         "Warfarin PO"
       ],
       "correctAnswer": "Enoxaparin Subcutaneous",
-      "explanationText": "Heparin Infusion is for cardiac patients & confirmed DVT.  This prevents more clots and from clot getting bigger.",
+      "explanationText": "Enoxaparin is lovenox.  Heparin Infusion is for cardiac patients & confirmed DVT.  This prevents more clots and from clot getting bigger.",
       "explanationImage": null
     },
     {
@@ -823,6 +823,107 @@
       ],
       "correctAnswer": "Have naloxone and airway managemnet equipment readily available.",
       "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 72,
+      "questionText": "Pre-Op Checklist",
+      "questionImage": null,
+      "options": [
+        "Health history, family history (i.e. issues with anesthesia), anticoagulants, narcotics, antidepressants, BP meds, herbs, diabetes meds, lab diagnostic/test, pregnancy test, review of systems (i.e. CV, respiratory, nervous, urinary, hepatic, integumentary, musculoskeletal, endocrine, immune, fluids/electrolytes)"
+      ],
+      "correctAnswer": "Health history, family history (i.e. issues with anesthesia), anticoagulants, narcotics, antidepressants, BP meds, herbs, diabetes meds, lab diagnostic/test, pregnancy test, review of systems (i.e. CV, respiratory, nervous, urinary, hepatic, integumentary, musculoskeletal, endocrine, immune, fluids/electrolytes)",
+      "explanationText": "Document pre-op head-to-toe - might have things come up post",
+      "explanationImage": null
+    },
+    {
+      "id": 73,
+      "questionText": "Common pre-op labs",
+      "questionImage": null,
+      "options": [
+        "Hgb (what was blood before surgery), INR (bleed risk if INR is too high), Creatinine (kidney function preop to pee out drugs), type and crossmatch (transfusion), height/weight (anesthesia is based on weight)"
+      ],
+      "correctAnswer": "Higher INR is higher bleed risk.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 74,
+      "questionText": "❗Preop Meds❗",
+      "questionImage": null,
+      "options": [
+        "Bendodizepines (midazolam/versed to reduce anxiety, induce sedation, amnesia).  Opioids (Fentanyl, Deiladid).  Histamine H2 receptor antagonist (Famotidine to reduce stomach acid). Antiemetics (Ondansetrn/Zofran to decrease nausea and vomiting). Anticholinergics (ATropine to decrease oral and respiratory secretions)."
+      ],
+      "correctAnswer": "Bendodizepines (midazolam/versed to reduce anxiety, induce sedation, amnesia).  Opioids (Fentanyl, Deiladid).  Histamine H2 receptor antagonist (Famotidine to reduce stomach acid). Antiemetics (Ondansetrn/Zofran to decrease nausea and vomiting). Anticholinergics (ATropine to decrease oral and respiratory secretions).",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 75,
+      "questionText": "Preop meds that can cause complications",
+      "questionImage": null,
+      "options": [
+        "Insulin, Aspirin, Cilostazol (Pletal) which decreases clotting"
+      ],
+      "correctAnswer": "Insulin, Aspirin, Cilostazol (Pletal) which decreases clotting",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 76,
+      "questionText": "Anesthesia - regioanl/local block",
+      "questionImage": null,
+      "options": [
+        "no loss of consciousness"
+      ],
+      "correctAnswer": "no loss of consciousness",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 77,
+      "questionText": "Anesthesia - general anesthesia",
+      "questionImage": null,
+      "options": [
+        "Patient will not be breathing on their own"
+      ],
+      "correctAnswer": "Patient will not be breathing on their own",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 78,
+      "questionText": "Medication Dantrolene",
+      "questionImage": null,
+      "options": [
+        "A skeletal muscle relaxant primarily used to treat malignant hyperthermia"
+      ],
+      "correctAnswer": "A skeletal muscle relaxant primarily used to treat malignant hyperthermia",
+      "explanationText": "Malignant Hyperthermia - A rare, life-threatening reaction to anesthetics. Signs & Symptoms: Muscle rigidity, Rapid increase in end-tidal CO₂, Hyperthermia (late sign), Tachycardia, Tachypnea, Acidosis, Hyperkalemia, Dark urine (myoglobinuria)",
+      "explanationImage": null
+    },
+    {
+      "id": 79,
+      "questionText": "Dehiscence",
+      "questionImage": null,
+      "options": [
+        "Wound opened",
+        "Wound opened and organs protruding"
+      ],
+      "correctAnswer": "Wound opened",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 80,
+      "questionText": "Evisceration",
+      "questionImage": null,
+      "options": [
+        "Wound opened",
+        "Wound opened and organs protruding"
+      ],
+      "correctAnswer": "Wound opened and organs protruding",
+      "explanationText": "Sterile gauze with saline on wound + call OR",
       "explanationImage": null
     }
   ]
