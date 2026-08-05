@@ -158,20 +158,14 @@
     {
       "id": 14,
       "questionText": "What type of AKI is this? Man fell off roof, severe lacerations and blood loss",
-      "options": [
-        "Pre-renal",
-        "Intra-renal",
-        "Post-renal"
-      ],
+      "options": ["Pre-renal", "Intra-renal", "Post-renal"],
       "correctAnswer": "Pre-renal",
       "explanationText": "Severe blood loss decreases circulating blood volume and reduces kidney perfusion. This causes prerenal AKI because the kidneys are not receiving enough blood flow."
     },
     {
       "id": 15,
       "questionText": "What are the 4 phases of acute kidney injury?",
-      "options": [
-        "Initiating, Oliguric, Diuretic, Recovery"
-      ],
+      "options": ["Initiating, Oliguric, Diuretic, Recovery"],
       "correctAnswer": "Initiating, Oliguric, Diuretic, Recovery",
       "explanationText": "AKI progresses through four phases. The initiating phase begins with the kidney insult, the oliguric phase involves decreased urine output and rising waste products, the diuretic phase involves increased urine output, and the recovery phase involves gradual improvement of kidney function."
     },
@@ -211,23 +205,14 @@
     {
       "id": 19,
       "questionText": "Which TYPE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
-      "options": [
-        "Pre-renal",
-        "Intra-renal",
-        "Post-renal"
-      ],
+      "options": ["Pre-renal", "Intra-renal", "Post-renal"],
       "correctAnswer": "Intra-renal",
       "explanationText": "The elevated vancomycin level indicates nephrotoxicity, meaning the medication has caused direct kidney tissue damage. This is classified as intrarenal AKI."
     },
     {
       "id": 20,
       "questionText": "Which PHASE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
-      "options": [
-        "Initiating",
-        "Oliguric",
-        "Diuretic",
-        "Recovery"
-      ],
+      "options": ["Initiating", "Oliguric", "Diuretic", "Recovery"],
       "correctAnswer": "Oliguric",
       "explanationText": "J.K. is in the oliguric phase because urine output is below 400 mL/day. During this phase, BUN and creatinine increase, fluid retention occurs, and complications such as hypertension and electrolyte abnormalities may develop."
     },
@@ -293,9 +278,7 @@
     {
       "id": 29,
       "questionText": "Biggest difference between AKI and CKD (chronic kidney disease)",
-      "options": [
-        "CKD is irreversible. NOTE: GFR is gold standard lab."
-      ],
+      "options": ["CKD is irreversible. NOTE: GFR is gold standard lab."],
       "correctAnswer": "CKD is irreversible. NOTE: GFR is gold standard lab.",
       "explanationText": "AKI is a sudden decrease in kidney function that may be reversible if treated quickly. CKD is a progressive, long-term loss of kidney function that is usually irreversible. Glomerular filtration rate (GFR) is the primary measurement used to evaluate kidney function."
     },
@@ -347,18 +330,14 @@
     {
       "id": 34,
       "questionText": "What are the methods of dialysis?",
-      "options": [
-        "Peritoneal, Hemodialysis"
-      ],
+      "options": ["Peritoneal, Hemodialysis"],
       "correctAnswer": "Peritoneal, Hemodialysis",
       "explanationText": "The two major types of dialysis are peritoneal dialysis and hemodialysis. Peritoneal dialysis uses the peritoneal membrane in the abdomen as a filter. Hemodialysis removes waste and fluid through a vascular access such as an AV fistula, AV graft, or central venous catheter."
     },
     {
       "id": 35,
       "questionText": "Hemodialysis Complications",
-      "options": [
-        "Assess for hypotension (hypovolemia)"
-      ],
+      "options": ["Assess for hypotension (hypovolemia)"],
       "correctAnswer": "Assess for hypotension (hypovolemia)",
       "explanationText": "During hemodialysis, fluid is removed from the bloodstream. Rapid fluid removal can cause hypovolemia and hypotension. The nurse should monitor blood pressure, dizziness, weakness, and signs of decreased perfusion."
     },
@@ -401,12 +380,7 @@
     {
       "id": 39,
       "questionText": "A patient has an ulcer and osteomyelitis. Which finding indicates the patient is developing sepsis?",
-      "options": [
-        "BP 80/40",
-        "Afebrile",
-        "HR 102",
-        "SpO2 94%"
-      ],
+      "options": ["BP 80/40", "Afebrile", "HR 102", "SpO2 94%"],
       "correctAnswer": "BP 80/40",
       "explanationText": "A blood pressure of 80/40 indicates severe hypotension, which is a sign of septic shock. Sepsis can cause widespread vasodilation and fluid shifts, resulting in decreased blood pressure and poor organ perfusion."
     },
@@ -437,12 +411,7 @@
     {
       "id": 42,
       "questionText": "Which cell type is primarily impacted by HIV?",
-      "options": [
-        "CD4 cells",
-        "Red blood cells",
-        "Platelets",
-        "Neutrophils"
-      ],
+      "options": ["CD4 cells", "Red blood cells", "Platelets", "Neutrophils"],
       "correctAnswer": "CD4 cells",
       "explanationText": "HIV primarily attacks CD4 T-helper lymphocytes, which coordinate immune responses. As CD4 levels decrease, the patient becomes increasingly vulnerable to opportunistic infections."
     },
@@ -474,9 +443,7 @@
       "id": 45,
       "questionText": "What is sepsis?",
       "questionImage": null,
-      "options": [
-        "Systemic inflammatory response to infection"
-      ],
+      "options": ["Systemic inflammatory response to infection"],
       "correctAnswer": "Systemic inflammatory response to infection",
       "explanationText": "Body's exaggerated response such as vasodilation, capillary permeability, and decreased perfusion.  Coagulation increases.  Caused by infection - pneumonia, peritonitis, UTI, procedures, indwelling devices (PIC line, urinary cath).",
       "explanationImage": null
@@ -485,9 +452,7 @@
       "id": 46,
       "questionText": "What is a huge indicator of how bad sepsis is?",
       "questionImage": null,
-      "options": [
-        "lactic acid levels"
-      ],
+      "options": ["lactic acid levels"],
       "correctAnswer": "lactic acid levels",
       "explanationText": "lactate is a common lab that is from lack of 02 perfusion -> anaerobic state -> lactic acid byproduct",
       "explanationImage": null
@@ -496,9 +461,7 @@
       "id": 47,
       "questionText": "What should mean arterial pressure be?",
       "questionImage": null,
-      "options": [
-        "Marian says at least 65.  Online says 70-100."
-      ],
+      "options": ["Marian says at least 65.  Online says 70-100."],
       "correctAnswer": "Marian says at least 65.  Online says 70-100.",
       "explanationText": "Under 60 and the brain isn't getting enough blood pressure to it",
       "explanationImage": null
@@ -520,9 +483,7 @@
       "id": 49,
       "questionText": "How much fluid do you need for sepsis treatment?",
       "questionImage": null,
-      "options": [
-        "30 mL / kg"
-      ],
+      "options": ["30 mL / kg"],
       "correctAnswer": "30 mL / kg",
       "explanationText": "IV 0.9% Normal Saline or Lactated Ringer.  Get them above 65 MAP.  When fluids don't work, use norepinephrine (levophed).  Use corticosteriods (decrease inflammation, suppress over-reactive immune system).  Use albumin (most abundant protein in blood) to help shift fluid.",
       "explanationImage": null
@@ -531,12 +492,7 @@
       "id": 50,
       "questionText": "To prevent gastric ulcers in sepsis, what would you give?",
       "questionImage": null,
-      "options": [
-        "Pantoprazole",
-        "Solumedrol",
-        "Vancomycin",
-        "Metoprolol"
-      ],
+      "options": ["Pantoprazole", "Solumedrol", "Vancomycin", "Metoprolol"],
       "correctAnswer": "Pantoprazole",
       "explanationText": "Pantoprazole is a proton pump inhibitor (PPI) that reduces gastric acid production and helps prevent stress ulcers. Solumedrol is a corticosteroid to reduce inflammation and immune responses but does not prevent gastric ulcers and may actually increase ulcer risk. Vancomycin is incorrect because it is an antibiotic used to treat certain bacterial infections, including resistant organisms like MRSA, but it does not protect the stomach lining. Metoprolol is incorrect because it is a beta-blocker used to lower heart rate and blood pressure and has no role in preventing stress-related gastric ulcers.",
       "explanationImage": null
@@ -556,9 +512,7 @@
       "id": 52,
       "questionText": "Allergies to focus on",
       "questionImage": null,
-      "options": [
-        "Nuts, eggs, legumes (peanuts), fish, shellfish, soy"
-      ],
+      "options": ["Nuts, eggs, legumes (peanuts), fish, shellfish, soy"],
       "correctAnswer": "Nuts, eggs, legumes (peanuts), fish, shellfish, soy",
       "explanationText": "Breastfeeding is recommended exclusively 4 to 6 months to infants to prevent allergies",
       "explanationImage": null
@@ -567,9 +521,7 @@
       "id": 53,
       "questionText": "If allergic to eggs, do not take flu vaccine",
       "questionImage": null,
-      "options": [
-        "true"
-      ],
+      "options": ["true"],
       "correctAnswer": "true",
       "explanationText": "",
       "explanationImage": null
@@ -578,9 +530,7 @@
       "id": 54,
       "questionText": "What is urticaria?",
       "questionImage": null,
-      "options": [
-        "hives"
-      ],
+      "options": ["hives"],
       "correctAnswer": "hives",
       "explanationText": "",
       "explanationImage": null
@@ -611,9 +561,7 @@
       "id": 57,
       "questionText": "Anaphylaxis prevention",
       "questionImage": null,
-      "options": [
-        "wear wristband with allergy and epi pen alert"
-      ],
+      "options": ["wear wristband with allergy and epi pen alert"],
       "correctAnswer": "wear wristband with allergy and epi pen alert",
       "explanationText": "",
       "explanationImage": null
@@ -622,9 +570,7 @@
       "id": 58,
       "questionText": "The faster the onset of anaphylaxis symptoms the more severe",
       "questionImage": null,
-      "options": [
-        "false"
-      ],
+      "options": ["false"],
       "correctAnswer": "false",
       "explanationText": "",
       "explanationImage": null
@@ -633,9 +579,7 @@
       "id": 59,
       "questionText": "Food allergies",
       "questionImage": null,
-      "options": [
-        "most likely onset after several exposures"
-      ],
+      "options": ["most likely onset after several exposures"],
       "correctAnswer": "most likely onset after several exposures",
       "explanationText": "",
       "explanationImage": null
@@ -644,9 +588,7 @@
       "id": 60,
       "questionText": "What is primary reason HIV?",
       "questionImage": null,
-      "options": [
-        "CD4 + T cells get destroyed most"
-      ],
+      "options": ["CD4 + T cells get destroyed most"],
       "correctAnswer": "CD4 + T cells get destroyed most",
       "explanationText": "",
       "explanationImage": null
@@ -655,9 +597,7 @@
       "id": 61,
       "questionText": "CD4 under 200 is...",
       "questionImage": null,
-      "options": [
-        "Acquired Immunodeficiency Syndrome (AIDS)"
-      ],
+      "options": ["Acquired Immunodeficiency Syndrome (AIDS)"],
       "correctAnswer": "Acquired Immunodeficiency Syndrome (AIDS)",
       "explanationText": "",
       "explanationImage": null
@@ -677,9 +617,7 @@
       "id": 63,
       "questionText": "What are precautions for HIV patients",
       "questionImage": null,
-      "options": [
-        "Standard precautions"
-      ],
+      "options": ["Standard precautions"],
       "correctAnswer": "Standard precautions",
       "explanationText": "",
       "explanationImage": null
@@ -701,9 +639,7 @@
       "id": 65,
       "questionText": "Combinations of antiretroviral drugs inhibit viral replicationn in different ways and decrease potential for development of anti-retroviral resistant HIV",
       "questionImage": null,
-      "options": [
-        "true"
-      ],
+      "options": ["true"],
       "correctAnswer": "true",
       "explanationText": "prevent resistant strains of HIV",
       "explanationImage": null
@@ -712,9 +648,7 @@
       "id": 66,
       "questionText": "HIV does not live for a long time outside of human body, maybe a minute",
       "questionImage": null,
-      "options": [
-        "true"
-      ],
+      "options": ["true"],
       "correctAnswer": "true",
       "explanationText": "",
       "explanationImage": null
@@ -723,9 +657,7 @@
       "id": 67,
       "questionText": "Tenofovir combined with Truvada can reduce risk of spreading HIV",
       "questionImage": null,
-      "options": [
-        "true"
-      ],
+      "options": ["true"],
       "correctAnswer": "true",
       "explanationText": "",
       "explanationImage": null
@@ -734,9 +666,7 @@
       "id": 68,
       "questionText": "What is normal CD4 levels",
       "questionImage": null,
-      "options": [
-        "800 to 1200"
-      ],
+      "options": ["800 to 1200"],
       "correctAnswer": "800 to 1200",
       "explanationText": "Less than 500 is symptomatic.  Less than 200 is AIDS.",
       "explanationImage": null
@@ -745,9 +675,7 @@
       "id": 69,
       "questionText": "Which is most likely to cause HIV",
       "questionImage": null,
-      "options": [
-        "Hollow bore needle.  1st six months."
-      ],
+      "options": ["Hollow bore needle.  1st six months."],
       "correctAnswer": "Hollow bore needle.  1st six months.",
       "explanationText": "",
       "explanationImage": null
@@ -756,9 +684,7 @@
       "id": 70,
       "questionText": "Acute HIV infection",
       "questionImage": null,
-      "options": [
-        "feels like the flu"
-      ],
+      "options": ["feels like the flu"],
       "correctAnswer": "feels like the flu",
       "explanationText": "",
       "explanationImage": null
@@ -767,9 +693,7 @@
       "id": 71,
       "questionText": "asymptomic chronic infection",
       "questionImage": null,
-      "options": [
-        "CD4 account above 500, viral load rate is low"
-      ],
+      "options": ["CD4 account above 500, viral load rate is low"],
       "correctAnswer": "CD4 account above 500, viral load rate is low",
       "explanationText": "this is the goal for people with HIV",
       "explanationImage": null
@@ -778,9 +702,7 @@
       "id": 72,
       "questionText": "Kaposi scarcome - a skin cancer that can happen in HIV",
       "questionImage": null,
-      "options": [
-        "true"
-      ],
+      "options": ["true"],
       "correctAnswer": "true",
       "explanationText": "",
       "explanationImage": null
@@ -794,6 +716,414 @@
       ],
       "correctAnswer": "If my viral load becomes undetectable, I will not be able to transmit HIV to others",
       "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 74,
+      "questionText": "Client right leg in Buck's traction.  Which intervention promotes mobility?",
+      "questionImage": null,
+      "options": ["Active range-of-motion in left leg"],
+      "correctAnswer": "Active range-of-motion in left leg",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 75,
+      "questionText": "How to assess neurovascular status of client's affected exremity?  Client postop open reduction internal fixation of femur fracture.",
+      "questionImage": null,
+      "options": ["color, temperature, sensation"],
+      "correctAnswer": "color, temperature, sensation",
+      "explanationText": "pallor is concerning.  cold is concerning.  ecchymosis (bruising) is expected.",
+      "explanationImage": null
+    },
+    {
+      "id": 76,
+      "questionText": "adolescent scoliosis - common reaction",
+      "questionImage": null,
+      "options": ["body image changes"],
+      "correctAnswer": "body image changes",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 77,
+      "questionText": "When do we do scoliosis screening?",
+      "questionImage": null,
+      "options": ["pre-adolescent / adolescent"],
+      "correctAnswer": "pre-adolescent / adolescent",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 78,
+      "questionText": "Adolescent client, new fiberglass cast for fractured tibia.  which is priority?",
+      "questionImage": null,
+      "options": ["perform neurovascular assessment"],
+      "correctAnswer": "perform neurovascular assessment",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 79,
+      "questionText": "Client in skeletal traction (buck's traction).  When can you remove the weight?",
+      "questionImage": null,
+      "options": ["client develops life-threatening situation"],
+      "correctAnswer": "client develops life-threatening situation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 80,
+      "questionText": "child fractured epiphyseal plate (growth plate).  which statemnet should nurse make?",
+      "questionImage": null,
+      "options": ["Normal bone growth may be affected"],
+      "correctAnswer": "Normal bone growth may be affected",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 81,
+      "questionText": "frail client caregiver says she will take care of fractured hip partner at home.  Which action should nurse take?",
+      "questionImage": null,
+      "options": ["consult case management"],
+      "correctAnswer": "consult case management",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 82,
+      "questionText": "Who gets client informed consent?",
+      "questionImage": null,
+      "options": ["surgeon", "nurse"],
+      "correctAnswer": "surgeon",
+      "explanationText": "Whoever is doing the procedure gets the informed consent",
+      "explanationImage": null
+    },
+    {
+      "id": 83,
+      "questionText": "client has hip fracture, who is at risk for developing a fat embolism.  Which should nurse monitor for?",
+      "questionImage": null,
+      "options": ["acture shortness of breath"],
+      "correctAnswer": "acture shortness of breath",
+      "explanationText": "Any embolism (i.e. fat embolism or blood clot) is most likely to go to lungs, then brain or heart",
+      "explanationImage": null
+    },
+    {
+      "id": 84,
+      "questionText": "What is open reduction internal fixation (ORIF)",
+      "questionImage": null,
+      "options": [
+        "Open = the surgeon makes an incision (cut) to reach the broken bone. Reduction = putting the broken bone pieces back into their normal alignment. Internal = the hardware is placed inside the body. Fixation = the bone is held in place with plates, screws, rods, pins, or nails while it heals."
+      ],
+      "correctAnswer": "Open = the surgeon makes an incision (cut) to reach the broken bone. Reduction = putting the broken bone pieces back into their normal alignment. Internal = the hardware is placed inside the body. Fixation = the bone is held in place with plates, screws, rods, pins, or nails while it heals.",
+      "explanationText": "Reduction - think of reducing space between bones",
+      "explanationImage": null
+    },
+    {
+      "id": 85,
+      "questionText": "Nuerovascular 6 P's",
+      "questionImage": null,
+      "options": [
+        "pain, pulses, pallor, paresthesia (sensation), paralysis, pressure"
+      ],
+      "correctAnswer": "pain, pulses, pallor, paresthesia (sensation), paralysis, pressure",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 86,
+      "questionText": "Which is appropriate for Buck's traction?",
+      "questionImage": null,
+      "options": [
+        "Check insertion site for infection",
+        "Check condition of skin beneath Velcro boot frequently"
+      ],
+      "correctAnswer": "Check condition of skin beneath Velcro boot frequently",
+      "explanationText": "There is no insertion site for Buck's traction, that would be skeletal traction",
+      "explanationImage": null
+    },
+    {
+      "id": 87,
+      "questionText": "Compartment syndrome",
+      "questionImage": null,
+      "options": [
+        "swelling and increased pressure in compartment place that can cut off circulation"
+      ],
+      "correctAnswer": "swelling and increased pressure in compartment place that can cut off circulation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 88,
+      "questionText": "Buck's traction is to...",
+      "questionImage": null,
+      "options": ["reduce pain and muscle spasms before surgery"],
+      "correctAnswer": "reduce pain and muscle spasms before surgery",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 89,
+      "questionText": "You assess client leg for neurovascular impairment, including color, temperature, capillary refill, distal pulses, edema, ____, motor function, and pain.",
+      "questionImage": null,
+      "options": ["paresthesia (sensation)"],
+      "correctAnswer": "paresthesia (sensation)",
+      "explanationText": "6 P's of neurovascular assessment are pain, pulses, pallor, paresthesia (sensation), paralysis, pressure",
+      "explanationImage": null
+    },
+    {
+      "id": 90,
+      "questionText": "Appropriate delegation of nursing activities for a patient in Buck's traction may include asking the licensed practical nurse/vocational nurse (LPN/LVN) to",
+      "questionImage": null,
+      "options": [
+        "monitor skin integrity around the boot used for traction.",
+        "assess for complications"
+      ],
+      "correctAnswer": "monitor skin integrity around the boot used for traction.",
+      "explanationText": "LPN's are not allowed to assess, but monitor is ok for LPN",
+      "explanationImage": null
+    },
+    {
+      "id": 91,
+      "questionText": "Hip fracture post-op interventions",
+      "questionImage": null,
+      "options": [
+        "assess neurovascular status, vitals, empty JP drain, monitor I/O's, turn to back and unaffected side q2hr, encourage use of incentive spirometer, SCD's bilateral"
+      ],
+      "correctAnswer": "assess neurovascular status, vitals, empty JP drain, monitor I/O's, turn to back and unaffected side q2hr, encourage use of incentive spirometer, SCD's bilateral",
+      "explanationText": "Do not internally rotate the legs. Do not do full range-of-motion.",
+      "explanationImage": null
+    },
+    {
+      "id": 92,
+      "questionText": "Client post-hip fracture surgery states numbness and tingling in left foot.  The pulses in left foot are palpable, but amplitude is +1 when previously they were +3.  Pulses in the right foot remain +3.  You suspect FA has ___ and you need to ___",
+      "questionImage": null,
+      "options": ["compartment syndrome, notify the provider"],
+      "correctAnswer": "compartment syndrome, notify the provider",
+      "explanationText": "If compartment syndrome, keep leg neutral and don't ice it, which could further reduce the pulse",
+      "explanationImage": null
+    },
+    {
+      "id": 93,
+      "questionText": "Post-op hip fracture dislocation precautions",
+      "questionImage": null,
+      "options": [
+        "Use elevated toilet seat, keep leg in straight neutral position"
+      ],
+      "correctAnswer": "Use elevated toilet seat, keep leg in straight neutral position",
+      "explanationText": "Do not cross legs, no tub bath",
+      "explanationImage": null
+    },
+    {
+      "id": 94,
+      "questionText": "Client fractured femur.  Which is immediate intervention.",
+      "questionImage": null,
+      "options": ["Petechiae over neck and chest, yellow globules in urine"],
+      "correctAnswer": "Petechiae over neck and chest, yellow globules in urine",
+      "explanationText": "Indicators for fat emobolist",
+      "explanationImage": null
+    },
+    {
+      "id": 95,
+      "questionText": "Scoliosis - mild",
+      "questionImage": null,
+      "options": [
+        "25 degrees or less",
+        "25-45 degrees",
+        "greater than 45 degrees"
+      ],
+      "correctAnswer": "25 degrees or less",
+      "explanationText": "No treatment, follow up every 4-6 months",
+      "explanationImage": null
+    },
+    {
+      "id": 96,
+      "questionText": "Scoliosis - moderate",
+      "questionImage": null,
+      "options": [
+        "25 degrees or less",
+        "25-45 degrees",
+        "greater than 45 degrees"
+      ],
+      "correctAnswer": "25-45 degrees",
+      "explanationText": "bracing and exercise",
+      "explanationImage": null
+    },
+    {
+      "id": 97,
+      "questionText": "Scoliosis - severe",
+      "questionImage": null,
+      "options": [
+        "25 degrees or less",
+        "25-45 degrees",
+        "greater than 45 degrees"
+      ],
+      "correctAnswer": "greater than 45 degrees",
+      "explanationText": "surgical intervention with spinal fusion and internal stabilization",
+      "explanationImage": null
+    },
+    {
+      "id": 98,
+      "questionText": "Post scoliosis surgery care",
+      "questionImage": null,
+      "options": [
+        "Log roll patient, physical therapy, active and passive ROM, IV fluids, NG tube, foley catheter, pain management"
+      ],
+      "correctAnswer": "Log roll patient, physical therapy, active and passive ROM, IV fluids, NG tube, foley catheter, pain management",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 99,
+      "questionText": "Medications for septic client",
+      "questionImage": null,
+      "options": ["Normal saline, vasopressors, vancomycin, pantoprazole"],
+      "correctAnswer": "Normal saline, vasopressors, vancomycin, pantoprazole",
+      "explanationText": "vasopressors if low MAP, vancomycin for antibiotic, pantoprazole since ulcer risk from lack of perfusion",
+      "explanationImage": null
+    },
+    {
+      "id": 100,
+      "questionText": "class of diabetes medicaiton associated with renal failure",
+      "questionImage": null,
+      "options": ["Biguanides", "Sulfonylurea"],
+      "correctAnswer": "Biguanides",
+      "explanationText": "Biguanides are nephrotoxic - espcially metformin.  Sulfonylurea example is glipizide to encourage pancreas to secrete more insulin.",
+      "explanationImage": null
+    },
+    {
+      "id": 101,
+      "questionText": "Metoclopramide (Reglan) is given to 2 year old with gastro esophogeal reflux to...",
+      "questionImage": null,
+      "options": ["maintain proper GI motility"],
+      "correctAnswer": "maintain proper GI motility",
+      "explanationText": "Metoclopramide - prokinetic to keep GI motility.  PPI's and H2 blockers reduce stomach acid.  Antacids neutralize stomach acid.",
+      "explanationImage": null
+    },
+    {
+      "id": 102,
+      "questionText": "Morphine side effects",
+      "questionImage": null,
+      "options": ["constipation, decreased respiratory rate, drowsiness"],
+      "correctAnswer": "constipation, decreased respiratory rate, drowsiness",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 103,
+      "questionText": "Folic acid deficiency is often treated by folic acid injections",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "false",
+      "explanationText": "This is normally treated by oral supplements.  Folic acid helps against anemia.",
+      "explanationImage": null
+    },
+    {
+      "id": 104,
+      "questionText": "Malignant Hyperthermia is best treated with...",
+      "questionImage": null,
+      "options": ["Dantrolene (Dantrium)"],
+      "correctAnswer": "Dantrolene (Dantrium)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 105,
+      "questionText": "Important assessment for Furosemide (Lasix)",
+      "questionImage": null,
+      "options": ["Urine output, blood pressure, potassium level"],
+      "correctAnswer": "Urine output, blood pressure, potassium level",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 106,
+      "questionText": "If taking prednisone, monitor for...",
+      "questionImage": null,
+      "options": ["Infection, weight gain, hyperglycemia, trouble sleeping"],
+      "correctAnswer": "Infection, weight gain, hyperglycemia, trouble sleeping",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 107,
+      "questionText": "Corticosteriods use cases",
+      "questionImage": null,
+      "options": [
+        "Addison Disease, Rheumatoid Arthritis, Chron's, Ulcerative Collitus, COPD"
+      ],
+      "correctAnswer": "Addison Disease, Rheumatoid Arthritis, Chron's, Ulcerative Collitus, COPD",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 108,
+      "questionText": "Which child does the school nurse plan to administer epinephrine via an auto-injector to?",
+      "questionImage": null,
+      "options": ["Child with wheezing after returning from field trip"],
+      "correctAnswer": "Child with wheezing after returning from field trip",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 109,
+      "questionText": "Septic patient, how much IV fluid do you give?",
+      "questionImage": null,
+      "options": ["30 mL per kilogram"],
+      "correctAnswer": "30 mL per kilogram",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 110,
+      "questionText": "Which antihypertensive med is associated with chronic, dry cough?",
+      "questionImage": null,
+      "options": [
+        "ACE inhibitors",
+        "Vasodilators",
+        "Beta Blockers",
+        "Calcium Channel Blockers"
+      ],
+      "correctAnswer": "ACE inhibitors",
+      "explanationText": "ACE inhibitors - captopril, lisonopril.  Vasodilators - Nitro (side effect -> hypotension, headache).  Calcium Channel Blockers (i.e. Amlodipine)",
+      "explanationImage": null
+    },
+    {
+      "id": 111,
+      "questionText": "When giving beta blocker for hypertension, nurse must assess...",
+      "questionImage": null,
+      "options": ["Pulse and blood pressure"],
+      "correctAnswer": "Pulse and blood pressure",
+      "explanationText": "Beta blockers lower pulse.  Pulse needs to be at least 60.",
+      "explanationImage": null
+    },
+    {
+      "id": 112,
+      "questionText": "Client states they take sucralfate/carafate every day.  Nurse knows this med will...",
+      "questionImage": null,
+      "options": ["Form a protective coating against acid in the stomach"],
+      "correctAnswer": "Form a protective coating against acid in the stomach",
+      "explanationText": "Use case:  Peptic ulcer patients.  Take between meals - keep coating intake; don't eat and drink to flush it out.",
+      "explanationImage": null
+    },
+    {
+      "id": 113,
+      "questionText": "To prevent DVT in a post-operative client, give...",
+      "questionImage": null,
+      "options": ["Enoxaparin/Lovenox", "Mesalamine/Pentasa"],
+      "correctAnswer": "Enoxaparin/Lovenox",
+      "explanationText": "Mesalamine/Pentasa is for colitus and works only on the colon.",
+      "explanationImage": null
+    },
+    {
+      "id": 114,
+      "questionText": "Why would anyone need a heparin injection?",
+      "questionImage": null,
+      "options": ["Use heparin instead of lovenox for renal patients"],
+      "correctAnswer": "Use heparin instead of lovenox for renal patients",
+      "explanationText": "Lovenox can raise potassium levels, so renal patients do not make a great amount of sense",
       "explanationImage": null
     }
   ]
