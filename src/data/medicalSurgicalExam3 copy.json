@@ -1,0 +1,1130 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "A nurse is caring for a client who has end-stage kidney disease (ESKD) and reports having shortness of breath and swelling in his lower extremities. Upon assessment, the nurse notes the client has crackles in his lungs and an elevated blood pressure. The nurse should suspect which of the following based on the client's manifestations?",
+      "options": [
+        "Hypovolemia",
+        "Hypervolemia",
+        "Hyperkalemia",
+        "Hyponatremia"
+      ],
+      "correctAnswer": "Hypervolemia",
+      "explanationText": "Clients with ESKD have decreased kidney function and cannot effectively remove excess fluid. Fluid accumulation causes peripheral edema, pulmonary edema (crackles and shortness of breath), and hypertension due to increased circulating volume. Hypovolemia causes dehydration and low blood pressure, hyperkalemia is a potassium imbalance, and hyponatremia is a sodium imbalance."
+    },
+    {
+      "id": 2,
+      "questionText": "A nurse is caring for a client who has a new arteriovenous (AV) graft in his left forearm. Which of the following techniques should the nurse use to assess the patency of this graft?",
+      "options": [
+        "Measure the client's blood pressure to ensure it is higher in the left arm than the right.",
+        "Check the brachial and radial pulses of the left arm simultaneously.",
+        "Auscultate the site for a bruit.",
+        "Auscultate the antecubital fossa using a Doppler stethoscope."
+      ],
+      "correctAnswer": "Auscultate the site for a bruit.",
+      "explanationText": "The nurse should assess AV graft patency by auscultating for a bruit (a whooshing sound caused by blood flow) and palpating for a thrill (a vibration). Blood pressure and venipuncture should be avoided on the access arm because they can damage the graft."
+    },
+    {
+      "id": 3,
+      "questionText": "A nurse is caring for a client who is undergoing initial peritoneal dialysis. Which of the following should the nurse report immediately to the provider?",
+      "options": [
+        "Report of discomfort during dialysate inflow",
+        "Dialysate fluid is slow to drain out.",
+        "Dialysate leakage during inflow",
+        "Purulent dialysate outflow"
+      ],
+      "correctAnswer": "Purulent dialysate outflow",
+      "explanationText": "Purulent or cloudy dialysate indicates peritonitis, an infection of the peritoneal cavity. Peritonitis can progress to sepsis and requires immediate treatment. Other findings may require evaluation but are less urgent than signs of infection."
+    },
+    {
+      "id": 4,
+      "questionText": "A nurse is reviewing the medication record for a client who has chronic kidney disease. Which medication has potential to cause nephrotoxicity?",
+      "options": [
+        "Omeprazole.",
+        "Vancomycin.",
+        "Diphenhydramine.",
+        "Ondansetron."
+      ],
+      "correctAnswer": "Vancomycin.",
+      "explanationText": "Vancomycin can cause nephrotoxicity, especially when blood levels become elevated. The nurse should monitor kidney function labs such as BUN and creatinine and monitor vancomycin levels. Other nephrotoxic medications include aminoglycosides, NSAIDs, and IV contrast."
+    },
+    {
+      "id": 5,
+      "questionText": "A nurse is caring for a client who is receiving peritoneal dialysis. The nurse should monitor the client for which manifestation of peritonitis?",
+      "options": [
+        "Hyperactive bowel sounds.",
+        "Increased urinary output",
+        "Bradycardia.",
+        "Nausea and vomiting."
+      ],
+      "correctAnswer": "Nausea and vomiting.",
+      "explanationText": "Peritonitis causes inflammation of the abdominal lining. Expected findings include nausea, vomiting, abdominal pain, fever, malaise, hypoactive bowel sounds, and cloudy or purulent dialysate outflow. Cloudy dialysate is the most important finding."
+    },
+    {
+      "id": 6,
+      "questionText": "A nurse is teaching a client who has pre-dialysis end-stage kidney disease about diet. Which instruction should the nurse include?",
+      "options": [
+        "Increase intake of dietary phosphorous.",
+        "Eliminate foods high in protein from your diet.",
+        "Reduce intake of foods high in potassium.",
+        "Increase intake of sodium-containing food."
+      ],
+      "correctAnswer": "Reduce intake of foods high in potassium.",
+      "explanationText": "Kidney disease decreases potassium excretion, increasing the risk for hyperkalemia and cardiac dysrhythmias. Clients should limit high-potassium foods such as bananas, oranges, tomatoes, potatoes, and avocados. Sodium and phosphorus are also commonly restricted."
+    },
+    {
+      "id": 7,
+      "questionText": "A nurse is assessing a child who has nephrotic syndrome. Which finding should the nurse expect?",
+      "options": [
+        "Polyuria.",
+        "Facial edema.",
+        "Hypertension.",
+        "Smokey brown urine."
+      ],
+      "correctAnswer": "Facial edema.",
+      "explanationText": "Nephrotic syndrome causes protein loss through the kidneys, resulting in low serum albumin and fluid shifting into tissues. This causes edema, especially around the eyes and face. Smoky brown urine and hypertension are more consistent with nephritic syndrome."
+    },
+    {
+      "id": 8,
+      "questionText": "A nurse is reviewing laboratory results from a client who has prerenal acute kidney injury (AKI). Which electrolyte imbalance should the nurse expect?",
+      "options": [
+        "Hyperkalemia.",
+        "Hypernatremia.",
+        "Hypercalcemia.",
+        "Hypophosphatemia."
+      ],
+      "correctAnswer": "Hyperkalemia.",
+      "explanationText": "AKI decreases the kidneys' ability to remove potassium, causing potassium retention. Hyperkalemia can lead to dangerous cardiac dysrhythmias and requires close monitoring."
+    },
+    {
+      "id": 9,
+      "questionText": "Client has acute kidney injury. Teach the oliguric phase.",
+      "options": [
+        "Renal function is reestablished.",
+        "BUN and creatinine levels decrease.",
+        "Urine output is less than 400 mL per 24 hr.",
+        "The glomerular filtration rate (GFR) recovers."
+      ],
+      "correctAnswer": "Urine output is less than 400 mL per 24 hr.",
+      "explanationText": "The oliguric phase is characterized by decreased urine output, usually less than 400 mL/day. During this phase, BUN and creatinine rise, fluid retention occurs, and electrolyte abnormalities such as hyperkalemia may develop."
+    },
+    {
+      "id": 10,
+      "questionText": "A 6-year-old client has nephrotic syndrome. Which adverse effects of corticosteroids have potential to impact the child's psychosocial development?",
+      "options": [
+        "Weight gain, Irritability.",
+        "Hypertension.",
+        "Nausea.",
+        "Osteoporosis."
+      ],
+      "correctAnswer": "Weight gain, Irritability.",
+      "explanationText": "Corticosteroids can cause weight gain, increased appetite, mood changes, and irritability. These effects may impact a child's self-esteem, body image, and interactions with peers."
+    },
+    {
+      "id": 11,
+      "questionText": "What is prerenal kidney injury?",
+      "options": [
+        "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+        "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
+      ],
+      "correctAnswer": "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+      "explanationText": "Prerenal AKI occurs before the kidney is damaged and is caused by decreased blood flow to the kidneys. Common causes include hemorrhage, dehydration, hypotension, shock, and sepsis. The kidneys are not receiving enough perfusion to properly filter blood."
+    },
+    {
+      "id": 12,
+      "questionText": "What is intrarenal kidney injury?",
+      "options": [
+        "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+        "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
+      ],
+      "correctAnswer": "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+      "explanationText": "Intrarenal AKI occurs when the kidney tissue itself is damaged. Causes include nephrotoxic medications (such as vancomycin), prolonged ischemia, acute tubular necrosis, severe infections, and inflammatory kidney diseases."
+    },
+    {
+      "id": 13,
+      "questionText": "What is postrenal kidney injury?",
+      "options": [
+        "Reduced systemic circulation, i.e. severe blood loss, low BP, sepsis, injury",
+        "Direct damage to renal tissue, i.e. med toxicity, ischemia, prolonged dehydration/sepsis.",
+        "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)"
+      ],
+      "correctAnswer": "Mechanical obstruction of urinary outflow, i.e. prostatic hypertrophy (enlarged prostate)",
+      "explanationText": "Postrenal AKI occurs after the kidneys when urine flow is blocked. The obstruction causes urine to back up into the kidneys, increasing pressure and reducing kidney function. Causes include enlarged prostate, kidney stones, tumors, and urinary tract obstruction."
+    },
+    {
+      "id": 14,
+      "questionText": "What type of AKI is this? Man fell off roof, severe lacerations and blood loss",
+      "options": ["Pre-renal", "Intra-renal", "Post-renal"],
+      "correctAnswer": "Pre-renal",
+      "explanationText": "Severe blood loss decreases circulating blood volume and reduces kidney perfusion. This causes prerenal AKI because the kidneys are not receiving enough blood flow."
+    },
+    {
+      "id": 15,
+      "questionText": "What are the 4 phases of acute kidney injury?",
+      "options": ["Initiating, Oliguric, Diuretic, Recovery"],
+      "correctAnswer": "Initiating, Oliguric, Diuretic, Recovery",
+      "explanationText": "AKI progresses through four phases. The initiating phase begins with the kidney insult, the oliguric phase involves decreased urine output and rising waste products, the diuretic phase involves increased urine output, and the recovery phase involves gradual improvement of kidney function."
+    },
+    {
+      "id": 16,
+      "questionText": "What happens in oliguric phase of AKI?",
+      "options": [
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+        "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop"
+      ],
+      "correctAnswer": "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+      "explanationText": "During the oliguric phase, kidney filtration is decreased. Urine output drops below 400 mL/day, causing fluid retention, increased BUN and creatinine, metabolic acidosis, and electrolyte imbalances such as hyperkalemia."
+    },
+    {
+      "id": 17,
+      "questionText": "What happens in diuretic phase of AKI?",
+      "options": [
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+        "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop"
+      ],
+      "correctAnswer": "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+      "explanationText": "During the diuretic phase, the kidneys begin producing more urine, but they may not yet be able to concentrate urine effectively. Large urine losses can cause dehydration, hypotension, and electrolyte imbalances."
+    },
+    {
+      "id": 18,
+      "questionText": "What happens in recovery phase of AKI?",
+      "options": [
+        "Oliguria <400 mL/day, occurs within 1-7 days of kidney injury, metabolic acidosis, hyperkalemia, hyponatremia, elevated BUN, elevated creatinine, fatigue, malaise",
+        "Gradual increase in urine output, may reach 3-5 L/day, hypovolemia, dehydration, hypotension, BUN and Creatinine Levels begin to normalize",
+        "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop"
+      ],
+      "correctAnswer": "Begins when GFR increases, BUN and Creatinine Levels Plateau, then drop",
+      "explanationText": "The recovery phase occurs when kidney function begins improving. GFR increases, and BUN and creatinine levels gradually decrease as filtration improves."
+    },
+    {
+      "id": 19,
+      "questionText": "Which TYPE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
+      "options": ["Pre-renal", "Intra-renal", "Post-renal"],
+      "correctAnswer": "Intra-renal",
+      "explanationText": "The elevated vancomycin level indicates nephrotoxicity, meaning the medication has caused direct kidney tissue damage. This is classified as intrarenal AKI."
+    },
+    {
+      "id": 20,
+      "questionText": "Which PHASE of kidney injury is this? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
+      "options": ["Initiating", "Oliguric", "Diuretic", "Recovery"],
+      "correctAnswer": "Oliguric",
+      "explanationText": "J.K. is in the oliguric phase because urine output is below 400 mL/day. During this phase, BUN and creatinine increase, fluid retention occurs, and complications such as hypertension and electrolyte abnormalities may develop."
+    },
+    {
+      "id": 22,
+      "questionText": "What TREATMENT do you anticipate? J.K.’s injuries have been repaired, and seemed that he was ready to go home, but his urine output has dropped below 350 mL/day. J.K.’s laboratory results reveal BUN 53 mg/dL and serum creatinine 2.7 mg/dL. His BP has risen to 178/98. The pharmacist reports a critically high Vancomycin level in his bloodwork. JK received Vancomycin to prevent infection due to his injuries.",
+      "options": [
+        "Hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop"
+      ],
+      "correctAnswer": "Hold vancomycin, monitor BUN/creatinine, monitor electrolytes, monitor urine output, manage fluid balance, restrict fluids if fluid overloaded, control blood pressure, treat hyperkalemia if present, consider dialysis if severe complications develop",
+      "explanationText": "Treatment focuses on removing the cause of kidney injury, preventing complications, and supporting kidney recovery. Vancomycin should be held because the elevated level may be causing nephrotoxicity. The nurse should monitor renal function, electrolytes, fluid status, and urine output. Dialysis may be required for severe complications such as refractory hyperkalemia, severe acidosis, fluid overload, or uremic symptoms."
+    },
+    {
+      "id": 23,
+      "questionText": "When do we do dialysis?",
+      "options": [
+        "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level >120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac tamponade, Clinical status of patient"
+      ],
+      "correctAnswer": "We tried diuretics. Volume overload, Elevated serum potassium level, Metabolic acidosis, BUN level >120 mg/dL (43 mmol/L), Significant change in mental status, Pericarditis, pericardial effusion, or cardiac tamponade, Clinical status of patient",
+      "explanationText": "Dialysis is initiated when the kidneys cannot maintain homeostasis and complications become severe. Indications include fluid overload that does not respond to treatment, dangerous hyperkalemia, metabolic acidosis, severe uremia, altered mental status, and pericarditis related to kidney failure."
+    },
+    {
+      "id": 25,
+      "questionText": "A client on a medical unit has a K+ level of 6.8 mEq/L. What is the priority action that the nurse should take?",
+      "options": [
+        "Place the client on a cardiac monitor.",
+        "Check the client’s BP.",
+        "Teach the client to avoid high-potassium foods.",
+        "Call the lab and request a redraw of lab to verify the results."
+      ],
+      "correctAnswer": "Place the client on a cardiac monitor.",
+      "explanationText": "A potassium level of 6.8 mEq/L indicates severe hyperkalemia, which can cause life-threatening cardiac dysrhythmias. The priority action is placing the client on a cardiac monitor to detect ECG changes while additional treatment is initiated."
+    },
+    {
+      "id": 26,
+      "questionText": "Top causes of AKI (acute kidney injury)",
+      "options": [
+        "Dehydration, Nephrotoxic Drugs",
+        "Diabetic Nephropathy, Hypertension"
+      ],
+      "correctAnswer": "Dehydration, Nephrotoxic Drugs",
+      "explanationText": "Common causes of AKI include decreased kidney perfusion from dehydration, blood loss, and shock, as well as direct kidney injury from nephrotoxic medications such as vancomycin, aminoglycosides, NSAIDs, and contrast dye."
+    },
+    {
+      "id": 27,
+      "questionText": "Top causes of CKD (chronic kidney disease)",
+      "options": [
+        "Dehydration, Nephrotoxic Drugs",
+        "Diabetic Nephropathy, Hypertension"
+      ],
+      "correctAnswer": "Diabetic Nephropathy, Hypertension",
+      "explanationText": "The leading causes of CKD are diabetes and hypertension. High blood glucose damages kidney blood vessels over time, while chronic high blood pressure damages the renal filtration system."
+    },
+    {
+      "id": 28,
+      "questionText": "Vitals for a CKD (chronic kidney disease) Patient",
+      "options": [
+        "BP is Hypertensive, SpO2 is lower, RR is higher, HR is normal or increased, Temp is normal"
+      ],
+      "correctAnswer": "BP is Hypertensive, SpO2 is lower, RR is higher, HR is normal or increased, Temp is normal",
+      "explanationText": "CKD commonly causes fluid retention because the kidneys cannot remove excess fluid. Hypervolemia can lead to hypertension and pulmonary edema, which decreases oxygen saturation and increases respiratory rate. Temperature is usually normal unless infection is present."
+    },
+    {
+      "id": 29,
+      "questionText": "Biggest difference between AKI and CKD (chronic kidney disease)",
+      "options": ["CKD is irreversible. NOTE: GFR is gold standard lab."],
+      "correctAnswer": "CKD is irreversible. NOTE: GFR is gold standard lab.",
+      "explanationText": "AKI is a sudden decrease in kidney function that may be reversible if treated quickly. CKD is a progressive, long-term loss of kidney function that is usually irreversible. Glomerular filtration rate (GFR) is the primary measurement used to evaluate kidney function."
+    },
+    {
+      "id": 30,
+      "questionText": "Uremia, Oliguria, Anuria",
+      "options": [
+        "Uremia=waste buildup in blood, Oliguria=low urine output, Anuria=no urine output"
+      ],
+      "correctAnswer": "Uremia=waste buildup in blood, Oliguria=low urine output, Anuria=no urine output",
+      "explanationText": "Uremia occurs when kidneys cannot remove nitrogenous waste products, causing toxin buildup in the blood. Oliguria means decreased urine production, usually less than 400 mL/day. Anuria means almost complete absence of urine production, typically less than 100 mL/day."
+    },
+    {
+      "id": 31,
+      "questionText": "Which serum laboratory value indicates to the nurse that the client’s CKD is getting worse?",
+      "options": [
+        "Decreased BUN.",
+        "Decreased sodium.",
+        "Decreased creatinine.",
+        "Decreased calculated glomerular filtration rate (GFR)"
+      ],
+      "correctAnswer": "Decreased calculated glomerular filtration rate (GFR)",
+      "explanationText": "A decreasing GFR indicates worsening kidney function because the kidneys are becoming less effective at filtering blood. As CKD progresses, creatinine and BUN typically increase while GFR decreases."
+    },
+    {
+      "id": 32,
+      "questionText": "During the nursing assessment of the patient with renal insufficiency, the nurse asks the patient specifically about a history of?",
+      "options": [
+        "Angina.",
+        "Asthma",
+        "Hypertension.",
+        "Rheumatoid arthritis."
+      ],
+      "correctAnswer": "Hypertension.",
+      "explanationText": "Hypertension is both a major cause and complication of kidney disease. Long-term high blood pressure damages renal blood vessels, and kidney dysfunction can worsen hypertension through fluid retention and hormonal changes."
+    },
+    {
+      "id": 33,
+      "questionText": "The nurse teaches a patient with chronic kidney disease about prevention of complications. What should the nurse include in the teaching plan?",
+      "options": [
+        "Monitor for proteinuria daily with a urine dipstick.",
+        "Perform self-catheterization every 4 hours to measure urine.",
+        "Take calcium-based phosphate binders on an empty stomach.",
+        "Check weight daily and report a gain of greater than 4 pounds"
+      ],
+      "correctAnswer": "Check weight daily and report a gain of greater than 4 pounds",
+      "explanationText": "Daily weights help detect fluid retention, a common complication of CKD. A rapid weight gain indicates fluid accumulation and should be reported. CKD patients should monitor fluid balance closely."
+    },
+    {
+      "id": 34,
+      "questionText": "What are the methods of dialysis?",
+      "options": ["Peritoneal, Hemodialysis"],
+      "correctAnswer": "Peritoneal, Hemodialysis",
+      "explanationText": "The two major types of dialysis are peritoneal dialysis and hemodialysis. Peritoneal dialysis uses the peritoneal membrane in the abdomen as a filter. Hemodialysis removes waste and fluid through a vascular access such as an AV fistula, AV graft, or central venous catheter."
+    },
+    {
+      "id": 35,
+      "questionText": "Hemodialysis Complications",
+      "options": ["Assess for hypotension (hypovolemia)"],
+      "correctAnswer": "Assess for hypotension (hypovolemia)",
+      "explanationText": "During hemodialysis, fluid is removed from the bloodstream. Rapid fluid removal can cause hypovolemia and hypotension. The nurse should monitor blood pressure, dizziness, weakness, and signs of decreased perfusion."
+    },
+    {
+      "id": 36,
+      "questionText": "What is Immunoglobulin E (IgE)?",
+      "options": [
+        "Seasonal allergies",
+        "A blood protein that causes immune suppression",
+        "A hormone responsible for fluid regulation",
+        "A type of white blood cell that fights bacteria"
+      ],
+      "correctAnswer": "Seasonal allergies",
+      "explanationText": "Immunoglobulin E (IgE) is an antibody involved in allergic reactions. When a person is exposed to an allergen, IgE triggers mast cells to release histamine, causing symptoms such as itching, hives, swelling, sneezing, and seasonal allergies."
+    },
+    {
+      "id": 37,
+      "questionText": "A patient has received epinephrine for an anaphylactic reaction. Which finding indicates the treatment was therapeutic?",
+      "options": [
+        "Respirations are unlabored",
+        "The patient reports increased itching",
+        "Blood pressure remains decreased",
+        "Wheezing becomes more severe"
+      ],
+      "correctAnswer": "Respirations are unlabored",
+      "explanationText": "Epinephrine is the first-line treatment for anaphylaxis because it reverses airway swelling, bronchoconstriction, and hypotension. Unlabored respirations indicate improved airway function and oxygenation."
+    },
+    {
+      "id": 38,
+      "questionText": "A nurse is caring for a patient with sepsis. Which statement best explains what sepsis is?",
+      "options": [
+        "Your body had a severe reaction to an infection",
+        "Your body is unable to fight any type of infection",
+        "Your immune system has completely stopped working",
+        "A localized infection that remains in one area"
+      ],
+      "correctAnswer": "Your body had a severe reaction to an infection",
+      "explanationText": "Sepsis occurs when the body's immune response to an infection becomes excessive and causes widespread inflammation, leading to tissue damage, organ dysfunction, and potentially life-threatening complications."
+    },
+    {
+      "id": 39,
+      "questionText": "A patient has an ulcer and osteomyelitis. Which finding indicates the patient is developing sepsis?",
+      "options": ["BP 80/40", "Afebrile", "HR 102", "SpO2 94%"],
+      "correctAnswer": "BP 80/40",
+      "explanationText": "A blood pressure of 80/40 indicates severe hypotension, which is a sign of septic shock. Sepsis can cause widespread vasodilation and fluid shifts, resulting in decreased blood pressure and poor organ perfusion."
+    },
+    {
+      "id": 40,
+      "questionText": "What should a client with sepsis receive during the first hour of treatment?",
+      "options": [
+        "Get complete blood count, rapid administration of 0.9% normal saline, obtain blood cultures, and administer broad-spectrum antibiotics",
+        "Type and cross-match for 2 units of packed RBCs",
+        "Administer corticosteroids before antibiotics",
+        "Wait for culture results before beginning treatment"
+      ],
+      "correctAnswer": "Get complete blood count, rapid administration of 0.9% normal saline, obtain blood cultures, and administer broad-spectrum antibiotics",
+      "explanationText": "The first hour of sepsis treatment focuses on identifying the infection, restoring circulation, and treating the cause. A CBC evaluates white blood cell count, blood cultures identify the organism, broad-spectrum antibiotics treat infection, and 0.9% normal saline helps restore blood pressure and perfusion."
+    },
+    {
+      "id": 41,
+      "questionText": "A client develops wheezing, swollen tongue, and hives. What is the priority action?",
+      "options": [
+        "Administer epinephrine",
+        "Administer an antihistamine only",
+        "Place the client in a sitting position",
+        "Obtain a complete blood count"
+      ],
+      "correctAnswer": "Administer epinephrine",
+      "explanationText": "Wheezing, tongue swelling, and hives are signs of anaphylaxis. Epinephrine is the priority treatment because it rapidly improves airway swelling, bronchoconstriction, and hypotension. Delaying epinephrine can lead to respiratory failure or shock."
+    },
+    {
+      "id": 42,
+      "questionText": "Which cell type is primarily impacted by HIV?",
+      "options": ["CD4 cells", "Red blood cells", "Platelets", "Neutrophils"],
+      "correctAnswer": "CD4 cells",
+      "explanationText": "HIV primarily attacks CD4 T-helper lymphocytes, which coordinate immune responses. As CD4 levels decrease, the patient becomes increasingly vulnerable to opportunistic infections."
+    },
+    {
+      "id": 43,
+      "questionText": "A patient with HIV starts taking Zidovudine (Retrovir). Which statement indicates understanding of the medication?",
+      "options": [
+        "You need to take this medication as prescribed every day",
+        "You can stop taking this medication when you feel better",
+        "You only need to take this medication when symptoms appear",
+        "You should double the dose if you miss a dose"
+      ],
+      "correctAnswer": "You need to take this medication as prescribed every day",
+      "explanationText": "Zidovudine is an antiretroviral medication that suppresses HIV replication. It must be taken consistently as prescribed to maintain viral suppression and reduce the risk of medication resistance."
+    },
+    {
+      "id": 44,
+      "questionText": "Who is at greatest risk of developing sepsis?",
+      "options": [
+        "Client with AIDS",
+        "55-year-old client",
+        "3-year-old client",
+        "Healthy adult with no medical conditions"
+      ],
+      "correctAnswer": "Client with AIDS",
+      "explanationText": "Patients with AIDS have weakened immune systems due to decreased CD4 cells, making them more vulnerable to severe infections and complications such as sepsis. Immunocompromised patients have a higher risk because their bodies cannot effectively control infections."
+    },
+    {
+      "id": 45,
+      "questionText": "What is sepsis?",
+      "questionImage": null,
+      "options": ["Systemic inflammatory response to infection"],
+      "correctAnswer": "Systemic inflammatory response to infection",
+      "explanationText": "Body's exaggerated response such as vasodilation, capillary permeability, and decreased perfusion.  Coagulation increases.  Caused by infection - pneumonia, peritonitis, UTI, procedures, indwelling devices (PIC line, urinary cath).",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "What is a huge indicator of how bad sepsis is?",
+      "questionImage": null,
+      "options": ["lactic acid levels"],
+      "correctAnswer": "lactic acid levels",
+      "explanationText": "lactate is a common lab that is from lack of 02 perfusion -> anaerobic state -> lactic acid byproduct",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "What should mean arterial pressure be?",
+      "questionImage": null,
+      "options": ["Marian says at least 65.  Online says 70-100."],
+      "correctAnswer": "Marian says at least 65.  Online says 70-100.",
+      "explanationText": "Under 60 and the brain isn't getting enough blood pressure to it",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "Sepsis patient, which requires immediate intervention?",
+      "questionImage": null,
+      "options": [
+        "Temp 100.4 F",
+        "18,000 WBC",
+        "90 mL urine output in 4 hours"
+      ],
+      "correctAnswer": "90 mL urine output in 4 hours",
+      "explanationText": "Not enough blood pressure to kidneys, results in low urine output, can result in pre-renal acute kidney injury (AKI)",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "How much fluid do you need for sepsis treatment?",
+      "questionImage": null,
+      "options": ["30 mL / kg"],
+      "correctAnswer": "30 mL / kg",
+      "explanationText": "IV 0.9% Normal Saline or Lactated Ringer.  Get them above 65 MAP.  When fluids don't work, use norepinephrine (levophed).  Use corticosteriods (decrease inflammation, suppress over-reactive immune system).  Use albumin (most abundant protein in blood) to help shift fluid.",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "To prevent gastric ulcers in sepsis, what would you give?",
+      "questionImage": null,
+      "options": ["Pantoprazole", "Solumedrol", "Vancomycin", "Metoprolol"],
+      "correctAnswer": "Pantoprazole",
+      "explanationText": "Pantoprazole is a proton pump inhibitor (PPI) that reduces gastric acid production and helps prevent stress ulcers. Solumedrol is a corticosteroid to reduce inflammation and immune responses but does not prevent gastric ulcers and may actually increase ulcer risk. Vancomycin is incorrect because it is an antibiotic used to treat certain bacterial infections, including resistant organisms like MRSA, but it does not protect the stomach lining. Metoprolol is incorrect because it is a beta-blocker used to lower heart rate and blood pressure and has no role in preventing stress-related gastric ulcers.",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "Signs of anaphylaxis",
+      "questionImage": null,
+      "options": [
+        "wheezing from inflammation, itching, BP drops from vasodilation"
+      ],
+      "correctAnswer": "",
+      "explanationText": "Epinephrine (bronchodilates + vasoconstricts) via IM or IV, Benadryl (antihistamine - blocks effects of histamine which vasodilates and more), atropine to get heart rate up",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "Allergies to focus on",
+      "questionImage": null,
+      "options": ["Nuts, eggs, legumes (peanuts), fish, shellfish, soy"],
+      "correctAnswer": "Nuts, eggs, legumes (peanuts), fish, shellfish, soy",
+      "explanationText": "Breastfeeding is recommended exclusively 4 to 6 months to infants to prevent allergies",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "If allergic to eggs, do not take flu vaccine",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "What is urticaria?",
+      "questionImage": null,
+      "options": ["hives"],
+      "correctAnswer": "hives",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "Allergy diagnostic testing",
+      "questionImage": null,
+      "options": [
+        "controlled food challenges in medical office, trial elimination diet, skin prick test + serum measurements"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "Anaphylaxis therapeutic management",
+      "questionImage": null,
+      "options": [
+        "If mild (runny nose, etc.), benadryl (antihistamine).  If respiratory distress, epinephrine + fluids."
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "Anaphylaxis prevention",
+      "questionImage": null,
+      "options": ["wear wristband with allergy and epi pen alert"],
+      "correctAnswer": "wear wristband with allergy and epi pen alert",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "The faster the onset of anaphylaxis symptoms the more severe",
+      "questionImage": null,
+      "options": ["false"],
+      "correctAnswer": "false",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 59,
+      "questionText": "Food allergies",
+      "questionImage": null,
+      "options": ["most likely onset after several exposures"],
+      "correctAnswer": "most likely onset after several exposures",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 60,
+      "questionText": "What is primary reason HIV?",
+      "questionImage": null,
+      "options": ["CD4 + T cells get destroyed most"],
+      "correctAnswer": "CD4 + T cells get destroyed most",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 61,
+      "questionText": "CD4 under 200 is...",
+      "questionImage": null,
+      "options": ["Acquired Immunodeficiency Syndrome (AIDS)"],
+      "correctAnswer": "Acquired Immunodeficiency Syndrome (AIDS)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 62,
+      "questionText": "why do diseases such as Pneumocystis jiroveci pneumonia, oral candidiasis develop in AIDS patients, but not so much in HIV patients",
+      "questionImage": null,
+      "options": [
+        "These infections or tumors occur in a person with an incompetent immune system"
+      ],
+      "correctAnswer": "These infections or tumors occur in a person with an incompetent immune system",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "What are precautions for HIV patients",
+      "questionImage": null,
+      "options": ["Standard precautions"],
+      "correctAnswer": "Standard precautions",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "List interventions for HIV",
+      "questionImage": null,
+      "options": [
+        "Monitor I&O, cleanse mouth with soft bristle toothbrush 3 to 4 times a day, use protective skin cream around perirectal area, assess lungs skin and abdomen every 4 hours and prn, encourage oral fluids",
+        "Mouth rinse with listerine (drys out more)",
+        "Restrict access from visitors (allowed, but cannot bring in fresh flowers or produce. Must hand hygiene. Cannot be sick and enter.)"
+      ],
+      "correctAnswer": "Monitor I&O, cleanse mouth with soft bristle toothbrush 3 to 4 times a day, use protective skin cream around perirectal area, assess lungs skin and abdomen every 4 hours and prn, encourage oral fluids",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "Combinations of antiretroviral drugs inhibit viral replicationn in different ways and decrease potential for development of anti-retroviral resistant HIV",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "prevent resistant strains of HIV",
+      "explanationImage": null
+    },
+    {
+      "id": 66,
+      "questionText": "HIV does not live for a long time outside of human body, maybe a minute",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 67,
+      "questionText": "Tenofovir combined with Truvada can reduce risk of spreading HIV",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 68,
+      "questionText": "What is normal CD4 levels",
+      "questionImage": null,
+      "options": ["800 to 1200"],
+      "correctAnswer": "800 to 1200",
+      "explanationText": "Less than 500 is symptomatic.  Less than 200 is AIDS.",
+      "explanationImage": null
+    },
+    {
+      "id": 69,
+      "questionText": "Which is most likely to cause HIV",
+      "questionImage": null,
+      "options": ["Hollow bore needle.  1st six months."],
+      "correctAnswer": "Hollow bore needle.  1st six months.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 70,
+      "questionText": "Acute HIV infection",
+      "questionImage": null,
+      "options": ["feels like the flu"],
+      "correctAnswer": "feels like the flu",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 71,
+      "questionText": "asymptomic chronic infection",
+      "questionImage": null,
+      "options": ["CD4 account above 500, viral load rate is low"],
+      "correctAnswer": "CD4 account above 500, viral load rate is low",
+      "explanationText": "this is the goal for people with HIV",
+      "explanationImage": null
+    },
+    {
+      "id": 72,
+      "questionText": "Kaposi scarcome - a skin cancer that can happen in HIV",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 73,
+      "questionText": "Which needs further teaching?",
+      "questionImage": null,
+      "options": [
+        "If my viral load becomes undetectable, I will not be able to transmit HIV to others"
+      ],
+      "correctAnswer": "If my viral load becomes undetectable, I will not be able to transmit HIV to others",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 74,
+      "questionText": "Client right leg in Buck's traction.  Which intervention promotes mobility?",
+      "questionImage": null,
+      "options": ["Active range-of-motion in left leg"],
+      "correctAnswer": "Active range-of-motion in left leg",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 75,
+      "questionText": "How to assess neurovascular status of client's affected exremity?  Client postop open reduction internal fixation of femur fracture.",
+      "questionImage": null,
+      "options": ["color, temperature, sensation"],
+      "correctAnswer": "color, temperature, sensation",
+      "explanationText": "pallor is concerning.  cold is concerning.  ecchymosis (bruising) is expected.",
+      "explanationImage": null
+    },
+    {
+      "id": 76,
+      "questionText": "adolescent scoliosis - common reaction",
+      "questionImage": null,
+      "options": ["body image changes"],
+      "correctAnswer": "body image changes",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 77,
+      "questionText": "When do we do scoliosis screening?",
+      "questionImage": null,
+      "options": ["pre-adolescent / adolescent"],
+      "correctAnswer": "pre-adolescent / adolescent",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 78,
+      "questionText": "Adolescent client, new fiberglass cast for fractured tibia.  which is priority?",
+      "questionImage": null,
+      "options": ["perform neurovascular assessment"],
+      "correctAnswer": "perform neurovascular assessment",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 79,
+      "questionText": "Client in skeletal traction (buck's traction).  When can you remove the weight?",
+      "questionImage": null,
+      "options": ["client develops life-threatening situation"],
+      "correctAnswer": "client develops life-threatening situation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 80,
+      "questionText": "child fractured epiphyseal plate (growth plate).  which statemnet should nurse make?",
+      "questionImage": null,
+      "options": ["Normal bone growth may be affected"],
+      "correctAnswer": "Normal bone growth may be affected",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 81,
+      "questionText": "frail client caregiver says she will take care of fractured hip partner at home.  Which action should nurse take?",
+      "questionImage": null,
+      "options": ["consult case management"],
+      "correctAnswer": "consult case management",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 82,
+      "questionText": "Who gets client informed consent?",
+      "questionImage": null,
+      "options": ["surgeon", "nurse"],
+      "correctAnswer": "surgeon",
+      "explanationText": "Whoever is doing the procedure gets the informed consent",
+      "explanationImage": null
+    },
+    {
+      "id": 83,
+      "questionText": "client has hip fracture, who is at risk for developing a fat embolism.  Which should nurse monitor for?",
+      "questionImage": null,
+      "options": ["acture shortness of breath"],
+      "correctAnswer": "acture shortness of breath",
+      "explanationText": "Any embolism (i.e. fat embolism or blood clot) is most likely to go to lungs, then brain or heart",
+      "explanationImage": null
+    },
+    {
+      "id": 84,
+      "questionText": "What is open reduction internal fixation (ORIF)",
+      "questionImage": null,
+      "options": [
+        "Open = the surgeon makes an incision (cut) to reach the broken bone. Reduction = putting the broken bone pieces back into their normal alignment. Internal = the hardware is placed inside the body. Fixation = the bone is held in place with plates, screws, rods, pins, or nails while it heals."
+      ],
+      "correctAnswer": "Open = the surgeon makes an incision (cut) to reach the broken bone. Reduction = putting the broken bone pieces back into their normal alignment. Internal = the hardware is placed inside the body. Fixation = the bone is held in place with plates, screws, rods, pins, or nails while it heals.",
+      "explanationText": "Reduction - think of reducing space between bones",
+      "explanationImage": null
+    },
+    {
+      "id": 85,
+      "questionText": "Nuerovascular 6 P's",
+      "questionImage": null,
+      "options": [
+        "pain, pulses, pallor, paresthesia (sensation), paralysis, pressure"
+      ],
+      "correctAnswer": "pain, pulses, pallor, paresthesia (sensation), paralysis, pressure",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 86,
+      "questionText": "Which is appropriate for Buck's traction?",
+      "questionImage": null,
+      "options": [
+        "Check insertion site for infection",
+        "Check condition of skin beneath Velcro boot frequently"
+      ],
+      "correctAnswer": "Check condition of skin beneath Velcro boot frequently",
+      "explanationText": "There is no insertion site for Buck's traction, that would be skeletal traction",
+      "explanationImage": null
+    },
+    {
+      "id": 87,
+      "questionText": "Compartment syndrome",
+      "questionImage": null,
+      "options": [
+        "swelling and increased pressure in compartment place that can cut off circulation"
+      ],
+      "correctAnswer": "swelling and increased pressure in compartment place that can cut off circulation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 88,
+      "questionText": "Buck's traction is to...",
+      "questionImage": null,
+      "options": ["reduce pain and muscle spasms before surgery"],
+      "correctAnswer": "reduce pain and muscle spasms before surgery",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 89,
+      "questionText": "You assess client leg for neurovascular impairment, including color, temperature, capillary refill, distal pulses, edema, ____, motor function, and pain.",
+      "questionImage": null,
+      "options": ["paresthesia (sensation)"],
+      "correctAnswer": "paresthesia (sensation)",
+      "explanationText": "6 P's of neurovascular assessment are pain, pulses, pallor, paresthesia (sensation), paralysis, pressure",
+      "explanationImage": null
+    },
+    {
+      "id": 90,
+      "questionText": "Appropriate delegation of nursing activities for a patient in Buck's traction may include asking the licensed practical nurse/vocational nurse (LPN/LVN) to",
+      "questionImage": null,
+      "options": [
+        "monitor skin integrity around the boot used for traction.",
+        "assess for complications"
+      ],
+      "correctAnswer": "monitor skin integrity around the boot used for traction.",
+      "explanationText": "LPN's are not allowed to assess, but monitor is ok for LPN",
+      "explanationImage": null
+    },
+    {
+      "id": 91,
+      "questionText": "Hip fracture post-op interventions",
+      "questionImage": null,
+      "options": [
+        "assess neurovascular status, vitals, empty JP drain, monitor I/O's, turn to back and unaffected side q2hr, encourage use of incentive spirometer, SCD's bilateral"
+      ],
+      "correctAnswer": "assess neurovascular status, vitals, empty JP drain, monitor I/O's, turn to back and unaffected side q2hr, encourage use of incentive spirometer, SCD's bilateral",
+      "explanationText": "Do not internally rotate the legs. Do not do full range-of-motion.",
+      "explanationImage": null
+    },
+    {
+      "id": 92,
+      "questionText": "Client post-hip fracture surgery states numbness and tingling in left foot.  The pulses in left foot are palpable, but amplitude is +1 when previously they were +3.  Pulses in the right foot remain +3.  You suspect FA has ___ and you need to ___",
+      "questionImage": null,
+      "options": ["compartment syndrome, notify the provider"],
+      "correctAnswer": "compartment syndrome, notify the provider",
+      "explanationText": "If compartment syndrome, keep leg neutral and don't ice it, which could further reduce the pulse",
+      "explanationImage": null
+    },
+    {
+      "id": 93,
+      "questionText": "Post-op hip fracture dislocation precautions",
+      "questionImage": null,
+      "options": [
+        "Use elevated toilet seat, keep leg in straight neutral position"
+      ],
+      "correctAnswer": "Use elevated toilet seat, keep leg in straight neutral position",
+      "explanationText": "Do not cross legs, no tub bath",
+      "explanationImage": null
+    },
+    {
+      "id": 94,
+      "questionText": "Client fractured femur.  Which is immediate intervention.",
+      "questionImage": null,
+      "options": ["Petechiae over neck and chest, yellow globules in urine"],
+      "correctAnswer": "Petechiae over neck and chest, yellow globules in urine",
+      "explanationText": "Indicators for fat emobolist",
+      "explanationImage": null
+    },
+    {
+      "id": 95,
+      "questionText": "Scoliosis - mild",
+      "questionImage": null,
+      "options": [
+        "25 degrees or less",
+        "25-45 degrees",
+        "greater than 45 degrees"
+      ],
+      "correctAnswer": "25 degrees or less",
+      "explanationText": "No treatment, follow up every 4-6 months",
+      "explanationImage": null
+    },
+    {
+      "id": 96,
+      "questionText": "Scoliosis - moderate",
+      "questionImage": null,
+      "options": [
+        "25 degrees or less",
+        "25-45 degrees",
+        "greater than 45 degrees"
+      ],
+      "correctAnswer": "25-45 degrees",
+      "explanationText": "bracing and exercise",
+      "explanationImage": null
+    },
+    {
+      "id": 97,
+      "questionText": "Scoliosis - severe",
+      "questionImage": null,
+      "options": [
+        "25 degrees or less",
+        "25-45 degrees",
+        "greater than 45 degrees"
+      ],
+      "correctAnswer": "greater than 45 degrees",
+      "explanationText": "surgical intervention with spinal fusion and internal stabilization",
+      "explanationImage": null
+    },
+    {
+      "id": 98,
+      "questionText": "Post scoliosis surgery care",
+      "questionImage": null,
+      "options": [
+        "Log roll patient, physical therapy, active and passive ROM, IV fluids, NG tube, foley catheter, pain management"
+      ],
+      "correctAnswer": "Log roll patient, physical therapy, active and passive ROM, IV fluids, NG tube, foley catheter, pain management",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 99,
+      "questionText": "Medications for septic client",
+      "questionImage": null,
+      "options": ["Normal saline, vasopressors, vancomycin, pantoprazole"],
+      "correctAnswer": "Normal saline, vasopressors, vancomycin, pantoprazole",
+      "explanationText": "vasopressors if low MAP, vancomycin for antibiotic, pantoprazole since ulcer risk from lack of perfusion",
+      "explanationImage": null
+    },
+    {
+      "id": 100,
+      "questionText": "class of diabetes medicaiton associated with renal failure",
+      "questionImage": null,
+      "options": ["Biguanides", "Sulfonylurea"],
+      "correctAnswer": "Biguanides",
+      "explanationText": "Biguanides are nephrotoxic - espcially metformin.  Sulfonylurea example is glipizide to encourage pancreas to secrete more insulin.",
+      "explanationImage": null
+    },
+    {
+      "id": 101,
+      "questionText": "Metoclopramide (Reglan) is given to 2 year old with gastro esophogeal reflux to...",
+      "questionImage": null,
+      "options": ["maintain proper GI motility"],
+      "correctAnswer": "maintain proper GI motility",
+      "explanationText": "Metoclopramide - prokinetic to keep GI motility.  PPI's and H2 blockers reduce stomach acid.  Antacids neutralize stomach acid.",
+      "explanationImage": null
+    },
+    {
+      "id": 102,
+      "questionText": "Morphine side effects",
+      "questionImage": null,
+      "options": ["constipation, decreased respiratory rate, drowsiness"],
+      "correctAnswer": "constipation, decreased respiratory rate, drowsiness",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 103,
+      "questionText": "Folic acid deficiency is often treated by folic acid injections",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "false",
+      "explanationText": "This is normally treated by oral supplements.  Folic acid helps against anemia.",
+      "explanationImage": null
+    },
+    {
+      "id": 104,
+      "questionText": "Malignant Hyperthermia is best treated with...",
+      "questionImage": null,
+      "options": ["Dantrolene (Dantrium)"],
+      "correctAnswer": "Dantrolene (Dantrium)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 105,
+      "questionText": "Important assessment for Furosemide (Lasix)",
+      "questionImage": null,
+      "options": ["Urine output, blood pressure, potassium level"],
+      "correctAnswer": "Urine output, blood pressure, potassium level",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 106,
+      "questionText": "If taking prednisone, monitor for...",
+      "questionImage": null,
+      "options": ["Infection, weight gain, hyperglycemia, trouble sleeping"],
+      "correctAnswer": "Infection, weight gain, hyperglycemia, trouble sleeping",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 107,
+      "questionText": "Corticosteriods use cases",
+      "questionImage": null,
+      "options": [
+        "Addison Disease, Rheumatoid Arthritis, Chron's, Ulcerative Collitus, COPD"
+      ],
+      "correctAnswer": "Addison Disease, Rheumatoid Arthritis, Chron's, Ulcerative Collitus, COPD",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 108,
+      "questionText": "Which child does the school nurse plan to administer epinephrine via an auto-injector to?",
+      "questionImage": null,
+      "options": ["Child with wheezing after returning from field trip"],
+      "correctAnswer": "Child with wheezing after returning from field trip",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 109,
+      "questionText": "Septic patient, how much IV fluid do you give?",
+      "questionImage": null,
+      "options": ["30 mL per kilogram"],
+      "correctAnswer": "30 mL per kilogram",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 110,
+      "questionText": "Which antihypertensive med is associated with chronic, dry cough?",
+      "questionImage": null,
+      "options": [
+        "ACE inhibitors",
+        "Vasodilators",
+        "Beta Blockers",
+        "Calcium Channel Blockers"
+      ],
+      "correctAnswer": "ACE inhibitors",
+      "explanationText": "ACE inhibitors - captopril, lisonopril.  Vasodilators - Nitro (side effect -> hypotension, headache).  Calcium Channel Blockers (i.e. Amlodipine)",
+      "explanationImage": null
+    },
+    {
+      "id": 111,
+      "questionText": "When giving beta blocker for hypertension, nurse must assess...",
+      "questionImage": null,
+      "options": ["Pulse and blood pressure"],
+      "correctAnswer": "Pulse and blood pressure",
+      "explanationText": "Beta blockers lower pulse.  Pulse needs to be at least 60.",
+      "explanationImage": null
+    },
+    {
+      "id": 112,
+      "questionText": "Client states they take sucralfate/carafate every day.  Nurse knows this med will...",
+      "questionImage": null,
+      "options": ["Form a protective coating against acid in the stomach"],
+      "correctAnswer": "Form a protective coating against acid in the stomach",
+      "explanationText": "Use case:  Peptic ulcer patients.  Take between meals - keep coating intake; don't eat and drink to flush it out.",
+      "explanationImage": null
+    },
+    {
+      "id": 113,
+      "questionText": "To prevent DVT in a post-operative client, give...",
+      "questionImage": null,
+      "options": ["Enoxaparin/Lovenox", "Mesalamine/Pentasa"],
+      "correctAnswer": "Enoxaparin/Lovenox",
+      "explanationText": "Mesalamine/Pentasa is for colitus and works only on the colon.",
+      "explanationImage": null
+    },
+    {
+      "id": 114,
+      "questionText": "Why would anyone need a heparin injection?",
+      "questionImage": null,
+      "options": ["Use heparin instead of lovenox for renal patients"],
+      "correctAnswer": "Use heparin instead of lovenox for renal patients",
+      "explanationText": "Lovenox can raise potassium levels, so renal patients do not make a great amount of sense",
+      "explanationImage": null
+    }
+  ]
+}

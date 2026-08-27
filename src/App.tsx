@@ -32,21 +32,8 @@ export default function App() {
         <div className="card w-full max-w-2xl">
           <h1 className="title">Choose a Quiz</h1>
 
-          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familiesAndPopulations")}>
-            Families and Populations
-          </button> */}
-
-          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("maternalNewborn")}>
-            Maternal Newborn
-          </button> */}
-
-
-
-          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalQuizWeek5")}>
-            Medical Surgical Quiz Week 5
-          </button> */}
-
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familyPopulationsExam1")}>
+          {/* SEMESTER 2 */}
+          {/* <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("familyPopulationsExam1")}>
             Family Populations Exam 1
           </button>
 
@@ -68,8 +55,12 @@ export default function App() {
 
           <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medicalSurgicalExam3")}>
             Medical Surgical Exam 3
-          </button>
+          </button> */}
 
+          {/* SEMESTER 3 */}
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("psych")}>
+            Psych Exam 1
+          </button>
 
           <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("cardiacRhythms")}>
             Cardiac Rhythms
