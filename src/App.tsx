@@ -58,8 +58,12 @@ export default function App() {
           </button> */}
 
           {/* SEMESTER 3 */}
-          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("psych")}>
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("psychExam1")}>
             Psych Exam 1
+          </button>
+
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medsurg2Exam1")}>
+            MedSurgTwo Exam 1
           </button>
 
           <button className="button button-red button-red:hover" onClick={() => handleSelectQuiz("cardiacRhythms")}>

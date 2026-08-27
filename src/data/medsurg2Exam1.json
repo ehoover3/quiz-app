@@ -1,0 +1,349 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "AUTOMATICITY",
+      "questionImage": null,
+      "options": [
+        "THE ABILITY OF A CELL TO DEPOLARIZE ITSELF",
+        "THE EASE WITH WHICH CARDIAC CELLS UNDERGO A SERIES OF EVENTS CHARACTERIZED BY SEQUENTIAL DEPOLARIZATION AND REPOLARIZATION",
+        "THE PROPERTY OF CONDUCTING AN ELECTRIC CURRENT.",
+        "THE INHERENT STRENGTH AND VIGOR OF THE HEART'S CONTRACTION DURING SYSTOLE. (THE SQUEEZE)"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 2,
+      "questionText": "EXCITABILITY",
+      "questionImage": null,
+      "options": [
+        "THE ABILITY OF A CELL TO DEPOLARIZE ITSELF",
+        "THE EASE WITH WHICH CARDIAC CELLS UNDERGO A SERIES OF EVENTS CHARACTERIZED BY SEQUENTIAL DEPOLARIZATION AND REPOLARIZATION",
+        "THE PROPERTY OF CONDUCTING AN ELECTRIC CURRENT.",
+        "THE INHERENT STRENGTH AND VIGOR OF THE HEART'S CONTRACTION DURING SYSTOLE. (THE SQUEEZE)"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 3,
+      "questionText": "CONDUCTIVITY",
+      "questionImage": null,
+      "options": [
+        "THE ABILITY OF A CELL TO DEPOLARIZE ITSELF",
+        "THE EASE WITH WHICH CARDIAC CELLS UNDERGO A SERIES OF EVENTS CHARACTERIZED BY SEQUENTIAL DEPOLARIZATION AND REPOLARIZATION",
+        "THE PROPERTY OF CONDUCTING AN ELECTRIC CURRENT.",
+        "THE INHERENT STRENGTH AND VIGOR OF THE HEART'S CONTRACTION DURING SYSTOLE. (THE SQUEEZE)"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 4,
+      "questionText": "CONTRACTILITY",
+      "questionImage": null,
+      "options": [
+        "THE ABILITY OF A CELL TO DEPOLARIZE ITSELF",
+        "THE EASE WITH WHICH CARDIAC CELLS UNDERGO A SERIES OF EVENTS CHARACTERIZED BY SEQUENTIAL DEPOLARIZATION AND REPOLARIZATION",
+        "THE PROPERTY OF CONDUCTING AN ELECTRIC CURRENT.",
+        "THE INHERENT STRENGTH AND VIGOR OF THE HEART'S CONTRACTION DURING SYSTOLE. (THE SQUEEZE)"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 5,
+      "questionText": "SA Node: 60-100 bpm, AV Node: 40-60 bpm, His-Purkinje System: 20-40 bpm",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 6,
+      "questionText": "Preload",
+      "questionImage": null,
+      "options": ["Volume of blood in ventricles at end of diastole"],
+      "correctAnswer": "Volume of blood in ventricles at end of diastole",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 7,
+      "questionText": "Afterload",
+      "questionImage": null,
+      "options": ["Resistence left ventricle must overcome to circulate blood"],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 8,
+      "questionText": "Non Modifiable Risk Factors",
+      "questionImage": null,
+      "options": [
+        "Age, Race, Ethnicity, Genetic Factors, Gender",
+        "High Cholesterol, Hypertension, Smoking, Diabetes Mellitus, Physical Inactivity, Obesity"
+      ],
+      "correctAnswer": "Age, Race, Ethnicity, Genetic Factors, Gender",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 9,
+      "questionText": "Modifiable Risk Factors",
+      "questionImage": null,
+      "options": [
+        "Age, Race, Ethnicity, Genetic Factors, Gender",
+        "High Cholesterol, Hypertension, Smoking, Diabetes Mellitus, Physical Inactivity, Obesity"
+      ],
+      "correctAnswer": "High Cholesterol, Hypertension, Smoking, Diabetes Mellitus, Physical Inactivity, Obesity",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 10,
+      "questionText": "Optimal Perfusion",
+      "questionImage": null,
+      "options": ["is tissue health"],
+      "correctAnswer": "is tissue health",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "Impaired perfusion",
+      "questionImage": null,
+      "options": ["is tissue harm (ischemia)"],
+      "correctAnswer": "is tissue harm (ischemia)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "No perfusion",
+      "questionImage": null,
+      "options": ["is death (infarction)"],
+      "correctAnswer": "is death (infarction)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 13,
+      "questionText": "CARDIAC OUTPUT",
+      "questionImage": null,
+      "options": [
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE MINUTE (HR X SV)",
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE BEAT",
+        "RELATES CARDIAC OUTPUT TO BODY SURFACE AREA (CO/BSA)",
+        "CARDIAC OUTPUT DURING STRESS MINUS CARDIAC OUTPUT AT REST (ABILITY OF THE HEART TO ADJUST TO REQUIREMENTS"
+      ],
+      "correctAnswer": "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE MINUTE (HR X SV)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 14,
+      "questionText": "STROKE VOLUME",
+      "questionImage": null,
+      "options": [
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE MINUTE (HR X SV)",
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE BEAT",
+        "RELATES CARDIAC OUTPUT TO BODY SURFACE AREA (CO/BSA)",
+        "CARDIAC OUTPUT DURING STRESS MINUS CARDIAC OUTPUT AT REST (ABILITY OF THE HEART TO ADJUST TO REQUIREMENTS"
+      ],
+      "correctAnswer": "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE BEAT",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 15,
+      "questionText": "CARDIAC INDEX",
+      "questionImage": null,
+      "options": [
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE MINUTE (HR X SV)",
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE BEAT",
+        "RELATES CARDIAC OUTPUT TO BODY SURFACE AREA (CO/BSA)",
+        "CARDIAC OUTPUT DURING STRESS MINUS CARDIAC OUTPUT AT REST (ABILITY OF THE HEART TO ADJUST TO REQUIREMENTS"
+      ],
+      "correctAnswer": "RELATES CARDIAC OUTPUT TO BODY SURFACE AREA (CO/BSA)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "CARDIAC RESERVE",
+      "questionImage": null,
+      "options": [
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE MINUTE (HR X SV)",
+        "THE AMOUNT OF BLOOD THE HEART PUMPS OUT IN ONE BEAT",
+        "RELATES CARDIAC OUTPUT TO BODY SURFACE AREA (CO/BSA)",
+        "CARDIAC OUTPUT DURING STRESS MINUS CARDIAC OUTPUT AT REST (ABILITY OF THE HEART TO ADJUST TO REQUIREMENTS"
+      ],
+      "correctAnswer": "CARDIAC OUTPUT DURING STRESS MINUS CARDIAC OUTPUT AT REST (ABILITY OF THE HEART TO ADJUST TO REQUIREMENTS",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 17,
+      "questionText": "PRELOAD = FLUID",
+      "questionImage": null,
+      "options": ["Volume of blood in ventricles at end of diastole"],
+      "correctAnswer": "Volume of blood in ventricles at end of diastole",
+      "explanationText": "How much fluid in ventricles.  Hypervolumia, Heart Valve Regurgitation increases preload.",
+      "explanationImage": null
+    },
+    {
+      "id": 18,
+      "questionText": "AFTERLOAD = PRESSURE",
+      "questionImage": null,
+      "options": ["Resistance left ventricle must overcome to circulate blood"],
+      "correctAnswer": "Resistance left ventricle must overcome to circulate blood",
+      "explanationText": "The pressure left ventricle must overcome - Hypertension, plaque buildup in arteries, vasoconstriction increases afterload pressure",
+      "explanationImage": null
+    },
+    {
+      "id": 19,
+      "questionText": "Urine output: a very good indicator of Cardiac Output.  Adults is...",
+      "questionImage": null,
+      "options": [">30mL/hr", ">1mL/kg/hr"],
+      "correctAnswer": ">30mL/hr",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 20,
+      "questionText": "Urine output: a very good indicator of Cardiac Output.  Infant/Pediatrics is...",
+      "questionImage": null,
+      "options": [">30mL/hr", ">1mL/kg/hr"],
+      "correctAnswer": ">1mL/kg/hr",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 21,
+      "questionText": "Troponin",
+      "questionImage": null,
+      "options": [
+        "a myocardial muscle protein, this is very specific to cardiac injury",
+        "an enzyme present in the myocardium",
+        "produced by liver, marks inflammation",
+        "hormone secreted from cardiac cells when they have been stretched, high levels are highly indicative of heart failure"
+      ],
+      "correctAnswer": "a myocardial muscle protein, this is very specific to cardiac injury",
+
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "Creatine Kinase (CKMB)",
+      "questionImage": null,
+      "options": [
+        "a myocardial muscle protein, this is very specific to cardiac injury",
+        "an enzyme present in the myocardium",
+        "produced by liver, marks inflammation",
+        "hormone secreted from cardiac cells when they have been stretched, high levels are highly indicative of heart failure"
+      ],
+      "correctAnswer": "an enzyme present in the myocardium",
+
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "C-reactive Protein (CRP)",
+      "questionImage": null,
+      "options": [
+        "a myocardial muscle protein, this is very specific to cardiac injury",
+        "an enzyme present in the myocardium",
+        "produced by liver, marks inflammation",
+        "hormone secreted from cardiac cells when they have been stretched, high levels are highly indicative of heart failure"
+      ],
+      "correctAnswer": "produced by liver, marks inflammation",
+
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "Cardiac B-Natriuretic Peptide (BNP)",
+      "questionImage": null,
+      "options": [
+        "a myocardial muscle protein, this is very specific to cardiac injury",
+        "an enzyme present in the myocardium",
+        "produced by liver, marks inflammation",
+        "hormone secreted from cardiac cells when they have been stretched, high levels are highly indicative of heart failure"
+      ],
+      "correctAnswer": "hormone secreted from cardiac cells when they have been stretched, high levels are highly indicative of heart failure",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "Holter Monitor",
+      "questionImage": null,
+      "options": ["Records EKG events over time for diagnostics - a telemetry pack"],
+      "correctAnswer": "Records EKG events over time for diagnostics - a telemetry pack",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "Trans-thoracic Echocardiogram (TTE/Echo)",
+      "questionImage": null,
+      "options": ["Uses ultrasounds to record heart movement; Assess structures in the heart; Can assess amount of blood pumping from heart"],
+      "correctAnswer": "Uses ultrasounds to record heart movement; Assess structures in the heart; Can assess amount of blood pumping from heart",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "Trans-esophageal Echocardiogram (TEE)",
+      "questionImage": null,
+      "options": ["A probe with an ultrasound transducer is placed in the esophagus and sends images of the heart. Frequently used for assessment of valves and endocarditis; Can detect clots in heart; Must be NPO/Monitor O2 SATS"],
+      "correctAnswer": "A probe with an ultrasound transducer is placed in the esophagus and sends images of the heart. Frequently used for assessment of valves and endocarditis; Can detect clots in heart; Must be NPO/Monitor O2 SATS",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "Cardiac Stress Test",
+      "questionImage": null,
+      "options": ["Evaluates cardiac stress and therefore Cardiac reserve; Cardiac symptoms frequently occur with activity due to increase in demand; Test will get HR and RR up in client and evaluate cardiac response; EKG is monitored for changes indicating CAD"],
+      "correctAnswer": "Evaluates cardiac stress and therefore Cardiac reserve; Cardiac symptoms frequently occur with activity due to increase in demand; Test will get HR and RR up in client and evaluate cardiac response; EKG is monitored for changes indicating CAD",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 29,
+      "questionText": "Cardiac Catheterization/Coronary angiography",
+      "questionImage": null,
+      "options": ["Insertion of a catheter into the coronary arteries via femoral or alternate site. Angiography is an injection of dye or contrast medium to visualize the arteries.  Allows HCP to locate blockages Can open blockages and place stents"],
+      "correctAnswer": "Insertion of a catheter into the coronary arteries via femoral or alternate site. Angiography is an injection of dye or contrast medium to visualize the arteries.  Allows HCP to locate blockages Can open blockages and place stents",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 30,
+      "questionText": "Polarize, Depolarize, Repolarize",
+      "questionImage": null,
+      "options": ["Polarize is resting heart state.  Depolarize is to heart contract.  Repolarize is to reset."],
+      "correctAnswer": "Polarize is resting heart state.  Depolarize is to heart contract.  Repolarize is to reset.",
+      "explanationText": "",
+      "explanationImage": null
+    }
+  ]
+}
