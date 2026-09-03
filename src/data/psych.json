@@ -85,7 +85,9 @@
       "id": 7,
       "questionText": "Interview Process",
       "questionImage": null,
-      "options": ["Pre-orientation Phase (research patient, recognize self thoguhts/feels, anticipate ground rules), Orientation (build rapport, set relationship parameters, confidentiality), Working Phase (maintain relationship, get more data, promote patient solving, self-esteem, behavior change), Termination Phase (summarize goals, review situation, etc.)"],
+      "options": [
+        "Pre-orientation Phase (research patient, recognize self thoguhts/feels, anticipate ground rules), Orientation (build rapport, set relationship parameters, confidentiality), Working Phase (maintain relationship, get more data, promote patient solving, self-esteem, behavior change), Termination Phase (summarize goals, review situation, etc.)"
+      ],
       "correctAnswer": "Pre-orientation Phase (research patient, recognize self thoguhts/feels, anticipate ground rules), Orientation (build rapport, set relationship parameters, confidentiality), Working Phase (maintain relationship, get more data, promote patient solving, self-esteem, behavior change), Termination Phase (summarize goals, review situation, etc.)",
       "explanationText": "",
       "explanationImage": null
@@ -103,8 +105,699 @@
       "id": 9,
       "questionText": "Behavioral Therapy",
       "questionImage": null,
-      "options": ["Correction of learned maladaptive behavior (i.e. exposure therapy)"],
+      "options": [
+        "Correction of learned maladaptive behavior (i.e. exposure therapy)"
+      ],
       "correctAnswer": "Correction of learned maladaptive behavior (i.e. exposure therapy)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 10,
+      "questionText": "We know that Eleanor has come to the clinic for help with sleep. Which function of the brain controls this?",
+      "questionImage": null,
+      "options": [
+        "Homeostasis",
+        "ANS regulation",
+        "Circadian rhythm",
+        "Impulse conduction"
+      ],
+      "correctAnswer": "Circadian rhythm",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "Which neuroimaging technique would reveal problems in the anatomical structure of the brain but not problems in function?",
+      "questionImage": null,
+      "options": ["CT", "PET", "SPECT", "None of the above."],
+      "correctAnswer": "CT",
+      "explanationText": "CT (computed tomography) provides detailed images of the brain's anatomical structures, allowing healthcare providers to identify structural abnormalities such as bleeding, tumors, or swelling. PET and SPECT scans primarily assess brain function by showing metabolic activity or blood flow.",
+      "explanationImage": null
+    },
+
+    {
+      "id": 14,
+      "questionText": "Which part of the brain is most responsible for Eleanor’s difficulty with delivering her lectures and remembering whether she has eaten?",
+      "questionImage": null,
+      "options": [
+        "Brainstem",
+        "Cerebrum (big brain)",
+        "Cerebellum (small brain)",
+        "Hypothalamus"
+      ],
+      "correctAnswer": "Cerebrum (big brain)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 12,
+      "questionText": "A patient has decreased circulating levels of GABA. Which health problem is this most likely to suggest?",
+      "questionImage": null,
+      "options": [
+        "Alzheimer’s disease",
+        "Parkinson’s disease",
+        "Anxiety disorders",
+        "Insomnia"
+      ],
+      "correctAnswer": "Anxiety disorders",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 13,
+      "questionText": "Eleanor is treated with a _____, which helps to slow the destruction of acetylcholine.",
+      "questionImage": null,
+      "options": [
+        "5-HT2A (serotonin) antagonist",
+        "GABA",
+        "D2 (dopamine) antagonist",
+        "cholinesterase inhibitor"
+      ],
+      "correctAnswer": "cholinesterase inhibitor",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 15,
+      "questionText": "Parasympathetic",
+      "questionImage": null,
+      "options": ["Relaxation"],
+      "correctAnswer": "Relaxation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "Sympathetic",
+      "questionImage": null,
+      "options": ["Fight or Flight"],
+      "correctAnswer": "Fight or Flight",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 17,
+      "questionText": "Brainstem",
+      "questionImage": null,
+      "options": [
+        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
+        "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
+        "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
+        "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication."
+      ],
+      "correctAnswer": "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 18,
+      "questionText": "Hypothalamus",
+      "questionImage": null,
+      "options": [
+        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
+        "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
+        "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
+        "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication."
+      ],
+      "correctAnswer": "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 19,
+      "questionText": "Cerebellum",
+      "questionImage": null,
+      "options": [
+        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
+        "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
+        "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
+        "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication."
+      ],
+      "correctAnswer": "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 20,
+      "questionText": "Cerebrum",
+      "questionImage": null,
+      "options": [
+        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
+        "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
+        "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
+        "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication."
+      ],
+      "correctAnswer": "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "Dopamine",
+      "questionImage": null,
+      "options": [
+        "Muscle movement. Perception/imagination. Emotions. Decision making. Too little = muscle rigidity. Too much = hallucinations/altered perceptions.",
+        "Accelerator/Excitor of the brain. Learning and memory.",
+        "Attention/arousal. Stimulate fight or flight."
+      ],
+      "correctAnswer": "Muscle movement. Perception/imagination. Emotions. Decision making. Too little = muscle rigidity. Too much = hallucinations/altered perceptions.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "Glutamate",
+      "questionImage": null,
+      "options": [
+        "Muscle movement. Perception/imagination. Emotions. Decision making. Too little = muscle rigidity. Too much = hallucinations/altered perceptions.",
+        "Accelerator/Excitor of the brain. Learning and memory.",
+        "Attention/arousal. Stimulate fight or flight."
+      ],
+      "correctAnswer": "Accelerator/Excitor of the brain. Learning and memory.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "Norepinephrine",
+      "questionImage": null,
+      "options": [
+        "Muscle movement. Perception/imagination. Emotions. Decision making. Too little = muscle rigidity. Too much = hallucinations/altered perceptions.",
+        "Accelerator/Excitor of the brain. Learning and memory.",
+        "Attention/arousal. Stimulate fight or flight."
+      ],
+      "correctAnswer": "Attention/arousal. Stimulate fight or flight.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 24,
+      "questionText": "Benzodiazepines",
+      "questionImage": null,
+      "options": [
+        "Keep the channel open, resulting in hyperpolarization of the neurons",
+        "Prevent reuptake, increasing the amount of NT in the synaptic gap",
+        "destroy NT in the gap",
+        "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
+        "Block the receptors"
+      ],
+      "correctAnswer": "Keep the channel open, resulting in hyperpolarization of the neurons",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "Anti-Depressants",
+      "questionImage": null,
+      "options": [
+        "Keep the channel open, resulting in hyperpolarization of the neurons",
+        "Prevent reuptake, increasing the amount of NT in the synaptic gap",
+        "destroy NT in the gap",
+        "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
+        "Block the receptors"
+      ],
+      "correctAnswer": "Prevent reuptake, increasing the amount of NT in the synaptic gap",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "Cholinesterase Inhibitors",
+      "questionImage": null,
+      "options": [
+        "Keep the channel open, resulting in hyperpolarization of the neurons",
+        "Prevent reuptake, increasing the amount of NT in the synaptic gap",
+        "destroy NT in the gap",
+        "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
+        "Block the receptors"
+      ],
+      "correctAnswer": "destroy NT in the gap",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "Mood Stabilizers",
+      "questionImage": null,
+      "options": [
+        "Keep the channel open, resulting in hyperpolarization of the neurons",
+        "Prevent reuptake, increasing the amount of NT in the synaptic gap",
+        "destroy NT in the gap",
+        "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
+        "Block the receptors"
+      ],
+      "correctAnswer": "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "Anti-Psychotics",
+      "questionImage": null,
+      "options": [
+        "Keep the channel open, resulting in hyperpolarization of the neurons",
+        "Prevent reuptake, increasing the amount of NT in the synaptic gap",
+        "destroy NT in the gap",
+        "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
+        "Block the receptors"
+      ],
+      "correctAnswer": "Block the receptors",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 29,
+      "questionText": "All psychotropic medications can interfere with motor ability, causing psychomotor retardation, attention, and judgment.",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 30,
+      "questionText": "Antianxiety and hypnotic drugs",
+      "questionImage": null,
+      "options": [
+        "GABA",
+        "Norepinephrine and Serotonin",
+        "Acetylcholine",
+        "Glutamate",
+        "Dopamine and Serotonin"
+      ],
+      "correctAnswer": "GABA",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 31,
+      "questionText": "Antidepressant drugs",
+      "questionImage": null,
+      "options": [
+        "GABA",
+        "Norepinephrine and Serotonin",
+        "Acetylcholine",
+        "Glutamate",
+        "Dopamine and Serotonin"
+      ],
+      "correctAnswer": "Norepinephrine and Serotonin",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 32,
+      "questionText": "Cholinesterase inhibitors",
+      "questionImage": null,
+      "options": [
+        "GABA",
+        "Norepinephrine and Serotonin",
+        "Acetylcholine",
+        "Glutamate",
+        "Dopamine and Serotonin"
+      ],
+      "correctAnswer": "Acetylcholine",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 33,
+      "questionText": "Mood stabilizers",
+      "questionImage": null,
+      "options": [
+        "GABA",
+        "Norepinephrine and Serotonin",
+        "Acetylcholine",
+        "Glutamate",
+        "Dopamine and Serotonin"
+      ],
+      "correctAnswer": "Glutamate",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 34,
+      "questionText": "Antipsychotic drugs",
+      "questionImage": null,
+      "options": [
+        "GABA",
+        "Norepinephrine and Serotonin",
+        "Acetylcholine",
+        "Glutamate",
+        "Dopamine and Serotonin"
+      ],
+      "correctAnswer": "Dopamine and Serotonin",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 35,
+      "questionText": "SSRIs and SNRIs",
+      "questionImage": null,
+      "options": [
+        "2-4 weeks for clinical response. GI sx, HA, Sexual Dysfunction. Do not stop abruptly; May increase suicidal thoughts. Avoid Alcohol. Know common drugs in this category. Drug names: Prozac, Celexa, Lexapro, Zoloft"
+      ],
+      "correctAnswer": "2-4 weeks for clinical response. GI sx, HA, Sexual Dysfunction. Do not stop abruptly; May increase suicidal thoughts. Avoid Alcohol. Know common drugs in this category. Drug names: Prozac, Celexa, Lexapro, Zoloft",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "Tricyclic Antidepressants",
+      "questionImage": null,
+      "options": [
+        "2 - 4 weeks clinical response. SE: sedation, blurry vision, orthostatic hypotension.. OTC Drugs can interfere. Do not stop abruptly. Highly lethal in overdose. Drug names: Nortriptyline, amitriptyline"
+      ],
+      "correctAnswer": "2 - 4 weeks clinical response. SE: sedation, blurry vision, orthostatic hypotension.. OTC Drugs can interfere. Do not stop abruptly. Highly lethal in overdose. Drug names: Nortriptyline, amitriptyline",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "MAOIs",
+      "questionImage": null,
+      "options": [
+        "2-4 week clinical response. Rarely used, requires close monitoring. Potential fatal drug and food interactions. Tyramine-Restricted Diet. No yeast products (alcohol), wine, processed meats, and aged cheeses, avocados. Most fresh fruits, vegetables, and fresh meat are okay. Drug names: Nardil, Marplan, Parnate, Emsam"
+      ],
+      "correctAnswer": "2-4 week clinical response. Rarely used, requires close monitoring. Potential fatal drug and food interactions. Tyramine-Restricted Diet. No yeast products (alcohol), wine, processed meats, and aged cheeses, avocados. Most fresh fruits, vegetables, and fresh meat are okay. Drug names: Nardil, Marplan, Parnate, Emsam",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 35,
+      "questionText": "Benzodiazepines/Sleep agents/Melatonin",
+      "questionImage": null,
+      "options": [
+        "Short-acting & PRN use, not for long-term maintenance of anxiety. Fall Risk, interferes with motor ability, reaction time, attention, and judgment. Avoid Alcohol use. Long-term use has a risk of memory changes. Drug names: Ativan, Xanax, Valium."
+      ],
+      "correctAnswer": "Short-acting & PRN use, not for long-term maintenance of anxiety. Fall Risk, interferes with motor ability, reaction time, attention, and judgment. Avoid Alcohol use. Long-term use has a risk of memory changes. Drug names: Ativan, Xanax, Valium.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "Lithium – Main drug of choice",
+      "questionImage": null,
+      "options": [
+        "10-21 days response time. Take with meals due to nausea. Common SE: fine hand tremors, nausea, polyuria. Can cause dehydration. Levels must be checked: Therapeutic levels 0.6-1.2 (1.4) mEg/L Toxicity levels > 1.5 mEq/L"
+      ],
+      "correctAnswer": "10-21 days response time. Take with meals due to nausea. Common SE: fine hand tremors, nausea, polyuria. Can cause dehydration. Levels must be checked: Therapeutic levels 0.6-1.2 (1.4) mEg/L Toxicity levels > 1.5 mEq/L",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "Anti-psychotic",
+      "questionImage": null,
+      "options": [
+        "Olanzapine (Zyprexa) –Used to control hyperactivity due to mania, works to get symptoms under immediate control."
+      ],
+      "correctAnswer": "Olanzapine (Zyprexa) –Used to control hyperactivity due to mania, works to get symptoms under immediate control.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 38,
+      "questionText": "Anticonvulsants",
+      "questionImage": null,
+      "options": ["Valproate, Carbamazepine, Lamotrigine, and Gabapentin"],
+      "correctAnswer": "Valproate, Carbamazepine, Lamotrigine, and Gabapentin",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 39,
+      "questionText": "Suicide",
+      "questionImage": null,
+      "options": [
+        "Intentional act of killing oneself by any means",
+        "Thinking about killing oneself",
+        "Suicide resulting in death",
+
+        "Self-injury directed to the surface of the body to induce relief from a negative feeling/cognitive state or to achieve a positive mood state"
+      ],
+      "correctAnswer": "Intentional act of killing oneself by any means",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 40,
+      "questionText": "Suicidal ideation",
+      "questionImage": null,
+      "options": [
+        "Intentional act of killing oneself by any means",
+        "Thinking about killing oneself",
+        "Suicide resulting in death",
+
+        "Self-injury directed to the surface of the body to induce relief from a negative feeling/cognitive state or to achieve a positive mood state"
+      ],
+      "correctAnswer": "Thinking about killing oneself",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 41,
+      "questionText": "Completed suicide",
+      "questionImage": null,
+      "options": [
+        "Intentional act of killing oneself by any means",
+        "Thinking about killing oneself",
+        "Suicide resulting in death",
+
+        "Self-injury directed to the surface of the body to induce relief from a negative feeling/cognitive state or to achieve a positive mood state"
+      ],
+      "correctAnswer": "Suicide resulting in death",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 42,
+      "questionText": "Nonsuicidal self-injury",
+      "questionImage": null,
+      "options": [
+        "Intentional act of killing oneself by any means",
+        "Thinking about killing oneself",
+        "Suicide resulting in death",
+
+        "Self-injury directed to the surface of the body to induce relief from a negative feeling/cognitive state or to achieve a positive mood state"
+      ],
+      "correctAnswer": "Self-injury directed to the surface of the body to induce relief from a negative feeling/cognitive state or to achieve a positive mood state",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 43,
+      "questionText": "I can’t take it anymore",
+      "questionImage": null,
+      "options": ["Overt statement", "Covert statement"],
+      "correctAnswer": "Overt statement",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 44,
+      "questionText": "It won’t be a problem much longer",
+      "questionImage": null,
+      "options": ["Overt statement", "Covert statement"],
+      "correctAnswer": "Covert statement",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 45,
+      "questionText": "Prevention",
+      "questionImage": null,
+      "options": [
+        "activities that provide support, information, and education to prevent suicide",
+        "treatment of the actual suicidal crisis",
+        "interventions with a circle of survivors left by individuals who completed suicide to reduce the traumatic aftereffects"
+      ],
+      "correctAnswer": "activities that provide support, information, and education to prevent suicide",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "Treatment",
+      "questionImage": null,
+      "options": [
+        "activities that provide support, information, and education to prevent suicide",
+        "treatment of the actual suicidal crisis",
+        "interventions with a circle of survivors left by individuals who completed suicide to reduce the traumatic aftereffects"
+      ],
+      "correctAnswer": "treatment of the actual suicidal crisis",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "Postvention",
+      "questionImage": null,
+      "options": [
+        "activities that provide support, information, and education to prevent suicide",
+        "treatment of the actual suicidal crisis",
+        "interventions with a circle of survivors left by individuals who completed suicide to reduce the traumatic aftereffects"
+      ],
+      "correctAnswer": "interventions with a circle of survivors left by individuals who completed suicide to reduce the traumatic aftereffects",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "Nonsuicidal Self-Injury",
+      "questionImage": null,
+      "options": [
+        "Deliberate and direct attempt to cause bodily harm that does not result in death"
+      ],
+      "correctAnswer": "Deliberate and direct attempt to cause bodily harm that does not result in death",
+      "explanationText": "Increase prevalence in younger generations: Cutting, Biting, Skin picking, Burning",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "A person with which psychiatric problem is most likely to complete suicide?",
+      "questionImage": null,
+      "options": [
+        "Personality disorder",
+        "Major depression",
+        "Substance abuse",
+        "Schizophrenia"
+      ],
+      "correctAnswer": "Major depression",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "Which method of suicide has the highest lethality?",
+      "questionImage": null,
+      "options": [
+        "Ingesting pills",
+        "Cutting one’s wrists",
+        "Inhaling natural gas",
+        "Self-inflicted gunshot wound"
+      ],
+      "correctAnswer": "Self-inflicted gunshot wound",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 51,
+      "questionText": "Anger",
+      "questionImage": null,
+      "options": [
+        "An emotional response to frustration of desires, threat to one’s needs (emotional or physical), or a challenge",
+        "Action or behavior that results in verbal or physical attack",
+        "Objectionable act that involves intentional use of force that results in , or has the potential to result in, injury to another person."
+      ],
+      "correctAnswer": "An emotional response to frustration of desires, threat to one’s needs (emotional or physical), or a challenge",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "Aggression",
+      "questionImage": null,
+      "options": [
+        "An emotional response to frustration of desires, threat to one’s needs (emotional or physical), or a challenge",
+        "Action or behavior that results in verbal or physical attack",
+        "Objectionable act that involves intentional use of force that results in , or has the potential to result in, injury to another person."
+      ],
+      "correctAnswer": "Action or behavior that results in verbal or physical attack",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "Violence",
+      "questionImage": null,
+      "options": [
+        "An emotional response to frustration of desires, threat to one’s needs (emotional or physical), or a challenge",
+        "Action or behavior that results in verbal or physical attack",
+        "Objectionable act that involves intentional use of force that results in , or has the potential to result in, injury to another person."
+      ],
+      "correctAnswer": "Objectionable act that involves intentional use of force that results in , or has the potential to result in, injury to another person.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 55,
+      "questionText": "Cycle of Violence",
+      "questionImage": null,
+      "options": ["Honeymoon/Remorse -> Escalation -> Explosion"],
+      "correctAnswer": "Honeymoon/Remorse -> Escalation -> Explosion",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "Primary prevention of abuse",
+      "questionImage": null,
+      "options": [
+        "Measures taken to prevent the occurrence of abuse.",
+        "Early intervention in abusive situations to minimize their disabling or long-term effects.",
+        "Facilitating the healing and rehabilitative process. Providing support. Assisting survivors of violence to achieve their optimal level of safety, health, and well-being."
+      ],
+      "correctAnswer": "Measures taken to prevent the occurrence of abuse.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "Secondary prevention of abuse",
+      "questionImage": null,
+      "options": [
+        "Measures taken to prevent the occurrence of abuse.",
+        "Early intervention in abusive situations to minimize their disabling or long-term effects.",
+        "Facilitating the healing and rehabilitative process. Providing support. Assisting survivors of violence to achieve their optimal level of safety, health, and well-being."
+      ],
+      "correctAnswer": "Early intervention in abusive situations to minimize their disabling or long-term effects.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "Tertiary prevention of abuse",
+      "questionImage": null,
+      "options": [
+        "Measures taken to prevent the occurrence of abuse.",
+        "Early intervention in abusive situations to minimize their disabling or long-term effects.",
+        "Facilitating the healing and rehabilitative process. Providing support. Assisting survivors of violence to achieve their optimal level of safety, health, and well-being."
+      ],
+      "correctAnswer": "Facilitating the healing and rehabilitative process. Providing support. Assisting survivors of violence to achieve their optimal level of safety, health, and well-being.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 62,
+      "questionText": "Self-Harm Phone Number",
+      "questionImage": null,
+      "options": ["988 Federal Self-Harm Hotline.  211 for Indiana Resources."],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "Crisis Text Line",
+      "questionImage": null,
+      "options": ["Text 741741"],
+      "correctAnswer": "",
       "explanationText": "",
       "explanationImage": null
     }
