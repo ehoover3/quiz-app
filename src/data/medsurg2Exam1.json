@@ -295,7 +295,9 @@
       "id": 25,
       "questionText": "Holter Monitor",
       "questionImage": null,
-      "options": ["Records EKG events over time for diagnostics - a telemetry pack"],
+      "options": [
+        "Records EKG events over time for diagnostics - a telemetry pack"
+      ],
       "correctAnswer": "Records EKG events over time for diagnostics - a telemetry pack",
       "explanationText": "",
       "explanationImage": null
@@ -304,7 +306,9 @@
       "id": 26,
       "questionText": "Trans-thoracic Echocardiogram (TTE/Echo)",
       "questionImage": null,
-      "options": ["Uses ultrasounds to record heart movement; Assess structures in the heart; Can assess amount of blood pumping from heart"],
+      "options": [
+        "Uses ultrasounds to record heart movement; Assess structures in the heart; Can assess amount of blood pumping from heart"
+      ],
       "correctAnswer": "Uses ultrasounds to record heart movement; Assess structures in the heart; Can assess amount of blood pumping from heart",
       "explanationText": "",
       "explanationImage": null
@@ -313,7 +317,9 @@
       "id": 27,
       "questionText": "Trans-esophageal Echocardiogram (TEE)",
       "questionImage": null,
-      "options": ["A probe with an ultrasound transducer is placed in the esophagus and sends images of the heart. Frequently used for assessment of valves and endocarditis; Can detect clots in heart; Must be NPO/Monitor O2 SATS"],
+      "options": [
+        "A probe with an ultrasound transducer is placed in the esophagus and sends images of the heart. Frequently used for assessment of valves and endocarditis; Can detect clots in heart; Must be NPO/Monitor O2 SATS"
+      ],
       "correctAnswer": "A probe with an ultrasound transducer is placed in the esophagus and sends images of the heart. Frequently used for assessment of valves and endocarditis; Can detect clots in heart; Must be NPO/Monitor O2 SATS",
       "explanationText": "",
       "explanationImage": null
@@ -322,7 +328,9 @@
       "id": 28,
       "questionText": "Cardiac Stress Test",
       "questionImage": null,
-      "options": ["Evaluates cardiac stress and therefore Cardiac reserve; Cardiac symptoms frequently occur with activity due to increase in demand; Test will get HR and RR up in client and evaluate cardiac response; EKG is monitored for changes indicating CAD"],
+      "options": [
+        "Evaluates cardiac stress and therefore Cardiac reserve; Cardiac symptoms frequently occur with activity due to increase in demand; Test will get HR and RR up in client and evaluate cardiac response; EKG is monitored for changes indicating CAD"
+      ],
       "correctAnswer": "Evaluates cardiac stress and therefore Cardiac reserve; Cardiac symptoms frequently occur with activity due to increase in demand; Test will get HR and RR up in client and evaluate cardiac response; EKG is monitored for changes indicating CAD",
       "explanationText": "",
       "explanationImage": null
@@ -331,7 +339,9 @@
       "id": 29,
       "questionText": "Cardiac Catheterization/Coronary angiography",
       "questionImage": null,
-      "options": ["Insertion of a catheter into the coronary arteries via femoral or alternate site. Angiography is an injection of dye or contrast medium to visualize the arteries.  Allows HCP to locate blockages Can open blockages and place stents"],
+      "options": [
+        "Insertion of a catheter into the coronary arteries via femoral or alternate site. Angiography is an injection of dye or contrast medium to visualize the arteries.  Allows HCP to locate blockages Can open blockages and place stents"
+      ],
       "correctAnswer": "Insertion of a catheter into the coronary arteries via femoral or alternate site. Angiography is an injection of dye or contrast medium to visualize the arteries.  Allows HCP to locate blockages Can open blockages and place stents",
       "explanationText": "",
       "explanationImage": null
@@ -340,10 +350,84 @@
       "id": 30,
       "questionText": "Polarize, Depolarize, Repolarize",
       "questionImage": null,
-      "options": ["Polarize is resting heart state.  Depolarize is to heart contract.  Repolarize is to reset."],
+      "options": [
+        "Polarize is resting heart state.  Depolarize is to heart contract.  Repolarize is to reset."
+      ],
       "correctAnswer": "Polarize is resting heart state.  Depolarize is to heart contract.  Repolarize is to reset.",
       "explanationText": "",
       "explanationImage": null
-    }
+    },
+
+    {
+      "id": 31,
+      "questionText": "Claudication Pain !!",
+      "questionImage": null,
+      "options": [
+        "Classic sign of peripheral artery disease.  Pain caused by exercise.  Resolves within 10 minutes.  Reproducible pain."
+      ],
+      "correctAnswer": "Classic sign of peripheral artery disease.  Pain caused by exercise.  Resolves within 10 minutes.  Reproducible pain.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 32,
+      "questionText": "Critical Limb Ischemia !!",
+      "questionImage": null,
+      "options": [
+        "chronic ischemic resting pain lasting more than 2 weeks (in toe, foot, leg) causing leg ulcers or gangrene - this is an emergency"
+      ],
+      "correctAnswer": "chronic ischemic resting pain lasting more than 2 weeks (in toe, foot, leg) causing leg ulcers or gangrene - this is an emergency",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 33,
+      "questionText": "LDL cholesteral is bad.  HDL cholesteral is good",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+
+    {
+      "id": 34,
+      "questionText": "Ankle Brachial Index !!",
+      "questionImage": null,
+      "options": [
+        "A screening tool for peripheral artery disease (PAD). Measure systolic blood pressure in both arms and both ankles. Use the highest arm systolic pressure as the denominator. Example: Right arm = 160/80 mmHg, left arm = 120/60 mmHg; right ankle = 120/60 mmHg, left ankle = 80/40 mmHg. Right ABI = 120 ÷ 160 = 0.75. Left ABI = 80 ÷ 160 = 0.50. The lower ABI is the left leg (0.50), indicating the left leg has a higher risk/severity of PAD."
+      ],
+      "correctAnswer": "A screening tool for peripheral artery disease (PAD). Measure systolic blood pressure in both arms and both ankles. Use the highest arm systolic pressure as the denominator. Example: Right arm = 160/80 mmHg, left arm = 120/60 mmHg; right ankle = 120/60 mmHg, left ankle = 80/40 mmHg. Right ABI = 120 ÷ 160 = 0.75. Left ABI = 80 ÷ 160 = 0.50. The lower ABI is the left leg (0.50), indicating the left leg has a higher risk/severity of PAD.",
+      "explanationText": "ABI is calculated by dividing the ankle systolic pressure by the highest brachial (arm) systolic pressure. An ABI of 1.00–1.40 is generally normal, 0.91–0.99 is borderline, 0.41–0.90 suggests PAD, and ≤0.40 indicates severe PAD. In this example, the left ABI is 0.50 and the right ABI is 0.75, so both legs are abnormal, with the left leg showing more significant arterial disease.  If below 0.4 it is concerning!!!!",
+      "explanationImage": null
+    },
+    {
+      "id": 35,
+      "questionText": "Ankle Brachial Index !!",
+      "questionImage": null,
+      "options": ["If number is below 0.4 then it is concerning!!"],
+      "correctAnswer": "If number is below 0.4 then it is concerning!!",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "POST SURGERY: 6 P's Every 15 minutes then hourly !!",
+      "questionImage": null,
+      "options": ["pain, peresthesia (needle like sensation), pulses, pallor, pressure (edema), paralysis (can they move toes, etc)"],
+      "correctAnswer": "pain, peresthesia (needle like sensation), pulses, pallor, pressure (edema), paralysis (can they move toes, etc)",
+      "explanationText": "vital signs, bleeding, thrombosis/embolisis, compartment syndrome, early/frequent ambulation",
+      "explanationImage": null
+    },
+
+    {
+      "id": 37,
+      "questionText": "Anti-claudication Pain Medication",
+      "questionImage": null,
+      "options": ["Pentoxifylline (less effective), Cilostazol (usually take less than 3 months due to side effects; contraindicated if heart failure present)"],
+      "correctAnswer": "Pentoxifylline (less effective), Cilostazol (usually take less than 3 months due to side effects; contraindicated if heart failure present)",
+      "explanationText": "improves blood flow",
+      "explanationImage": null
+    } 
   ]
 }
