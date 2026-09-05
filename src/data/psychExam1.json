@@ -22,8 +22,6 @@
       "questionText": "A patient gives brief answers and describes events out of sequence. Which interviewing approach best supports both therapeutic communication and a comprehensive mental status assessment?",
       "questionImage": null,
       "options": [
-        "Ask a series of specific questions and focus only on the patient’s stated symptoms.",
-        "Redirect the patient quickly to factual details while minimizing pauses in the conversation.",
         "Use broad open-ended questions, therapeutic silence, and clarification while observing verbal and nonverbal behavior."
       ],
 
@@ -204,10 +202,7 @@
       "questionText": "Brainstem",
       "questionImage": null,
       "options": [
-        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
-        "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
-        "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
-        "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication."
+        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)"
       ],
       "correctAnswer": "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
       "explanationText": "",
@@ -232,8 +227,6 @@
       "questionText": "Cerebellum",
       "questionImage": null,
       "options": [
-        "Regulates vital functions such as HR, breathing, digestion, and sleeping (limbic system)",
-        "Basic drives (hunger, thirst, sex), link between thought and emotion, and functioning of internal organs",
         "The little brain, Regulates skeletal muscles. Maintains equilibrium.",
         "Mental activities. Conscious sense of being. Emotional status. Memory. Language and communication."
       ],
@@ -337,9 +330,11 @@
         "Block the receptors"
       ],
       "correctAnswer": "destroy NT in the gap",
-      "explanationText": "",
+      "explanationText": "NT is neurotransmitter.  Cholinesterase inhibitors block the enzyme acetylcholinesterase, which normally breaks down acetylcholine in the synaptic gap. By preventing acetylcholine breakdown, these medications increase the amount and duration of acetylcholine available to stimulate receptors. Remember: cholinesterase normally destroys/breaks down acetylcholine; cholinesterase inhibitors prevent that breakdown.",
       "explanationImage": null
     },
+
+
     {
       "id": 27,
       "questionText": "Mood Stabilizers",
@@ -352,7 +347,7 @@
         "Block the receptors"
       ],
       "correctAnswer": "Work on the electrical activity of the neuron, slowing the charge. Some block neuron transmission",
-      "explanationText": "",
+  "explanationText": "🧠 Mood stabilizers = slow excessive neuronal activity. They can affect ion channels and electrical activity in neurons, helping prevent excessive brain activity and stabilize mood.",
       "explanationImage": null
     },
     {
@@ -367,7 +362,7 @@
         "Block the receptors"
       ],
       "correctAnswer": "Block the receptors",
-      "explanationText": "",
+  "explanationText": "🧠 Antipsychotics = block neurotransmitter receptors. Most block dopamine D₂ receptors, reducing excessive dopamine activity and helping control hallucinations and delusions.",
       "explanationImage": null
     },
 
@@ -377,7 +372,7 @@
       "questionImage": null,
       "options": ["true"],
       "correctAnswer": "true",
-      "explanationText": "",
+  "explanationText": "🧠 Psychotropic medications can affect the CNS, potentially causing slowed movement, decreased attention, impaired judgment, or sedation. Monitor patients for changes in motor ability and mental alertness.",
       "explanationImage": null
     },
 
@@ -393,7 +388,7 @@
         "Dopamine and Serotonin"
       ],
       "correctAnswer": "GABA",
-      "explanationText": "",
+      "explanationText": "🧠 GABA = calming, relaxation, sleep. It is the major inhibitory neurotransmitter that slows brain activity.",
       "explanationImage": null
     },
     {
@@ -408,7 +403,7 @@
         "Dopamine and Serotonin"
       ],
       "correctAnswer": "Norepinephrine and Serotonin",
-      "explanationText": "",
+      "explanationText": "🧠 Serotonin = mood, emotions, sleep, appetite. 🧠 Norepinephrine = alertness, attention, energy, motivation.",
       "explanationImage": null
     },
     {
@@ -423,7 +418,7 @@
         "Dopamine and Serotonin"
       ],
       "correctAnswer": "Acetylcholine",
-      "explanationText": "",
+      "explanationText": "🧠 Acetylcholine = memory, learning, muscle movement. Cholinesterase inhibitors prevent its breakdown, increasing acetylcholine activity.",
       "explanationImage": null
     },
     {
@@ -438,7 +433,7 @@
         "Dopamine and Serotonin"
       ],
       "correctAnswer": "Glutamate",
-      "explanationText": "",
+      "explanationText": "🧠 Glutamate = learning, memory, and brain excitation. Mood stabilizers can reduce excessive glutamate activity and help stabilize mood.",
       "explanationImage": null
     },
     {
@@ -453,7 +448,7 @@
         "Dopamine and Serotonin"
       ],
       "correctAnswer": "Dopamine and Serotonin",
-      "explanationText": "",
+      "explanationText": "🧠 Dopamine = movement, motivation, reward. 🧠 Serotonin = mood, sleep, appetite.",
       "explanationImage": null
     },
 
@@ -553,13 +548,7 @@
       "id": 40,
       "questionText": "Suicidal ideation",
       "questionImage": null,
-      "options": [
-        "Intentional act of killing oneself by any means",
-        "Thinking about killing oneself",
-        "Suicide resulting in death",
-
-        "Self-injury directed to the surface of the body to induce relief from a negative feeling/cognitive state or to achieve a positive mood state"
-      ],
+      "options": ["Thinking about killing oneself"],
       "correctAnswer": "Thinking about killing oneself",
       "explanationText": "",
       "explanationImage": null
@@ -797,10 +786,9 @@
       "questionText": "Crisis Text Line",
       "questionImage": null,
       "options": ["Text 741741"],
-      "correctAnswer": "",
+      "correctAnswer": "Text 741741",
       "explanationText": "",
       "explanationImage": null
     }
   ]
 }
- 
