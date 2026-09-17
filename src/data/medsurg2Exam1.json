@@ -414,7 +414,9 @@
       "id": 36,
       "questionText": "POST SURGERY: 6 P's Every 15 minutes then hourly !!",
       "questionImage": null,
-      "options": ["pain, peresthesia (needle like sensation), pulses, pallor, pressure (edema), paralysis (can they move toes, etc)"],
+      "options": [
+        "pain, peresthesia (needle like sensation), pulses, pallor, pressure (edema), paralysis (can they move toes, etc)"
+      ],
       "correctAnswer": "pain, peresthesia (needle like sensation), pulses, pallor, pressure (edema), paralysis (can they move toes, etc)",
       "explanationText": "vital signs, bleeding, thrombosis/embolisis, compartment syndrome, early/frequent ambulation",
       "explanationImage": null
@@ -424,10 +426,184 @@
       "id": 37,
       "questionText": "Anti-claudication Pain Medication",
       "questionImage": null,
-      "options": ["Pentoxifylline (less effective), Cilostazol (usually take less than 3 months due to side effects; contraindicated if heart failure present)"],
+      "options": [
+        "Pentoxifylline (less effective), Cilostazol (usually take less than 3 months due to side effects; contraindicated if heart failure present)"
+      ],
       "correctAnswer": "Pentoxifylline (less effective), Cilostazol (usually take less than 3 months due to side effects; contraindicated if heart failure present)",
       "explanationText": "improves blood flow",
       "explanationImage": null
-    } 
+    },
+
+    {
+      "id": 38,
+      "questionText": "Left coronary artery (LCA)",
+      "questionImage": null,
+      "options": [
+        "Divides into two branches: • Left anterior descending (LAD) • Left circumflex artery • Supplies blood to the: • Left atrium • Left ventricle • Interventricular septum • Portion of right ventricle"
+      ],
+      "correctAnswer": "Divides into two branches: • Left anterior descending (LAD) • Left circumflex artery • Supplies blood to the: • Left atrium • Left ventricle • Interventricular septum • Portion of right ventricle",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 39,
+      "questionText": "Left circumflex artery (Cx)",
+      "questionImage": null,
+      "options": ["- a subdivision of the left coronary atery"],
+      "correctAnswer": "- a subdivision of the left coronary atery",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 40,
+      "questionText": "Left anterior descending artery (LAD)",
+      "questionImage": null,
+      "options": [
+        "- THE WIDOWMAKER -> supplies blood to left ventricle.  a subdivision of the left coronary atery"
+      ],
+      "correctAnswer": "- THE WIDOWMAKER -> supplies blood to left ventricle.  a subdivision of the left coronary atery",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 41,
+      "questionText": "Right coronary artery (RCA)",
+      "questionImage": null,
+      "options": [
+        "Comes off the aorta • Supplies blood to the: • Right atrium • Right ventricle • Portion of posterior wall of left ventricle"
+      ],
+      "correctAnswer": "Comes off the aorta • Supplies blood to the: • Right atrium • Right ventricle • Portion of posterior wall of left ventricle",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 42,
+      "questionText": "Prinzmental angina",
+
+      "questionImage": null,
+      "options": ["stress induced"],
+      "correctAnswer": "stress induced",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 43,
+      "questionText": "- Myocardial Infarction",
+      "questionImage": null,
+      "options": ["microvascular not getting oxygen it needs"],
+      "correctAnswer": "microvascular not getting oxygen it needs",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 44,
+      "questionText": "- Silent ischemia",
+      "questionImage": null,
+      "options": [
+        "often with diabetics, where nerve signals are not sending pain signals.  EKG would show issue."
+      ],
+      "correctAnswer": "often with diabetics, where nerve signals are not sending pain signals.  EKG would show issue.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 45,
+      "questionText": "Ischemia",
+      "questionImage": null,
+      "options": ["Decreased oxygen to heart cells"],
+      "correctAnswer": "Decreased oxygen to heart (myocardial) cells",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "Angina Assessmnet",
+      "questionImage": null,
+      "options": ["SOLDCART, other symptoms SOB, Diaphoresis, Nausea, Fatigue"],
+      "correctAnswer": "SOLDCART, other symptoms SOB, Diaphoresis, Nausea, Fatigue",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "Chronic Stable Angina",
+      "questionImage": null,
+      "options": ["pain that occurs intermittently over a long period of time"],
+      "correctAnswer": "pain that occurs intermittently over a long period of time",
+      "explanationText": "Primary treatment: NITROGLYCERIN.  1. First stop the activity. 2. Take one sublingual nitroglycerin pill or use nitroglycerin spray 3. If pain is unrelieved in 5 minutes, call EMS or go to hospital • The client should NEVER drive themselves to the hospital!!! 4. Up to two more doses may be taken 5 minutes apart (for a total of three doses)",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "Acute Coronary Syndrome",
+      "questionImage": null,
+      "options": ["When chest pain from ischemia is prolonged and not immediately reversible, acute coronary syndrome (ACS) may develop."],
+      "correctAnswer": "When chest pain from ischemia is prolonged and not immediately reversible, acute coronary syndrome (ACS) may develop.",
+      "explanationText": "Unstable angina! Myocardial infarction!",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "Infarction",
+      "questionImage": null,
+      "options": ["It is dead.  No blood flow to it."],
+      "correctAnswer": "It is dead.  No blood flow to it.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "Unstable Angina (UA)",
+      "questionImage": null,
+      "options": ["A partial occlusion of coronary artery. New onset. Angina that begins at rest. Lasts prolonged length of time. Rest or medication does not relieve it."],
+      "correctAnswer": "A partial occlusion of coronary artery. New onset. Angina that begins at rest. Lasts prolonged length of time. Rest or medication does not relieve it.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "12 Lead EKG Changes - Unstable Angina",
+      "questionImage": null,
+      "options": ["Unstable Angina -> ST segment depressed or T wave inverted"],
+      "correctAnswer": "Unstable Angina -> ST segment depressed or T wave inverted",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "12 Lead EKG Changes - Non-ST Elevated Myocardial Infarction NSTEMI)",
+      "questionImage": null,
+      "options": ["ST Segment is depressed or T-wave is inverted"],
+      "correctAnswer": "ST Segment is depressed or T-wave is inverted",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "12 Lead EKG Changes - ST-Elevated Myocardial Infarction (STEMI)",
+      "questionImage": null,
+      "options": ["ST segment is elevated above isoelectric line"],
+      "correctAnswer": "ST segment is elevated above isoelectric line",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "Non-Occlusive Thrombus",
+      "questionImage": null,
+      "options": ["See week 3 powerpoint, slide 23"],
+      "correctAnswer": "See week 3 powerpoint, slide 23",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "Occlusive Thrombus",
+      "questionImage": null,
+      "options": ["See week 3 powerpoint, slide 23"],
+      "correctAnswer": "See week 3 powerpoint, slide 23",
+      "explanationText": "",
+      "explanationImage": null
+    }
   ]
 }

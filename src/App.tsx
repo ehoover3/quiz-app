@@ -62,6 +62,10 @@ export default function App() {
             Psych Exam 1
           </button>
 
+          <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("psychExam2")}>
+            Psych Exam 2
+          </button>
+
           <button className="button button-blue button-blue:hover" onClick={() => handleSelectQuiz("medsurg2Exam1")}>
             MedSurgTwo Exam 1
           </button>

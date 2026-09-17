@@ -1,0 +1,283 @@
+{
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "id": 1,
+      "questionText": "anxiety",
+      "questionImage": null,
+      "options": [
+        "reaction to specific danger",
+        "apprehension, uneasiness, uncertainty, or dread from real or perceived threat; necessary for survival"
+      ],
+      "correctAnswer": "apprehension, uneasiness, uncertainty, or dread from real or perceived threat; necessary for survival",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 2,
+      "questionText": "fear",
+      "questionImage": null,
+      "options": [
+        "reaction to specific danger",
+        "apprehension, uneasiness, uncertainty, or dread from real or perceived threat; necessary for survival"
+      ],
+      "correctAnswer": "reaction to specific danger",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 3,
+      "questionText": "anxiety levels",
+      "questionImage": null,
+      "options": [
+        "mild - some alertness, clear thinking; moderate - selective inattention, clear thinking hampered, problem solving not optimal; severe - perception greatly reduced, inable to focus, hyperventilate, nausea, headache, dizzy; Panic - running shouting screaming pacing, unable to process reality, impulse"
+      ],
+      "correctAnswer": "mild - some alertness, clear thinking; moderate - selective inattention, clear thinking hampered, problem solving not optimal; severe - perception greatly reduced, inable to focus, hyperventilate, nausea, headache, dizzy; Panic - running shouting screaming pacing, unable to process reality, impulse",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 4,
+      "questionText": "anxiety defense mechanisms",
+      "questionImage": null,
+      "options": [
+        "compensate, denial, projection, repression, undoing, reaction formation"
+      ],
+      "correctAnswer": "compensate, denial, projection, repression, undoing, reaction formation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 5,
+      "questionText": "anxiety defense mechanisms",
+      "questionImage": null,
+      "options": [
+        "true",
+        "compensate - do well elsewhere to make up for shortcoming in one area",
+        "denial - not believing something happened",
+        "project - project one's own feeling on to other unconsciously",
+        "repression - forget something severe or terrible happened to them",
+        "suppression - consciously trying to not be aware of someothing",
+        "undoing - someone flirts with coworker, then brings flowers to wife at home b/c they feel guilty",
+        "reaction formation - forming a reaction in opposite way that is expected, i.e. someone laughing about their suicidal thoughts"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 6,
+      "questionText": "generalized anxiety",
+      "questionImage": null,
+      "options": ["excessive worry for more than 6 months"],
+      "correctAnswer": "excessive worry for more than 6 months",
+      "explanationText": "more common in females.  2 to 1 ratio.",
+      "explanationImage": null
+    },
+    {
+      "id": 7,
+      "questionText": "separation anxiety",
+      "questionImage": null,
+      "options": [
+        "as early as 8 months to 24 months, peaks around 18 month, sleep disruptions, nightmares, GI issues, headaches, worry, shyness, uncertain, fatigue, lack of self direction"
+      ],
+      "correctAnswer": "as early as 8 months to 24 months, peaks around 18 month, sleep disruptions, nightmares, GI issues, headaches, worry, shyness, uncertain, fatigue, lack of self direction",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 8,
+      "questionText": "selective mutism",
+      "questionImage": null,
+      "options": [
+        "child chooses to stop talking, except to one or two safe people"
+      ],
+      "correctAnswer": "child chooses to stop talking, except to one or two safe people",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 9,
+      "questionText": "substance induced anxiety",
+      "questionImage": null,
+      "options": [
+        "anxiety, panic attacks, nervous, restless, obsession, compulsion with use of alcohol, cocaine, heroin, hallucinogens"
+      ],
+      "correctAnswer": "anxiety, panic attacks, nervous, restless, obsession, compulsion with use of alcohol, cocaine, heroin, hallucinogens",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 10,
+      "questionText": "anxiety due to a medical condition",
+      "questionImage": null,
+      "options": ["anxiety as direct result of a medical condition, due to multiple invasive or painful procedures"],
+      "correctAnswer": "anxiety as direct result of a medical condition, due to multiple invasive or painful procedures",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 11,
+      "questionText": "panic attack",
+      "questionImage": null,
+      "options": ["sudden onset of extreme apprehension or fear, usually with impending doom feeling,  unpredictability, 'fear of fear' leading to avoidance, hyperventilate, comorbid conditions include depression OCD phobias hyperthyroidism dizzy cardiac arrhythmias asthma COPD"],
+      "correctAnswer": "sudden onset of extreme apprehension or fear, usually with impending doom feeling,  unpredictability, 'fear of fear' leading to avoidance, hyperventilate, comorbid conditions include depression OCD phobias hyperthyroidism dizzy cardiac arrhythmias asthma COPD",
+      "explanationText": "sympathetic nervous system controls heart rate",
+      "explanationImage": null
+    },
+    {
+      "id": 12,
+      "questionText": "phobias",
+      "questionImage": null,
+      "options": ["persistent irrational fear to an activity or object"],
+      "correctAnswer": "persistent irrational fear to an activity or object",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 13,
+      "questionText": "agoraphobia",
+      "questionImage": null,
+      "options": ["fear of being in places they cannot escape"],
+      "correctAnswer": "fear of being in places they cannot escape",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 14,
+      "questionText": "obsessive compulsive disorder",
+      "questionImage": null,
+      "options": ["daily contamination illness rituals"],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 15,
+      "questionText": "trichotillomania and excoriation disorder",
+      "questionImage": null,
+      "options": ["hair pulling and skin picking"],
+      "correctAnswer": "hair pulling and skin picking",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 16,
+      "questionText": "SSRI",
+      "questionImage": null,
+      "options": ["anxiety first line intervention"],
+      "correctAnswer": "anxiety first line intervention",
+      "explanationText": "SSRI - Paxil, Prozac, Lexapro, Zoloft.  SNRI - Effexor, Cymbalta",
+      "explanationImage": null
+    },
+    {
+      "id": 17,
+      "questionText": "Benzodiazepines (GABA) - to treat anxiety short term to prevent addiction PRN",
+      "questionImage": null,
+      "options": ["work on GABA neurotransmitter to calm anxiety brain"],
+      "correctAnswer": "work on GABA neurotransmitter to calm anxiety brain",
+      "explanationText": "Ativan, Valium, Xanax, Klonopin.  Quick onset, avoid alcohol, potential for dependence.",
+      "explanationImage": null
+    },
+    {
+      "id": 18,
+      "questionText": "Buspar (Buspirone)",
+      "questionImage": null,
+      "options": ["The ONLY drug for long term anxiety disorder"],
+      "correctAnswer": "The ONLY drug for long term anxiety disorder",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 19,
+      "questionText": "What is the most extreme level of anxiety",
+      "questionImage": null,
+      "options": ["panic", "severe"],
+      "correctAnswer": "panic",
+      "explanationText": "panic attack or panic disorder is the most extreme level",
+      "explanationImage": null
+    },
+    {
+      "id": 20,
+      "questionText": "adapative use of defensive mechanisms can help lower anxiety",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 21,
+      "questionText": "Reaction formation is",
+      "questionImage": null,
+      "options": ["behaving in a way that is opposite of one's true feeling"],
+      "correctAnswer": "behaving in a way that is opposite of one's true feeling",
+      "explanationText": "Example: someone going through a romantic breakup is laughing",
+      "explanationImage": null
+    },
+    {
+      "id": 22,
+      "questionText": "obsessions are ritualistic behaviors",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "false",
+      "explanationText": "obsessions are throughts.  behaviors are compulsions",
+      "explanationImage": null
+    },
+    {
+      "id": 23,
+      "questionText": "first line anxiety disorder treatments are:",
+      "questionImage": null,
+      "options": ["SSRI and SNRI", "Benzos"],
+      "correctAnswer": "SSRI and SNRI",
+      "explanationText": "SSRI and SNRI are first line.  Benzos are second line",
+      "explanationImage": null
+    },
+    {
+      "id": 24,
+      "questionText": "body dysmorphic disorder is a preoccupation with a imagined defective body part but the client has a normal appearance",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 25,
+      "questionText": "patient experiencing panic attack is hyperventilating, what is nurse priority action?",
+      "questionImage": null,
+      "options": ["guide patient to slow, controlled breathing"],
+      "correctAnswer": "guide patient to slow, controlled breathing",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 26,
+      "questionText": "trichotillomanis is skin picking",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "false",
+      "explanationText": "it is hair picking.  Trich is hair.  tillo is to pull.",
+      "explanationImage": null
+    },
+    {
+      "id": 27,
+      "questionText": "Systematic desensitization is exposure to large amounts of undesirable stimulus",
+      "questionImage": null,
+      "options": ["true", "false"],
+      "correctAnswer": "flooding is exposure to large amounts of undesirable stimulus",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 28,
+      "questionText": "which nursing statement best demonstrates therapeutic communication with an anxious patient?",
+      "questionImage": null,
+      "options": ["tell me what is making you feel anxious right now"],
+      "correctAnswer": "tell me what is making you feel anxious right now",
+      "explanationText": "",
+      "explanationImage": null
+    }
+  ]
+}
