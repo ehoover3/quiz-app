@@ -278,6 +278,152 @@
       "correctAnswer": "tell me what is making you feel anxious right now",
       "explanationText": "",
       "explanationImage": null
+    },
+    {
+      "id": 29,
+      "questionText": "trauma",
+      "questionImage": null,
+      "options": ["response to incident or series of events that are emotionally disturbing or life-threatening with LASTING adverse effects on the individual"],
+      "correctAnswer": "response to incident or series of events that are emotionally disturbing or life-threatening with LASTING adverse effects on the individual",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 30,
+      "questionText": "PTSD",
+      "questionImage": null,
+      "options": ["It has been OVER A MONTH of flashbacks"],
+      "correctAnswer": "It has been OVER A MONTH of flashbacks",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 31,
+      "questionText": "Brain Heirarchy",
+      "questionImage": null,
+      "options": ["Brainsteam (temp, respiration, cardiac) -> Diencephalon (arousal, sleep, appetite, movement) -> Limbic (reward, memory, bonding, emotions) -> Cortex (creativity, thinking, language, values, time, hope)"],
+      "correctAnswer": "Brainsteam (temp, respiration, cardiac) -> Diencephalon (arousal, sleep, appetite, movement) -> Limbic (reward, memory, bonding, emotions) -> Cortex (creativity, thinking, language, values, time, hope)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 32,
+      "questionText": "SSRI are first line treatment for trauma",
+      "questionImage": null,
+      "options": ["SSRIs: Paxil and Zoloft.  2nd line is SNRI (i.e. Effexor).  TCAs (Remeron).  For hyperarousal Clonidine, Minipress, Propranolol (all are blood pressure meds)"],
+      "correctAnswer": "SSRIs: Paxil and Zoloft.  2nd line is SNRI (i.e. Effexor).  TCAs (Remeron).  For hyperarousal Clonidine, Minipress, Propranolol (all are blood pressure meds)",
+      "explanationText": "Propranolol is really good for stage fright.",
+      "explanationImage": null
+    },
+    {
+      "id": 33,
+      "questionText": "Acute Stress Disorder",
+      "questionImage": null,
+      "options": ["Symptoms persist for more than 3 days.  If more than 30 days, it would be PTSD."],
+      "correctAnswer": "Symptoms persist for more than 3 days.  If more than 30 days, it would be PTSD.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 34,
+      "questionText": "Case Study: Abused Child from Alcoholic Father",
+      "questionImage": null,
+      "options": ["Look at physical (headache, stomachache, nausea), behaviors, and screening"],
+      "correctAnswer": "Look at physical (headache, stomachache, nausea), behaviors, and screening",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 35,
+      "questionText": "IF THERE IS EVER A QUESTION.  SAFETY IS ALWAYS THE ANSWER.",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 36,
+      "questionText": "Intrusive thoughts.  Think stop.",
+      "questionImage": null,
+      "options": ["say stop to the thought. write down everything they need to do."],
+      "correctAnswer": "say stop to the thought. write down everything they need to do.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 37,
+      "questionText": "Hyponotics help people sleep",
+      "questionImage": null,
+      "options": ["Zolpidem, zaleplon, eszopiclone, ramelteon"],
+      "correctAnswer": "Zolpidem, zaleplon, eszopiclone, ramelteon",
+      "explanationText": "Know what they are, what they do, what they are, and how they affect the body!!!",
+      "explanationImage": null
+    },
+    {
+      "id": 38,
+      "questionText": "Zolpidem (Ambien)",
+      "questionImage": null,
+      "options": ["Hypnotic decreases time to sleep onset and increase amount of sleep"],
+      "correctAnswer": "Hypnotic decreases time to sleep onset and increase amount of sleep",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 39,
+      "questionText": "Zaleplon (Sonata)",
+      "questionImage": null,
+      "options": ["Decrease time to sleep onset"],
+      "correctAnswer": "Decrease time to sleep onset",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 40,
+      "questionText": "Eszopiclone (Lunestra)",
+      "questionImage": null,
+      "options": ["Decrease time to sleep onset and increase amount of sleep"],
+      "correctAnswer": "Decrease time to sleep onset and increase amount of sleep",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 41,
+      "questionText": "Ramelteon (Rozerem)",
+      "questionImage": null,
+      "options": ["Decrease time to sleep onset (non-habit forming; affects melatonin)"],
+      "correctAnswer": "Decrease time to sleep onset (non-habit forming; affects melatonin)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 42,
+      "questionText": "NOTICE THAT DRUGS WITH A 'Z' ARE FOR SLEEPINESS AND ARE SCHEDULE 4 PRESCRIBED DRUGS (except rozerem which is just melatonin)",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 43,
+      "questionText": "Disassociation",
+      "questionImage": null,
+      "options": ["Mildest is daydreaming.  Severe is amnesia."],
+      "correctAnswer": "Mildest is daydreaming.  Severe is amnesia.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 44,
+      "questionText": "Dissociative Disorders",
+      "questionImage": null,
+      "options": ["Depersonalization (Feel out of their body).  Dissociative Amnesia (inable to recall important events).  Dissociate Identity Disorder (Alternate personalities block traumatic experiences)."],
+      "correctAnswer": "Depersonalization (Feel out of their body).  Dissociative Amnesia (inable to recall important events).  Dissociate Identity Disorder (Alternate personalities block traumatic experiences).",
+      "explanationText": "",
+      "explanationImage": null
     }
   ]
 }
+
+
