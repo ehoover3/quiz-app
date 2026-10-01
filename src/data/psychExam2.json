@@ -112,7 +112,9 @@
       "id": 10,
       "questionText": "anxiety due to a medical condition",
       "questionImage": null,
-      "options": ["anxiety as direct result of a medical condition, due to multiple invasive or painful procedures"],
+      "options": [
+        "anxiety as direct result of a medical condition, due to multiple invasive or painful procedures"
+      ],
       "correctAnswer": "anxiety as direct result of a medical condition, due to multiple invasive or painful procedures",
       "explanationText": "",
       "explanationImage": null
@@ -121,7 +123,9 @@
       "id": 11,
       "questionText": "panic attack",
       "questionImage": null,
-      "options": ["sudden onset of extreme apprehension or fear, usually with impending doom feeling,  unpredictability, 'fear of fear' leading to avoidance, hyperventilate, comorbid conditions include depression OCD phobias hyperthyroidism dizzy cardiac arrhythmias asthma COPD"],
+      "options": [
+        "sudden onset of extreme apprehension or fear, usually with impending doom feeling,  unpredictability, 'fear of fear' leading to avoidance, hyperventilate, comorbid conditions include depression OCD phobias hyperthyroidism dizzy cardiac arrhythmias asthma COPD"
+      ],
       "correctAnswer": "sudden onset of extreme apprehension or fear, usually with impending doom feeling,  unpredictability, 'fear of fear' leading to avoidance, hyperventilate, comorbid conditions include depression OCD phobias hyperthyroidism dizzy cardiac arrhythmias asthma COPD",
       "explanationText": "sympathetic nervous system controls heart rate",
       "explanationImage": null
@@ -283,7 +287,9 @@
       "id": 29,
       "questionText": "trauma",
       "questionImage": null,
-      "options": ["response to incident or series of events that are emotionally disturbing or life-threatening with LASTING adverse effects on the individual"],
+      "options": [
+        "response to incident or series of events that are emotionally disturbing or life-threatening with LASTING adverse effects on the individual"
+      ],
       "correctAnswer": "response to incident or series of events that are emotionally disturbing or life-threatening with LASTING adverse effects on the individual",
       "explanationText": "",
       "explanationImage": null
@@ -301,7 +307,9 @@
       "id": 31,
       "questionText": "Brain Heirarchy",
       "questionImage": null,
-      "options": ["Brainsteam (temp, respiration, cardiac) -> Diencephalon (arousal, sleep, appetite, movement) -> Limbic (reward, memory, bonding, emotions) -> Cortex (creativity, thinking, language, values, time, hope)"],
+      "options": [
+        "Brainsteam (temp, respiration, cardiac) -> Diencephalon (arousal, sleep, appetite, movement) -> Limbic (reward, memory, bonding, emotions) -> Cortex (creativity, thinking, language, values, time, hope)"
+      ],
       "correctAnswer": "Brainsteam (temp, respiration, cardiac) -> Diencephalon (arousal, sleep, appetite, movement) -> Limbic (reward, memory, bonding, emotions) -> Cortex (creativity, thinking, language, values, time, hope)",
       "explanationText": "",
       "explanationImage": null
@@ -310,7 +318,9 @@
       "id": 32,
       "questionText": "SSRI are first line treatment for trauma",
       "questionImage": null,
-      "options": ["SSRIs: Paxil and Zoloft.  2nd line is SNRI (i.e. Effexor).  TCAs (Remeron).  For hyperarousal Clonidine, Minipress, Propranolol (all are blood pressure meds)"],
+      "options": [
+        "SSRIs: Paxil and Zoloft.  2nd line is SNRI (i.e. Effexor).  TCAs (Remeron).  For hyperarousal Clonidine, Minipress, Propranolol (all are blood pressure meds)"
+      ],
       "correctAnswer": "SSRIs: Paxil and Zoloft.  2nd line is SNRI (i.e. Effexor).  TCAs (Remeron).  For hyperarousal Clonidine, Minipress, Propranolol (all are blood pressure meds)",
       "explanationText": "Propranolol is really good for stage fright.",
       "explanationImage": null
@@ -319,7 +329,9 @@
       "id": 33,
       "questionText": "Acute Stress Disorder",
       "questionImage": null,
-      "options": ["Symptoms persist for more than 3 days.  If more than 30 days, it would be PTSD."],
+      "options": [
+        "Symptoms persist for more than 3 days.  If more than 30 days, it would be PTSD."
+      ],
       "correctAnswer": "Symptoms persist for more than 3 days.  If more than 30 days, it would be PTSD.",
       "explanationText": "",
       "explanationImage": null
@@ -328,7 +340,9 @@
       "id": 34,
       "questionText": "Case Study: Abused Child from Alcoholic Father",
       "questionImage": null,
-      "options": ["Look at physical (headache, stomachache, nausea), behaviors, and screening"],
+      "options": [
+        "Look at physical (headache, stomachache, nausea), behaviors, and screening"
+      ],
       "correctAnswer": "Look at physical (headache, stomachache, nausea), behaviors, and screening",
       "explanationText": "",
       "explanationImage": null
@@ -346,7 +360,9 @@
       "id": 36,
       "questionText": "Intrusive thoughts.  Think stop.",
       "questionImage": null,
-      "options": ["say stop to the thought. write down everything they need to do."],
+      "options": [
+        "say stop to the thought. write down everything they need to do."
+      ],
       "correctAnswer": "say stop to the thought. write down everything they need to do.",
       "explanationText": "",
       "explanationImage": null
@@ -364,7 +380,9 @@
       "id": 38,
       "questionText": "Zolpidem (Ambien)",
       "questionImage": null,
-      "options": ["Hypnotic decreases time to sleep onset and increase amount of sleep"],
+      "options": [
+        "Hypnotic decreases time to sleep onset and increase amount of sleep"
+      ],
       "correctAnswer": "Hypnotic decreases time to sleep onset and increase amount of sleep",
       "explanationText": "",
       "explanationImage": null
@@ -391,7 +409,9 @@
       "id": 41,
       "questionText": "Ramelteon (Rozerem)",
       "questionImage": null,
-      "options": ["Decrease time to sleep onset (non-habit forming; affects melatonin)"],
+      "options": [
+        "Decrease time to sleep onset (non-habit forming; affects melatonin)"
+      ],
       "correctAnswer": "Decrease time to sleep onset (non-habit forming; affects melatonin)",
       "explanationText": "",
       "explanationImage": null
@@ -418,12 +438,353 @@
       "id": 44,
       "questionText": "Dissociative Disorders",
       "questionImage": null,
-      "options": ["Depersonalization (Feel out of their body).  Dissociative Amnesia (inable to recall important events).  Dissociate Identity Disorder (Alternate personalities block traumatic experiences)."],
+      "options": [
+        "Depersonalization (Feel out of their body).  Dissociative Amnesia (inable to recall important events).  Dissociate Identity Disorder (Alternate personalities block traumatic experiences)."
+      ],
       "correctAnswer": "Depersonalization (Feel out of their body).  Dissociative Amnesia (inable to recall important events).  Dissociate Identity Disorder (Alternate personalities block traumatic experiences).",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 45,
+      "questionText": "Somatization (Unconsciously Aware)",
+      "questionImage": null,
+      "options": [
+        "Somatic Symptom Disorder (one or more distress symptoms greater than 6 months).  Authentic suffering",
+        "Illness anxiety disorder (hypochondriac) - preoccupation with having or acquiring serious illness for at least 6 months.  care-seeking or care-avoidant",
+        "Conversion Disorder - neurological symptoms.  presence of deficits in voluntary motor or sensory functions (paralysis, blind, movement disorders, etc)",
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "Conversion Disorder - body is so stressed the brain tells it is paralyzed, blind, etc.",
+      "explanationImage": null
+    },
+    {
+      "id": 46,
+      "questionText": "Factitious Disorder (Consciously Aware)",
+      "questionImage": null,
+      "options": [
+        "Consciously pretend to be ill to attain status of 'patient'"
+      ],
+      "correctAnswer": "Consciously pretend to be ill to attain status of 'patient'",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 47,
+      "questionText": "Factitious Disorder by Proxy (Consciously Aware)",
+      "questionImage": null,
+      "options": [
+        "Caregiver makes patient sick or other, most commonly parent to child"
+      ],
+      "correctAnswer": "Caregiver makes patient sick or other, most commonly parent to child",
+      "explanationText": "to get attention, disney trips, make-a-wish",
+      "explanationImage": null
+    },
+    {
+      "id": 48,
+      "questionText": "A child develops recurrent unexplained illness during hospitalization, and evidence suggests a caregiver is deliberately causing or prolonging the symptoms. Which interpretation and response best fit this situation?",
+      "questionImage": null,
+      "options": [
+        "Malingering; investigate possible financial or legal secondary gain.",
+        "Illness anxiety disorder; assess the caregiver's fear of serious disease.",
+        "Conversion disorder; focus on neurological assessment of the child.",
+        "Factitious disorder by proxy; maintain detailed records, increase observation, and consider a sitter."
+      ],
+      "correctAnswer": "Factitious disorder by proxy; maintain detailed records, increase observation, and consider a sitter.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 49,
+      "questionText": "Somatic Disorder Treatment",
+      "questionImage": null,
+      "options": [
+        "continuity of care, unnecessary procedures, frequent/brief/regular visits, always do physical exam, avoid disparaging comments, set reasonable therapeutic goals"
+      ],
+      "correctAnswer": "continuity of care, unnecessary procedures, frequent/brief/regular visits, always do physical exam, avoid disparaging comments, set reasonable therapeutic goals",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 50,
+      "questionText": "A clinician is designing an initial treatment plan for a patient requiring psychosocial support. Which plan best reflects the recommended approach?",
+      "questionImage": null,
+      "options": [
+        "Begin medication as the primary treatment.",
+        "Schedule infrequent lengthy visits.",
+        "Use physical examinations only when symptoms worsen.",
+        "Provide continuous brief visits, involve the family, use CBT and holistic assessment, and set reasonable goals."
+      ],
+      "correctAnswer": "Provide continuous brief visits, involve the family, use CBT and holistic assessment, and set reasonable goals.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 51,
+      "questionText": "Which is an example of malingering?",
+      "questionImage": null,
+      "options": [
+        "Mr. Adam injures his foot to avoid military service",
+        "Mr. Bob has difficulty cannot walk 2 months after his wife died",
+        "Ms. Cat frequently calls or comes to clinic in a panic, believing she is ill.  Her suffering is genuine, but she never has concrete signs of any illness"
+      ],
+      "correctAnswer": "",
+      "explanationText": "Mr. Adam injures his foot to avoid military service",
+      "explanationImage": null
+    },
+    {
+      "id": 52,
+      "questionText": "Which is illness anxiety disorder?",
+      "questionImage": null,
+      "options": [
+        "Mr. Adam injures his foot to avoid military service",
+        "Mr. Bob has difficulty cannot walk 2 months after his wife died",
+        "Ms. Cat frequently calls or comes to clinic in a panic, believing she is ill.  Her suffering is genuine, but she never has concrete signs of any illness"
+      ],
+      "correctAnswer": "Ms. Cat frequently calls or comes to clinic in a panic, believing she is ill.  Her suffering is genuine, but she never has concrete signs of any illness",
+      "explanationText": "illness anxiety disorder could be any time, but no physical evidence is found.  Attach illness anxiety to fear",
+      "explanationImage": null
+    },
+    {
+      "id": 53,
+      "questionText": "EMDR is eye movement desensitization to remove physical response to trauma",
+      "questionImage": null,
+      "options": ["true"],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 54,
+      "questionText": "terms",
+      "questionImage": null,
+      "options": [
+        "addiction - unable to consistently abstain from a substance or activity",
+        "intoxication - under the influence, at varying levels",
+        "tolerance - builds up, higher doses are required for initial effect",
+        "withdrawal - physiological symptoms occur when a person stops using a substance",
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 55,
+      "questionText": "Drugs",
+      "questionImage": null,
+      "options": [
+        "Caffeine - restless, nervous, GI upset, tachycardic.  Withdrawal - headache, drowsy, irritable, poor concentration.  Abstain in 1 week.",
+        "Cannabis - heightened senses, delirium.  Withdrawal - irritable, restless, depressed, chills, headache, depression.   Treatment - support therapies, SSRI's.",
+        "Hallucinogen (LCD, PCP) - paranoia, PUPIL DILATION, tachycardic, medical emergency (PCP).  Withdrawal - re-experience symptoms, can last weeks, months, years.  Treatment - reassure safety, benzos, restraints.",
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 56,
+      "questionText": "Drugs",
+      "questionImage": null,
+      "options": [
+        "Inhalants (paint, glue) - disinhibition, euphoria, hallucinate, nystagmus, decreased reflex. Withdrawal - not considered in DSM-5. Treatment - resolves quickly.",
+        "Opioid (heroin, fentanyl) - constricted pupils, drowsy, slurred speech, impared memory, respiratory arrest. Withdrawal symptoms - Mood dysphoria/Anxiety, N/V/diarrhea, Diaphoresis, Hyperreflexia. Treatment - Methadone, Overdose - Naloxone (Narcan)",
+        "Stimulants - Elated, euphoric, Hypervigilant/anxious, Dilated pupils (short term), Weight loss/confusion, Seizures, Chest pain/arrhythmias. Withdrawal - tired,insomnia,nightmares,depression,suidical,paranoia,irritable. Treatment - inpatient (amphetamines), outpatient (cocaine), antipsychotics, diazepam (valium)",
+        "true"
+      ],
+      "correctAnswer": "true",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 57,
+      "questionText": "Sedatives, Hypnotic, Antianxiety Med Use Disorder",
+      "questionImage": null,
+      "options": [
+        "Intoxication symptoms: Slurred speech, Impaired thinking, Incoordination, Nystagmus, Coma.  Treatment: Gradual reduction.  Overdose: Gastric lavage, Activated Charcoal"
+      ],
+      "correctAnswer": "Intoxication symptoms: Slurred speech, Impaired thinking, Incoordination, Nystagmus, Coma.  Treatment: Gradual reduction.  Overdose: Gastric lavage, Activated Charcoal",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 58,
+      "questionText": "A patient has constricted pupils, drowsiness, slurred speech, impaired attention, and possible respiratory arrest. Which substance-related pattern and treatment plan best fit this presentation?",
+      "questionImage": null,
+      "options": [
+        "Sedative-related symptoms; gradual reduction is the primary treatment.",
+        "Stimulant-related symptoms; inpatient care and antipsychotics are indicated.",
+        "Hallucinogen-related symptoms; reassurance, benzodiazepines, and restraints are indicated.",
+        "Opioid-related symptoms; medication-assisted treatment is used, with naloxone for overdose."
+      ],
+      "correctAnswer": "Opioid-related symptoms; medication-assisted treatment is used, with naloxone for overdose.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 59,
+      "questionText": "Tobacco",
+      "questionImage": null,
+      "options": [
+        "Withdrawal symptoms: Irritability, Anxiety, Depression, Difficulty concentrating, Restlessness, Insomnia.  Treatment: Behavioral therapy, Bupropion (Zyban), Clonidine (Catapress), Varenicline (Chantix)"
+      ],
+      "correctAnswer": "Withdrawal symptoms: Irritability, Anxiety, Depression, Difficulty concentrating, Restlessness, Insomnia.  Treatment: Behavioral therapy, Bupropion (Zyban), Clonidine (Catapress), Varenicline (Chantix)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 60,
+      "questionText": "!!! OUD (Opioid Use Disorder) Medication Assisted Treatment (MAT) !!!",
+      "questionImage": null,
+      "options": [
+        "Buprenorphine/naloxone sublingual films (Suboxone). Buprenorphine extended-release injection (Sublocade)"
+      ],
+      "correctAnswer": "Buprenorphine/naloxone sublingual films (Suboxone). Buprenorphine extended-release injection (Sublocade)",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 61,
+      "questionText": "OUD: Methadone - !!! Given only in a Methadone clinic !!!",
+      "questionImage": null,
+      "options": [
+        "Methadone: Long-Acting full opioid agonist and schedule 2 controlled medication. Helps achieve and sustain recovery. Given only in a Methadone clinic."
+      ],
+      "correctAnswer": "Methadone: Long-Acting full opioid agonist and schedule 2 controlled medication. Helps achieve and sustain recovery. Given only in a Methadone clinic.",
+      "explanationText": "Given only in a Methadone clinic!",
+      "explanationImage": null
+    },
+    {
+      "id": 62,
+      "questionText": "Alcohol Use Disorder (AUD)",
+      "questionImage": null,
+      "options": ["Naltrexone: First line treatment for OUD and AUD."],
+      "correctAnswer": "Naltrexone: First line treatment for OUD and AUD.",
+      "explanationText": "1st line treatment for Opioid Use Disorder and Alcohol Use Disorder",
+      "explanationImage": null
+    },
+    {
+      "id": 63,
+      "questionText": "A patient with OUD has been opioid-free for eight days and wants medication that prevents opioid effects with monthly dosing. Which treatment best fits this plan?",
+      "questionImage": null,
+      "options": [
+        "Extended-release naltrexone injection administered every 28 days",
+        "Naloxone nasal spray used daily to prevent relapse",
+        "Methadone dispensed monthly without daily clinical monitoring",
+        "Naltrexone started immediately after the patient's last opioid dose"
+      ],
+      "correctAnswer": "Extended-release naltrexone injection administered every 28 days",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 64,
+      "questionText": "Disulfiram (Antabuse) only for Alcohol Use Disorder (AUD)",
+      "questionImage": null,
+      "options": [
+        "Causes nausea and vomiting with alcohol use.  Do not use with mouthwash, deodorant, hand sanitizer, etc. Avoid breathing in pain fumes, etc."
+      ],
+      "correctAnswer": "Causes nausea and vomiting with alcohol use.  Do not use with mouthwash, deodorant, hand sanitizer, etc. Avoid breathing in pain fumes, etc.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 65,
+      "questionText": "Tobacco Cessation",
+      "questionImage": null,
+      "options": [
+        "Patches, lozenges, gum, hypnosis, medications: Bupropion (Zyban, Wellbutrin) an NDRI antideressant, Varenicline (Chantix)"
+      ],
+      "correctAnswer": "",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 66,
+      "questionText": "Bupropion (a.k.a. Zyban, Wellbutrin)",
+      "questionImage": null,
+      "options": [
+        "Bupropion is an antidepressant that can be used for smoking cessation"
+      ],
+      "correctAnswer": "Bupropion is an antidepressant that can be used for smoking cessation",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 67,
+      "questionText": "Varenicline (Chantix)",
+      "questionImage": null,
+      "options": [
+        "Varenicline (Chantix) can help people not even think about smoking."
+      ],
+      "correctAnswer": "Varenicline (Chantix) can help people not even think about smoking.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 68,
+      "questionText": "Alcohol Intoxication",
+      "questionImage": null,
+      "options": ["0.08 g/dL is Indiana Legal Limit"],
+      "correctAnswer": "0.08 g/dL is Indiana Legal Limit",
+      "explanationText": "0.08 is about 4 alcoholic drinks or 1 shot.",
+      "explanationImage": null
+    },
+    {
+      "id": 69,
+      "questionText": "Alcohol Symptoms",
+      "questionImage": null,
+      "options": [
+        "Peripheral neuropathy: Alcoholic myopathy and cardiomyopathy, Esophagitis, gastritis, and pancreatitis, Alcoholic hepatitis, Cirrhosis of the liver, Leukopenia, Thrombocytopenia, Cancer (head and neck)"
+      ],
+      "correctAnswer": "Peripheral neuropathy: Alcoholic myopathy and cardiomyopathy, Esophagitis, gastritis, and pancreatitis, Alcoholic hepatitis, Cirrhosis of the liver, Leukopenia, Thrombocytopenia, Cancer (head and neck)",
+      "explanationText": "Tx: diazepam (Valium)",
+      "explanationImage": null
+    },
+    {
+      "id": 70,
+      "questionText": "Alchol Withdrawal - Delirium Tremens",
+      "questionImage": null,
+      "options": [
+        "Delirium Tremens: Medical Emergency; causes physiologic problems; delusions and hallucinations; patients are danger to self. Monitor VS carefully, notify provider with changes."
+      ],
+      "correctAnswer": "Delirium Tremens: Medical Emergency; causes physiologic problems; delusions and hallucinations; patients are danger to self. Monitor VS carefully, notify provider with changes.",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 71,
+      "questionText": "A patient with chronic alcohol use stops drinking and, 14 hours later, develops generalized tonic-clonic seizures. Which interpretation and treatment best fit this presentation?",
+      "questionImage": null,
+      "options": [
+        "Moderate withdrawal treated with Ativan",
+        "Severe withdrawal treated with diazepam",
+        "Minor withdrawal treated with supportive monitoring",
+        "Alcohol intoxication treated by monitoring blood alcohol level"
+      ],
+      "correctAnswer": "Severe withdrawal treated with diazepam",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 72,
+      "questionText": "Morphine abuse... pupiles would be?",
+      "questionImage": null,
+      "options": ["constricted", "dilated"],
+      "correctAnswer": "constricted",
+      "explanationText": "",
+      "explanationImage": null
+    },
+    {
+      "id": 73,
+      "questionText": "Which detoxy alcohol patient is priority?",
+      "questionImage": null,
+      "options": ["hallucinate and delusion", "fine motor tremors"],
+      "correctAnswer": "hallucinate and delusion",
       "explanationText": "",
       "explanationImage": null
     }
   ]
 }
-
-
